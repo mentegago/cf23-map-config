@@ -33,7 +33,7 @@ test("event mapper is source-agnostic and submits complete original fields", () 
     event,
     adapter,
     registry: {
-      fandoms: [{ id: 10, name: "Known", kind: "franchise", parentId: null, aliases: ["Known"] }],
+      fandoms: [{ id: 10, name: "Known", kind: "franchise", parentId: null, aliases: ["Known"], alternateNames: [] }],
       ignored: [],
     },
   });

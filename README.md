@@ -6,7 +6,7 @@ This repository maps the stored Comifuro catalog snapshot to canonical fandom ID
 
 Check `last-updated.json` first. Its managed `creator_data_version` increments only when the semantic catalog or exported fandom data changes; fresh-download timestamps and ETags alone do not increment it. Its managed ISO `lastUpdated` records any published payload change. Other keys, such as the app version and release message, are preserved as manually managed values. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
 
-- `v1/fandoms.json`: the global canonical fandom list, including `parentId`.
+- `v1/fandoms.json`: the global canonical fandom list, including `parentId` and `alternateNames` for search/autocomplete.
 - `v1/catalog.json`: event metadata and exhibitors using fandom IDs.
 
 The event-independent shape deliberately scopes exhibitor IDs and space/day information to the event. The generic mapper in `scripts/lib/map-event.ts` owns fandom resolution, while `scripts/adapters/comifuro.ts` translates this catalog's fields. A future event can keep the public schema and mapping logic, replace the event config and source adapter, and use the same stable paths. `config/event.json` holds source-specific event and attendance mapping rather than baking it into the mapper.
