@@ -3,7 +3,7 @@ import { fetchRegistryWithFallback } from "../scripts/lib/fandom-directory.ts";
 import type { FandomRegistry } from "../scripts/types.ts";
 
 const cached: FandomRegistry = {
-  fandoms: [{ id: 1, name: "Cached", kind: "franchise", parentId: null, aliases: ["cached"] }],
+  fandoms: [{ id: 1, name: "Cached", kind: "franchise", parentId: null, aliases: ["cached"], alternateNames: [] }],
   ignored: [],
 };
 
@@ -30,8 +30,16 @@ test("uses cached registry on server errors and malformed payloads", async () =>
       ignored: [],
     }),
   });
+  const missingAlternateNames = await fetchRegistryWithFallback({
+    previousRegistry: cached,
+    fetcher: async () => Response.json({
+      fandoms: [{ id: 2, name: "Legacy", kind: "franchise", parentId: null, aliases: ["legacy"] }],
+      ignored: [],
+    }),
+  });
   expect(unavailable.registry).toBe(cached);
   expect(malformed.registry).toBe(cached);
+  expect(missingAlternateNames.registry).toBe(cached);
 });
 
 test("still requires a cache for the first-ever build", async () => {

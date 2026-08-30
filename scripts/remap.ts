@@ -24,10 +24,11 @@ async function readJson<T>(file: string): Promise<T> {
   return JSON.parse(await readFile(file, "utf8")) as T;
 }
 
-async function writeJson(file: string, value: unknown): Promise<void> {
+async function writeJson(file: string, value: unknown, options?: { compact?: boolean }): Promise<void> {
   await mkdir(path.dirname(file), { recursive: true });
   const temporary = `${file}.tmp`;
-  await writeFile(temporary, `${JSON.stringify(value, null, 2)}\n`);
+  const body = options?.compact ? JSON.stringify(value) : JSON.stringify(value, null, 2);
+  await writeFile(temporary, `${body}\n`);
   await rename(temporary, file);
 }
 
@@ -124,7 +125,13 @@ const mapped = mapEventCatalog({
 
 const fandoms = [...registry.fandoms]
   .sort((a, b) => a.id - b.id)
-  .map(({ id, name, kind, parentId }) => ({ id, name, kind, parentId }));
+  .map(({ id, name, kind, parentId, alternateNames }) => ({
+    id,
+    name,
+    kind,
+    parentId,
+    alternateNames,
+  }));
 const source = {
   catalog: { url: catalog.source, downloadedAt: catalog.downloadedAt },
   fandomDirectory: {
@@ -216,8 +223,8 @@ const creatorDataVersion = nextCreatorDataVersion({
   previousVersion: publicationState.creatorDataVersion ?? legacyCreatorDataVersion ?? 22,
 });
 
-await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument);
-await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument);
+await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument, { compact: true });
+await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument, { compact: true });
 await writeJson(path.join(root, "public/manifest.json"), manifestDocument);
 await writeJson(path.join(root, "public/last-updated.json"), {
   ...lastUpdatedCustomFields,

@@ -15,8 +15,8 @@ describe("OpenFandom matching contract", () => {
   test("resolves aliases many-to-many and prioritizes them over ignored", () => {
     const resolve = createResolver({
       fandoms: [
-        { id: 1, name: "One", kind: "franchise", parentId: null, aliases: ["hsr genshin"] },
-        { id: 2, name: "Two", kind: "franchise", parentId: null, aliases: ["HSR GENSHIN"] },
+        { id: 1, name: "One", kind: "franchise", parentId: null, aliases: ["hsr genshin"], alternateNames: [] },
+        { id: 2, name: "Two", kind: "franchise", parentId: null, aliases: ["HSR GENSHIN"], alternateNames: [] },
       ],
       ignored: ["hsr genshin", "etc."],
     });

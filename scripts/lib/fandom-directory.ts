@@ -23,7 +23,9 @@ function isFandomRegistry(value: unknown): value is FandomRegistry {
       && typeof fandom.kind === "string"
       && (fandom.parentId === null || typeof fandom.parentId === "number")
       && Array.isArray(fandom.aliases)
-      && fandom.aliases.every((alias) => typeof alias === "string"));
+      && fandom.aliases.every((alias) => typeof alias === "string")
+      && Array.isArray(fandom.alternateNames)
+      && fandom.alternateNames.every((name) => typeof name === "string"));
 }
 
 export async function fetchRegistryWithFallback(options: {

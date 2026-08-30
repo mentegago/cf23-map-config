@@ -41,6 +41,7 @@ export interface DirectoryFandom {
   kind: string;
   parentId: number | null;
   aliases: string[];
+  alternateNames: string[];
 }
 
 export interface FandomRegistry {

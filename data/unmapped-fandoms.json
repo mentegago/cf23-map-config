@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-e6zCaJVPdnYvOYmejkzOJmfF-D9O4YvHacl0tl3P_Wc\"",
+    "etag": "\"sha256-UDg5e5zt1n7eICHFmkrUNr13Z6E1rQ4-BVG9Z9HDg_g\"",
     "lastModified": "Sun, 23 Aug 2026 22:58:46 GMT",
-    "schemaVersion": "4"
+    "schemaVersion": "5"
   },
   "stats": {
     "matchedPieces": 9354,
