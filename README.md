@@ -25,7 +25,7 @@ Add the repository secret `FANDOM_DIRECTORY_API_KEY` using an API key issued by 
 
 The committed fandom registry is a required resilience cache. Registry timeouts, non-success responses, and invalid responses fall back to it, allowing catalog updates and Pages deployment to continue while fandom.directory is unavailable. Ensure GitHub Actions has read/write workflow permissions so its bot can commit outputs.
 
-The separate manual `Replace raw catalog snapshot` workflow requires `CATALOG_SUPABASE_ANON_KEY`. It is intentionally never scheduled.
+The catalog downloader discovers the catalog's public Supabase connection from the deployed frontend, so no catalog credential needs to be configured or committed.
 
 Run locally with Bun 1.3 or newer:
 

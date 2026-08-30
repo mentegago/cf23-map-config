@@ -1,13 +1,14 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { discoverCatalogConnection } from "./lib/comifuro-source.ts";
 import type { CatalogSnapshot, RawCircle } from "./types.ts";
 
-const endpoint = "https://kumxjefxtrrpzalmwvvr.supabase.co/rest/v1/circle_data?select=*&order=id.asc";
-const apiKey = process.env.CATALOG_SUPABASE_ANON_KEY;
-if (!apiKey) throw new Error("CATALOG_SUPABASE_ANON_KEY is required");
+const connection = await discoverCatalogConnection();
+const endpoint = `${connection.url}/rest/v1/circle_data?select=*&order=id.asc`;
 
 const response = await fetch(endpoint, {
-  headers: { apikey: apiKey, Authorization: `Bearer ${apiKey}` },
+  headers: { apikey: connection.anonKey, Authorization: `Bearer ${connection.anonKey}` },
+  signal: AbortSignal.timeout(60_000),
 });
 if (!response.ok) throw new Error(`Catalog download failed: ${response.status} ${await response.text()}`);
 

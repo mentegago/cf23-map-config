@@ -21,5 +21,4 @@ jobs:
     with:
       download_catalog: true
     secrets:
-      CATALOG_SUPABASE_ANON_KEY: ${{ secrets.CATALOG_SUPABASE_ANON_KEY }}
       FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}
