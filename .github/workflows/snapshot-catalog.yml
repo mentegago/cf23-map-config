@@ -1,0 +1,25 @@
+name: Full data refresh
+
+on:
+  schedule:
+    # Catalog + fandom registry + mapping + submissions. GitHub cron uses UTC.
+    - cron: "23 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    uses: ./.github/workflows/_refresh-data.yml
+    with:
+      download_catalog: true
+    secrets:
+      CATALOG_SUPABASE_ANON_KEY: ${{ secrets.CATALOG_SUPABASE_ANON_KEY }}
+      FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}

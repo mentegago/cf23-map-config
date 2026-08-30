@@ -1,0 +1,18 @@
+{
+  "id": "comic-frontier-23",
+  "name": "Comic Frontier 23",
+  "series": {
+    "id": "comic-frontier",
+    "name": "Comic Frontier"
+  },
+  "edition": 23,
+  "days": [
+    { "id": "day-1", "label": "Saturday" },
+    { "id": "day-2", "label": "Sunday" }
+  ],
+  "sourceAttendanceMap": {
+    "Both Days": ["day-1", "day-2"],
+    "Saturday only": ["day-1"],
+    "Sunday only": ["day-2"]
+  }
+}

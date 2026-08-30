@@ -1,0 +1,67 @@
+name: Reusable data refresh
+
+on:
+  workflow_call:
+    inputs:
+      download_catalog:
+        description: Download and replace the raw catalog before mapping
+        required: true
+        type: boolean
+    secrets:
+      CATALOG_SUPABASE_ANON_KEY:
+        required: false
+      FANDOM_DIRECTORY_API_KEY:
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+
+      - name: Download fresh catalog snapshot
+        if: inputs.download_catalog
+        run: bun run snapshot:catalog
+        env:
+          CATALOG_SUPABASE_ANON_KEY: ${{ secrets.CATALOG_SUPABASE_ANON_KEY }}
+
+      - run: bun run typecheck
+      - run: bun test
+
+      - name: Refresh fandoms, map catalog, and submit unknowns
+        run: bun run build
+        env:
+          FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}
+
+      - name: Commit refreshed source and public data
+        env:
+          COMMIT_MESSAGE: ${{ inputs.download_catalog && 'data: full refresh' || 'data: refresh fandom mapping' }}
+        run: |
+          if [ -z "$(git status --porcelain -- data public)" ]; then
+            echo "No data changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data public
+            git commit -m "$COMMIT_MESSAGE"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment

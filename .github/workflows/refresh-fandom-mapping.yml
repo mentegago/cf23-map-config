@@ -1,0 +1,24 @@
+name: Refresh fandom mapping
+
+on:
+  schedule:
+    # One hour after each full data refresh. GitHub cron uses UTC.
+    - cron: "23 1,7,13,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    uses: ./.github/workflows/_refresh-data.yml
+    with:
+      download_catalog: false
+    secrets:
+      FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}

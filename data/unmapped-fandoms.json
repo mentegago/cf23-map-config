@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "url": "https://fandom.directory/api/fandoms.json",
+    "etag": "\"sha256-e6zCaJVPdnYvOYmejkzOJmfF-D9O4YvHacl0tl3P_Wc\"",
+    "lastModified": "Sun, 23 Aug 2026 22:58:46 GMT",
+    "schemaVersion": "4"
+  },
+  "stats": {
+    "matchedPieces": 9354,
+    "ignoredPieces": 15,
+    "unknownPieces": 326,
+    "unknownSourceFields": 2
+  },
+  "unknownSourceFields": [
+    "-",
+    ", -"
+  ]
+}
