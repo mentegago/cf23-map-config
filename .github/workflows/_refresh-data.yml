@@ -46,7 +46,7 @@ jobs:
 
       - name: Commit refreshed source and public data
         env:
-          COMMIT_MESSAGE: ${{ inputs.download_catalog && 'data: full refresh' || 'data: refresh fandom mapping' }}
+          COMMIT_MESSAGE: "${{ inputs.download_catalog && 'data: full refresh' || 'data: refresh fandom mapping' }}"
         run: |
           if [ -z "$(git status --porcelain -- data public)" ]; then
             echo "No data changes"
