@@ -1,5 +1,19 @@
 import type { EventConfig, EventSourceAdapter, RawCircle } from "../types.ts";
 
+export function parseComifuroBoothCodes(value: string | null): string[] {
+  return String(value ?? "").split("/").flatMap((rawCode) => {
+    const code = rawCode.trim().replace(/\s+\((?:SAT|SUN)\)\s*$/i, "");
+    if (!code) return [];
+
+    // Single-letter blocks use a/b half-booth suffixes. `ab` occupies both.
+    // Multi-letter prefixes such as AB are block names, not half-booth suffixes.
+    const combinedHalfBooth = code.match(/^([A-Z]-\d+)ab$/i);
+    return combinedHalfBooth?.[1]
+      ? [`${combinedHalfBooth[1]}a`, `${combinedHalfBooth[1]}b`]
+      : [code];
+  });
+}
+
 const offeringFields = {
   SellsCommision: "commission",
   SellsComic: "comic",
@@ -28,10 +42,10 @@ export const comifuroAdapter: EventSourceAdapter<RawCircle> = {
     return {
       id: String(circle.id),
       name: circle.name,
-      spaces: String(circle.circle_code ?? "").split("/").map((code) => ({
-        code: code.trim(),
+      spaces: parseComifuroBoothCodes(circle.circle_code).map((code) => ({
+        code,
         type: circle.circle_type ?? null,
-      })).filter((space) => space.code.length > 0),
+      })),
       attendanceDayIds: event.sourceAttendanceMap[circle.day] ?? [],
       contentRating: circle.rating ?? null,
       fandomSourceFields: [circle.fandom, circle.other_fandom]
