@@ -4,7 +4,7 @@ This repository maps the stored Comifuro catalog snapshot to canonical fandom ID
 
 ## Public API (GitHub Pages)
 
-Check `last-updated.json` first; its ISO timestamp changes only when a published payload changes. The build owns only its `lastUpdated` key and preserves any other manually added key/value pairs. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
+Check `last-updated.json` first. Its managed `creator_data_version` increments only when the semantic catalog or exported fandom data changes; fresh-download timestamps and ETags alone do not increment it. Its managed ISO `lastUpdated` records any published payload change. Other keys, such as the app version and release message, are preserved as manually managed values. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
 
 - `v1/fandoms.json`: the global canonical fandom list, including `parentId`.
 - `v1/catalog.json`: event metadata and exhibitors using fandom IDs.

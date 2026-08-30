@@ -4,6 +4,7 @@ import path from "node:path";
 import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
 import { mapEventCatalog } from "./lib/map-event.ts";
+import { nextCreatorDataVersion } from "./lib/publication.ts";
 import type {
   CatalogSnapshot,
   EventConfig,
@@ -162,18 +163,45 @@ const manifestDocument = {
   fandomRegistry: "v1/fandoms.json",
 };
 let lastUpdatedCustomFields: Record<string, unknown> = {};
+let legacyCreatorDataVersion: number | undefined;
 try {
-  const { lastUpdated: _managedTimestamp, ...customFields } = await readJson<Record<string, unknown>>(
+  const {
+    lastUpdated: _managedTimestamp,
+    creator_data_version: existingCreatorDataVersion,
+    ...customFields
+  } = await readJson<Record<string, unknown>>(
     path.join(root, "public/last-updated.json"),
   );
   lastUpdatedCustomFields = customFields;
+  if (typeof existingCreatorDataVersion === "number" && Number.isSafeInteger(existingCreatorDataVersion)) {
+    legacyCreatorDataVersion = existingCreatorDataVersion;
+  }
 } catch (error) {
   if (!(error instanceof Error && "code" in error && error.code === "ENOENT")) throw error;
 }
+const creatorDataFingerprint = createHash("sha256")
+  .update(JSON.stringify({
+    catalog: {
+      schemaVersion: catalogDocument.schemaVersion,
+      event: catalogDocument.event,
+      stats: catalogDocument.stats,
+      exhibitors: catalogDocument.exhibitors,
+    },
+    fandoms: {
+      schemaVersion: fandomDocument.schemaVersion,
+      fandoms: fandomDocument.fandoms,
+    },
+  }))
+  .digest("hex");
 const fingerprint = createHash("sha256")
   .update(JSON.stringify({ manifestDocument, catalogDocument, fandomDocument, lastUpdatedCustomFields }))
   .digest("hex");
-let publicationState: { fingerprint?: string; lastUpdated?: string } = {};
+let publicationState: {
+  fingerprint?: string;
+  lastUpdated?: string;
+  creatorDataFingerprint?: string;
+  creatorDataVersion?: number;
+} = {};
 try {
   publicationState = await readJson(publicationStatePath);
 } catch (error) {
@@ -182,12 +210,26 @@ try {
 const lastUpdated = publicationState.fingerprint === fingerprint && publicationState.lastUpdated
   ? publicationState.lastUpdated
   : new Date().toISOString();
+const creatorDataVersion = nextCreatorDataVersion({
+  previousFingerprint: publicationState.creatorDataFingerprint,
+  nextFingerprint: creatorDataFingerprint,
+  previousVersion: publicationState.creatorDataVersion ?? legacyCreatorDataVersion ?? 22,
+});
 
 await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument);
 await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument);
 await writeJson(path.join(root, "public/manifest.json"), manifestDocument);
-await writeJson(path.join(root, "public/last-updated.json"), { ...lastUpdatedCustomFields, lastUpdated });
-await writeJson(publicationStatePath, { fingerprint, lastUpdated });
+await writeJson(path.join(root, "public/last-updated.json"), {
+  ...lastUpdatedCustomFields,
+  creator_data_version: creatorDataVersion,
+  lastUpdated,
+});
+await writeJson(publicationStatePath, {
+  fingerprint,
+  lastUpdated,
+  creatorDataFingerprint,
+  creatorDataVersion,
+});
 await writeJson(path.join(root, "data/unmapped-fandoms.json"), {
   schemaVersion: 1,
   source: source.fandomDirectory,
