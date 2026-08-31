@@ -1262,7 +1262,13 @@
       "parentId": null,
       "aliases": [
         "Demon Slayer",
+        "Demon Slayer/Kimetsu No Yaiba",
+        "Demon Slayer: Kimetsu no Yaiba",
+        "Kimetsu",
         "Kimetsu no Yaiba",
+        "Kimetsu no Yaiba (Demon Slayer)",
+        "Kimetsu No Yaiba (kny)",
+        "Kimetsu no Yaiba/Demon Slayer",
         "kimetsuno yaiba",
         "Kimetsunoyaiba",
         "kimetsyu no yaiba",
@@ -1270,7 +1276,12 @@
         "KNY/Demon Slayer"
       ],
       "alternateNames": [
+        "Demon Slayer/Kimetsu No Yaiba",
+        "Kimetsu",
         "Kimetsu no Yaiba",
+        "Kimetsu no Yaiba (Demon Slayer)",
+        "Kimetsu No Yaiba (kny)",
+        "Kimetsu no Yaiba/Demon Slayer",
         "kimetsuno yaiba",
         "Kimetsunoyaiba",
         "kimetsyu no yaiba",
@@ -7728,29 +7739,6 @@
         "BTB",
         "BTB By The Beat",
         "By The Beat (vtuber/nijisanji)"
-      ]
-    },
-    {
-      "id": 467,
-      "name": "Demon Slayer: Kimetsu no Yaiba",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Demon Slayer/Kimetsu No Yaiba",
-        "Demon Slayer: Kimetsu no Yaiba",
-        "Kimetsu",
-        "Kimetsu no Yaiba (Demon Slayer)",
-        "Kimetsu No Yaiba (kny)",
-        "Kimetsu no Yaiba/Demon Slayer",
-        "KNY/Demon Slayer"
-      ],
-      "alternateNames": [
-        "Demon Slayer/Kimetsu No Yaiba",
-        "Kimetsu",
-        "Kimetsu no Yaiba (Demon Slayer)",
-        "Kimetsu No Yaiba (kny)",
-        "Kimetsu no Yaiba/Demon Slayer",
-        "KNY"
       ]
     },
     {
