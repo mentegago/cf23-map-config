@@ -1251,9 +1251,12 @@
       "parentId": null,
       "aliases": [
         "(comics & Cinema: Marvel, Witch Hat Atelier, Pretty Cure, Blue Box) (games: Reverse 1999, Resident Evil, Omori, Ib, Hoyoverse) (podcast: Malevolent Podcast, The Magnus Archives) (vtuber: Michi Mochieve, Nijisanji En) (music: Panic! At The Disco)",
+        "RE",
         "Resident Evil"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "RE"
+      ]
     },
     {
       "id": 34,
@@ -16130,16 +16133,6 @@
       "parentId": null,
       "aliases": [
         "Bayonetta"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 1175,
-      "name": "RE",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "RE"
       ],
       "alternateNames": []
     },
