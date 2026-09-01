@@ -26,7 +26,6 @@
         "Chinese theme Original art",
         "combined with underground extreme musick and original art",
         "Comic n originak",
-        "Cosplay",
         "Cute Original Art",
         "Dan Karya Original.",
         "dan Original/OC",
@@ -45,9 +44,9 @@
         "Identity V, Original work/non fandom, Crochet, Genshin Impact, Danmei, Wuthering Waves, Hunter X Hunter, Attack on Titan, Spy x Family, Suzume No Tijimari",
         "IP Original",
         "K-pop & Originals",
+        "Karya Ori",
         "Kimi No Todoke'original Art'dandadan",
         "Komik Lokal Original",
-        "linktr.ee/dreamscapeoflove",
         "Meme. Original",
         "Miraa (Original IP)",
         "mostly original work",
@@ -7482,20 +7481,34 @@
       "aliases": [
         "Food",
         "Food & Drinks",
+        "Food Art",
         "food illustration",
+        "Food Illustrations",
         "Food&drinks Illustration",
+        "Foodies",
         "Foods",
+        "foods art",
+        "Foods illustrations",
         "Original (animal & food)",
         "Original (deco Item, Food, Animal, Crochet)",
         "original (food & animal)",
+        "Original (Foods illustrations, Pets/ Cats). Comic",
+        "Original (Foods illustrations, Pets/ Cats). Comic, Novel",
         "Original (Meng, Kelinci, Japan Shrine, Food)",
         "Original art - food",
         "original food",
-        "Reverse 1999, Plave, Naruto, Wuwa, original animal, original food, detective conan, my hero academia, marvel,valorant, original handmade craft."
+        "Original Food Illustration",
+        "Reverse 1999, Plave, Naruto, Wuwa, original animal, original food, detective conan, my hero academia, marvel,valorant, original handmade craft.",
+        "V-tubers (Dokibird, Mint Phantome, Michi Mochievee, etc) Original fandom (Foodies, seaworld, pets)"
       ],
       "alternateNames": [
+        "Food art",
         "food illustration",
-        "Foods"
+        "Food Illustrations",
+        "Foodies",
+        "Foods",
+        "foods art",
+        "Foods illustrations"
       ]
     },
     {
@@ -10550,7 +10563,7 @@
       "id": 581,
       "name": "Food miniature",
       "kind": "generic_tag",
-      "parentId": null,
+      "parentId": 346,
       "aliases": [
         "Food miniature",
         "food miniature clay"
@@ -13404,7 +13417,7 @@
       "id": 808,
       "name": "Japanese Food",
       "kind": "generic_tag",
-      "parentId": null,
+      "parentId": 346,
       "aliases": [
         "Animal X Japanese Food",
         "Animal x japanese food.",
@@ -13825,23 +13838,6 @@
         "Luvies"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 842,
-      "name": "Foods illustrations",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Food Illustrations",
-        "Foods illustrations",
-        "Original (Foods illustrations, Pets/ Cats). Comic",
-        "Original (Foods illustrations, Pets/ Cats). Comic, Novel",
-        "Original Food Illustration"
-      ],
-      "alternateNames": [
-        "Food",
-        "Food Illustrations"
-      ]
     },
     {
       "id": 843,
@@ -21916,16 +21912,6 @@
       "alternateNames": []
     },
     {
-      "id": 1523,
-      "name": "Food Character",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Food Character"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 1524,
       "name": "Lettering",
       "kind": "generic_tag",
@@ -26449,19 +26435,6 @@
       "alternateNames": []
     },
     {
-      "id": 1936,
-      "name": "Food Art",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Food Art",
-        "foods art"
-      ],
-      "alternateNames": [
-        "foods art"
-      ]
-    },
-    {
       "id": 1937,
       "name": "Flauma",
       "kind": "individual",
@@ -29231,17 +29204,6 @@
       "alternateNames": []
     },
     {
-      "id": 2202,
-      "name": "Foodies",
-      "kind": "generic_tag",
-      "parentId": 1,
-      "aliases": [
-        "Foodies",
-        "V-tubers (Dokibird, Mint Phantome, Michi Mochievee, etc) Original fandom (Foodies, seaworld, pets)"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 2203,
       "name": "Seaworld",
       "kind": "generic_tag",
@@ -30150,7 +30112,7 @@
       "id": 2292,
       "name": "Korean Food",
       "kind": "generic_tag",
-      "parentId": null,
+      "parentId": 346,
       "aliases": [
         "Japan & Korean food merch",
         "Korean Food"
@@ -31396,6 +31358,17 @@
         "Twisted Wonderland (heartslabyul)"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2414,
+      "name": "Food Character",
+      "kind": "generic_tag",
+      "parentId": 346,
+      "aliases": [
+        "Food Character",
+        "Food Characters"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
@@ -31420,6 +31393,7 @@
     "HDR",
     "https://discord.gg/zn2n82FD",
     "Leva E&C",
+    "linktr.ee/dreamscapeoflove",
     "mask",
     "Miscellaneous",
     "Mixed",
