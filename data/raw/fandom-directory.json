@@ -9781,15 +9781,15 @@
     },
     {
       "id": 523,
-      "name": "FSP",
+      "name": "First Stage Production",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "FSP",
-        "FSP EN"
+        "First Stage Production",
+        "FSP"
       ],
       "alternateNames": [
-        "FSP EN"
+        "FSP"
       ]
     },
     {
@@ -15049,16 +15049,15 @@
       "id": 937,
       "name": "First Stage Production EN",
       "kind": "publisher_umbrella",
-      "parentId": null,
+      "parentId": 523,
       "aliases": [
-        "First Stage Production",
         "First Stage Production EN",
         "First Stage Production En (fsp En)",
+        "FSP EN",
         "V-tubers (holostars, Fsp En, Nijisanji En, Hololive, Vshojo)",
         "Vtuber (nijisanji, First Stage Production En)"
       ],
       "alternateNames": [
-        "First Stage Production",
         "First Stage Production En (fsp En)",
         "FSP EN"
       ]
