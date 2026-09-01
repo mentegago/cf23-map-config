@@ -46,7 +46,7 @@ export const comifuroAdapter: EventSourceAdapter<RawCircle> = {
         code,
         type: circle.circle_type ?? null,
       })),
-      attendanceDayIds: event.sourceAttendanceMap[circle.day] ?? [],
+      attendanceDates: event.sourceAttendanceMap[circle.day] ?? [],
       contentRating: circle.rating ?? null,
       fandomSourceFields: [circle.fandom, circle.other_fandom]
         .filter((value): value is string => typeof value === "string" && value.trim().length > 0),

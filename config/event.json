@@ -7,12 +7,14 @@
   },
   "edition": 23,
   "days": [
-    { "id": "day-1", "label": "Saturday" },
-    { "id": "day-2", "label": "Sunday" }
+    { "id": "2026-10-31", "label": "Saturday" },
+    { "id": "2026-11-01", "label": "Sunday" }
   ],
   "sourceAttendanceMap": {
-    "Both Days": ["day-1", "day-2"],
-    "Saturday only": ["day-1"],
-    "Sunday only": ["day-2"]
+    "Both Days": ["2026-10-31", "2026-11-01"],
+    "Saturday only": ["2026-10-31"],
+    "Sunday only": ["2026-11-01"],
+    "SAT": ["2026-10-31"],
+    "SUN": ["2026-11-01"]
   }
 }

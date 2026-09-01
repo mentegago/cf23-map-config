@@ -7,7 +7,7 @@ const event: EventConfig = {
   name: "Example Event",
   series: { id: "example", name: "Example" },
   edition: 1,
-  days: [{ id: "day-1", label: "Day 1" }],
+  days: [{ id: "2026-10-31", label: "Saturday" }],
   sourceAttendanceMap: {},
 };
 
@@ -18,7 +18,7 @@ test("event mapper is source-agnostic and submits complete original fields", () 
         id: "vendor-1",
         name: "Vendor",
         spaces: [],
-        attendanceDayIds: [],
+        attendanceDates: [],
         contentRating: null,
         fandomSourceFields: [record.fandomText],
         offerings: [],

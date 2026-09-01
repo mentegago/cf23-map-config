@@ -75,7 +75,7 @@ export interface CanonicalExhibitorInput {
   id: string;
   name: string;
   spaces: Array<{ code: string; type: string | null }>;
-  attendanceDayIds: string[];
+  attendanceDates: string[];
   contentRating: string | null;
   fandomSourceFields: string[];
   offerings: string[];
