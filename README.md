@@ -7,9 +7,9 @@ This repository maps the stored Comifuro catalog snapshot to canonical fandom ID
 Check `last-updated.json` first. Its managed `creator_data_version` increments only when the semantic catalog or exported fandom data changes; fresh-download timestamps and ETags alone do not increment it. Its managed ISO `lastUpdated` records any published payload change. Other keys, such as the app version and release message, are preserved as manually managed values. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
 
 - `v1/fandoms.json`: the global canonical fandom list, including `parentId` and `alternateNames` for search/autocomplete.
-- `v1/catalog.json`: event metadata and exhibitors using fandom IDs.
+- `v1/catalog.json`: event metadata and exhibitors using fandom IDs. Each exhibitor's `attendanceDates` is an array of ISO calendar dates (`YYYY-MM-DD`). Those dates match `event.days[].id`; `event.days[].label` is a human-readable weekday name.
 
-The event-independent shape deliberately scopes exhibitor IDs and space/day information to the event. The generic mapper in `scripts/lib/map-event.ts` owns fandom resolution, while `scripts/adapters/comifuro.ts` translates this catalog's fields. A future event can keep the public schema and mapping logic, replace the event config and source adapter, and use the same stable paths. `config/event.json` holds source-specific event and attendance mapping rather than baking it into the mapper.
+The event-independent shape deliberately scopes exhibitor IDs, spaces, and attendance dates to the event. The generic mapper in `scripts/lib/map-event.ts` owns fandom resolution, while `scripts/adapters/comifuro.ts` translates this catalog's fields. A future event can keep the public schema and mapping logic, replace the event config and source adapter, and use the same stable paths. `config/event.json` defines the event days and maps source attendance labels (for Comifuro: `Both Days`, `Saturday only`, `Sunday only`, `SAT`, `SUN`) onto those ISO dates rather than baking the mapping into the adapter.
 
 ## Build inputs and diagnostics
 
