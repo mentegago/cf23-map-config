@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-KSZEjAPFWMayJtnK4jTteXeo16YPSxgR1_LGkVZKci4\"",
-    "lastModified": "Tue, 01 Sep 2026 16:04:42 GMT",
+    "etag": "\"sha256-Kl6tSk9-N3OXH7QD3zVyT5fzYiDP0ntKCilhREn2l9s\"",
+    "lastModified": "Tue, 01 Sep 2026 19:11:17 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 9354,
-    "ignoredPieces": 15,
+    "matchedPieces": 9353,
+    "ignoredPieces": 16,
     "unknownPieces": 326,
     "unknownSourceFields": 2
   },
