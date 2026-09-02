@@ -1300,7 +1300,9 @@
       "parentId": null,
       "aliases": [
         "Anime (chainsaw Man, Frieren, Dandadan, Etc...)",
+        "Anime (chainsaw Man, Frieren, One Piece)",
         "Anime (Frieren, Dandadan, One Piece, Chainsaw Man...)",
+        "Anime : Frieren",
         "Bocchi ZZZ TADC Hazbin Helluva Meshi Frieren Pokemon Doraemon Sky",
         "Freieren",
         "Frieren",
@@ -1321,9 +1323,11 @@
         "Genshin Honkai Zzz Frieren Dunmeshi",
         "Ghibli Umamusume SkyCOTL Hazbin PASWG Indie Vtuber Frieren Hollow Knight / Silk song Original NSO Fabulous Beast Bluey TADC ZZZ Okamiden Doraemon KDH Ena Chiikawa",
         "Souso no Frieren",
-        "Sousou no Frieren"
+        "Sousou no Frieren",
+        "⁠frieren"
       ],
       "alternateNames": [
+        "Anime : Frieren",
         "Freieren",
         "Frieren",
         "Frieren : Beyond Journey's End",
@@ -1340,7 +1344,8 @@
         "Frierien",
         "FRIREN",
         "Souso no Frieren",
-        "Sousou no Frieren"
+        "Sousou no Frieren",
+        "⁠frieren"
       ]
     },
     {
@@ -3411,11 +3416,13 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Pandava",
         "Pandavva",
         "pandavva Vtuber",
         "PDVV"
       ],
       "alternateNames": [
+        "Pandava",
         "pandavva Vtuber",
         "PDVV"
       ]
@@ -9780,6 +9787,7 @@
         "Ghost Stories Still Gotta Work",
         "GSGW",
         "GSGW (GDCG)",
+        "GSGW (P4P)",
         "GSGW/GDCG",
         "Omniscient Reader (ORV), One Piece, Ghost Stories (GSGW/GDCG), My S-Class Hunters (S-Class), Aikatsu, Wind Breaker, PLAVE",
         "ORV, MSCH, GDCG/GSGW, Kagurabachi, Married in Red, KPDH, Dead Plate, Marvel, Gorillaz, Squid Game, CoD, DC, Dispatch, Avatar, Undertale, Deltarune, Green Yuri, With u and The Rain, Kamisama Kiss, Ultraman",
@@ -9941,9 +9949,12 @@
       "kind": "franchise",
       "parentId": 92,
       "aliases": [
+        "Hetalia (World Stars)",
         "Hetalia World Stars"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Hetalia (World Stars)"
+      ]
     },
     {
       "id": 534,
@@ -10267,9 +10278,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "RE: Requiem",
         "Requiem"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "RE: Requiem"
+      ]
     },
     {
       "id": 557,
@@ -23136,22 +23150,6 @@
       "alternateNames": []
     },
     {
-      "id": 1636,
-      "name": "Frieren",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Anime (chainsaw Man, Frieren, One Piece)",
-        "Anime : Frieren",
-        "Frieren",
-        "⁠frieren"
-      ],
-      "alternateNames": [
-        "Anime : Frieren",
-        "⁠frieren"
-      ]
-    },
-    {
       "id": 1637,
       "name": "Fantastic Mr. Fox",
       "kind": "franchise",
@@ -31369,6 +31367,29 @@
         "Food Characters"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2416,
+      "name": "Phaidei",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Phaidei"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2417,
+      "name": "Persona 4 Portable",
+      "kind": "franchise",
+      "parentId": 240,
+      "aliases": [
+        "GSGW (P4P)",
+        "Persona 4 Portable"
+      ],
+      "alternateNames": [
+        "P4P"
+      ]
     }
   ],
   "ignored": [
