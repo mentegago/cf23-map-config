@@ -6800,7 +6800,7 @@
       "id": 304,
       "name": "Kasane Teto",
       "kind": "individual",
-      "parentId": null,
+      "parentId": 5,
       "aliases": [
         "Kasane Teto",
         "Teto"
@@ -23455,19 +23455,6 @@
       "alternateNames": []
     },
     {
-      "id": 1665,
-      "name": "Hatsune Miku: Colorful Stage!",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Hatsune Miku: Colorful Stage!",
-        "Project Sekai / Hatsune Miku Colorful Stage"
-      ],
-      "alternateNames": [
-        "Hatsune Miku Colorful Stage"
-      ]
-    },
-    {
       "id": 1666,
       "name": "Tower Defense Simulator",
       "kind": "franchise",
@@ -23599,13 +23586,14 @@
     },
     {
       "id": 1677,
-      "name": "Project SEKAI: Colorful Stage!",
+      "name": "Project SEKAI",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
         "Colorful Stage : Project Sekai",
         "Di:Verse Fusion (Project Sekai x Ensemble Stars, Bocchi The Rock, Pingu, Moodeng",
         "Genshin Impact Honkai: Star Rail Aikatsu Project Sekai Dugeon Meshi Wind Breaker Witch Hat Atelier Milgram Ensemble Star Haikyuu Hololive Omori",
+        "Hatsune Miku: Colorful Stage!",
         "Original Characters, Honkai Star Rail, Vocaloid/Project Sekai, ZENO, Gintama, Sakamoto Days, Mobile Legends, Twisted Wonderland, Reverse 1999, Wuthering Waves.",
         "PJ Sekai",
         "pjsk",
@@ -23633,11 +23621,13 @@
       ],
       "alternateNames": [
         "Colorful Stage : Project Sekai",
+        "Hatsune Miku Colorful Stage",
+        "Hatsune Miku: Colorful Stage!",
         "pjsk",
         "Pro sekai",
         "Project Isekai",
-        "Project SEKAI",
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
+        "Project Sekai: COLORFUL STAGE!",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
         "proseks",
