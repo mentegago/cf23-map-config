@@ -26259,8 +26259,8 @@
     },
     {
       "id": 1919,
-      "name": "Sasunaru",
-      "kind": "franchise",
+      "name": "SasuNaru",
+      "kind": "individual",
       "parentId": 65,
       "aliases": [
         "Sasunaru"
@@ -26270,8 +26270,8 @@
     {
       "id": 1920,
       "name": "Eitaku",
-      "kind": "franchise",
-      "parentId": null,
+      "kind": "individual",
+      "parentId": 130,
       "aliases": [
         "Eitaku"
       ],
@@ -31370,9 +31370,9 @@
     },
     {
       "id": 2416,
-      "name": "Phaidei",
+      "name": "PhaiDei",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 3,
       "aliases": [
         "Phaidei"
       ],
