@@ -100,6 +100,7 @@
         "Original (oc,cats)",
         "Original (Pacca the Flooffiest Alpaca)",
         "Original (pacca The Fluffiest Alpaca)",
+        "Original (Piku, Bleky, Renji)",
         "Original (raruurien)",
         "Original (SUNPro)",
         "Original (Vtuber Commission Showcase)",
@@ -619,6 +620,7 @@
         "Love and Deepspace (Lnds)",
         "Love and Deepspace (P4P)",
         "Love And Deepspace (pay For Payment)",
+        "Love and Deepspace (Sylus)",
         "Love and Deepspaces",
         "Love Deepspace",
         "Love in deep space",
@@ -2740,11 +2742,13 @@
       "aliases": [
         "Path to Nowhere",
         "Path to Nowhere (PTN)",
-        "PathToNowhere"
+        "PathToNowhere",
+        "Ptn"
       ],
       "alternateNames": [
         "Path to Nowhere (PTN)",
-        "PathToNowhere"
+        "PathToNowhere",
+        "Ptn"
       ]
     },
     {
@@ -2954,11 +2958,13 @@
         "K-Pop Demon Hunters",
         "KDH",
         "KPDH",
+        "KPDM",
         "Kpop (kpop Demon Hunter)",
         "Kpop demon hunter",
         "KPop Demon Hunters",
         "Kpop Demon Hunters (kpdh)",
         "Kpopdemonhunters",
+        "Kubo-san (KDH)",
         "⁠kpop Demon Hunters"
       ],
       "alternateNames": [
@@ -2966,6 +2972,7 @@
         "K-Pop Demon Hunters",
         "KDH",
         "KPDH",
+        "KPDM",
         "Kpop demon hunter",
         "Kpop Demon Hunters (kpdh)",
         "Kpopdemonhunters",
@@ -3436,6 +3443,7 @@
       "aliases": [
         "Pandava",
         "Pandavva",
+        "Pandavva (Valko)",
         "pandavva Vtuber",
         "PDVV"
       ],
@@ -5257,6 +5265,8 @@
         "Nijisanji En+jp",
         "Nijisanji JP",
         "Nijisanji JP (Chronoir)",
+        "Nijisanji JP (VOLTACTION)",
+        "Nijisanji JP (VΔLZ)",
         "NijisanjiJP",
         "Seme4 (nijisanji Jp)",
         "Vtuber (nijisanji Jp)"
@@ -6038,6 +6048,7 @@
       "aliases": [
         "Ghibli Umamusume SkyCOTL Hazbin PASWG Indie Vtuber Frieren Hollow Knight / Silk song Original NSO Fabulous Beast Bluey TADC ZZZ Okamiden Doraemon KDH Ena Chiikawa",
         "panty & stocking",
+        "Panty & Stocking (PASWG)",
         "Panty & Stocking with Garterbelt",
         "Panty & Stocking With Garterbelt (pswg)",
         "panty and stocking",
@@ -23342,16 +23353,6 @@
       ]
     },
     {
-      "id": 1658,
-      "name": "Ptn",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Ptn"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 1659,
       "name": "Dv7",
       "kind": "franchise",
@@ -30005,6 +30006,7 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
+        "Original (Piku, Bleky, Renji)",
         "Piku",
         "Piku (cat)"
       ],
@@ -31385,6 +31387,100 @@
       "alternateNames": [
         "Vtuberid"
       ]
+    },
+    {
+      "id": 2425,
+      "name": "Kubo Won't Let Me Be Invisible",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kubo Won't Let Me Be Invisible",
+        "Kubo-san (KDH)"
+      ],
+      "alternateNames": [
+        "Kubo-san"
+      ]
+    },
+    {
+      "id": 2426,
+      "name": "VΔLZ",
+      "kind": "individual",
+      "parentId": 206,
+      "aliases": [
+        "Nijisanji JP (VΔLZ)",
+        "VΔLZ"
+      ],
+      "alternateNames": [
+        "VALZ"
+      ]
+    },
+    {
+      "id": 2427,
+      "name": "VOLTACTION",
+      "kind": "individual",
+      "parentId": 206,
+      "aliases": [
+        "Nijisanji JP (VOLTACTION)",
+        "VOLTACTION"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2428,
+      "name": "Sylus",
+      "kind": "individual",
+      "parentId": 4,
+      "aliases": [
+        "Love and Deepspace (Sylus)",
+        "Sylus"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2429,
+      "name": "Pokémon Trading Card Game",
+      "kind": "franchise",
+      "parentId": 11,
+      "aliases": [
+        "Pokemon TCG",
+        "Pokémon Trading Card Game"
+      ],
+      "alternateNames": [
+        "Pokemon TCG"
+      ]
+    },
+    {
+      "id": 2430,
+      "name": "Valko",
+      "kind": "individual",
+      "parentId": 4,
+      "aliases": [
+        "Pandavva (Valko)",
+        "Valko"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2431,
+      "name": "Bleky",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Bleky",
+        "Original (Piku, Bleky, Renji)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2432,
+      "name": "Renji",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Original (Piku, Bleky, Renji)",
+        "Renji"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
