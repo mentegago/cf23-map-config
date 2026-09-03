@@ -5831,13 +5831,15 @@
         "Scum Villain's Self-Saving System",
         "Svss",
         "SVSSS",
-        "SVSSS (Danmei)"
+        "SVSSS (Danmei)",
+        "The Scum Villain's Self-Saving System"
       ],
       "alternateNames": [
         "Scum Villain",
         "Scum villain self saving system",
         "Svss",
-        "svsss"
+        "svsss",
+        "The Scum Villain's Self-Saving System"
       ]
     },
     {
@@ -8902,6 +8904,7 @@
         "Mairimashita Iruma-kun",
         "Mairimashita! Iruma-kun",
         "Mairimashita! Iruma-kun (if: Mafia Au)",
+        "Welcome to Demon School Iruma-kun",
         "Welcome to Demon School! Iruma-kun"
       ],
       "alternateNames": [
@@ -8910,7 +8913,8 @@
         "Mairimashita Iruma kun",
         "mairimashita iruma-kun",
         "Mairimashita! Iruma-kun",
-        "Mairimashita! Iruma-kun (if: Mafia Au)"
+        "Mairimashita! Iruma-kun (if: Mafia Au)",
+        "Welcome to Demon School Iruma-kun"
       ]
     },
     {
@@ -10368,18 +10372,6 @@
       "aliases": [
         "Jake the Dog",
         "Jake the dog (Adventure time)"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 563,
-      "name": "SFW only",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "SFW only",
-        "Uma Musume (SFW only)",
-        "Uma Musume (SFW only), Blue Archive, Zenless Zone Zero, Azur Lane"
       ],
       "alternateNames": []
     },
@@ -31481,6 +31473,336 @@
         "Renji"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2433,
+      "name": "Kaeya Alberich",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Kaeya",
+        "Kaeya Alberich"
+      ],
+      "alternateNames": [
+        "Kaeya"
+      ]
+    },
+    {
+      "id": 2434,
+      "name": "Diluc Ragnvindr",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Diluc",
+        "Diluc Ragnvindr",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": [
+        "Diluc"
+      ]
+    },
+    {
+      "id": 2435,
+      "name": "Childe",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Childe",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": [
+        "Tartaglia"
+      ]
+    },
+    {
+      "id": 2436,
+      "name": "Xiao",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Xiao"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2437,
+      "name": "Albedo",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Albedo",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2438,
+      "name": "Flins",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Flins",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Kyryll Chudomirovich Flins"
+      ],
+      "alternateNames": [
+        "Kyryll Chudomirovich Flins"
+      ]
+    },
+    {
+      "id": 2439,
+      "name": "Varka",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Varka"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2440,
+      "name": "Cyno",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Cyno",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2441,
+      "name": "Zhongli",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Zhongli"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2442,
+      "name": "Baizhu",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Baizhu",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2443,
+      "name": "Neuvillette",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Neuvillette"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2444,
+      "name": "Dottore",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Dottore",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": [
+        "The Doctor",
+        "Zandik"
+      ]
+    },
+    {
+      "id": 2445,
+      "name": "Pantalone",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Pantalone"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2446,
+      "name": "Wriothesley",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "Wriothesley"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2447,
+      "name": "KaeLuc",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)",
+        "KaeLuc"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2448,
+      "name": "AlbeTher",
+      "kind": "individual",
+      "parentId": 2,
+      "aliases": [
+        "AlbeTher",
+        "Genshin Impact (Kaeya, Diluc, Childe, Xiao, Albedo, Flins, Varka, Cyno, Zhongli, Baizhu, Neuvillette, Dottore, Pantalone, Wriothesley, KaeLuc, AlbeTher)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2449,
+      "name": "Ryan Gosling",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Ryan Gosling"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2450,
+      "name": "Obsession",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Obsession"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2451,
+      "name": "Bloody Mary",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Bloody Mary"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2452,
+      "name": "Tian Bao Fuyao Lu",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Tian Bao Fuyao Lu"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2453,
+      "name": "Ballad of Sword and Wine",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Ballad of Sword and Wine"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2454,
+      "name": "Remnants of Filth",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Remnants of Filth"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2455,
+      "name": "Thousand Autumns",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Thousand Autumns"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2456,
+      "name": "Word of Honor",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Word of Honor"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2457,
+      "name": "Silent Reading",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Silent Reading"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2458,
+      "name": "Faraway Wanderers",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Faraway Wanderers"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2459,
+      "name": "Kill the Lights",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kill the Lights"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2460,
+      "name": "Little Mushroom",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Little Mushroom"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2461,
+      "name": "The God of High School",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The God of High School"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2462,
+      "name": "Goodbye Lara",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Goodbye Lara"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
@@ -31515,6 +31837,7 @@
     "Place",
     "R18",
     "Random/Mix",
+    "SFW only",
     "Streamers",
     "stuff",
     "the author",
