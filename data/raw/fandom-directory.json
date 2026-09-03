@@ -1248,11 +1248,11 @@
         "Vtuber (Sol4ce)",
         "VTuber (unnämed, shoto, etc)",
         "Vtuber (virtual Youtuber)",
+        "VTuber Enthusiast",
         "Vtuber Fanmerch",
         "Vtuber Nijisanji",
         "Vtuber(Holostars)",
         "VTUBER(NIJISANJI, HOLO LIVE) JUJUTSU KAISEN",
-        "Vtuberid",
         "VTubers",
         "VTubers (Hololive and Nijisanji)",
         "Vtubers / Idol Games"
@@ -1267,8 +1267,8 @@
         "Virtual Youtuber",
         "Virtual Youtubers",
         "Vtuber (virtual Youtuber)",
+        "Vtuber Enthusiast",
         "Vtuber OC",
-        "Vtuberid",
         "VTubers"
       ]
     },
@@ -7067,7 +7067,7 @@
       "id": 319,
       "name": "Indie VTuber",
       "kind": "generic_tag",
-      "parentId": null,
+      "parentId": 16,
       "aliases": [
         "Ghibli Umamusume SkyCOTL Hazbin PASWG Indie Vtuber Frieren Hollow Knight / Silk song Original NSO Fabulous Beast Bluey TADC ZZZ Okamiden Doraemon KDH Ena Chiikawa",
         "Indie VTuber",
@@ -16051,7 +16051,7 @@
       "id": 1015,
       "name": "VTuber EN",
       "kind": "generic_tag",
-      "parentId": null,
+      "parentId": 16,
       "aliases": [
         "EN VTubers",
         "Shxtou / Shoto VTuber EN",
@@ -21326,16 +21326,6 @@
       "parentId": null,
       "aliases": [
         "Negi No Tomodachi"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 1471,
-      "name": "VTuber Enthusiast",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "VTuber Enthusiast"
       ],
       "alternateNames": []
     },
@@ -31381,6 +31371,19 @@
       ],
       "alternateNames": [
         "Neufuri"
+      ]
+    },
+    {
+      "id": 2424,
+      "name": "VTuber ID",
+      "kind": "generic_tag",
+      "parentId": 16,
+      "aliases": [
+        "VTuber ID",
+        "Vtuberid"
+      ],
+      "alternateNames": [
+        "Vtuberid"
       ]
     }
   ],
