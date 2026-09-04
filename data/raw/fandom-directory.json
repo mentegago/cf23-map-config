@@ -533,6 +533,7 @@
         "Hoyoverse(HSR, ZZ)",
         "HSR",
         "HSR (Lots Sampo)",
+        "HSR (Phainon)",
         "HSR - Honkai Star Rail",
         "hsr - zzz - wuwa - love and deepspace - obey me - plave - my hero academia - mashle - black butler - boboiboy - one piece - mxtx-verse",
         "HSR Hololive Wuthering Waves",
@@ -31801,6 +31802,27 @@
       "parentId": null,
       "aliases": [
         "Goodbye Lara"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2463,
+      "name": "Phainon",
+      "kind": "individual",
+      "parentId": 3,
+      "aliases": [
+        "HSR (Phainon)",
+        "Phainon"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2464,
+      "name": "Ghostwire: Tokyo",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Ghostwire: Tokyo"
       ],
       "alternateNames": []
     }
