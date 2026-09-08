@@ -31885,6 +31885,16 @@
         "Otherside Picnic"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2471,
+      "name": "5tellar",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "5tellar"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
