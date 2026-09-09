@@ -7557,9 +7557,11 @@
       "parentId": null,
       "aliases": [
         "One Punch Man",
+        "One-Punch Man",
         "OPM"
       ],
       "alternateNames": [
+        "One-Punch Man",
         "OPM"
       ]
     },
@@ -15912,6 +15914,7 @@
       "aliases": [
         "Ganbare Nakamura",
         "Ganbare Nakamura kun",
+        "Ganbare Nakamura-kun!",
         "Go For It",
         "Go For It, Nakamura-kun!",
         "nakamura kun",
@@ -15920,6 +15923,7 @@
       "alternateNames": [
         "Ganbare Nakamura",
         "Ganbare Nakamura kun",
+        "Ganbare Nakamura-kun!",
         "Go For It",
         "nakamura kun",
         "Nakamura-kun!"
@@ -28478,11 +28482,13 @@
       "aliases": [
         "Raisei wa Tanin ga Ii",
         "yakuza fiance",
+        "Yakuza Fiancé",
         "Yakuza Fiancé: Raise wa Tanin ga Ii"
       ],
       "alternateNames": [
         "Raisei wa Tanin ga Ii",
-        "yakuza fiance"
+        "yakuza fiance",
+        "Yakuza Fiancé"
       ]
     },
     {
@@ -31893,6 +31899,36 @@
       "parentId": null,
       "aliases": [
         "5tellar"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2472,
+      "name": "Diari Deo Henry",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Diari Deo Henry"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2473,
+      "name": "The Stuff of Hopes and Dreams",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Stuff of Hopes and Dreams"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2474,
+      "name": "A Terrified Teacher at Ghoul School",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "A Terrified Teacher at Ghoul School"
       ],
       "alternateNames": []
     }
