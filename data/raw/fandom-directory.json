@@ -31933,6 +31933,66 @@
         "A Terrified Teacher at Ghoul School"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2475,
+      "name": "The Martian",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Martian"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2476,
+      "name": "Among Us",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Among Us"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2477,
+      "name": "Qiang Jin Jiu",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Qiang Jin Jiu"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2478,
+      "name": "Kono Oto Tomare!",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kono Oto Tomare!"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2479,
+      "name": "8LOOM",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "8LOOM"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2480,
+      "name": "Kingdom of Marionettes",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kingdom of Marionettes"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
