@@ -8085,28 +8085,6 @@
       "alternateNames": []
     },
     {
-      "id": 387,
-      "name": "GDCG",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "GDCG",
-        "Gdcg Gsgw",
-        "Gdcg 괴담출근",
-        "GDCG/GSGW",
-        "Ghost Stories (GSGW/GDCG)",
-        "GSGW (GDCG)",
-        "GSGW/GDCG",
-        "Omniscient Reader (ORV), One Piece, Ghost Stories (GSGW/GDCG), My S-Class Hunters (S-Class), Aikatsu, Wind Breaker, PLAVE",
-        "ORV, MSCH, GDCG/GSGW, Kagurabachi, Married in Red, KPDH, Dead Plate, Marvel, Gorillaz, Squid Game, CoD, DC, Dispatch, Avatar, Undertale, Deltarune, Green Yuri, With u and The Rain, Kamisama Kiss, Ultraman",
-        "ORV, S-Class, LCF, Debut or Die, Nijisanji, Hololive, Love Bullet, HSR, GSGW (GDCG), The Idolm@ster",
-        "uma musume, karaoke iko, GSGW/GDCG"
-      ],
-      "alternateNames": [
-        "Gdcg 괴담출근"
-      ]
-    },
-    {
       "id": 388,
       "name": "Hypnosis Mic",
       "kind": "franchise",
@@ -9789,14 +9767,17 @@
     },
     {
       "id": 522,
-      "name": "GSGW",
+      "name": "Ghost Story Gotta Work",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "GDCG",
         "Gdcg Gsgw",
+        "Gdcg 괴담출근",
         "GDCG/GSGW",
         "Ghost Stories (GSGW/GDCG)",
         "Ghost Stories Still Gotta Work",
+        "Ghost Story Gotta Work",
         "GSGW",
         "GSGW (GDCG)",
         "GSGW (P4P)",
@@ -9808,7 +9789,10 @@
         "uma musume, karaoke iko, GSGW/GDCG"
       ],
       "alternateNames": [
+        "GDCG",
+        "Gdcg 괴담출근",
         "Ghost Stories Still Gotta Work",
+        "GSGW",
         "Still Gotta Work (GSGW)"
       ]
     },
@@ -16667,7 +16651,8 @@
         "Yagakimi"
       ],
       "alternateNames": [
-        "Yagakimi"
+        "Yagakimi",
+        "Yagate Kimi ni Naru"
       ]
     },
     {
@@ -31966,13 +31951,16 @@
     },
     {
       "id": 2478,
-      "name": "Kono Oto Tomare!",
+      "name": "Kono Oto Tomare! Sounds of Life",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Kono Oto Tomare!"
+        "Kono Oto Tomare!",
+        "Kono Oto Tomare! Sounds of Life"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Kono Oto Tomare!"
+      ]
     },
     {
       "id": 2479,
