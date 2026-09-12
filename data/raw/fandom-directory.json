@@ -6508,6 +6508,7 @@
       "parentId": 41,
       "aliases": [
         "Spider-Man",
+        "Spider-Man / Deadpool",
         "Spiderman"
       ],
       "alternateNames": [
@@ -9785,6 +9786,7 @@
         "Omniscient Reader (ORV), One Piece, Ghost Stories (GSGW/GDCG), My S-Class Hunters (S-Class), Aikatsu, Wind Breaker, PLAVE",
         "ORV, MSCH, GDCG/GSGW, Kagurabachi, Married in Red, KPDH, Dead Plate, Marvel, Gorillaz, Squid Game, CoD, DC, Dispatch, Avatar, Undertale, Deltarune, Green Yuri, With u and The Rain, Kamisama Kiss, Ultraman",
         "ORV, S-Class, LCF, Debut or Die, Nijisanji, Hololive, Love Bullet, HSR, GSGW (GDCG), The Idolm@ster",
+        "Still Gotta Work",
         "Still Gotta Work (GSGW)",
         "uma musume, karaoke iko, GSGW/GDCG"
       ],
@@ -9793,6 +9795,7 @@
         "Gdcg 괴담출근",
         "Ghost Stories Still Gotta Work",
         "GSGW",
+        "Still Gotta Work",
         "Still Gotta Work (GSGW)"
       ]
     },
@@ -20162,12 +20165,14 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Tsubasa Chronicle",
         "Tsubasa Reservoir Chronicle",
         "Tsubasa Reservoir Chronicles",
         "Tsubasa: Reservoir Chronicle",
         "Tsubasha Chronicle"
       ],
       "alternateNames": [
+        "Tsubasa Chronicle",
         "Tsubasa Reservoir Chronicle",
         "Tsubasa Reservoir Chronicles",
         "Tsubasha Chronicle"
@@ -25888,7 +25893,8 @@
         "Deadpool",
         "Deadpool and Wolverine",
         "Deadpool x Wolverine",
-        "Deadpool/wolverine"
+        "Deadpool/wolverine",
+        "Spider-Man / Deadpool"
       ],
       "alternateNames": []
     },
@@ -31979,6 +31985,26 @@
       "parentId": null,
       "aliases": [
         "Kingdom of Marionettes"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2481,
+      "name": "Mobile Suit Gundam: The Origin",
+      "kind": "franchise",
+      "parentId": 72,
+      "aliases": [
+        "Mobile Suit Gundam: The Origin"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2482,
+      "name": "Mobile Suit Gundam Hathaway's Flash",
+      "kind": "franchise",
+      "parentId": 72,
+      "aliases": [
+        "Mobile Suit Gundam Hathaway's Flash"
       ],
       "alternateNames": []
     }
