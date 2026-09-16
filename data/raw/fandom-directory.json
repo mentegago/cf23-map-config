@@ -7117,12 +7117,14 @@
       "aliases": [
         "86",
         "86-eighty six-",
+        "86: Eighty Six",
         "86—Eighty-Six",
         "eighty six"
       ],
       "alternateNames": [
         "86",
         "86-eighty six-",
+        "86: Eighty Six",
         "eighty six"
       ]
     },
@@ -32005,6 +32007,16 @@
       "parentId": 72,
       "aliases": [
         "Mobile Suit Gundam Hathaway's Flash"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2483,
+      "name": "When They Cry",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "When They Cry"
       ],
       "alternateNames": []
     }
