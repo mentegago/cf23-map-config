@@ -32019,6 +32019,26 @@
         "When They Cry"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2484,
+      "name": "Insidious",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Insidious"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2485,
+      "name": "The Backrooms",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Backrooms"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
