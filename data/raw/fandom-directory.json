@@ -18949,11 +18949,13 @@
       "aliases": [
         "Argonavis From Bang Dream!",
         "Argovanis Bang Dream",
-        "from ARGONAVIS"
+        "from ARGONAVIS",
+        "FromArgo"
       ],
       "alternateNames": [
         "Argonavis From Bang Dream!",
-        "Argovanis"
+        "Argovanis",
+        "FromArgo"
       ]
     },
     {
@@ -32037,6 +32039,16 @@
       "parentId": null,
       "aliases": [
         "The Backrooms"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2486,
+      "name": "Spider-Noir",
+      "kind": "franchise",
+      "parentId": 281,
+      "aliases": [
+        "Spider-Noir"
       ],
       "alternateNames": []
     }
