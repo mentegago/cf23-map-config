@@ -4,7 +4,7 @@ on:
   schedule:
     # One hour after each full data refresh. GitHub cron uses UTC.
     - cron: "23 1,7,13,19 * * *"
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 permissions:
   contents: write
