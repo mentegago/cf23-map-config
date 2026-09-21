@@ -5953,10 +5953,12 @@
       "parentId": null,
       "aliases": [
         "Hololive / V.w.p / Mono / Gi / Hsr / R1999 / Wuwa / Kaoru Hana / Holoid / 25-ji / Yuru Camp",
+        "Laid-Back Camp",
         "Yuru Camp",
         "Yurucamp"
       ],
       "alternateNames": [
+        "Laid-Back Camp",
         "Yurucamp"
       ]
     },
@@ -6508,6 +6510,7 @@
       "parentId": 41,
       "aliases": [
         "Spider-Man",
+        "Spider-Man / Deadpool",
         "Spiderman"
       ],
       "alternateNames": [
@@ -7116,12 +7119,14 @@
       "aliases": [
         "86",
         "86-eighty six-",
+        "86: Eighty Six",
         "86—Eighty-Six",
         "eighty six"
       ],
       "alternateNames": [
         "86",
         "86-eighty six-",
+        "86: Eighty Six",
         "eighty six"
       ]
     },
@@ -7557,9 +7562,11 @@
       "parentId": null,
       "aliases": [
         "One Punch Man",
+        "One-Punch Man",
         "OPM"
       ],
       "alternateNames": [
+        "One-Punch Man",
         "OPM"
       ]
     },
@@ -8081,28 +8088,6 @@
         "Ooe / Owen"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 387,
-      "name": "GDCG",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "GDCG",
-        "Gdcg Gsgw",
-        "Gdcg 괴담출근",
-        "GDCG/GSGW",
-        "Ghost Stories (GSGW/GDCG)",
-        "GSGW (GDCG)",
-        "GSGW/GDCG",
-        "Omniscient Reader (ORV), One Piece, Ghost Stories (GSGW/GDCG), My S-Class Hunters (S-Class), Aikatsu, Wind Breaker, PLAVE",
-        "ORV, MSCH, GDCG/GSGW, Kagurabachi, Married in Red, KPDH, Dead Plate, Marvel, Gorillaz, Squid Game, CoD, DC, Dispatch, Avatar, Undertale, Deltarune, Green Yuri, With u and The Rain, Kamisama Kiss, Ultraman",
-        "ORV, S-Class, LCF, Debut or Die, Nijisanji, Hololive, Love Bullet, HSR, GSGW (GDCG), The Idolm@ster",
-        "uma musume, karaoke iko, GSGW/GDCG"
-      ],
-      "alternateNames": [
-        "Gdcg 괴담출근"
-      ]
     },
     {
       "id": 388,
@@ -9787,14 +9772,17 @@
     },
     {
       "id": 522,
-      "name": "GSGW",
+      "name": "Ghost Story Gotta Work",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "GDCG",
         "Gdcg Gsgw",
+        "Gdcg 괴담출근",
         "GDCG/GSGW",
         "Ghost Stories (GSGW/GDCG)",
         "Ghost Stories Still Gotta Work",
+        "Ghost Story Gotta Work",
         "GSGW",
         "GSGW (GDCG)",
         "GSGW (P4P)",
@@ -9802,11 +9790,16 @@
         "Omniscient Reader (ORV), One Piece, Ghost Stories (GSGW/GDCG), My S-Class Hunters (S-Class), Aikatsu, Wind Breaker, PLAVE",
         "ORV, MSCH, GDCG/GSGW, Kagurabachi, Married in Red, KPDH, Dead Plate, Marvel, Gorillaz, Squid Game, CoD, DC, Dispatch, Avatar, Undertale, Deltarune, Green Yuri, With u and The Rain, Kamisama Kiss, Ultraman",
         "ORV, S-Class, LCF, Debut or Die, Nijisanji, Hololive, Love Bullet, HSR, GSGW (GDCG), The Idolm@ster",
+        "Still Gotta Work",
         "Still Gotta Work (GSGW)",
         "uma musume, karaoke iko, GSGW/GDCG"
       ],
       "alternateNames": [
+        "GDCG",
+        "Gdcg 괴담출근",
         "Ghost Stories Still Gotta Work",
+        "GSGW",
+        "Still Gotta Work",
         "Still Gotta Work (GSGW)"
       ]
     },
@@ -11571,11 +11564,13 @@
       "aliases": [
         "EarthBound",
         "EarthBound / Mother",
-        "earthbound/mother"
+        "earthbound/mother",
+        "MOTHER"
       ],
       "alternateNames": [
         "EarthBound",
-        "earthbound/mother"
+        "earthbound/mother",
+        "MOTHER"
       ]
     },
     {
@@ -15912,6 +15907,7 @@
       "aliases": [
         "Ganbare Nakamura",
         "Ganbare Nakamura kun",
+        "Ganbare Nakamura-kun!",
         "Go For It",
         "Go For It, Nakamura-kun!",
         "nakamura kun",
@@ -15920,6 +15916,7 @@
       "alternateNames": [
         "Ganbare Nakamura",
         "Ganbare Nakamura kun",
+        "Ganbare Nakamura-kun!",
         "Go For It",
         "nakamura kun",
         "Nakamura-kun!"
@@ -16661,7 +16658,8 @@
         "Yagakimi"
       ],
       "alternateNames": [
-        "Yagakimi"
+        "Yagakimi",
+        "Yagate Kimi ni Naru"
       ]
     },
     {
@@ -18953,11 +18951,13 @@
       "aliases": [
         "Argonavis From Bang Dream!",
         "Argovanis Bang Dream",
-        "from ARGONAVIS"
+        "from ARGONAVIS",
+        "FromArgo"
       ],
       "alternateNames": [
         "Argonavis From Bang Dream!",
-        "Argovanis"
+        "Argovanis",
+        "FromArgo"
       ]
     },
     {
@@ -20171,12 +20171,14 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Tsubasa Chronicle",
         "Tsubasa Reservoir Chronicle",
         "Tsubasa Reservoir Chronicles",
         "Tsubasa: Reservoir Chronicle",
         "Tsubasha Chronicle"
       ],
       "alternateNames": [
+        "Tsubasa Chronicle",
         "Tsubasa Reservoir Chronicle",
         "Tsubasa Reservoir Chronicles",
         "Tsubasha Chronicle"
@@ -23566,6 +23568,7 @@
         "Project Sekai Colorful Stage",
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
         "Project Sekai Featuring Hatsune Miku",
+        "Project Sekai: Colorful Stage",
         "Project SEKAI: Colorful Stage!",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
@@ -23589,6 +23592,7 @@
         "Pro sekai",
         "Project Isekai",
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
+        "Project Sekai: Colorful Stage",
         "Project Sekai: COLORFUL STAGE!",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
@@ -25897,7 +25901,8 @@
         "Deadpool",
         "Deadpool and Wolverine",
         "Deadpool x Wolverine",
-        "Deadpool/wolverine"
+        "Deadpool/wolverine",
+        "Spider-Man / Deadpool"
       ],
       "alternateNames": []
     },
@@ -28478,11 +28483,13 @@
       "aliases": [
         "Raisei wa Tanin ga Ii",
         "yakuza fiance",
+        "Yakuza Fiancé",
         "Yakuza Fiancé: Raise wa Tanin ga Ii"
       ],
       "alternateNames": [
         "Raisei wa Tanin ga Ii",
-        "yakuza fiance"
+        "yakuza fiance",
+        "Yakuza Fiancé"
       ]
     },
     {
@@ -31823,6 +31830,239 @@
       "parentId": null,
       "aliases": [
         "Ghostwire: Tokyo"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2465,
+      "name": "Saw",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Saw"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2466,
+      "name": "Actors",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Actors"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2467,
+      "name": "Yu-Gi-Oh! GX",
+      "kind": "franchise",
+      "parentId": 494,
+      "aliases": [
+        "Yu-Gi-Oh! GX"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2468,
+      "name": "There Is No Next Stop",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "There Is No Next Stop"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2469,
+      "name": "Yagate Kimi ni Naru",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Yagate Kimi ni Naru"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2470,
+      "name": "Otherside Picnic",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Otherside Picnic"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2471,
+      "name": "5tellar",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "5tellar"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2472,
+      "name": "Diari Deo Henry",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Diari Deo Henry"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2473,
+      "name": "The Stuff of Hopes and Dreams",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Stuff of Hopes and Dreams"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2474,
+      "name": "A Terrified Teacher at Ghoul School",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "A Terrified Teacher at Ghoul School"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2475,
+      "name": "The Martian",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Martian"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2476,
+      "name": "Among Us",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Among Us"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2477,
+      "name": "Qiang Jin Jiu",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Qiang Jin Jiu"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2478,
+      "name": "Kono Oto Tomare! Sounds of Life",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kono Oto Tomare!",
+        "Kono Oto Tomare! Sounds of Life"
+      ],
+      "alternateNames": [
+        "Kono Oto Tomare!"
+      ]
+    },
+    {
+      "id": 2479,
+      "name": "8LOOM",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "8LOOM"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2480,
+      "name": "Kingdom of Marionettes",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Kingdom of Marionettes"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2481,
+      "name": "Mobile Suit Gundam: The Origin",
+      "kind": "franchise",
+      "parentId": 72,
+      "aliases": [
+        "Mobile Suit Gundam: The Origin"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2482,
+      "name": "Mobile Suit Gundam Hathaway's Flash",
+      "kind": "franchise",
+      "parentId": 72,
+      "aliases": [
+        "Mobile Suit Gundam Hathaway's Flash"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2483,
+      "name": "When They Cry",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "When They Cry"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2484,
+      "name": "Insidious",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Insidious"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2485,
+      "name": "The Backrooms",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Backrooms"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2486,
+      "name": "Spider-Noir",
+      "kind": "franchise",
+      "parentId": 281,
+      "aliases": [
+        "Spider-Noir"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2487,
+      "name": "Aksara Jawa",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Aksara Jawa"
       ],
       "alternateNames": []
     }
