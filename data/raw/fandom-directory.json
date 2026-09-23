@@ -32075,6 +32075,16 @@
         "The Artist Who Paints Dungeon"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2489,
+      "name": "Jaadugar",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Jaadugar"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
