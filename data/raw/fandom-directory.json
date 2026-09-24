@@ -15448,10 +15448,12 @@
       "parentId": null,
       "aliases": [
         "Godzilla",
-        "Godzilla universe"
+        "Godzilla universe",
+        "Gojira"
       ],
       "alternateNames": [
-        "Godzilla universe"
+        "Godzilla universe",
+        "Gojira"
       ]
     },
     {
@@ -32083,6 +32085,16 @@
       "parentId": null,
       "aliases": [
         "Jaadugar"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2490,
+      "name": "Slipknot",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Slipknot"
       ],
       "alternateNames": []
     }
