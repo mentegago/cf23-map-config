@@ -32117,6 +32117,56 @@
         "Final Destination"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2493,
+      "name": "Charlotte",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Charlotte"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2494,
+      "name": "Outlast 2",
+      "kind": "franchise",
+      "parentId": 1591,
+      "aliases": [
+        "Outlast 2"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2495,
+      "name": "The Outlast Trials",
+      "kind": "franchise",
+      "parentId": 1591,
+      "aliases": [
+        "The Outlast Trials"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2496,
+      "name": "Silent Hill 2",
+      "kind": "franchise",
+      "parentId": 145,
+      "aliases": [
+        "Silent Hill 2"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2497,
+      "name": "Spider-Man: Across the Spider-Verse",
+      "kind": "franchise",
+      "parentId": 282,
+      "aliases": [
+        "Spider-Man: Across the Spider-Verse"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
