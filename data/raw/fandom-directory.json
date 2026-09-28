@@ -32165,6 +32165,16 @@
       "alternateNames": []
     },
     {
+      "id": 2498,
+      "name": "OneShot",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "OneShot"
+      ],
+      "alternateNames": []
+    },
+    {
       "id": 2499,
       "name": "The Nice Guys",
       "kind": "franchise",
@@ -32202,7 +32212,6 @@
     "Miscellaneous",
     "Mixed",
     "no",
-    "OneShot",
     "Original, Kpop, Random/Mix",
     "Other",
     "Place",
