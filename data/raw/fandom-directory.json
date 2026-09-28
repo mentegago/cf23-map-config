@@ -16657,7 +16657,8 @@
       "parentId": null,
       "aliases": [
         "Bloom Into You",
-        "Yagakimi"
+        "Yagakimi",
+        "Yagate Kimi ni Naru"
       ],
       "alternateNames": [
         "Yagakimi",
@@ -31876,16 +31877,6 @@
       "alternateNames": []
     },
     {
-      "id": 2469,
-      "name": "Yagate Kimi ni Naru",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Yagate Kimi ni Naru"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 2470,
       "name": "Otherside Picnic",
       "kind": "franchise",
@@ -32080,13 +32071,18 @@
     },
     {
       "id": 2489,
-      "name": "Jaadugar",
+      "name": "Jaadugar: A Witch in Mongolia",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Jaadugar"
+        "A Witch's Life in Mongol",
+        "Jaadugar",
+        "Jaadugar: A Witch in Mongolia",
+        "Tenmaku no Jaadugar"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Jaadugar"
+      ]
     },
     {
       "id": 2490,
@@ -32167,6 +32163,16 @@
         "Spider-Man: Across the Spider-Verse"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2499,
+      "name": "The Nice Guys",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Nice Guys"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
@@ -32196,6 +32202,7 @@
     "Miscellaneous",
     "Mixed",
     "no",
+    "OneShot",
     "Original, Kpop, Random/Mix",
     "Other",
     "Place",
