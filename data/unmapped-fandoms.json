@@ -7,13 +7,14 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 9353,
+    "matchedPieces": 9334,
     "ignoredPieces": 16,
-    "unknownPieces": 326,
-    "unknownSourceFields": 2
+    "unknownPieces": 330,
+    "unknownSourceFields": 3
   },
   "unknownSourceFields": [
     "-",
-    ", -"
+    ", -",
+    "Original, Umamusume, Yotsuba&!, Pandavva, Grasshopper Manufactures, Devil May Cry, Hololive Production (Hololive ID, Holostars), Nitro+Chiral, Robert Eggers, Layers of Fear, My Little Pony, Bloodborne, Rule of Rose, Resident Evil, Alice Madness Returns, 18trip "
   ]
 }
