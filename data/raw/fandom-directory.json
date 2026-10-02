@@ -32183,6 +32183,29 @@
         "The Nice Guys"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2500,
+      "name": "Baxian: All Wishes Come True",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Baxian / All Wishes Come True",
+        "Baxian: All Wishes Come True"
+      ],
+      "alternateNames": [
+        "Baxian / All Wishes Come True"
+      ]
+    },
+    {
+      "id": 2501,
+      "name": "Rick and Morty",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Rick and Morty"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
