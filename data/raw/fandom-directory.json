@@ -32206,6 +32206,16 @@
         "Rick and Morty"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2502,
+      "name": "KROW",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "KROW"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
