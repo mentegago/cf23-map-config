@@ -10797,10 +10797,12 @@
       "parentId": null,
       "aliases": [
         "Polar Opposites",
-        "You & I Are Polar Opposites"
+        "You & I Are Polar Opposites",
+        "You and I Are Polar Opposites"
       ],
       "alternateNames": [
-        "You & I Are Polar Opposites"
+        "You & I Are Polar Opposites",
+        "You and I Are Polar Opposites"
       ]
     },
     {
@@ -32214,6 +32216,16 @@
       "parentId": null,
       "aliases": [
         "KROW"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2503,
+      "name": "What in Hell is Bad?",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "What in Hell is Bad?"
       ],
       "alternateNames": []
     }
