@@ -32230,6 +32230,16 @@
         "What in Hell is Bad?"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2504,
+      "name": "Family Guy",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Family Guy"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
