@@ -28605,9 +28605,12 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
-        "Ranboo"
+        "Ranboo",
+        "RANGBOR!"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "RANGBOR!"
+      ]
     },
     {
       "id": 2150,
@@ -32238,6 +32241,26 @@
       "parentId": null,
       "aliases": [
         "Family Guy"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2505,
+      "name": "Final Fantasy XV",
+      "kind": "franchise",
+      "parentId": 88,
+      "aliases": [
+        "Final Fantasy XV"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2506,
+      "name": "RGCU",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "RGCU"
       ],
       "alternateNames": []
     }
