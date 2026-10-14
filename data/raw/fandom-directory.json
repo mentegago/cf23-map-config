@@ -16701,12 +16701,14 @@
       "parentId": null,
       "aliases": [
         "Warhammer 4-k",
+        "Warhammer 40",
         "Warhammer 40,000",
         "Warhammer 40K",
         "Wh40k"
       ],
       "alternateNames": [
         "Warhammer 4-k",
+        "Warhammer 40",
         "Warhammer 40K",
         "Wh40k"
       ]
@@ -32263,6 +32265,122 @@
         "RGCU"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2507,
+      "name": "Warhammer 40,000: Rogue Trader",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "000: Rogue Trader",
+        "Warhammer 40,000: Rogue Trader"
+      ],
+      "alternateNames": [
+        "000: Rogue Trader"
+      ]
+    },
+    {
+      "id": 2508,
+      "name": "The Rolling Stones",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "The Rolling Stones"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2509,
+      "name": "The Stone Roses",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "The Stone Roses"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2510,
+      "name": "Hozier",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Hozier"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2511,
+      "name": "Michael Jackson",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Michael Jackson"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2512,
+      "name": "BioShock",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "BioShock"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2513,
+      "name": "The Stanley Parable",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Stanley Parable"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2514,
+      "name": "Hoppers",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Hoppers"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2515,
+      "name": "Solarballs",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Solarballs"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2516,
+      "name": "Over Requiemz",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Over Requiemz"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2517,
+      "name": "Virche Evermore",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Virche Evermore",
+        "Virche Forevermore"
+      ],
+      "alternateNames": [
+        "Virche Forevermore"
+      ]
     }
   ],
   "ignored": [
