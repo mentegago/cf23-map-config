@@ -8795,9 +8795,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Magical Princess Minky Momo",
         "Minky Momo"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Magical Princess Minky Momo"
+      ]
     },
     {
       "id": 440,
@@ -32381,6 +32384,16 @@
       "alternateNames": [
         "Virche Forevermore"
       ]
+    },
+    {
+      "id": 2521,
+      "name": "Aikatsu Stars!",
+      "kind": "franchise",
+      "parentId": 96,
+      "aliases": [
+        "Aikatsu Stars!"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
@@ -32388,6 +32401,7 @@
     "- /",
     ".",
     "..",
+    "000",
     "A5",
     "and more",
     "Bocil",
@@ -32404,12 +32418,14 @@
     "Etc.",
     "HDR",
     "https://discord.gg/zn2n82FD",
+    "https://virtualyoutuber.fandom.com/id/wiki/EVREN",
     "Leva E&C",
     "linktr.ee/dreamscapeoflove",
     "mask",
     "Miscellaneous",
     "Mixed",
     "no",
+    "None",
     "Original, Kpop, Random/Mix",
     "Other",
     "Place",
