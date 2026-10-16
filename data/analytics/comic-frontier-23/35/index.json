@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "event": "comic-frontier-23",
+  "creatorDataVersion": 35,
+  "semanticHash": "0f1da931b490ba69a6261dee4d6102028113922a64110df7ab68e2bdbddc3564",
+  "archiveHash": "5f59dc43e6435668ddf9f924ebeba10ba219c9db8b9c3b2cf89418da9f6c6d3b",
+  "documentHashes": {
+    "catalog": "bf7825a16c82aa7b4027fca44beebc29e2102fb576de402d96497da1e4537111",
+    "fandoms": "8c63925393b880fe871cecd92451741213e36eef0eec6d23c8142f3192577bf0",
+    "manifest": "6c259895ebdd8beace3b48aacedaf67a8e29886c575e6cf0e5762f40c3a84f48",
+    "version": "1efeb44e5f6830de282a5d09f5c5e85673c1092455c33bd9a42aa70f640b4577"
+  }
+}

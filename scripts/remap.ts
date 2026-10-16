@@ -5,6 +5,7 @@ import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
 import { mapEventCatalog } from "./lib/map-event.ts";
 import { nextCreatorDataVersion, publicationTimestamp } from "./lib/publication.ts";
+import { archiveAnalytics } from "./lib/analytics-archive.ts";
 import type {
   CatalogSnapshot,
   EventConfig,
@@ -229,6 +230,9 @@ const lastUpdated = publicationTimestamp({
   now: new Date().toISOString(),
 });
 
+await archiveAnalytics(root, {catalog: catalogDocument, fandoms: fandomDocument,
+  manifest: manifestDocument, version: {...lastUpdatedCustomFields,
+    creator_data_version: creatorDataVersion, lastUpdated}});
 await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument);
 await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument);
 await writeJson(path.join(root, "public/manifest.json"), manifestDocument);
