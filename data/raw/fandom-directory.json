@@ -32394,6 +32394,16 @@
         "Aikatsu Stars!"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2522,
+      "name": "Peanuts",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Peanuts"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
