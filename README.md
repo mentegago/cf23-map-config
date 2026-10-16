@@ -4,7 +4,7 @@ This repository maps the stored Comifuro catalog snapshot to canonical fandom ID
 
 ## Public API (GitHub Pages)
 
-Check `last-updated.json` first. Its managed `creator_data_version` increments only when the semantic catalog or exported fandom data changes; fresh-download timestamps and ETags alone do not increment it. Its managed ISO `lastUpdated` records any published payload change. Other keys, such as the app version and release message, are preserved as manually managed values. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
+Check `last-updated.json` first. Its managed `creator_data_version` increments only when the semantic catalog or exported fandom data changes; fresh-download timestamps and ETags alone do not increment it. Its managed ISO `lastUpdated` advances only with a new `creator_data_version` (or is initialized on first publication). Other keys, such as the app version and release message, are preserved as manually managed values. The complete global fandom list is exported, so changes to that list count as data updates even if no exhibitor changes. Then use `manifest.json`; all paths in it are relative to the Pages site root. The API exposes:
 
 - `v1/fandoms.json`: the global canonical fandom list, including `parentId` and `alternateNames` for search/autocomplete.
 - `v1/catalog.json`: event metadata and exhibitors using fandom IDs. Each exhibitor's `attendanceDates` is an array of ISO calendar dates (`YYYY-MM-DD`). Those dates match `event.days[].id`; `event.days[].label` is a human-readable weekday name.
@@ -13,9 +13,11 @@ The event-independent shape deliberately scopes exhibitor IDs, spaces, and atten
 
 ## Build inputs and diagnostics
 
-- `data/raw/catalog.json` is the immutable input snapshot used by scheduled runs.
+- `data/raw/catalog.json` is the input snapshot used by scheduled runs. Downloads with identical content preserve the existing snapshot and its `downloadedAt` timestamp.
 - `data/raw/fandom-directory.json` stores the complete raw registry response; `data/raw/fandom-directory.meta.json` stores its ETag and Last-Modified metadata.
 - `data/unmapped-fandoms.json` reports unresolved source fields for auditing and is not published.
+
+Runs with no file changes create no commit, and Pages deployment is skipped when the public files are unchanged.
 
 Two staggered callers invoke the shared `_refresh-data.yml` workflow with a single `download_catalog` option. `Full data refresh` passes `true` every six hours at `00:23`, `06:23`, `12:23`, and `18:23` UTC. Each run downloads the catalog, refreshes fandom.directory (with cache fallback), maps the catalog, submits new unknown original fields, commits changes, and deploys Pages. `Refresh fandom mapping` passes `false` exactly one hour later at `01:23`, `07:23`, `13:23`, and `19:23` UTC, repeating every step against the stored raw catalog snapshot.
 

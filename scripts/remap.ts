@@ -4,7 +4,7 @@ import path from "node:path";
 import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
 import { mapEventCatalog } from "./lib/map-event.ts";
-import { nextCreatorDataVersion } from "./lib/publication.ts";
+import { nextCreatorDataVersion, publicationTimestamp } from "./lib/publication.ts";
 import type {
   CatalogSnapshot,
   EventConfig,
@@ -171,6 +171,7 @@ const manifestDocument = {
 };
 let lastUpdatedCustomFields: Record<string, unknown> = {};
 let legacyCreatorDataVersion: number | undefined;
+let existingLastUpdated: string | undefined;
 try {
   const {
     lastUpdated: _managedTimestamp,
@@ -180,6 +181,7 @@ try {
     path.join(root, "public/last-updated.json"),
   );
   lastUpdatedCustomFields = customFields;
+  if (typeof _managedTimestamp === "string") existingLastUpdated = _managedTimestamp;
   if (typeof existingCreatorDataVersion === "number" && Number.isSafeInteger(existingCreatorDataVersion)) {
     legacyCreatorDataVersion = existingCreatorDataVersion;
   }
@@ -214,13 +216,17 @@ try {
 } catch (error) {
   if (!(error instanceof Error && "code" in error && error.code === "ENOENT")) throw error;
 }
-const lastUpdated = publicationState.fingerprint === fingerprint && publicationState.lastUpdated
-  ? publicationState.lastUpdated
-  : new Date().toISOString();
+const previousVersion = publicationState.creatorDataVersion ?? legacyCreatorDataVersion ?? 22;
 const creatorDataVersion = nextCreatorDataVersion({
   previousFingerprint: publicationState.creatorDataFingerprint,
   nextFingerprint: creatorDataFingerprint,
-  previousVersion: publicationState.creatorDataVersion ?? legacyCreatorDataVersion ?? 22,
+  previousVersion,
+});
+const lastUpdated = publicationTimestamp({
+  previousVersion,
+  nextVersion: creatorDataVersion,
+  previousTimestamp: publicationState.lastUpdated ?? existingLastUpdated,
+  now: new Date().toISOString(),
 });
 
 await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument, { compact: true });

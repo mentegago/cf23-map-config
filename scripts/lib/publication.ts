@@ -10,3 +10,14 @@ export function nextCreatorDataVersion(options: {
     ? options.previousVersion + 1
     : options.previousVersion;
 }
+
+export function publicationTimestamp(options: {
+  previousVersion: number;
+  nextVersion: number;
+  previousTimestamp?: string;
+  now: string;
+}): string {
+  return options.previousVersion === options.nextVersion && options.previousTimestamp
+    ? options.previousTimestamp
+    : options.now;
+}

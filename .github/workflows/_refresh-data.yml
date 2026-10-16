@@ -41,9 +41,15 @@ jobs:
           FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}
 
       - name: Commit refreshed source and public data
+        id: changes
         env:
           COMMIT_MESSAGE: "${{ inputs.download_catalog && 'data: full refresh' || 'data: refresh fandom mapping' }}"
         run: |
+          if [ -z "$(git status --porcelain -- public)" ]; then
+            echo "public_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "public_changed=true" >> "$GITHUB_OUTPUT"
+          fi
           if [ -z "$(git status --porcelain -- data public)" ]; then
             echo "No data changes"
           else
@@ -55,9 +61,12 @@ jobs:
           fi
 
       - uses: actions/configure-pages@v5
+        if: steps.changes.outputs.public_changed == 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.changes.outputs.public_changed == 'true'
         with:
           path: public
       - name: Deploy GitHub Pages
+        if: steps.changes.outputs.public_changed == 'true'
         uses: actions/deploy-pages@v4
         id: deployment
