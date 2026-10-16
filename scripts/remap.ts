@@ -24,10 +24,10 @@ async function readJson<T>(file: string): Promise<T> {
   return JSON.parse(await readFile(file, "utf8")) as T;
 }
 
-async function writeJson(file: string, value: unknown, options?: { compact?: boolean }): Promise<void> {
+async function writeJson(file: string, value: unknown): Promise<void> {
   await mkdir(path.dirname(file), { recursive: true });
   const temporary = `${file}.tmp`;
-  const body = options?.compact ? JSON.stringify(value) : JSON.stringify(value, null, 2);
+  const body = JSON.stringify(value, null, 2);
   await writeFile(temporary, `${body}\n`);
   await rename(temporary, file);
 }
@@ -229,8 +229,8 @@ const lastUpdated = publicationTimestamp({
   now: new Date().toISOString(),
 });
 
-await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument, { compact: true });
-await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument, { compact: true });
+await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument);
+await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument);
 await writeJson(path.join(root, "public/manifest.json"), manifestDocument);
 await writeJson(path.join(root, "public/last-updated.json"), {
   ...lastUpdatedCustomFields,
