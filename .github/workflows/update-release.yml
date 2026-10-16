@@ -1,0 +1,67 @@
+name: Update app release
+
+on:
+  workflow_dispatch:
+    inputs:
+      current_version:
+        description: "App version (non-negative integer); leave empty to keep the current value"
+        required: false
+        type: string
+        default: ""
+      release_notes:
+        description: "Release notes; leave empty to keep the current value"
+        required: false
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Update release metadata
+        run: bun run scripts/update-release.ts
+        env:
+          CURRENT_VERSION: ${{ inputs.current_version }}
+          RELEASE_NOTES: ${{ inputs.release_notes }}
+
+      - name: Commit release metadata
+        id: changes
+        run: |
+          if git diff --quiet -- public/last-updated.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No release metadata changes"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/last-updated.json
+            git commit -m "release: update app version and notes"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: steps.changes.outputs.changed == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.changes.outputs.changed == 'true'
+        with:
+          path: public
+      - name: Deploy GitHub Pages
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/deploy-pages@v4
+        id: deployment

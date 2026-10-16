@@ -23,6 +23,8 @@ Two staggered callers invoke the shared `_refresh-data.yml` workflow with a sing
 
 ## GitHub setup
 
+To change app release metadata, open **Actions → Update app release → Run workflow** on `master`. Enter `current_version` (a non-negative integer), `release_notes`, or both. Empty or whitespace-only inputs preserve the existing field. This workflow only changes those two fields in `public/last-updated.json`; `creator_data_version` and `lastUpdated` stay unchanged. It commits and deploys actual changes, and skips both when the values are unchanged. It shares the data refresh workflows' publication queue to avoid overlapping publishes.
+
 Add the repository secret `FANDOM_DIRECTORY_API_KEY` using an API key issued by the fandom.directory administrator. Submission is best-effort: a missing key, timeout, or API failure emits a warning but never blocks catalog publication. Successfully queued fields are recorded in `data/raw/fandom-submissions.json` so they are not submitted repeatedly. The workflow does not poll or wait for directory processing.
 
 The committed fandom registry is a required resilience cache. Registry timeouts, non-success responses, and invalid responses fall back to it, allowing catalog updates and Pages deployment to continue while fandom.directory is unavailable. Ensure GitHub Actions has read/write workflow permissions so its bot can commit outputs.
