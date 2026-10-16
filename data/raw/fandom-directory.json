@@ -32261,19 +32261,22 @@
     },
     {
       "id": 2506,
-      "name": "RGCU",
+      "name": "Roblox Game Cinematic Universe",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 66,
       "aliases": [
-        "RGCU"
+        "RGCU",
+        "Roblox Game Cinematic Universe"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "RGCU"
+      ]
     },
     {
       "id": 2507,
       "name": "Warhammer 40,000: Rogue Trader",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 1065,
       "aliases": [
         "000: Rogue Trader",
         "Warhammer 40,000: Rogue Trader"
@@ -32379,6 +32382,7 @@
       "parentId": null,
       "aliases": [
         "Virche Evermore",
+        "Virche Evermore: Error: Salvation",
         "Virche Forevermore"
       ],
       "alternateNames": [
