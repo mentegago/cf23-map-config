@@ -13,6 +13,14 @@ The event-independent shape deliberately scopes exhibitor IDs, spaces, and atten
 
 ## Build inputs and diagnostics
 
+Manual corporate, food, and other exhibitors can be maintained in
+`data/manual/exhibitors.json`, with ID-based corrections in
+`data/manual/overrides.json` and images in `public/images/exhibitors/`.
+The build merges them into the regular catalog and publishes absolute image URLs
+using the `PUBLIC_BASE_URL` environment variable. In GitHub, set the Actions
+repository variable `PUBLIC_BASE_URL` to `https://cf23-config.nnt.gg/`. See the
+[manual data guide](data/manual/README.md) for the format and publication workflow.
+
 - `data/raw/catalog.json` is the input snapshot used by scheduled runs. Downloads with identical content preserve the existing snapshot and its `downloadedAt` timestamp.
 - `data/raw/fandom-directory.json` stores the complete raw registry response; `data/raw/fandom-directory.meta.json` stores its ETag and Last-Modified metadata.
 - `data/unmapped-fandoms.json` reports unresolved source fields for auditing and is not published.
@@ -37,5 +45,6 @@ Run locally with Bun 1.3 or newer:
 bun install
 bun run typecheck
 bun test
+export PUBLIC_BASE_URL=https://cf23-config.nnt.gg/
 bun run build
 ```

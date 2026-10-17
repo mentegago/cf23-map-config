@@ -4,6 +4,7 @@ import path from "node:path";
 import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
 import { mapEventCatalog } from "./lib/map-event.ts";
+import { loadManualExhibitors } from "./lib/manual-exhibitors.ts";
 import { nextCreatorDataVersion, publicationTimestamp } from "./lib/publication.ts";
 import { archiveAnalytics } from "./lib/analytics-archive.ts";
 import type {
@@ -123,6 +124,8 @@ const mapped = mapEventCatalog({
   registry,
   adapter: comifuroAdapter,
 });
+mapped.exhibitors = await loadManualExhibitors(root, mapped.exhibitors, eventConfig,
+  new Set(registry.fandoms.map(fandom => fandom.id)));
 
 const fandoms = [...registry.fandoms]
   .sort((a, b) => a.id - b.id)

@@ -85,6 +85,9 @@ export interface CanonicalExhibitorInput {
 
 export type CanonicalExhibitor = Omit<CanonicalExhibitorInput, "fandomSourceFields"> & {
   fandomIds: number[];
+  catalogUrl?: string | null;
+  category?: string;
+  sourceUrls?: string[];
 };
 
 export interface EventSourceAdapter<T> {
