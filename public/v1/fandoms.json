@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-c3wkMbVZ2H5L0ZjID4WZ8hBRCwkW_qRzM6PEIDLPoWY\"",
-    "lastModified": "Fri, 16 Oct 2026 14:57:21 GMT",
+    "etag": "\"sha256-V2xNC7f8ySeXiVV8f1aAU8xFoI23pc4a-6XpKmjz4zs\"",
+    "lastModified": "Sat, 17 Oct 2026 04:01:26 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -8136,7 +8136,9 @@
       "name": "Yomi no Tsugai",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Daemons of the Shadow Realm"
+      ]
     },
     {
       "id": 871,
@@ -20361,6 +20363,20 @@
       "id": 2522,
       "name": "Peanuts",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2523,
+      "name": "Bustafellows",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2524,
+      "name": "ILLIT",
+      "kind": "individual",
       "parentId": null,
       "alternateNames": []
     }

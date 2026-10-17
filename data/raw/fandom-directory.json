@@ -14179,9 +14179,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Daemons of the Shadow Realm",
         "Yomi no Tsugai"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Daemons of the Shadow Realm"
+      ]
     },
     {
       "id": 871,
@@ -32406,6 +32409,26 @@
       "parentId": null,
       "aliases": [
         "Peanuts"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2523,
+      "name": "Bustafellows",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Bustafellows"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2524,
+      "name": "ILLIT",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "ILLIT"
       ],
       "alternateNames": []
     }
