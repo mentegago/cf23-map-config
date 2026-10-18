@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "1000001",
+    "name": "Sky",
+    "category": "corporate",
+    "spaces": [
+      { "code": "1108", "type": "corporate" },
+      { "code": "1109", "type": "corporate" },
+      { "code": "1110", "type": "corporate" },
+      { "code": "1111", "type": "corporate" }
+    ],
+    "attendanceDates": ["2026-10-31", "2026-11-01"],
+    "contentRating": null,
+    "fandomIds": [],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/sky/announcement-2105992145689780685.jpg",
+      "gallery": [
+        "images/exhibitors/sky/announcement-2105992145689780685.jpg"
+      ]
+    },
+    "links": [
+      { "type": "twitter", "url": "https://x.com/thatskygame" }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": ["https://x.com/comifuro/status/2105992145689780685"]
+  },
+  {
+    "id": "1000002",
+    "name": "Andalas / Busy Beaver Studio",
+    "category": "corporate",
+    "spaces": [
+      { "code": "1112", "type": "corporate" },
+      { "code": "1113", "type": "corporate" },
+      { "code": "1114", "type": "corporate" },
+      { "code": "1115", "type": "corporate" }
+    ],
+    "attendanceDates": ["2026-10-31", "2026-11-01"],
+    "contentRating": null,
+    "fandomIds": [],
+    "offerings": ["goods", "artbook"],
+    "assets": {
+      "thumbnail": "images/exhibitors/andalas/announcement-2104850440269832622-1.jpg",
+      "gallery": [
+        "images/exhibitors/andalas/announcement-2104850440269832622-1.jpg",
+        "images/exhibitors/andalas/announcement-2104850440269832622-3.jpg",
+        "images/exhibitors/andalas/announcement-2104850440269832622-4.jpg"
+      ]
+    },
+    "links": [
+      { "type": "twitter", "url": "https://x.com/comifuro/status/2104850440269832622" }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": ["https://x.com/comifuro/status/2104850440269832622"]
+  },
+  {
+    "id": "1000003",
+    "name": "Comifuro Shop",
+    "category": "official_shop",
+    "spaces": [
+      { "code": "1105a", "type": null }
+    ],
+    "attendanceDates": [],
+    "contentRating": null,
+    "fandomIds": [],
+    "offerings": [],
+    "assets": {
+      "thumbnail": null,
+      "gallery": []
+    },
+    "links": [],
+    "catalogUrl": null
+  }
+]

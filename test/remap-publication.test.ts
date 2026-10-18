@@ -30,9 +30,13 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
       return stderr;
     };
 
-    const initial = await json("public/last-updated.json");
+    const beforeBuild = await json("public/last-updated.json");
     expect(await build("", 1)).toContain("set PUBLIC_BASE_URL");
-    expect(await json("public/last-updated.json")).toEqual(initial);
+    expect(await json("public/last-updated.json")).toEqual(beforeBuild);
+    // Maintained manual inputs may be newer than the committed public output.
+    // Establish the processed baseline before testing no-op refreshes.
+    await build();
+    const initial = await json("public/last-updated.json");
     await build();
     expect(await json("public/last-updated.json")).toEqual(initial);
     const initialPublication = await readFile(path.join(fixture, "data/raw/publication.json"), "utf8");
