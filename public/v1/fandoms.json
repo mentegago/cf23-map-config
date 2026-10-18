@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-V2xNC7f8ySeXiVV8f1aAU8xFoI23pc4a-6XpKmjz4zs\"",
-    "lastModified": "Sat, 17 Oct 2026 04:01:26 GMT",
+    "etag": "\"sha256-JNfymuSfm51xr6QZbcJgsqU1ai9QLk6sLGtUw0zK9E8\"",
+    "lastModified": "Sun, 18 Oct 2026 04:00:22 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -20378,6 +20378,34 @@
       "name": "ILLIT",
       "kind": "individual",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2525,
+      "name": "Jannabi",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2526,
+      "name": "Tales of Xillia",
+      "kind": "franchise",
+      "parentId": 1388,
+      "alternateNames": []
+    },
+    {
+      "id": 2527,
+      "name": "Final Fantasy VIII",
+      "kind": "franchise",
+      "parentId": 88,
+      "alternateNames": []
+    },
+    {
+      "id": 2528,
+      "name": "Final Fantasy IX",
+      "kind": "franchise",
+      "parentId": 88,
       "alternateNames": []
     }
   ]

@@ -32431,6 +32431,46 @@
         "ILLIT"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2525,
+      "name": "Jannabi",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Jannabi"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2526,
+      "name": "Tales of Xillia",
+      "kind": "franchise",
+      "parentId": 1388,
+      "aliases": [
+        "Tales of Xillia"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2527,
+      "name": "Final Fantasy VIII",
+      "kind": "franchise",
+      "parentId": 88,
+      "aliases": [
+        "Final Fantasy VIII"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2528,
+      "name": "Final Fantasy IX",
+      "kind": "franchise",
+      "parentId": 88,
+      "aliases": [
+        "Final Fantasy IX"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
