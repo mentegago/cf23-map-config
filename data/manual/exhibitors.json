@@ -58,7 +58,7 @@
     "name": "Comifuro Shop",
     "category": "official_shop",
     "spaces": [
-      { "code": "1105a", "type": null }
+      { "code": "1106", "type": null }
     ],
     "attendanceDates": [],
     "contentRating": null,
