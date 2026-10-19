@@ -12,6 +12,11 @@ on:
         required: false
         default: false
         type: boolean
+      refresh_fandoms:
+        description: Refresh the fandom registry and submit unknown fandom fields
+        required: false
+        default: true
+        type: boolean
     secrets:
       FANDOM_DIRECTORY_API_KEY:
         required: false
@@ -44,16 +49,17 @@ jobs:
       - run: bun test
       - run: bun run test:map
 
-      - name: Refresh fandoms, map catalog, and submit unknowns
+      - name: Process catalog and manual data
         run: bun run build
         env:
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          REFRESH_FANDOMS: ${{ inputs.refresh_fandoms }}
           FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}
 
       - name: Commit refreshed source and public data
         id: changes
         env:
-          COMMIT_MESSAGE: "${{ inputs.download_catalog && 'data: full refresh' || 'data: refresh fandom mapping' }}"
+          COMMIT_MESSAGE: "${{ inputs.download_catalog && 'data: full refresh' || (inputs.refresh_fandoms && 'data: refresh fandom mapping' || 'data: publish manual updates') }}"
         run: |
           if [ -z "$(git status --porcelain -- public)" ]; then
             echo "public_changed=false" >> "$GITHUB_OUTPUT"

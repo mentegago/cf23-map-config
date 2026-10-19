@@ -21,6 +21,7 @@ const registryPath = path.join(root, "data/raw/fandom-directory.json");
 const registryMetaPath = path.join(root, "data/raw/fandom-directory.meta.json");
 const submissionStatePath = path.join(root, "data/raw/fandom-submissions.json");
 const publicationStatePath = path.join(root, "data/raw/publication.json");
+const refreshFandoms = process.env.REFRESH_FANDOMS !== "false";
 
 async function readJson<T>(file: string): Promise<T> {
   return JSON.parse(await readFile(file, "utf8")) as T;
@@ -117,7 +118,12 @@ async function submitUnknowns(fields: string[]): Promise<{ pending: number; resp
 const catalog = await readJson<CatalogSnapshot>(rawCatalogPath);
 const eventConfig = await readJson<EventConfig>(eventConfigPath);
 if (!Array.isArray(catalog.circles)) throw new Error("data/raw/catalog.json has an unexpected schema");
-const { registry, meta } = await refreshRegistry();
+const { registry, meta } = refreshFandoms
+  ? await refreshRegistry()
+  : {
+    registry: await readJson<FandomRegistry>(registryPath),
+    meta: await readJson<RegistryMetadata>(registryMetaPath),
+  };
 const mapped = mapEventCatalog({
   records: catalog.circles,
   event: eventConfig,
@@ -269,7 +275,9 @@ await writeJson(path.join(root, "data/unmapped-fandoms.json"), {
   unknownSourceFields: mapped.unknownSourceFields,
 });
 
-const submission = await submitUnknowns(mapped.unknownSourceFields);
+const submission = refreshFandoms
+  ? await submitUnknowns(mapped.unknownSourceFields)
+  : { skipped: true, reason: "REFRESH_FANDOMS=false" };
 console.log(JSON.stringify({
   eventId: eventConfig.id,
   exhibitors: mapped.exhibitors.length,

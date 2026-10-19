@@ -60,7 +60,24 @@ repository variable `PUBLIC_BASE_URL` to `https://cf23-config.nnt.gg/`. See the
 
 Runs with no file changes create no commit, and Pages deployment is skipped when the public files are unchanged.
 
-Two staggered callers invoke the shared `_refresh-data.yml` workflow with a single `download_catalog` option. `Full data refresh` passes `true` every six hours at `00:23`, `06:23`, `12:23`, and `18:23` UTC. Each run downloads the catalog, refreshes fandom.directory (with cache fallback), maps the catalog, submits new unknown original fields, commits changes, and deploys Pages. `Refresh fandom mapping` passes `false` exactly one hour later at `01:23`, `07:23`, `13:23`, and `19:23` UTC, repeating every step against the stored raw catalog snapshot.
+**Scheduled catalog and fandom refreshes are temporarily paused.** Both scheduled
+callers require the Actions repository variable `AUTO_REFRESH_ENABLED` to be exactly
+`true`; it is currently `false`. Their schedules remain configured for easy
+resumption. A manual dispatch of either refresh workflow still runs on demand.
+To resume schedules, set `AUTO_REFRESH_ENABLED=true` in repository Actions variables.
+
+For now, maintain new exhibitors in `data/manual/exhibitors.json` and corrections
+to existing IDs in `data/manual/overrides.json`. Pushing those files or images to
+`master` runs **Publish manual exhibitors**. This uses the stored official catalog
+and fandom registry, without downloading the catalog, fetching fandom updates, or
+submitting unknown fandom fields. Versioning, validation, and Pages publication
+still run normally. Map publication remains available independently.
+
+Two staggered callers invoke the shared `_refresh-data.yml` workflow. When enabled,
+`Full data refresh` downloads the catalog every six hours at `00:23`, `06:23`,
+`12:23`, and `18:23` UTC. `Refresh fandom mapping` runs exactly one hour later at
+`01:23`, `07:23`, `13:23`, and `19:23` UTC against the stored catalog. Both refresh
+the fandom registry, map data, submit unknown fields, and publish actual changes.
 
 ## GitHub setup
 
@@ -79,5 +96,10 @@ bun install
 bun run typecheck
 bun test
 export PUBLIC_BASE_URL=https://cf23-config.nnt.gg/
-bun run build
+bun run build:manual
 ```
+
+`build:manual` processes committed inputs with `REFRESH_FANDOMS=false`. Use
+`bun run build` when you explicitly want to refresh the fandom registry as well;
+the official catalog is downloaded only by `bun run snapshot:catalog` or the
+**Full data refresh** workflow.

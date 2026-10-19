@@ -1,8 +1,8 @@
 # Manual exhibitors and catalog corrections
 
 Edit `exhibitors.json` to add exhibitors missing from the source catalog. Edit
-`overrides.json` to correct an existing exhibitor by ID. Both files are JSON arrays;
-they start empty. Never edit the downloaded snapshot or generated public catalog
+`overrides.json` to correct an existing exhibitor by ID, including ordinary creator
+booths. Both files are JSON arrays. Never edit the downloaded snapshot or generated public catalog
 to maintain manual data.
 
 The build maps the source catalog, appends manual exhibitors, applies overrides,
@@ -99,8 +99,12 @@ the catalog URL change advances the data version.
 
 On `master`, pushing manual files or public images triggers
 **Publish manual exhibitors**. It rebuilds using the stored catalog snapshot and
-deploys the full `public/` directory, including image-only changes. Scheduled full
-refreshes and fandom remapping also include this layer. Editing an input does not
+cached fandom registry (`REFRESH_FANDOMS=false`), with no catalog download, registry
+fetch, or unknown-fandom submission. It deploys the full `public/` directory,
+including image-only changes. Scheduled full refreshes and fandom remapping are
+temporarily paused by the repository variable `AUTO_REFRESH_ENABLED=false`.
+Set it to `true` to resume schedules; manually dispatching a refresh still works
+and explicitly opts into fetching upstream data. Editing an input does not
 directly edit the generated catalog; processing and deployment must succeed first.
 The existing refresh or manual publication workflow can also be dispatched by hand.
 Changing the GitHub variable does not start a workflow; dispatch **Publish manual
@@ -112,8 +116,16 @@ Local validation and processing:
 bun run typecheck
 bun test
 export PUBLIC_BASE_URL=https://cf23-config.nnt.gg/
-bun run build
+bun run build:manual
 ```
+
+For a creator already in the catalog, keep its existing ID in `overrides.json` so
+favorites and shared links continue to work. Replace the full `spaces` array to
+correct booth assignments, the full `attendanceDates` array to correct attendance,
+or the full `assets` object to replace thumbnail and gallery. Add new exhibitors
+to `exhibitors.json` using the reserved manual ID range. Record announcement links
+in `sourceUrls`. All manual records continue to take precedence if upstream
+refreshes are resumed later.
 
 In PowerShell, set `$env:PUBLIC_BASE_URL = 'https://cf23-config.nnt.gg/'` instead of
 the `export` command. Bun also supports a local, git-ignored `.env` file containing

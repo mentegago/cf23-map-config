@@ -7,6 +7,7 @@ on:
       - 'data/manual/**'
       - 'public/images/**'
       - 'scripts/lib/manual-exhibitors.ts'
+      - 'scripts/remap.ts'
       - '.github/workflows/publish-manual-data.yml'
   workflow_dispatch: {}
 
@@ -24,6 +25,7 @@ jobs:
     uses: ./.github/workflows/_refresh-data.yml
     with:
       download_catalog: false
+      refresh_fandoms: false
       force_deploy: true
     secrets:
       FANDOM_DIRECTORY_API_KEY: ${{ secrets.FANDOM_DIRECTORY_API_KEY }}

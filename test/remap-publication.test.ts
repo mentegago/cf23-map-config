@@ -17,11 +17,14 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     }
     // Exercise the real build without network requests or submissions.
     const preload = path.join(fixture, "offline.ts");
-    await writeFile(preload, 'globalThis.fetch = async () => new Response(null, { status: 304 });\n');
-    const build = async (publicBaseUrl = "https://cf23-config.nnt.gg/", expectedCode = 0) => {
+    await writeFile(preload, 'import { appendFile } from "node:fs/promises";\n' +
+      'globalThis.fetch = async () => { await appendFile("network-requests.txt", "fetch\\n"); return new Response(null, { status: 304 }); };\n');
+    const build = async (publicBaseUrl = "https://cf23-config.nnt.gg/", expectedCode = 0, refreshFandoms = "true") => {
       const result = Bun.spawn([process.execPath, "--preload", preload, path.join(root, "scripts/remap.ts")], {
         cwd: fixture,
-        env: { ...process.env, FANDOM_DIRECTORY_API_KEY: "", PUBLIC_BASE_URL: publicBaseUrl },
+        env: { ...process.env,
+          FANDOM_DIRECTORY_API_KEY: refreshFandoms === "false" ? "test-key-must-not-be-used" : "",
+          PUBLIC_BASE_URL: publicBaseUrl, REFRESH_FANDOMS: refreshFandoms },
         stdout: "ignore",
         stderr: "pipe",
       });
@@ -95,8 +98,23 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     expect(await json("public/last-updated.json")).toEqual(manualVersion);
     manual.name = "Renamed Food";
     await save("data/manual/exhibitors.json", [manual]);
-    await build();
+    // Manual publication must use the cached registry and never submit fields,
+    // even when an API key is available. Record every fetch at the boundary.
+    const registryBefore = await readFile(path.join(fixture, "data/raw/fandom-directory.json"), "utf8");
+    const metaBefore = await readFile(path.join(fixture, "data/raw/fandom-directory.meta.json"), "utf8");
+    const submissionsBefore = await readFile(path.join(fixture, "data/raw/fandom-submissions.json"), "utf8");
+    await writeFile(path.join(fixture, "network-requests.txt"), "");
+    await build("https://cf23-config.nnt.gg/", 0, "false");
+    expect(await readFile(path.join(fixture, "network-requests.txt"), "utf8")).toBe("");
+    expect(await readFile(path.join(fixture, "data/raw/fandom-directory.json"), "utf8")).toBe(registryBefore);
+    expect(await readFile(path.join(fixture, "data/raw/fandom-directory.meta.json"), "utf8")).toBe(metaBefore);
+    expect(await readFile(path.join(fixture, "data/raw/fandom-submissions.json"), "utf8")).toBe(submissionsBefore);
+    expect((await json("public/v1/catalog.json")).exhibitors.at(-1).name).toBe("Renamed Food");
     expect((await json("public/last-updated.json")).creator_data_version).toBe(manualVersion.creator_data_version + 1);
+    const offlineVersion = await json("public/last-updated.json");
+    await build("https://cf23-config.nnt.gg/", 0, "false");
+    expect(await json("public/last-updated.json")).toEqual(offlineVersion);
+    expect(await readFile(path.join(fixture, "network-requests.txt"), "utf8")).toBe("");
 
     await build("https://events.example.com/catalog/");
     expect((await json("public/v1/catalog.json")).exhibitors.at(-1).assets.thumbnail)
