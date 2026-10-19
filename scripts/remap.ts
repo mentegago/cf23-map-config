@@ -167,11 +167,23 @@ const fandomDocument = {
   source: source.fandomDirectory,
   fandoms,
 };
-const manifestDocument = {
+const catalogManifestDocument = {
   schemaVersion: "1.0.0",
   event: { id: eventConfig.id, name: eventConfig.name },
   catalog: "v1/catalog.json",
   fandomRegistry: "v1/fandoms.json",
+};
+let mapDescriptor: unknown;
+try {
+  mapDescriptor = (await readJson<Record<string, unknown>>(
+    path.join(root, "public/manifest.json"),
+  )).map;
+} catch (error) {
+  if (!(error instanceof Error && "code" in error && error.code === "ENOENT")) throw error;
+}
+const manifestDocument = {
+  ...catalogManifestDocument,
+  ...(mapDescriptor == null ? {} : { map: mapDescriptor }),
 };
 let lastUpdatedCustomFields: Record<string, unknown> = {};
 let legacyCreatorDataVersion: number | undefined;
@@ -234,7 +246,7 @@ const lastUpdated = publicationTimestamp({
 });
 
 await archiveAnalytics(root, {catalog: catalogDocument, fandoms: fandomDocument,
-  manifest: manifestDocument, version: {...lastUpdatedCustomFields,
+  manifest: catalogManifestDocument, version: {...lastUpdatedCustomFields,
     creator_data_version: creatorDataVersion, lastUpdated}});
 await writeJson(path.join(root, "public/v1/catalog.json"), catalogDocument);
 await writeJson(path.join(root, "public/v1/fandoms.json"), fandomDocument);

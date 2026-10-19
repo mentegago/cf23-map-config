@@ -31,6 +31,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - run: bun install --frozen-lockfile
 
       - name: Download fresh catalog snapshot
@@ -39,6 +42,7 @@ jobs:
 
       - run: bun run typecheck
       - run: bun test
+      - run: bun run test:map
 
       - name: Refresh fandoms, map catalog, and submit unknowns
         run: bun run build

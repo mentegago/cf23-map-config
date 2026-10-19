@@ -9,6 +9,39 @@ Check `last-updated.json` first. Its managed `creator_data_version` increments o
 - `v1/fandoms.json`: the global canonical fandom list, including `parentId` and `alternateNames` for search/autocomplete.
 - `v1/catalog.json`: event metadata and exhibitors using fandom IDs. Each exhibitor's `attendanceDates` is an array of ISO calendar dates (`YYYY-MM-DD`). Those dates match `event.days[].id`; `event.days[].label` is a human-readable weekday name.
 
+The `map` entry in `manifest.json` has an independent increasing
+`version` and a `path` pointing to an immutable `maps/*.json` snapshot. Each
+snapshot contains its `version`, `layout`, and derived `proximity` data. The app
+checks the manifest in the background and caches the complete snapshot offline.
+The source map, distance generator, and publisher are owned entirely by this
+repository. No app checkout is required.
+
+## Updating the map
+
+1. Replace or edit `data/map.json` (Event Canvas semantic map schema v2, or a
+   legacy grid).
+2. Commit and push that file to `master`.
+3. **Publish map data** automatically calculates booth distances, writes a
+   versioned snapshot and manifest, commits the generated files, and deploys
+   Pages. You can also run the workflow manually from Actions.
+
+For a local preview of the publication, run Python 3.10 or newer:
+
+```sh
+python scripts/publish_map_data.py
+python -m unittest discover -s scripts -p '*_test.py'
+```
+
+`bun run build:map` runs the same publisher, and `bun run build` includes it in
+the full data build. Only `data/map.json` is maintained by hand; proximity is
+generated automatically. Unchanged data keeps its version. Older snapshots are
+retained for in-flight clients. To roll back, restore an older source map and
+push it; publication assigns a new version.
+
+CF23 Map loads its bundled fallback, downloads newer complete snapshots in the
+background, and caches them for offline use. Updating its bundled fallback for
+a later app release is an optional download from this API.
+
 The event-independent shape deliberately scopes exhibitor IDs, spaces, and attendance dates to the event. The generic mapper in `scripts/lib/map-event.ts` owns fandom resolution, while `scripts/adapters/comifuro.ts` translates this catalog's fields. A future event can keep the public schema and mapping logic, replace the event config and source adapter, and use the same stable paths. `config/event.json` defines the event days and maps source attendance labels (for Comifuro: `Both Days`, `Saturday only`, `Sunday only`, `SAT`, `SUN`) onto those ISO dates rather than baking the mapping into the adapter.
 
 ## Build inputs and diagnostics
@@ -39,7 +72,7 @@ The committed fandom registry is a required resilience cache. Registry timeouts,
 
 The catalog downloader discovers the catalog's public Supabase connection from the deployed frontend, so no catalog credential needs to be configured or committed.
 
-Run locally with Bun 1.3 or newer:
+Run locally with Bun 1.3 or newer and Python 3.10 or newer:
 
 ```sh
 bun install

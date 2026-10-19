@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "bun run scripts/remap.ts",
+    "build": "python scripts/publish_map_data.py && bun run scripts/remap.ts",
+    "build:map": "python scripts/publish_map_data.py",
+    "test:map": "python -m unittest discover -s scripts -p '*_test.py'",
     "snapshot:catalog": "bun run scripts/download-catalog.ts",
     "test": "bun test",
     "typecheck": "tsc --noEmit"
