@@ -55,7 +55,14 @@ export function mapEventCatalog<T>(options: {
       if (fieldHasUnknown) unknownFields.add(rawField);
     }
 
-    return { ...exhibitor, fandomIds: [...fandomIds].sort((a, b) => a - b) } satisfies CanonicalExhibitor;
+    const linkedUrls = new Set(exhibitor.links.map(link => link.url));
+    const sourceUrls = [...new Set(exhibitor.sourceUrls ?? [])].filter(url => !linkedUrls.has(url));
+    const links = [...exhibitor.links, ...sourceUrls.map((url, index) => ({
+      type: sourceUrls.length === 1 ? "source_post" : `source_post_${index + 1}`,
+      url,
+    }))];
+
+    return { ...exhibitor, links, fandomIds: [...fandomIds].sort((a, b) => a - b) } satisfies CanonicalExhibitor;
   });
 
   stats.unknownSourceFields = unknownFields.size;

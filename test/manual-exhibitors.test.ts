@@ -65,7 +65,8 @@ test("unmapped corporate booths remain intact alongside mapped and unmapped offi
   const before = await processManual([corporate, mappedManual], [], [], mapping);
   const after = await processManual([corporate, mappedManual], [], [official, unrelated], mapping);
   const { fandoms: _corporateFandoms, ...corporateFields } = corporate;
-  const expected = { catalogUrl: null, ...corporateFields, fandomIds: [34] };
+  const expected = { catalogUrl: null, ...corporateFields, fandomIds: [34],
+    links: [...corporate.links, { type: "source_post", url: corporate.sourceUrls[0]! }] };
   expect(before.exhibitors.find(record => record.id === corporate.id)).toEqual(expected);
   expect(after.exhibitors.find(record => record.id === corporate.id)).toEqual(expected);
   expect(after.exhibitors.map(record => record.id)).toEqual([mappedManual.id, unrelated.id, corporate.id]);

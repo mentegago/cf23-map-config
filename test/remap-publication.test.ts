@@ -100,6 +100,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     expect(merged.exhibitors[0].name).toBe("Manual correction");
     const { fandoms: _manualFandoms, ...manualFields } = manual;
     expect(merged.exhibitors.at(-1)).toEqual({ ...manualFields, fandomIds: [], catalogUrl: null,
+      links: [{ type: "source_post", url: "https://example.com/announcement" }],
       assets: { thumbnail: "https://cf23-config.nnt.gg/images/test/logo.webp",
         gallery: ["https://cf23-config.nnt.gg/images/test/logo.webp"] } });
     const manualVersion = await json("public/last-updated.json");

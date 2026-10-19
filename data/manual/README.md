@@ -49,7 +49,11 @@ before building:
   Enter fandom names in `fandoms`; use `[]` when none apply. Numeric `fandomIds`
   belong only in generated public JSON and are rejected in manual input.
 - Optional `category` is descriptive metadata (for example `food` or `corporate`).
-  Optional `sourceUrls` records announcement evidence. Both are ignored by the app.
+  Optional `sourceUrls` records announcement evidence. Processing also appends these
+  URLs to public `links`, displayed by the app as **Source Post**, or **Source Post 1**,
+  **Source Post 2**, etc. when there are multiple posts. Duplicate source URLs and
+  URLs already present in `links` are skipped; existing creator links stay first.
+  Keep evidence in `sourceUrls`; no need to copy it into manual `links`.
 - Optional `catalogUrl` defaults to explicit `null` for additions. The app hides
   the Circle Page button in that case. Set an absolute HTTP(S) URL only when a
   real catalog page exists. Other social and website links go in `links`.
