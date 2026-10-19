@@ -21594,7 +21594,7 @@
     },
     {
       "id": 1470,
-      "name": "Negi No Tomodachi",
+      "name": "Negi no Tomodachi",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
@@ -34358,6 +34358,46 @@
       "alternateNames": [
         "ZATO ILTWAEII"
       ]
+    },
+    {
+      "id": 2670,
+      "name": "Anzai Takt",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Anzai Takt"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2671,
+      "name": "Naka Ramatya",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Naka Ramatya"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2672,
+      "name": "Salmoon",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Salmoon"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2673,
+      "name": "tapiocaalice",
+      "kind": "individual",
+      "parentId": 1470,
+      "aliases": [
+        "tapiocaalice"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [

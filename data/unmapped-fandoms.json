@@ -2,20 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-DClOapUmRWBKTiD6IZuQw-LN9CErlYWAfjSCHYt4b84\"",
-    "lastModified": "Mon, 19 Oct 2026 15:18:57 GMT",
+    "etag": "\"sha256-UAbSkHmE6pNCNuG551CroULzAHgkk6rFPlRtn1jMxDY\"",
+    "lastModified": "Mon, 19 Oct 2026 16:03:41 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2338,
+    "matchedPieces": 2342,
     "ignoredPieces": 0,
-    "unknownPieces": 4,
-    "unknownSourceFields": 4
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Anzai Takt",
-    "Naka Ramatya",
-    "Salmoon",
-    "tapiocaalice"
-  ]
+  "unknownSourceFields": []
 }
