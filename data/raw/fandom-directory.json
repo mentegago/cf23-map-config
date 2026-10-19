@@ -273,7 +273,6 @@
         "and Original Characters.",
         "And Original Ip",
         "And Original Works",
-        "Cosplay",
         "Dan Karya Original.",
         "IP Original",
         "male OCs",
@@ -20137,10 +20136,12 @@
       "parentId": null,
       "aliases": [
         "cool doji",
-        "Cool Doji Danshi"
+        "Cool Doji Danshi",
+        "Play It Cool Guys!"
       ],
       "alternateNames": [
-        "cool doji"
+        "cool doji",
+        "Play It Cool Guys!"
       ]
     },
     {
@@ -34397,6 +34398,119 @@
       "parentId": 1470,
       "aliases": [
         "tapiocaalice"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2674,
+      "name": "Amélie",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Amelie",
+        "Amélie"
+      ],
+      "alternateNames": [
+        "Amelie"
+      ]
+    },
+    {
+      "id": 2675,
+      "name": "American McGee's Alice",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "American McGee's Alice"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2676,
+      "name": "Blade Runner 2049",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Blade Runner 2049"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2677,
+      "name": "DOOM",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "DOOM"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2678,
+      "name": "Dragon Age II",
+      "kind": "franchise",
+      "parentId": 470,
+      "aliases": [
+        "Dragon Age II"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2679,
+      "name": "Dragon Age: Origins",
+      "kind": "franchise",
+      "parentId": 470,
+      "aliases": [
+        "Dragon Age: Origins"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2680,
+      "name": "Ikka Dumb Rock",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Ikka Dumb Rock"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2681,
+      "name": "Marty Supreme",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Marty Supreme"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2682,
+      "name": "Millsage",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Millsage"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2683,
+      "name": "Portrait of a Lady on Fire",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Portrait of a Lady on Fire"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2684,
+      "name": "Psychopomp",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Psychopomp"
       ],
       "alternateNames": []
     }

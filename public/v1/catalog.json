@@ -7,8 +7,8 @@
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-rx76ROU8DyatyI6KyUzJ38fV72b7XZ-r68VH47LKGo4\"",
-      "lastModified": "Mon, 19 Oct 2026 17:08:47 GMT",
+      "etag": "\"sha256-gUArCjB4pIZlUEzerPxJnM0Kbtoe5X2K4HZDaSob3iY\"",
+      "lastModified": "Mon, 19 Oct 2026 18:37:25 GMT",
       "schemaVersion": "5"
     }
   },
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1962,
-    "fandomsReferenced": 769
+    "fandomsReferenced": 781
   },
   "exhibitors": [
     {
@@ -31377,7 +31377,11 @@
       "fandomIds": [
         1,
         87,
-        106
+        106,
+        2674,
+        2676,
+        2681,
+        2683
       ]
     },
     {
@@ -33487,7 +33491,11 @@
         469,
         498,
         1701,
-        2228
+        2228,
+        2675,
+        2677,
+        2678,
+        2679
       ]
     },
     {
@@ -41047,7 +41055,8 @@
         1116,
         2564,
         2567,
-        2598
+        2598,
+        2684
       ]
     },
     {
@@ -51029,7 +51038,8 @@
         90,
         91,
         205,
-        240
+        240,
+        1341
       ]
     },
     {
@@ -62192,7 +62202,9 @@
         234,
         548,
         2543,
-        2609
+        2609,
+        2680,
+        2682
       ]
     }
   ]

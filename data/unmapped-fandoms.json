@@ -2,28 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-rx76ROU8DyatyI6KyUzJ38fV72b7XZ-r68VH47LKGo4\"",
-    "lastModified": "Mon, 19 Oct 2026 17:08:47 GMT",
+    "etag": "\"sha256-gUArCjB4pIZlUEzerPxJnM0Kbtoe5X2K4HZDaSob3iY\"",
+    "lastModified": "Mon, 19 Oct 2026 18:37:25 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2383,
+    "matchedPieces": 2395,
     "ignoredPieces": 0,
-    "unknownPieces": 12,
-    "unknownSourceFields": 12
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Amelie",
-    "American McGee's Alice",
-    "Blade Runner 2049",
-    "DOOM",
-    "Dragon Age II",
-    "Dragon Age: Origins",
-    "Ikka Dumb Rock",
-    "Marty Supreme",
-    "Millsage",
-    "Play It Cool Guys!",
-    "Portrait of a Lady on Fire",
-    "Psychopomp"
-  ]
+  "unknownSourceFields": []
 }

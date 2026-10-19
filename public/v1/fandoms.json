@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-rx76ROU8DyatyI6KyUzJ38fV72b7XZ-r68VH47LKGo4\"",
-    "lastModified": "Mon, 19 Oct 2026 17:08:47 GMT",
+    "etag": "\"sha256-gUArCjB4pIZlUEzerPxJnM0Kbtoe5X2K4HZDaSob3iY\"",
+    "lastModified": "Mon, 19 Oct 2026 18:37:25 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -18,7 +18,6 @@
         "and Original Characters.",
         "And Original Ip",
         "And Original Works",
-        "Cosplay",
         "Dan Karya Original.",
         "IP Original",
         "male OCs",
@@ -11986,7 +11985,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "cool doji"
+        "cool doji",
+        "Play It Cool Guys!"
       ]
     },
     {
@@ -21664,6 +21664,85 @@
       "name": "tapiocaalice",
       "kind": "individual",
       "parentId": 1470,
+      "alternateNames": []
+    },
+    {
+      "id": 2674,
+      "name": "Amélie",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Amelie"
+      ]
+    },
+    {
+      "id": 2675,
+      "name": "American McGee's Alice",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2676,
+      "name": "Blade Runner 2049",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2677,
+      "name": "DOOM",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2678,
+      "name": "Dragon Age II",
+      "kind": "franchise",
+      "parentId": 470,
+      "alternateNames": []
+    },
+    {
+      "id": 2679,
+      "name": "Dragon Age: Origins",
+      "kind": "franchise",
+      "parentId": 470,
+      "alternateNames": []
+    },
+    {
+      "id": 2680,
+      "name": "Ikka Dumb Rock",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2681,
+      "name": "Marty Supreme",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2682,
+      "name": "Millsage",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2683,
+      "name": "Portrait of a Lady on Fire",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2684,
+      "name": "Psychopomp",
+      "kind": "franchise",
+      "parentId": null,
       "alternateNames": []
     }
   ]
