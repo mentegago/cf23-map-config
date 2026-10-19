@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1962,
-    "fandomsReferenced": 767
+    "fandomsReferenced": 769
   },
   "exhibitors": [
     {
@@ -9018,11 +9018,21 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1000332/catalog-2eaac140fdc0.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1000332/catalog-2eaac140fdc0.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000332/catalog-a9a7988f7220.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000332/catalog-6a4ad4ee205e.webp"
+        ]
       },
       "links": [],
-      "fandomIds": []
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561759414581600370"
+      ],
+      "fandomIds": [
+        1,
+        53
+      ]
     },
     {
       "catalogUrl": null,
@@ -10007,10 +10017,16 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1000362/catalog-4bce7408b856.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1000362/catalog-4bce7408b856.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000362/catalog-7398194fa6d0.webp"
+        ]
       },
       "links": [],
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561745552591425627"
+      ],
       "fandomIds": []
     },
     {
@@ -23160,22 +23176,23 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-5fbb67e14c30.webp",
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-72184fda83ae.webp",
         "gallery": [
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-5fbb67e14c30.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-862d14527c3b.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-61d4f2888952.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-c5f85db80951.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-cf58ce073702.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-ddbfbd8aa3d2.webp"
+          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-72184fda83ae.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-83487eb57078.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-a2baff0565a0.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-229ba22c86e2.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1000802/catalog-b8c07690d8be.webp"
         ]
       },
       "links": [],
       "sourceUrls": [
         "https://discord.com/channels/414798501625724949/415160052555710474/1543816704428220438",
-        "https://discord.com/channels/414798501625724949/643462234743242783/1544609370212540456"
+        "https://discord.com/channels/414798501625724949/643462234743242783/1544609370212540456",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561769034343784468"
       ],
       "fandomIds": [
+        1,
         3,
         12,
         25,
@@ -30213,11 +30230,22 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001024/catalog-25cdb5dfdb0c.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001024/catalog-25cdb5dfdb0c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001024/catalog-c3fcbcdca93e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001024/catalog-b5d3c9fdf165.webp"
+        ]
       },
       "links": [],
-      "fandomIds": []
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561780951766536224"
+      ],
+      "fandomIds": [
+        1,
+        87,
+        106
+      ]
     },
     {
       "catalogUrl": null,
@@ -32200,6 +32228,11 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-88650595e8d5.webp",
         "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-a1f2e6b9f18f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-f0ddcf75f541.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-faee3b2d618b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-8390ace44e36.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-0d532425c18f.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-88650595e8d5.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-a61e581406e0.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001089/catalog-58b6d7917229.webp"
@@ -32207,9 +32240,16 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1558858699819192350"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1558858699819192350",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561748568958836858"
       ],
-      "fandomIds": []
+      "fandomIds": [
+        168,
+        469,
+        498,
+        1701,
+        2228
+      ]
     },
     {
       "catalogUrl": null,
@@ -32363,11 +32403,23 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-1d1a104d2bdb.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-1d1a104d2bdb.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-2188390bc426.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-09ce5834fd37.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-915039a2b30c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001095/catalog-8710b599de08.webp"
+        ]
       },
       "links": [],
-      "fandomIds": []
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561739103395913768"
+      ],
+      "fandomIds": [
+        51,
+        128
+      ]
     },
     {
       "catalogUrl": null,
@@ -35429,6 +35481,16 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-16618093c8f4.webp",
         "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-f9479ee9aafc.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-f57a51eb01db.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-2dfdb9a9ab1c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-3f4c94ad5e58.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-c6d7f0ceafe0.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-59f03656eb75.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-e853b2d00fed.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-16a5fc25b07e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-d66396b1a5ee.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-9cd67e8ae348.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-16618093c8f4.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-cc4dde090273.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001186/catalog-1a81bb4060ea.webp",
@@ -35442,13 +35504,18 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1544589521692139530"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1544589521692139530",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561735622006145076"
       ],
       "fandomIds": [
+        3,
         12,
         36,
+        93,
+        105,
         237,
         299,
+        1155,
         1167,
         2605,
         2640
@@ -39267,21 +39334,28 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-7abbc924c67b.webp",
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-0cc4b8e48d0f.webp",
         "gallery": [
-          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-7abbc924c67b.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-569f321d1c0a.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-bca6c674ccd4.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-c699d1f453f6.webp"
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-0cc4b8e48d0f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-a9d5c4b601d7.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-22ce7b70a58c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-a2ef0d5a65d4.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-a2a2e34219b6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001302/catalog-9a5b7fe62d70.webp"
         ]
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1555846700772360274"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1555846700772360274",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561768573834366996"
       ],
       "fandomIds": [
         25,
+        93,
+        108,
+        237,
         1116,
+        2564,
         2567,
         2598
       ]
@@ -43834,11 +43908,26 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-25d93fcbac4b.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-25d93fcbac4b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-b74c18a4eee7.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-b40e97f5cf34.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-5862e2acf63e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-1fe8131b266c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001455/catalog-0c28cef0bccd.webp"
+        ]
       },
       "links": [],
-      "fandomIds": []
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561789044067930223"
+      ],
+      "fandomIds": [
+        33,
+        106,
+        418,
+        2506
+      ]
     },
     {
       "catalogUrl": null,
@@ -45625,6 +45714,7 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001515/catalog-214608af47d7.webp",
         "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001515/catalog-4a932149db0d.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001515/catalog-214608af47d7.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001515/catalog-c34706a669e5.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001515/catalog-8f5a9b0b1633.webp",
@@ -45639,7 +45729,8 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1558560514664304650"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1558560514664304650",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561747809059733536"
       ],
       "fandomIds": [
         2,
@@ -48282,6 +48373,11 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-e11fadaa599f.webp",
         "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-805aacc7db9d.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-eeb5787e1e76.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-171aa69b3199.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-1fb14a535fb7.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-62e98283327c.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-e11fadaa599f.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-7d3b4d34c88b.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001602/catalog-2cd5e85542c3.webp",
@@ -48291,7 +48387,8 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1553960613430960240"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1553960613430960240",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561744178898145300"
       ],
       "fandomIds": [
         4,
@@ -48715,11 +48812,33 @@
       "contentRating": null,
       "offerings": [],
       "assets": {
-        "thumbnail": null,
-        "gallery": []
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-94d378f63594.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-94d378f63594.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-cc5b8c88c76f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-b8f26325472e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-328cc9c190cc.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-612a5605b02c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-6165c63e8067.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-7840918e2d9d.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-1a82bd0a0358.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001615/catalog-9a4616a2743d.webp"
+        ]
       },
       "links": [],
-      "fandomIds": []
+      "sourceUrls": [
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561777497849204847"
+      ],
+      "fandomIds": [
+        1,
+        4,
+        7,
+        18,
+        90,
+        91,
+        205,
+        240
+      ]
     },
     {
       "catalogUrl": null,
@@ -52011,10 +52130,12 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-767b2208195c.webp",
         "gallery": [
-          "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-767b2208195c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-beab0be22c3a.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-76c56be0768b.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-27a9ad803bb3.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-8a2b9ab485a7.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-7308a668b230.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-767b2208195c.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-2bf3bc590cca.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-167754bd9ae0.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001726/catalog-447c22469e17.webp",
@@ -52025,7 +52146,8 @@
       "links": [],
       "sourceUrls": [
         "https://discord.com/channels/414798501625724949/415160052555710474/1560544057002823801",
-        "https://discord.com/channels/414798501625724949/415160052555710474/1551479265734951014"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1551479265734951014",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561734691797733446"
       ],
       "fandomIds": [
         3,
@@ -59021,7 +59143,8 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1561335360494116934"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561335360494116934",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561734986078617620"
       ],
       "fandomIds": [
         9,
@@ -59333,6 +59456,11 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-5f93c3c160df.webp",
         "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-784a3ba9dd74.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-d7c27074809a.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-5d5ee9415249.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-940b4723bb3e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-f449023dc1ea.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-5f93c3c160df.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-b6f602a72096.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001962/catalog-adfe1b8941ad.webp",
@@ -59342,9 +59470,15 @@
       },
       "links": [],
       "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1560255636347031552"
+        "https://discord.com/channels/414798501625724949/415160052555710474/1560255636347031552",
+        "https://discord.com/channels/414798501625724949/415160052555710474/1561781060529037392"
       ],
-      "fandomIds": []
+      "fandomIds": [
+        234,
+        548,
+        2543,
+        2609
+      ]
     }
   ]
 }

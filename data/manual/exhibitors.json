@@ -8975,14 +8975,24 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "Original",
+      "Ensemble Stars"
+    ],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1000332/catalog-2eaac140fdc0.webp",
+      "gallery": [
+        "images/exhibitors/1000332/catalog-2eaac140fdc0.webp",
+        "images/exhibitors/1000332/catalog-a9a7988f7220.webp",
+        "images/exhibitors/1000332/catalog-6a4ad4ee205e.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561759414581600370"
+    ]
   },
   {
     "id": "1000333",
@@ -9967,11 +9977,17 @@
     "fandoms": [],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1000362/catalog-4bce7408b856.webp",
+      "gallery": [
+        "images/exhibitors/1000362/catalog-4bce7408b856.webp",
+        "images/exhibitors/1000362/catalog-7398194fa6d0.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561745552591425627"
+    ]
   },
   {
     "id": "1000363",
@@ -23122,25 +23138,26 @@
       "Arknights",
       "Endfield",
       "HSR",
-      "Deltarune"
+      "Deltarune",
+      "Original"
     ],
     "offerings": [],
     "assets": {
-      "thumbnail": "images/exhibitors/1000802/catalog-5fbb67e14c30.webp",
+      "thumbnail": "images/exhibitors/1000802/catalog-72184fda83ae.webp",
       "gallery": [
-        "images/exhibitors/1000802/catalog-5fbb67e14c30.webp",
-        "images/exhibitors/1000802/catalog-862d14527c3b.webp",
-        "images/exhibitors/1000802/catalog-61d4f2888952.webp",
-        "images/exhibitors/1000802/catalog-c5f85db80951.webp",
-        "images/exhibitors/1000802/catalog-cf58ce073702.webp",
-        "images/exhibitors/1000802/catalog-ddbfbd8aa3d2.webp"
+        "images/exhibitors/1000802/catalog-72184fda83ae.webp",
+        "images/exhibitors/1000802/catalog-83487eb57078.webp",
+        "images/exhibitors/1000802/catalog-a2baff0565a0.webp",
+        "images/exhibitors/1000802/catalog-229ba22c86e2.webp",
+        "images/exhibitors/1000802/catalog-b8c07690d8be.webp"
       ]
     },
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
       "https://discord.com/channels/414798501625724949/415160052555710474/1543816704428220438",
-      "https://discord.com/channels/414798501625724949/643462234743242783/1544609370212540456"
+      "https://discord.com/channels/414798501625724949/643462234743242783/1544609370212540456",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561769034343784468"
     ]
   },
   {
@@ -30167,14 +30184,29 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "Formula 1",
+      "Amelie",
+      "Marty Supreme",
+      "Portrait of a Lady on Fire",
+      "Blade Runner 2049",
+      "Project Hail Mary",
+      "Original"
+    ],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1001024/catalog-25cdb5dfdb0c.webp",
+      "gallery": [
+        "images/exhibitors/1001024/catalog-25cdb5dfdb0c.webp",
+        "images/exhibitors/1001024/catalog-c3fcbcdca93e.webp",
+        "images/exhibitors/1001024/catalog-b5d3c9fdf165.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561780951766536224"
+    ]
   },
   {
     "id": "1001025",
@@ -32153,11 +32185,26 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "Dragon Age: Origins",
+      "Dragon Age II",
+      "Dragon Age: Inquisition",
+      "Baldur's Gate 3",
+      "Warframe",
+      "Cyberpunk 2077",
+      "American McGee's Alice",
+      "DOOM",
+      "FAITH: The Unholy Trinity"
+    ],
     "offerings": [],
     "assets": {
       "thumbnail": "images/exhibitors/1001089/catalog-88650595e8d5.webp",
       "gallery": [
+        "images/exhibitors/1001089/catalog-a1f2e6b9f18f.webp",
+        "images/exhibitors/1001089/catalog-f0ddcf75f541.webp",
+        "images/exhibitors/1001089/catalog-faee3b2d618b.webp",
+        "images/exhibitors/1001089/catalog-8390ace44e36.webp",
+        "images/exhibitors/1001089/catalog-0d532425c18f.webp",
         "images/exhibitors/1001089/catalog-88650595e8d5.webp",
         "images/exhibitors/1001089/catalog-a61e581406e0.webp",
         "images/exhibitors/1001089/catalog-58b6d7917229.webp"
@@ -32166,7 +32213,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1558858699819192350"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1558858699819192350",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561748568958836858"
     ]
   },
   {
@@ -32318,14 +32366,26 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "JoJo's Bizarre Adventure",
+      "Reverse 1999"
+    ],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1001095/catalog-1d1a104d2bdb.webp",
+      "gallery": [
+        "images/exhibitors/1001095/catalog-1d1a104d2bdb.webp",
+        "images/exhibitors/1001095/catalog-2188390bc426.webp",
+        "images/exhibitors/1001095/catalog-09ce5834fd37.webp",
+        "images/exhibitors/1001095/catalog-915039a2b30c.webp",
+        "images/exhibitors/1001095/catalog-8710b599de08.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561739103395913768"
+    ]
   },
   {
     "id": "1001096",
@@ -35385,12 +35445,26 @@
       "Metal Gear Rising",
       "Arknights",
       "Ai: The Somnium Files",
-      "Spirit Hunter: Death Mark"
+      "Spirit Hunter: Death Mark",
+      "HSR",
+      "Project Moon",
+      "Lobotomy Corporation",
+      "Fate/Grand Order"
     ],
     "offerings": [],
     "assets": {
       "thumbnail": "images/exhibitors/1001186/catalog-16618093c8f4.webp",
       "gallery": [
+        "images/exhibitors/1001186/catalog-f9479ee9aafc.webp",
+        "images/exhibitors/1001186/catalog-f57a51eb01db.webp",
+        "images/exhibitors/1001186/catalog-2dfdb9a9ab1c.webp",
+        "images/exhibitors/1001186/catalog-3f4c94ad5e58.webp",
+        "images/exhibitors/1001186/catalog-c6d7f0ceafe0.webp",
+        "images/exhibitors/1001186/catalog-59f03656eb75.webp",
+        "images/exhibitors/1001186/catalog-e853b2d00fed.webp",
+        "images/exhibitors/1001186/catalog-16a5fc25b07e.webp",
+        "images/exhibitors/1001186/catalog-d66396b1a5ee.webp",
+        "images/exhibitors/1001186/catalog-9cd67e8ae348.webp",
         "images/exhibitors/1001186/catalog-16618093c8f4.webp",
         "images/exhibitors/1001186/catalog-cc4dde090273.webp",
         "images/exhibitors/1001186/catalog-1a81bb4060ea.webp",
@@ -35405,7 +35479,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1544589521692139530"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1544589521692139530",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561735622006145076"
     ]
   },
   {
@@ -39218,22 +39293,30 @@
       "Madness Combat",
       "Nullscape",
       "Deltarune",
-      "Fact Attack Adventures"
+      "Fact Attack Adventures",
+      "Project Moon",
+      "ULTRAKILL",
+      "Homestuck",
+      "Endacopia",
+      "Psychopomp"
     ],
     "offerings": [],
     "assets": {
-      "thumbnail": "images/exhibitors/1001302/catalog-7abbc924c67b.webp",
+      "thumbnail": "images/exhibitors/1001302/catalog-0cc4b8e48d0f.webp",
       "gallery": [
-        "images/exhibitors/1001302/catalog-7abbc924c67b.webp",
-        "images/exhibitors/1001302/catalog-569f321d1c0a.webp",
-        "images/exhibitors/1001302/catalog-bca6c674ccd4.webp",
-        "images/exhibitors/1001302/catalog-c699d1f453f6.webp"
+        "images/exhibitors/1001302/catalog-0cc4b8e48d0f.webp",
+        "images/exhibitors/1001302/catalog-a9d5c4b601d7.webp",
+        "images/exhibitors/1001302/catalog-22ce7b70a58c.webp",
+        "images/exhibitors/1001302/catalog-a2ef0d5a65d4.webp",
+        "images/exhibitors/1001302/catalog-a2a2e34219b6.webp",
+        "images/exhibitors/1001302/catalog-9a5b7fe62d70.webp"
       ]
     },
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1555846700772360274"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1555846700772360274",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561768573834366996"
     ]
   },
   {
@@ -43779,14 +43862,29 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "Project Hail Mary",
+      "RGCU",
+      "Iron Lung",
+      "Resident Evil"
+    ],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1001455/catalog-25d93fcbac4b.webp",
+      "gallery": [
+        "images/exhibitors/1001455/catalog-25d93fcbac4b.webp",
+        "images/exhibitors/1001455/catalog-b74c18a4eee7.webp",
+        "images/exhibitors/1001455/catalog-b40e97f5cf34.webp",
+        "images/exhibitors/1001455/catalog-5862e2acf63e.webp",
+        "images/exhibitors/1001455/catalog-1fe8131b266c.webp",
+        "images/exhibitors/1001455/catalog-0c28cef0bccd.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561789044067930223"
+    ]
   },
   {
     "id": "1001456",
@@ -45576,6 +45674,7 @@
     "assets": {
       "thumbnail": "images/exhibitors/1001515/catalog-214608af47d7.webp",
       "gallery": [
+        "images/exhibitors/1001515/catalog-4a932149db0d.webp",
         "images/exhibitors/1001515/catalog-214608af47d7.webp",
         "images/exhibitors/1001515/catalog-c34706a669e5.webp",
         "images/exhibitors/1001515/catalog-8f5a9b0b1633.webp",
@@ -45591,7 +45690,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1558560514664304650"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1558560514664304650",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561747809059733536"
     ]
   },
   {
@@ -48222,12 +48322,19 @@
       "LADS",
       "link Click",
       "TBHX",
-      "Tears of Themis"
+      "Tears of Themis",
+      "Love and Deepspace",
+      "To Be Hero X"
     ],
     "offerings": [],
     "assets": {
       "thumbnail": "images/exhibitors/1001602/catalog-e11fadaa599f.webp",
       "gallery": [
+        "images/exhibitors/1001602/catalog-805aacc7db9d.webp",
+        "images/exhibitors/1001602/catalog-eeb5787e1e76.webp",
+        "images/exhibitors/1001602/catalog-171aa69b3199.webp",
+        "images/exhibitors/1001602/catalog-1fb14a535fb7.webp",
+        "images/exhibitors/1001602/catalog-62e98283327c.webp",
         "images/exhibitors/1001602/catalog-e11fadaa599f.webp",
         "images/exhibitors/1001602/catalog-7d3b4d34c88b.webp",
         "images/exhibitors/1001602/catalog-2cd5e85542c3.webp",
@@ -48238,7 +48345,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1553960613430960240"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1553960613430960240",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561744178898145300"
     ]
   },
   {
@@ -48653,14 +48761,37 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "Jujutsu Kaisen",
+      "Persona 3",
+      "Persona 4",
+      "Persona 5",
+      "Ghibli",
+      "Play It Cool Guys!",
+      "Hunter x Hunter",
+      "Love and Deepspace",
+      "Original"
+    ],
     "offerings": [],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1001615/catalog-94d378f63594.webp",
+      "gallery": [
+        "images/exhibitors/1001615/catalog-94d378f63594.webp",
+        "images/exhibitors/1001615/catalog-cc5b8c88c76f.webp",
+        "images/exhibitors/1001615/catalog-b8f26325472e.webp",
+        "images/exhibitors/1001615/catalog-328cc9c190cc.webp",
+        "images/exhibitors/1001615/catalog-612a5605b02c.webp",
+        "images/exhibitors/1001615/catalog-6165c63e8067.webp",
+        "images/exhibitors/1001615/catalog-7840918e2d9d.webp",
+        "images/exhibitors/1001615/catalog-1a82bd0a0358.webp",
+        "images/exhibitors/1001615/catalog-9a4616a2743d.webp"
+      ]
     },
     "links": [],
-    "catalogUrl": null
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561777497849204847"
+    ]
   },
   {
     "id": "1001616",
@@ -51960,10 +52091,12 @@
     "assets": {
       "thumbnail": "images/exhibitors/1001726/catalog-767b2208195c.webp",
       "gallery": [
-        "images/exhibitors/1001726/catalog-767b2208195c.webp",
+        "images/exhibitors/1001726/catalog-beab0be22c3a.webp",
         "images/exhibitors/1001726/catalog-76c56be0768b.webp",
         "images/exhibitors/1001726/catalog-27a9ad803bb3.webp",
         "images/exhibitors/1001726/catalog-8a2b9ab485a7.webp",
+        "images/exhibitors/1001726/catalog-7308a668b230.webp",
+        "images/exhibitors/1001726/catalog-767b2208195c.webp",
         "images/exhibitors/1001726/catalog-2bf3bc590cca.webp",
         "images/exhibitors/1001726/catalog-167754bd9ae0.webp",
         "images/exhibitors/1001726/catalog-447c22469e17.webp",
@@ -51975,7 +52108,8 @@
     "catalogUrl": null,
     "sourceUrls": [
       "https://discord.com/channels/414798501625724949/415160052555710474/1560544057002823801",
-      "https://discord.com/channels/414798501625724949/415160052555710474/1551479265734951014"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1551479265734951014",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561734691797733446"
     ]
   },
   {
@@ -58950,7 +59084,9 @@
       "Stella Sora",
       "Hoyoverse",
       "Kancolle",
-      "NTE"
+      "NTE",
+      "Arknights Endfield",
+      "Wuthering Waves"
     ],
     "offerings": [],
     "assets": {
@@ -58970,7 +59106,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1561335360494116934"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561335360494116934",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561734986078617620"
     ]
   },
   {
@@ -59269,11 +59406,23 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
+    "fandoms": [
+      "BanG Dream! Our Notes",
+      "MyGO",
+      "Ave Mujica",
+      "Mugendai Mewtype",
+      "Millsage",
+      "Ikka Dumb Rock"
+    ],
     "offerings": [],
     "assets": {
       "thumbnail": "images/exhibitors/1001962/catalog-5f93c3c160df.webp",
       "gallery": [
+        "images/exhibitors/1001962/catalog-784a3ba9dd74.webp",
+        "images/exhibitors/1001962/catalog-d7c27074809a.webp",
+        "images/exhibitors/1001962/catalog-5d5ee9415249.webp",
+        "images/exhibitors/1001962/catalog-940b4723bb3e.webp",
+        "images/exhibitors/1001962/catalog-f449023dc1ea.webp",
         "images/exhibitors/1001962/catalog-5f93c3c160df.webp",
         "images/exhibitors/1001962/catalog-b6f602a72096.webp",
         "images/exhibitors/1001962/catalog-adfe1b8941ad.webp",
@@ -59284,7 +59433,8 @@
     "links": [],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://discord.com/channels/414798501625724949/415160052555710474/1560255636347031552"
+      "https://discord.com/channels/414798501625724949/415160052555710474/1560255636347031552",
+      "https://discord.com/channels/414798501625724949/415160052555710474/1561781060529037392"
     ]
   }
 ]
