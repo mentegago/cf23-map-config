@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-JNfymuSfm51xr6QZbcJgsqU1ai9QLk6sLGtUw0zK9E8\"",
-    "lastModified": "Sun, 18 Oct 2026 04:00:22 GMT",
+    "etag": "\"sha256-DClOapUmRWBKTiD6IZuQw-LN9CErlYWAfjSCHYt4b84\"",
+    "lastModified": "Mon, 19 Oct 2026 15:18:57 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -108,6 +108,8 @@
         "Gensin Impact",
         "GI",
         "Gneshin Impact",
+        "kavetham",
+        "Tartali",
         "‎Genshin"
       ]
     },
@@ -592,6 +594,7 @@
       "parentId": null,
       "alternateNames": [
         "Persona games",
+        "Persona MCs",
         "Persona series",
         "Persona Series (atlus)",
         "Persona."
@@ -745,6 +748,7 @@
       "kind": "publisher_umbrella",
       "parentId": null,
       "alternateNames": [
+        "Hela",
         "Marvel Comics",
         "Marvel Studios",
         "Marvel Universe"
@@ -773,6 +777,8 @@
         "Arknights : Enfield",
         "Arknights Endfield",
         "Arknights Enfield",
+        "Arknights+Endfield",
+        "Arknights/Enfield",
         "Arknights: Enfield",
         "Arknights:Endfield",
         "Arknikght: Endfield",
@@ -786,7 +792,8 @@
       "parentId": null,
       "alternateNames": [
         "K-Pop (NCT WISH, Super Junior, Hearts2Hearts)",
-        "Kpop"
+        "Kpop",
+        "KPOP Groups"
       ]
     },
     {
@@ -814,8 +821,10 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Sage",
         "Sonic",
-        "Sonic (Stobotnik, Eggman Empire)"
+        "Sonic (Stobotnik, Eggman Empire)",
+        "Stobotnik"
       ]
     },
     {
@@ -870,6 +879,7 @@
       "parentId": null,
       "alternateNames": [
         "R1999",
+        "R:1999",
         "Re:99",
         "Reserve:1999",
         "Reverse",
@@ -917,6 +927,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "SDV",
         "Stardew"
       ]
     },
@@ -989,7 +1000,9 @@
       "name": "Arcane",
       "kind": "franchise",
       "parentId": 173,
-      "alternateNames": []
+      "alternateNames": [
+        "Jayvik"
+      ]
     },
     {
       "id": 61,
@@ -1001,6 +1014,7 @@
         "madoka magica",
         "madoka magika",
         "Madomagi",
+        "MMMM",
         "pmmm"
       ]
     },
@@ -1017,6 +1031,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Adv Time",
         "Bubbline"
       ]
     },
@@ -1049,14 +1064,16 @@
       "alternateNames": [
         "Gag Roblox",
         "Roblox ARG",
-        "Roblox games"
+        "Roblox ARGs",
+        "Roblox games",
+        "Roblox Misc"
       ]
     },
     {
       "id": 67,
       "name": "Heated Rivalry",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 2576,
       "alternateNames": []
     },
     {
@@ -1076,7 +1093,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "mlp"
+        "mlp",
+        "My little ponny"
       ]
     },
     {
@@ -1120,6 +1138,7 @@
         "Needy Streamer",
         "needy streamer girl",
         "Needy Streamer Overdose",
+        "NGO",
         "NSO",
         "⁠NSO"
       ]
@@ -1328,7 +1347,8 @@
         "5",
         "P5",
         "Persona 3-5",
-        "Persona5"
+        "Persona5",
+        "ShuAke"
       ]
     },
     {
@@ -1443,7 +1463,8 @@
       "parentId": null,
       "alternateNames": [
         "Tranformers",
-        "Transformer"
+        "Transformer",
+        "Transum"
       ]
     },
     {
@@ -1514,6 +1535,8 @@
       "alternateNames": [
         "Pandava",
         "pandavva Vtuber",
+        "Pandavvatachi",
+        "Pandawa",
         "PDVV"
       ]
     },
@@ -1739,6 +1762,7 @@
         "Jojo's Bizzare",
         "Jojo's Bizzare Adventure",
         "Jojo's Bizzarre Adventure",
+        "Jojo’s Bizare Advanture",
         "JOJO’S BIZARRE ADVENTURE",
         "Jojo’s Bizarre Adventures"
       ]
@@ -2249,7 +2273,8 @@
       "parentId": 10,
       "alternateNames": [
         "Holostar",
-        "Holostars etc"
+        "Holostars etc",
+        "Holostars JP"
       ]
     },
     {
@@ -2275,7 +2300,8 @@
       "parentId": null,
       "alternateNames": [
         "Fear and Hunger",
-        "Fear&hunger"
+        "Fear&hunger",
+        "FnH"
       ]
     },
     {
@@ -2305,6 +2331,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Heaven Offical Blessing",
         "Heaven official Blessing",
         "Heaven Official Blessings",
         "Heaven Official's Blessing (TGCF)",
@@ -2324,6 +2351,7 @@
       "parentId": 97,
       "alternateNames": [
         "Hollow Knight Silksong",
+        "Silk song",
         "Silksong"
       ]
     },
@@ -2480,7 +2508,9 @@
       "name": "Golden Kamuy",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "GK"
+      ]
     },
     {
       "id": 202,
@@ -2666,6 +2696,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "OnK",
         "oshinoko"
       ]
     },
@@ -2858,6 +2889,7 @@
       "kind": "franchise",
       "parentId": 29,
       "alternateNames": [
+        "4",
         "Persona 3-5"
       ]
     },
@@ -2873,7 +2905,9 @@
       "name": "Fire Emblem",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Soleil"
+      ]
     },
     {
       "id": 243,
@@ -2989,9 +3023,11 @@
         "Panty & Stocking With Garterbelt (pswg)",
         "panty and stocking",
         "Panty And Stocking With Garterbelt (paswg)",
+        "Panty and stocking with gatherbelt",
         "Panty Stocking",
         "PASWG",
         "PnSwG",
+        "PSG",
         "pswg"
       ]
     },
@@ -3013,6 +3049,7 @@
       "kind": "publisher_umbrella",
       "parentId": 177,
       "alternateNames": [
+        "EN",
         "Holostar EN",
         "HOLOSTARS EN",
         "Holostars-EN",
@@ -3059,7 +3096,8 @@
         "Avatar Legend of Aang",
         "Avatar the Last Airbender",
         "Avatar The Last Of Airbender",
-        "Avatar the Legend of Aang"
+        "Avatar the Legend of Aang",
+        "avatar/atla"
       ]
     },
     {
@@ -3077,6 +3115,7 @@
       "alternateNames": [
         "PGR",
         "Punishin: Gray Raven",
+        "Punishing Gray Rave",
         "punishing gray raven"
       ]
     },
@@ -3141,7 +3180,8 @@
       "alternateNames": [
         "Doremi",
         "Magical Do Re Mi",
-        "Ojamajo Doremi"
+        "Ojamajo Doremi",
+        "Ojomajo DoReMi"
       ]
     },
     {
@@ -3185,11 +3225,13 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "ML",
         "MLBB",
         "Mobile Legend",
         "Mobile Legend Bang-bang",
         "mobile legends",
-        "Mobile Legends : bang bang"
+        "Mobile Legends : bang bang",
+        "Mobile Legends Bang Bang"
       ]
     },
     {
@@ -3251,7 +3293,8 @@
       "kind": "franchise",
       "parentId": 41,
       "alternateNames": [
-        "Spiderman"
+        "Spiderman",
+        "Spiderman BND"
       ]
     },
     {
@@ -3314,7 +3357,9 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Yuukoku no Moriarty"
+        "MTP",
+        "Yuukoku no Moriarty",
+        "Yuumori"
       ]
     },
     {
@@ -3462,6 +3507,7 @@
       "kind": "individual",
       "parentId": 5,
       "alternateNames": [
+        "Katane Teto",
         "Teto"
       ]
     },
@@ -3586,7 +3632,9 @@
       "alternateNames": [
         "Metaphor",
         "Metaphor : ReFantazio",
+        "Metaphor Re Fantazio",
         "Metaphor Re: Fantazio",
+        "Metaphor Re:Fantazio",
         "Metaphor Refantasio",
         "Metaphor Refantazio",
         "Metaphor Refantazio (persona)",
@@ -3640,6 +3688,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Ene Kagepro",
         "Kagepro",
         "Kagerou Project (Mekakucity Actors)"
       ]
@@ -3815,6 +3864,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "TMM",
         "Tokyo MewMew"
       ]
     },
@@ -3824,6 +3874,7 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": [
+        "Indonesian Public Transport",
         "Public Transportation",
         "Transportasi Umum"
       ]
@@ -4020,6 +4071,7 @@
       "parentId": 40,
       "alternateNames": [
         "ID",
+        "Niji EX-ID",
         "Nijisanji Ex-Id",
         "Nijisanji ex-id (NijiID)",
         "NijisanjiID"
@@ -4064,6 +4116,7 @@
       "alternateNames": [
         "Kaoru Hana",
         "Kaoru Hana wa Rin to Saku",
+        "Kaoru Rin",
         "Kaoru-hana",
         "Kaoruhana"
       ]
@@ -4204,7 +4257,9 @@
       "name": "The Freak Circus",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Freak Circus"
+      ]
     },
     {
       "id": 385,
@@ -4273,7 +4328,9 @@
       "name": "Drakengard",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "DOD"
+      ]
     },
     {
       "id": 395,
@@ -4456,7 +4513,7 @@
       "id": 415,
       "name": "Pokopia",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 11,
       "alternateNames": []
     },
     {
@@ -4470,7 +4527,8 @@
         "Sky Children Of The Light",
         "Sky cotl",
         "Sky: Children of Light",
-        "Sky:Cotl"
+        "Sky:Cotl",
+        "SkyCOTL"
       ]
     },
     {
@@ -4511,7 +4569,8 @@
       "kind": "franchise",
       "parentId": 62,
       "alternateNames": [
-        "HC"
+        "HC",
+        "Hermit craft"
       ]
     },
     {
@@ -4621,7 +4680,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Veil (koteri)"
+        "Veil (koteri)",
+        "Veil: kotteri"
       ]
     },
     {
@@ -4741,6 +4801,8 @@
         "mairimashita iruma-kun",
         "Mairimashita! Iruma-kun",
         "Mairimashita! Iruma-kun (if: Mafia Au)",
+        "mairuma",
+        "Marimashita! Iruma-kun",
         "Welcome to Demon School Iruma-kun"
       ]
     },
@@ -4801,6 +4863,7 @@
       "parentId": null,
       "alternateNames": [
         "Infinitty Nikki",
+        "Infinity",
         "Nikki"
       ]
     },
@@ -5005,7 +5068,8 @@
       "kind": "individual",
       "parentId": null,
       "alternateNames": [
-        "J-Pop: Yorushika"
+        "J-Pop: Yorushika",
+        "YORUSHKA"
       ]
     },
     {
@@ -5055,6 +5119,7 @@
       "kind": "publisher_umbrella",
       "parentId": 10,
       "alternateNames": [
+        "EN",
         "Holo EN",
         "Holoen",
         "Hololive EN",
@@ -5322,6 +5387,7 @@
         "GDCG",
         "Gdcg 괴담출근",
         "Ghost Stories Still Gotta Work",
+        "GSG2",
         "GSGW",
         "Still Gotta Work",
         "Still Gotta Work (GSGW)"
@@ -6055,7 +6121,8 @@
       "kind": "franchise",
       "parentId": 109,
       "alternateNames": [
-        "nezha 2"
+        "nezha 2",
+        "Nezha2"
       ]
     },
     {
@@ -6111,6 +6178,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "QZGS",
         "The Kings Avatar"
       ]
     },
@@ -6165,7 +6233,8 @@
       "kind": "franchise",
       "parentId": 128,
       "alternateNames": [
-        "Jojo: SBR"
+        "Jojo: SBR",
+        "SBR"
       ]
     },
     {
@@ -6443,6 +6512,7 @@
       "parentId": 154,
       "alternateNames": [
         "Breath of The Wild",
+        "The Legend of Zela: BOTW",
         "Zelda Breath of the Wild"
       ]
     },
@@ -6577,7 +6647,8 @@
         "Rpg Horor Game",
         "RPG Horror",
         "RPG horror game",
-        "RPG Maker Horror Games"
+        "RPG Maker Horror Games",
+        "RPGMaker Horror Games"
       ]
     },
     {
@@ -6599,6 +6670,7 @@
       "kind": "franchise",
       "parentId": 252,
       "alternateNames": [
+        "RDR II",
         "RDR2",
         "Red Dead Redemption 2 (RDR 2)"
       ]
@@ -7063,7 +7135,9 @@
       "name": "14 Days With You",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "14dwy"
+      ]
     },
     {
       "id": 734,
@@ -7202,8 +7276,9 @@
       "id": 752,
       "name": "A Knight of the Seven Kingdoms",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 861,
       "alternateNames": [
+        "AKOTSK",
         "AKOTSK (a knight of the seven kingdoms)"
       ]
     },
@@ -7296,7 +7371,9 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Honor of king"
+        "HOK",
+        "Honor of king",
+        "KOG"
       ]
     },
     {
@@ -7897,7 +7974,8 @@
         "Gquuuuuux",
         "Gquuuux",
         "Gqux",
-        "Gundam GQuuuuuuX"
+        "Gundam GQuuuuuuX",
+        "gundam gquuuuux"
       ]
     },
     {
@@ -8252,7 +8330,8 @@
       "parentId": null,
       "alternateNames": [
         "dr who",
-        "Dr. Who"
+        "Dr. Who",
+        "DW"
       ]
     },
     {
@@ -8909,7 +8988,9 @@
       "name": "Sugar Sugar Rune",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Sugar Rune"
+      ]
     },
     {
       "id": 966,
@@ -9250,6 +9331,8 @@
         "Ganbare Nakamura kun",
         "Ganbare Nakamura-kun!",
         "Go For It",
+        "Go For It Nakamura",
+        "Go for it! Nakamura",
         "nakamura kun",
         "Nakamura-kun!"
       ]
@@ -9266,7 +9349,9 @@
       "name": "PhaseConnect",
       "kind": "publisher_umbrella",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Phase Connect"
+      ]
     },
     {
       "id": 1007,
@@ -9317,7 +9402,8 @@
         "Cyberpunk Edgegrunners",
         "Cyberpunk Edgerunner",
         "Cyberpunk Edgerunners",
-        "Edgerunner"
+        "Edgerunner",
+        "Edgerunners"
       ]
     },
     {
@@ -9719,7 +9805,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Vivy"
+        "Vivy",
+        "Vivy: Fluorite Eye’s Song"
       ]
     },
     {
@@ -9728,7 +9815,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Shiroi Suna"
+        "Shiroi Suna",
+        "Shiroi Suna no Aquatope"
       ]
     },
     {
@@ -9748,6 +9836,7 @@
       "parentId": null,
       "alternateNames": [
         "Magirevo",
+        "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
         "tentenkakumei"
       ]
     },
@@ -9776,6 +9865,7 @@
       "kind": "franchise",
       "parentId": 371,
       "alternateNames": [
+        "KCD II",
         "Kingdom Come: Deliverence II"
       ]
     },
@@ -9897,7 +9987,9 @@
       "name": "13 Sentinels: Aegis Rim",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "13 Sentinels"
+      ]
     },
     {
       "id": 1082,
@@ -10500,7 +10592,8 @@
       "parentId": null,
       "alternateNames": [
         "Lord Of The Ring",
-        "Lord of The Rings"
+        "Lord of The Rings",
+        "lotr"
       ]
     },
     {
@@ -10586,7 +10679,10 @@
       "name": "Minecraft ARG",
       "kind": "franchise",
       "parentId": 62,
-      "alternateNames": []
+      "alternateNames": [
+        "ARG",
+        "MC ARG"
+      ]
     },
     {
       "id": 1170,
@@ -10699,7 +10795,8 @@
       "kind": "franchise",
       "parentId": 188,
       "alternateNames": [
-        "Fate Sf"
+        "Fate Sf",
+        "Fate Strange Fake"
       ]
     },
     {
@@ -11265,6 +11362,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "ARGONAVIS",
         "Argonavis From Bang Dream!",
         "Argovanis",
         "FromArgo"
@@ -11286,7 +11384,9 @@
       "name": "State SMP",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "StateSMP"
+      ]
     },
     {
       "id": 1262,
@@ -11397,7 +11497,8 @@
       "kind": "franchise",
       "parentId": 128,
       "alternateNames": [
-        "jojo sbr"
+        "jojo sbr",
+        "Jojo Steel Ball Run"
       ]
     },
     {
@@ -11789,7 +11890,9 @@
       "name": "Angel of Delusion",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Angels of Delusion"
+      ]
     },
     {
       "id": 1329,
@@ -12477,7 +12580,9 @@
       "name": "TPOP",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "T-Pop"
+      ]
     },
     {
       "id": 1423,
@@ -12591,7 +12696,9 @@
       "name": "Oblivion Battery",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Boukyaku Battery"
+      ]
     },
     {
       "id": 1437,
@@ -13037,6 +13144,7 @@
       "alternateNames": [
         "(SCTIR) S-CLASS THAT I RAISED",
         "S-Class I Raised",
+        "The S Classes That I Raised",
         "The S-classes That I Raised"
       ]
     },
@@ -13049,10 +13157,16 @@
     },
     {
       "id": 1498,
-      "name": "The Outcast (I Am Nobody)",
+      "name": "The Outcast (Yi Ren Zhi Xia)",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Hitori No Shita",
+        "I Am Nobody",
+        "The Outcast (i Am Nobody)",
+        "YRZX",
+        "ZHAN SHEN"
+      ]
     },
     {
       "id": 1499,
@@ -13594,7 +13708,8 @@
       "parentId": null,
       "alternateNames": [
         "Patrochilles",
-        "The Song of Achilles ( TSoA )"
+        "The Song of Achilles ( TSoA )",
+        "TSOA"
       ]
     },
     {
@@ -13665,7 +13780,8 @@
       "parentId": 154,
       "alternateNames": [
         "legend of zelda tears of the kingdom",
-        "Tears Of The Kingdom"
+        "Tears Of The Kingdom",
+        "Zelda: TOTK"
       ]
     },
     {
@@ -14021,7 +14137,9 @@
       "name": "Henry Stickmin",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "The Henry Stickmin Collection"
+      ]
     },
     {
       "id": 1630,
@@ -15380,14 +15498,18 @@
       "name": "Yuki Sakuna",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "yuuki sakuna"
+      ]
     },
     {
       "id": 1812,
       "name": "Epic Seven",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "E7"
+      ]
     },
     {
       "id": 1813,
@@ -15497,7 +15619,9 @@
       "name": "Boyfriend to Death",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "BTD"
+      ]
     },
     {
       "id": 1828,
@@ -16048,6 +16172,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Zombiestage",
         "ZOMST"
       ]
     },
@@ -16249,7 +16374,9 @@
       "name": "The Devil Wears Prada",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Devil Wears Prada"
+      ]
     },
     {
       "id": 1937,
@@ -16571,7 +16698,8 @@
       "kind": "franchise",
       "parentId": 1394,
       "alternateNames": [
-        "GTA 5"
+        "GTA 5",
+        "GTA V / Online"
       ]
     },
     {
@@ -16841,7 +16969,8 @@
         "All fandoms based on request",
         "Miscellaneous Fandom",
         "multi fandom",
-        "multifandom"
+        "multifandom",
+        "Various"
       ]
     },
     {
@@ -16856,7 +16985,9 @@
       "name": "Project Voltage",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Project Volatge"
+      ]
     },
     {
       "id": 2031,
@@ -16887,7 +17018,9 @@
       "name": "Yumeiro Patissiere",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Yumeiro"
+      ]
     },
     {
       "id": 2035,
@@ -17773,7 +17906,9 @@
       "name": "Keroro Gunso",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "keroro"
+      ]
     },
     {
       "id": 2151,
@@ -19333,7 +19468,9 @@
       "name": "Dororo",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "DORO"
+      ]
     },
     {
       "id": 2374,
@@ -19883,7 +20020,9 @@
       "name": "Bloody Mary",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Bloodymary"
+      ]
     },
     {
       "id": 2452,
@@ -20051,7 +20190,10 @@
       "name": "Among Us",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Among Us Series",
+        "Among us show"
+      ]
     },
     {
       "id": 2477,
@@ -20116,7 +20258,9 @@
       "name": "The Backrooms",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Backrooms"
+      ]
     },
     {
       "id": 2486,
@@ -20137,7 +20281,9 @@
       "name": "The Artist Who Paints Dungeon",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Dungeon Painter /던그화"
+      ]
     },
     {
       "id": 2489,
@@ -20224,6 +20370,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "All Wishes Come True",
+        "Ba Xian",
         "Baxian / All Wishes Come True"
       ]
     },
@@ -20292,7 +20440,9 @@
       "name": "The Stone Roses",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Stone Roses"
+      ]
     },
     {
       "id": 2510,
@@ -20320,7 +20470,9 @@
       "name": "The Stanley Parable",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "TSP"
+      ]
     },
     {
       "id": 2514,
@@ -20407,6 +20559,1084 @@
       "kind": "franchise",
       "parentId": 88,
       "alternateNames": []
+    },
+    {
+      "id": 2529,
+      "name": "Yani Neko",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "yanineko",
+        "Yanineko Chainsmoker Cat"
+      ]
+    },
+    {
+      "id": 2530,
+      "name": "5 Seconds of Summer",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "5SOS"
+      ]
+    },
+    {
+      "id": 2531,
+      "name": "Absurd Cats",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2532,
+      "name": "Apollo Justice: Ace Attorney",
+      "kind": "franchise",
+      "parentId": 98,
+      "alternateNames": [
+        "Ace Attorney 4"
+      ]
+    },
+    {
+      "id": 2533,
+      "name": "A Dance with Dragons",
+      "kind": "franchise",
+      "parentId": 861,
+      "alternateNames": [
+        "ADWD"
+      ]
+    },
+    {
+      "id": 2534,
+      "name": "Agatha All Along",
+      "kind": "franchise",
+      "parentId": 41,
+      "alternateNames": []
+    },
+    {
+      "id": 2535,
+      "name": "Animator vs. Animation",
+      "kind": "franchise",
+      "parentId": 1168,
+      "alternateNames": [
+        "Animation vs Animator",
+        "Animator vs Animations"
+      ]
+    },
+    {
+      "id": 2536,
+      "name": "Animation vs. Minecraft",
+      "kind": "franchise",
+      "parentId": 1168,
+      "alternateNames": [
+        "Animations vs Minecraft"
+      ]
+    },
+    {
+      "id": 2537,
+      "name": "Alien",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "alien-xenomorph"
+      ]
+    },
+    {
+      "id": 2538,
+      "name": "Ame Kipli",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2539,
+      "name": "Animal Hospital",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2540,
+      "name": "Argenthill",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2541,
+      "name": "Art of Nature",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2542,
+      "name": "AVENDAY",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2543,
+      "name": "BanG Dream! Our Notes",
+      "kind": "franchise",
+      "parentId": 111,
+      "alternateNames": [
+        "BangDream Our Notes"
+      ]
+    },
+    {
+      "id": 2544,
+      "name": "Beyblade",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2545,
+      "name": "Blood River",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2546,
+      "name": "Brutal: Satsujin Kansatsukan no Kokuhaku",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Brutal Satsujin: Kansatsukan no Kokuhaku"
+      ]
+    },
+    {
+      "id": 2547,
+      "name": "Bully (Canis Canem Edit)",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Bully CCE"
+      ]
+    },
+    {
+      "id": 2548,
+      "name": "Chilumi (Childe/Lumine)",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": [
+        "chilumi"
+      ]
+    },
+    {
+      "id": 2549,
+      "name": "Christian Art",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2550,
+      "name": "Classroom of the Elite",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2551,
+      "name": "Code Atma",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2552,
+      "name": "Uruca",
+      "kind": "individual",
+      "parentId": 1227,
+      "alternateNames": []
+    },
+    {
+      "id": 2553,
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? (DanMachi)",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Danmachi"
+      ]
+    },
+    {
+      "id": 2554,
+      "name": "Dark Fantasy",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2555,
+      "name": "Denimalz",
+      "kind": "franchise",
+      "parentId": 698,
+      "alternateNames": []
+    },
+    {
+      "id": 2556,
+      "name": "Don't Hug Me I'm Scared",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "DHMIS"
+      ]
+    },
+    {
+      "id": 2557,
+      "name": "Paleo",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2558,
+      "name": "Devil May Cry 3",
+      "kind": "franchise",
+      "parentId": 89,
+      "alternateNames": [
+        "DMC3"
+      ]
+    },
+    {
+      "id": 2559,
+      "name": "Drive",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2560,
+      "name": "Drunken Goddess",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2561,
+      "name": "Dayshift at Freddy's",
+      "kind": "franchise",
+      "parentId": 137,
+      "alternateNames": [
+        "DSAF"
+      ]
+    },
+    {
+      "id": 2562,
+      "name": "Duel Masters",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "duema"
+      ]
+    },
+    {
+      "id": 2563,
+      "name": "Ebu-Hosu",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Club One",
+        "Everyday Host"
+      ]
+    },
+    {
+      "id": 2564,
+      "name": "Endacopia",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2565,
+      "name": "ENDER LILIES: Quietus of the Knights",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Ender Lilies"
+      ]
+    },
+    {
+      "id": 2566,
+      "name": "Tohoshinki (TVXQ)",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "Eoshinki"
+      ]
+    },
+    {
+      "id": 2567,
+      "name": "Fact Attack Adventures",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2568,
+      "name": "Fairy",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2569,
+      "name": "Faker (Lee Sang-hyeok)",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "Faker"
+      ]
+    },
+    {
+      "id": 2570,
+      "name": "Fallout 4",
+      "kind": "franchise",
+      "parentId": 368,
+      "alternateNames": []
+    },
+    {
+      "id": 2571,
+      "name": "Femtanyl",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2572,
+      "name": "Final Fantasy IV",
+      "kind": "franchise",
+      "parentId": 88,
+      "alternateNames": []
+    },
+    {
+      "id": 2573,
+      "name": "Final Fantasy VI",
+      "kind": "franchise",
+      "parentId": 88,
+      "alternateNames": []
+    },
+    {
+      "id": 2574,
+      "name": "Final Fantasy XIII",
+      "kind": "franchise",
+      "parentId": 88,
+      "alternateNames": []
+    },
+    {
+      "id": 2575,
+      "name": "Five Nights at Freddy's: Security Breach",
+      "kind": "franchise",
+      "parentId": 137,
+      "alternateNames": [
+        "FNAF: Security Breach"
+      ]
+    },
+    {
+      "id": 2576,
+      "name": "Game Changers (Rachel Reid series)",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Game Changers"
+      ]
+    },
+    {
+      "id": 2577,
+      "name": "Into the Breach",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "ITB"
+      ]
+    },
+    {
+      "id": 2578,
+      "name": "The Quintessential Quintuplets",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Gotoubun no Hanayome"
+      ]
+    },
+    {
+      "id": 2579,
+      "name": "GRAVT",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2580,
+      "name": "Guts and Blackpowder",
+      "kind": "franchise",
+      "parentId": 66,
+      "alternateNames": [
+        "Guts and Blackpoweder"
+      ]
+    },
+    {
+      "id": 2581,
+      "name": "Shawn Michaels",
+      "kind": "individual",
+      "parentId": 1463,
+      "alternateNames": [
+        "HBK"
+      ]
+    },
+    {
+      "id": 2582,
+      "name": "HernaRich",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2583,
+      "name": "Historical Figures",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2584,
+      "name": "HNDR",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2585,
+      "name": "hololive Gamers",
+      "kind": "publisher_umbrella",
+      "parentId": 950,
+      "alternateNames": []
+    },
+    {
+      "id": 2586,
+      "name": "THE IDOLM@STER Cinderella Girls U149",
+      "kind": "franchise",
+      "parentId": 993,
+      "alternateNames": [
+        "Idolmaster Cinderella Girl U149"
+      ]
+    },
+    {
+      "id": 2587,
+      "name": "Inazuma Eleven GO",
+      "kind": "franchise",
+      "parentId": 1464,
+      "alternateNames": []
+    },
+    {
+      "id": 2588,
+      "name": "Shining Nikki",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Shining"
+      ]
+    },
+    {
+      "id": 2589,
+      "name": "Love Nikki",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2590,
+      "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Kamiina Botan"
+      ]
+    },
+    {
+      "id": 2591,
+      "name": "Kanojo Okarishimasu",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Kanokari"
+      ]
+    },
+    {
+      "id": 2592,
+      "name": "Ken Sato",
+      "kind": "individual",
+      "parentId": 1781,
+      "alternateNames": []
+    },
+    {
+      "id": 2593,
+      "name": "KREW",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2594,
+      "name": "Kuloniku",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2595,
+      "name": "LOT",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2596,
+      "name": "Luka",
+      "kind": "individual",
+      "parentId": 6,
+      "alternateNames": []
+    },
+    {
+      "id": 2597,
+      "name": "LXH",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2598,
+      "name": "Madness Combat",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2599,
+      "name": "Majin Tantei Nougami Neuro",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2600,
+      "name": "Magical Girl Witch Trial",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Manosaba",
+        "MGWT"
+      ]
+    },
+    {
+      "id": 2601,
+      "name": "Jeff the Land Shark",
+      "kind": "individual",
+      "parentId": 41,
+      "alternateNames": []
+    },
+    {
+      "id": 2602,
+      "name": "Marvel Tokon: Fighting Souls",
+      "kind": "franchise",
+      "parentId": 41,
+      "alternateNames": [
+        "Marvel Tokon"
+      ]
+    },
+    {
+      "id": 2603,
+      "name": "Matara Kan",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2604,
+      "name": "Metal Cardbot",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2605,
+      "name": "Metal Gear Rising",
+      "kind": "franchise",
+      "parentId": 1446,
+      "alternateNames": []
+    },
+    {
+      "id": 2606,
+      "name": "Akita Neru",
+      "kind": "individual",
+      "parentId": 5,
+      "alternateNames": [
+        "NERU"
+      ]
+    },
+    {
+      "id": 2607,
+      "name": "MINITEEN",
+      "kind": "franchise",
+      "parentId": 95,
+      "alternateNames": []
+    },
+    {
+      "id": 2608,
+      "name": "Morimens",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2609,
+      "name": "Mugendai Mewtype",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2610,
+      "name": "My Food Looks Very Cute",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2611,
+      "name": "Nanao Akari",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "Nanaoakari"
+      ]
+    },
+    {
+      "id": 2612,
+      "name": "National Hockey League",
+      "kind": "publisher_umbrella",
+      "parentId": null,
+      "alternateNames": [
+        "NHL"
+      ]
+    },
+    {
+      "id": 2613,
+      "name": "NINAH",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2614,
+      "name": "No, I'm Not a Human",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "No I'm Not A Human"
+      ]
+    },
+    {
+      "id": 2615,
+      "name": "Neverness to Everness",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "NTE"
+      ]
+    },
+    {
+      "id": 2616,
+      "name": "Olivia Rodrigo",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2617,
+      "name": "One Room TA",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2618,
+      "name": "My Teen Romantic Comedy SNAFU",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Oregairu"
+      ]
+    },
+    {
+      "id": 2619,
+      "name": "Ouro Kronii",
+      "kind": "individual",
+      "parentId": 10,
+      "alternateNames": []
+    },
+    {
+      "id": 2620,
+      "name": "Overlord",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2621,
+      "name": "Patlabor",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2622,
+      "name": "Phigros",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2623,
+      "name": "Polarity Duo",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2624,
+      "name": "Powerpuff Girls Z",
+      "kind": "franchise",
+      "parentId": 814,
+      "alternateNames": [
+        "PPGZ"
+      ]
+    },
+    {
+      "id": 2625,
+      "name": "Puzzlehead",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2626,
+      "name": "r-906",
+      "kind": "individual",
+      "parentId": 5,
+      "alternateNames": []
+    },
+    {
+      "id": 2627,
+      "name": "Radiohead",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2628,
+      "name": "Pulp",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2629,
+      "name": "Renfield",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2630,
+      "name": "Risk of Rain",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "ROR"
+      ]
+    },
+    {
+      "id": 2631,
+      "name": "Roten",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2632,
+      "name": "Sangatsu no Phantasia",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2633,
+      "name": "Sensultra",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2634,
+      "name": "Playing Death Games to Put Food on the Table",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Shibou Yuugi de Meshi wo Kuu"
+      ]
+    },
+    {
+      "id": 2635,
+      "name": "Smoking Behind the Supermarket with You",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "smoking behind the supermarket"
+      ]
+    },
+    {
+      "id": 2636,
+      "name": "Smosh",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2637,
+      "name": "Sonny Boy",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2638,
+      "name": "Sovereign Tower",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2639,
+      "name": "SPC",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2640,
+      "name": "Spirit Hunter: Death Mark",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2641,
+      "name": "Natsume",
+      "kind": "publisher_umbrella",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2642,
+      "name": "STED",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2643,
+      "name": "Super Robot Wars",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2644,
+      "name": "Super Sonico",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2645,
+      "name": "TAHUBUUL",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2646,
+      "name": "Tashiro-kun, Kimi tte Yatsu wa",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Tashiro-kun Kimi tte Yatsu Wa"
+      ]
+    },
+    {
+      "id": 2647,
+      "name": "TFC",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2648,
+      "name": "The Fall Guy",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2649,
+      "name": "The Return of Pumpkin Rabbit",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2650,
+      "name": "The Walten Files",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2651,
+      "name": "The Pokémon Company",
+      "kind": "publisher_umbrella",
+      "parentId": null,
+      "alternateNames": [
+        "TPC"
+      ]
+    },
+    {
+      "id": 2652,
+      "name": "Vision Quest",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "VisionQuest"
+      ]
+    },
+    {
+      "id": 2653,
+      "name": "VIVINOS",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2654,
+      "name": "Vivziepop",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2655,
+      "name": "VNC",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2656,
+      "name": "WandaVision",
+      "kind": "franchise",
+      "parentId": 41,
+      "alternateNames": []
+    },
+    {
+      "id": 2657,
+      "name": "Wonderful Precure!",
+      "kind": "franchise",
+      "parentId": 179,
+      "alternateNames": [
+        "Wanpuri"
+      ]
+    },
+    {
+      "id": 2658,
+      "name": "Wonderful Everyday",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2659,
+      "name": "World Cup",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2660,
+      "name": "WXWZ",
+      "kind": "franchise",
+      "parentId": 764,
+      "alternateNames": []
+    },
+    {
+      "id": 2661,
+      "name": "Yanisuu",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2662,
+      "name": "YHYJ",
+      "kind": "franchise",
+      "parentId": 1496,
+      "alternateNames": [
+        "Han Yoohyun",
+        "Han Yoojin"
+      ]
+    },
+    {
+      "id": 2663,
+      "name": "YOU and ME and HER",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2664,
+      "name": "Saga of Tanya the Evil",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Youjo Senki"
+      ]
+    },
+    {
+      "id": 2666,
+      "name": "Yuika",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2667,
+      "name": "Yunyun Syndrome!? Rhythm Psychosis",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Yunyun Syndrome"
+      ]
+    },
+    {
+      "id": 2668,
+      "name": "Z.A.T.O. // I Love the World and Everything In It",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "ZATO ILTWAEII"
+      ]
     }
   ]
 }
