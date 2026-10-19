@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-gUArCjB4pIZlUEzerPxJnM0Kbtoe5X2K4HZDaSob3iY\"",
+    "etag": "\"sha256-X2QLM070dvAGZ10T7W6w-LAl6aOkJBF93Z1mFqQYXCo\"",
     "lastModified": "Mon, 19 Oct 2026 18:37:25 GMT",
     "schemaVersion": "5"
   },
@@ -11766,13 +11766,6 @@
     {
       "id": 1312,
       "name": "Bee and PuppyCat",
-      "kind": "franchise",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
-      "id": 1313,
-      "name": "MSCH",
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []

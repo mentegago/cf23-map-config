@@ -7123,6 +7123,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "MSCH",
         "MSCH (My S-Class Hunters)",
         "My S class hunter",
         "My S-class Hunter",
@@ -19803,17 +19804,6 @@
       "parentId": null,
       "aliases": [
         "Bee and PuppyCat"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 1313,
-      "name": "MSCH",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "MSCH",
-        "S-Class/MSCH"
       ],
       "alternateNames": []
     },
