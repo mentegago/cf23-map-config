@@ -7,10 +7,15 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2337,
+    "matchedPieces": 2338,
     "ignoredPieces": 0,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 4,
+    "unknownSourceFields": 4
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Anzai Takt",
+    "Naka Ramatya",
+    "Salmoon",
+    "tapiocaalice"
+  ]
 }

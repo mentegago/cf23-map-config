@@ -1986,14 +1986,52 @@
       "2026-11-01"
     ],
     "contentRating": null,
-    "fandoms": [],
-    "offerings": [],
+    "fandoms": [
+      "Indie Vtuber",
+      "tapiocaalice",
+      "Anzai Takt",
+      "Salmoon",
+      "Naka Ramatya"
+    ],
+    "offerings": [
+      "Acrylic standees",
+      "Calendars",
+      "Art prints",
+      "Bookmarks",
+      "Stickers",
+      "Acrylic keychains",
+      "Photocards",
+      "Audio comics"
+    ],
     "assets": {
-      "thumbnail": null,
-      "gallery": []
+      "thumbnail": "images/exhibitors/1000077/circle-cut-9788a0d03e12.webp",
+      "gallery": [
+        "images/exhibitors/1000077/catalog-6b39ae140b90.webp",
+        "images/exhibitors/1000077/catalog-e87644826552.webp",
+        "images/exhibitors/1000077/catalog-889f32dcf36b.webp",
+        "images/exhibitors/1000077/catalog-a9b82dea0be4.webp",
+        "images/exhibitors/1000077/catalog-389b35c39044.webp",
+        "images/exhibitors/1000077/catalog-d8776d5bc854.webp",
+        "images/exhibitors/1000077/circle-cut-9788a0d03e12.webp"
+      ]
     },
-    "links": [],
-    "catalogUrl": null
+    "links": [
+      {
+        "type": "website",
+        "url": "https://linktr.ee/amapro23"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/tapiocaalice"
+      }
+    ],
+    "catalogUrl": "https://linktr.ee/amapro23",
+    "sourceUrls": [
+      "https://discord.com/channels/888773032594796614/944193620657987605/1551466645728399410",
+      "https://discord.com/channels/888773032594796614/944193620657987605/1552911526975774811",
+      "https://discord.com/channels/888773032594796614/944193620657987605/1558731994026872852",
+      "https://discord.com/channels/888773032594796614/944193620657987605/1561616181264121886"
+    ]
   },
   {
     "id": "1000078",
