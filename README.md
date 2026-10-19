@@ -54,24 +54,40 @@ using the `PUBLIC_BASE_URL` environment variable. In GitHub, set the Actions
 repository variable `PUBLIC_BASE_URL` to `https://cf23-config.nnt.gg/`. See the
 [manual data guide](data/manual/README.md) for the format and publication workflow.
 
-- `data/raw/catalog.json` is the input snapshot used by scheduled runs. Downloads with identical content preserve the existing snapshot and its `downloadedAt` timestamp.
+Manual entries accept `"fandoms": ["Blue Archive", "Genshin Impact"]` instead of
+numeric IDs. Processing resolves canonical names and aliases from the directory
+registry, emits `fandomIds` in the public catalog, and submits unknown names to
+fandom.directory. Scheduled fandom sync repeats that resolution as new matches
+become available. Raw manual names remain intact for future syncs.
+
+`data/manual/id-mappings.json` can map an official ID to a previously published
+manual ID. When that official record is available, it supplies all exhibitor data
+while the public ID remains stable for favorites and shared lists. The manual
+record remains the fallback when the official record is absent. See the manual
+guide for precedence, validation, and an example.
+
+- `data/raw/catalog.json` is the input snapshot used by scheduled fandom mapping.
+  It currently contains zero official exhibitors; only the manually added exhibitors
+  are published. Downloads with identical content preserve the existing snapshot
+  and its `downloadedAt` timestamp.
 - `data/raw/fandom-directory.json` stores the complete raw registry response; `data/raw/fandom-directory.meta.json` stores its ETag and Last-Modified metadata.
 - `data/unmapped-fandoms.json` reports unresolved source fields for auditing and is not published.
 
 Runs with no file changes create no commit, and Pages deployment is skipped when the public files are unchanged.
 
-**Scheduled catalog and fandom refreshes are temporarily paused.** Both scheduled
-callers require the Actions repository variable `AUTO_REFRESH_ENABLED` to be exactly
-`true`; it is currently `false`. Their schedules remain configured for easy
-resumption. A manual dispatch of either refresh workflow still runs on demand.
-To resume schedules, set `AUTO_REFRESH_ENABLED=true` in repository Actions variables.
+**Official catalog downloads are temporarily paused; fandom sync remains active.**
+The **Full data refresh** schedule requires the Actions repository variable
+`AUTO_REFRESH_ENABLED=true`; it is currently `false`. **Refresh fandom mapping**
+continues on its existing schedule, including registry sync and unknown-field
+submissions. A manual dispatch of **Full data refresh** explicitly downloads the
+official catalog again, so avoid it while maintaining the empty official snapshot.
 
 For now, maintain new exhibitors in `data/manual/exhibitors.json` and corrections
 to existing IDs in `data/manual/overrides.json`. Pushing those files or images to
 `master` runs **Publish manual exhibitors**. This uses the stored official catalog
-and fandom registry, without downloading the catalog, fetching fandom updates, or
-submitting unknown fandom fields. Versioning, validation, and Pages publication
-still run normally. Map publication remains available independently.
+(currently empty), refreshes the fandom registry, and submits unknown fields. It
+does not download the official catalog. Versioning, validation, and Pages
+publication still run normally. Map publication remains available independently.
 
 Two staggered callers invoke the shared `_refresh-data.yml` workflow. When enabled,
 `Full data refresh` downloads the catalog every six hours at `00:23`, `06:23`,

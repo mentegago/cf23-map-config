@@ -12,6 +12,15 @@ describe("OpenFandom matching contract", () => {
     ]);
   });
 
+  test("recognizes canonical and alternate names even when they are not aliases", () => {
+    const resolve = createResolver({ fandoms: [
+      { id: 1, name: "Blue Archive", kind: "franchise", parentId: null,
+        aliases: [], alternateNames: ["ブルーアーカイブ"] },
+    ], ignored: [] });
+    expect(resolve("  blue   archive ")[0]?.fandomIds).toEqual([1]);
+    expect(resolve("ブルーアーカイブ")[0]?.fandomIds).toEqual([1]);
+  });
+
   test("resolves aliases many-to-many and prioritizes them over ignored", () => {
     const resolve = createResolver({
       fandoms: [

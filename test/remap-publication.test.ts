@@ -15,6 +15,15 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     for (const directory of ["config", "data", "public"]) {
       await cp(path.join(root, directory), path.join(fixture, directory), { recursive: true });
     }
+    // Do not depend on the maintained official snapshot containing any entries.
+    const rawFixture = await json("data/raw/catalog.json");
+    rawFixture.circles = [{ id: 123, name: "Fixture creator", circle_code: "A-01",
+      circle_type: null, circle_cut: null, day: "Both Days", rating: null,
+      fandom: null, other_fandom: null, sampleworks_images: [],
+      circle_facebook: null, circle_instagram: null, circle_twitter: null,
+      circle_other_socials: null, marketplace_link: null }];
+    rawFixture.recordCount = rawFixture.circles.length;
+    await save("data/raw/catalog.json", rawFixture);
     // Exercise the real build without network requests or submissions.
     const preload = path.join(fixture, "offline.ts");
     await writeFile(preload, 'import { appendFile } from "node:fs/promises";\n' +
@@ -79,7 +88,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     await writeFile(path.join(fixture, "public/images/test/logo.webp"), "test-image");
     const manual = {
       id: "1000001", name: "Manual Food", spaces: [{ code: "FOOD-01", type: "food" }],
-      attendanceDates: [], contentRating: null, fandomIds: [], offerings: [],
+      attendanceDates: [], contentRating: null, fandoms: [], offerings: [],
       assets: { thumbnail: "images/test/logo.webp", gallery: ["images/test/logo.webp"] },
       links: [], sourceUrls: ["https://example.com/announcement"],
     };
@@ -89,7 +98,8 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     const merged = await json("public/v1/catalog.json");
     expect(merged.stats.exhibitors).toBe(catalog.circles.length + 1);
     expect(merged.exhibitors[0].name).toBe("Manual correction");
-    expect(merged.exhibitors.at(-1)).toEqual({ ...manual, catalogUrl: null,
+    const { fandoms: _manualFandoms, ...manualFields } = manual;
+    expect(merged.exhibitors.at(-1)).toEqual({ ...manualFields, fandomIds: [], catalogUrl: null,
       assets: { thumbnail: "https://cf23-config.nnt.gg/images/test/logo.webp",
         gallery: ["https://cf23-config.nnt.gg/images/test/logo.webp"] } });
     const manualVersion = await json("public/last-updated.json");
@@ -119,6 +129,18 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     await build("https://events.example.com/catalog/");
     expect((await json("public/v1/catalog.json")).exhibitors.at(-1).assets.thumbnail)
       .toBe("https://events.example.com/catalog/images/test/logo.webp");
+
+    const beforeMapping = await json("public/last-updated.json");
+    await save("data/manual/id-mappings.json", [{ officialId: String(catalog.circles[0].id), manualId: manual.id }]);
+    await build();
+    const mappedCatalog = await json("public/v1/catalog.json");
+    expect(mappedCatalog.exhibitors).toHaveLength(1);
+    expect(mappedCatalog.exhibitors[0].id).toBe(manual.id);
+    expect(mappedCatalog.exhibitors[0].name).toBe(catalog.circles[0].name);
+    expect(mappedCatalog.exhibitors[0].spaces).toEqual([{ code: "A-01", type: null }]);
+    expect(mappedCatalog.exhibitors[0].assets).toEqual({ thumbnail: null, gallery: [] });
+    expect(mappedCatalog.exhibitors[0].catalogUrl).toBe(`https://catalog.comifuro.net/circle/${catalog.circles[0].id}`);
+    expect((await json("public/last-updated.json")).creator_data_version).toBe(beforeMapping.creator_data_version + 1);
   } finally {
     await rm(fixture, { recursive: true, force: true });
   }

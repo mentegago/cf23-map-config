@@ -28,7 +28,7 @@ export function splitTopLevelCommas(value: string): string[] {
 export function createResolver(registry: FandomRegistry): (rawInput: string) => Resolution[] {
   const aliasTargets = new Map<string, number[]>();
   for (const fandom of registry.fandoms) {
-    for (const alias of fandom.aliases) {
+    for (const alias of [fandom.name, ...fandom.alternateNames, ...fandom.aliases]) {
       const key = normalizeKey(alias);
       const targets = aliasTargets.get(key) ?? [];
       if (!targets.includes(fandom.id)) targets.push(fandom.id);

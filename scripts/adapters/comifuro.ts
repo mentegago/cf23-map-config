@@ -41,6 +41,7 @@ export const comifuroAdapter: EventSourceAdapter<RawCircle> = {
 
     return {
       id: String(circle.id),
+      catalogUrl: `https://catalog.comifuro.net/circle/${circle.id}`,
       name: circle.name,
       spaces: parseComifuroBoothCodes(circle.circle_code).map((code) => ({
         code,

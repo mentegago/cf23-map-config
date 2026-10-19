@@ -11,7 +11,7 @@
     ],
     "attendanceDates": ["2026-10-31", "2026-11-01"],
     "contentRating": null,
-    "fandomIds": [],
+    "fandoms": [],
     "offerings": [],
     "assets": {
       "thumbnail": "images/exhibitors/sky/announcement-2105992145689780685.jpg",
@@ -37,7 +37,7 @@
     ],
     "attendanceDates": ["2026-10-31", "2026-11-01"],
     "contentRating": null,
-    "fandomIds": [],
+    "fandoms": [],
     "offerings": ["goods", "artbook"],
     "assets": {
       "thumbnail": "images/exhibitors/andalas/announcement-2104850440269832622-1.jpg",
@@ -60,9 +60,9 @@
     "spaces": [
       { "code": "1106", "type": null }
     ],
-    "attendanceDates": [],
+    "attendanceDates": ["2026-10-31", "2026-11-01"],
     "contentRating": null,
-    "fandomIds": [],
+    "fandoms": [],
     "offerings": [],
     "assets": {
       "thumbnail": null,

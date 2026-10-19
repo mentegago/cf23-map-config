@@ -3,7 +3,6 @@ import { createHash } from "node:crypto";
 import path from "node:path";
 import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
-import { mapEventCatalog } from "./lib/map-event.ts";
 import { loadManualExhibitors } from "./lib/manual-exhibitors.ts";
 import { nextCreatorDataVersion, publicationTimestamp } from "./lib/publication.ts";
 import { archiveAnalytics } from "./lib/analytics-archive.ts";
@@ -124,14 +123,9 @@ const { registry, meta } = refreshFandoms
     registry: await readJson<FandomRegistry>(registryPath),
     meta: await readJson<RegistryMetadata>(registryMetaPath),
   };
-const mapped = mapEventCatalog({
-  records: catalog.circles,
-  event: eventConfig,
-  registry,
-  adapter: comifuroAdapter,
-});
-mapped.exhibitors = await loadManualExhibitors(root, mapped.exhibitors, eventConfig,
-  new Set(registry.fandoms.map(fandom => fandom.id)));
+const mapped = await loadManualExhibitors(root,
+  catalog.circles.map(circle => comifuroAdapter.toCanonicalInput(circle, eventConfig)),
+  eventConfig, registry);
 
 const fandoms = [...registry.fandoms]
   .sort((a, b) => a.id - b.id)

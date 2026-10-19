@@ -73,6 +73,7 @@ export type Resolution = {
 
 export interface CanonicalExhibitorInput {
   id: string;
+  catalogUrl?: string | null;
   name: string;
   spaces: Array<{ code: string; type: string | null }>;
   attendanceDates: string[];
@@ -93,3 +94,8 @@ export type CanonicalExhibitor = Omit<CanonicalExhibitorInput, "fandomSourceFiel
 export interface EventSourceAdapter<T> {
   toCanonicalInput(record: T, event: EventConfig): CanonicalExhibitorInput;
 }
+
+export type ManualExhibitorInput = Omit<CanonicalExhibitorInput, "fandomSourceFields"> &
+  Pick<CanonicalExhibitor, "catalogUrl" | "category" | "sourceUrls"> & {
+    fandoms: string[];
+  };
