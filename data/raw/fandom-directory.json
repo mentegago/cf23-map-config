@@ -34478,7 +34478,7 @@
       "id": 2682,
       "name": "Millsage",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 111,
       "aliases": [
         "Millsage"
       ],
