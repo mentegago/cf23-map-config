@@ -7,10 +7,29 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2395,
+    "matchedPieces": 2548,
     "ignoredPieces": 0,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 18,
+    "unknownSourceFields": 18
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Alice in Chains",
+    "beabadoobee",
+    "Captain America",
+    "Cat Original",
+    "Clairo",
+    "Creep",
+    "Disability Pride",
+    "Goddess of Victory Nikke",
+    "Jet Set Radio",
+    "Lizzy McAlpine",
+    "Megaman",
+    "Meme Cat",
+    "MF Ghost",
+    "Neuro-sama",
+    "Payday: The Heist",
+    "Rotaeno",
+    "The Legend of Heroes: Trails of Cold Steel",
+    "The S Class"
+  ]
 }
