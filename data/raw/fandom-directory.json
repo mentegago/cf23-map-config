@@ -34648,6 +34648,129 @@
         "The Legend of Heroes: Trails of Cold Steel"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2700,
+      "name": "Chiamachiato",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Chiamachiato"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2701,
+      "name": "CRIMSon",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "CRIMSon"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2702,
+      "name": "Deltoriel",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Deltoriel"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2703,
+      "name": "Junji Ito Maniac: Japanese Tales of the Macabre",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Junji Ito Maniac",
+        "Junji Ito Maniac: Japanese Tales of the Macabre"
+      ],
+      "alternateNames": [
+        "Junji Ito Maniac"
+      ]
+    },
+    {
+      "id": 2704,
+      "name": "Kanata Reina",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Kanata Reina"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2705,
+      "name": "Krow Thornes",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Krow Thornes"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2706,
+      "name": "MagniV",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "MagniV"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2707,
+      "name": "Oristarium",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Oristarium"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2708,
+      "name": "Prism:NOVA",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Prism:NOVA"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2709,
+      "name": "Re:Memories",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Re:Memories"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2710,
+      "name": "Selena AmariS",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Selena AmariS"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2711,
+      "name": "Solace Amerta",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Solace Amerta"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
