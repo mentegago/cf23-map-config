@@ -2,46 +2,28 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-tu6QfQii5U2TxsvsM8X_DdrutAugs_pobHlAooyut4E\"",
-    "lastModified": "Tue, 20 Oct 2026 07:23:41 GMT",
+    "etag": "\"sha256-0K8XFv6WMjOcT9boahDlib0fdYyNalh1_-dnNmADGbw\"",
+    "lastModified": "Tue, 20 Oct 2026 15:40:17 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2551,
+    "matchedPieces": 2569,
     "ignoredPieces": 0,
-    "unknownPieces": 30,
-    "unknownSourceFields": 30
+    "unknownPieces": 12,
+    "unknownSourceFields": 12
   },
   "unknownSourceFields": [
-    "Alice in Chains",
-    "beabadoobee",
-    "Captain America",
-    "Cat Original",
     "Chiamachiato",
-    "Clairo",
-    "Creep",
     "CRIMSon",
     "Deltoriel",
-    "Disability Pride",
-    "Goddess of Victory Nikke",
-    "Jet Set Radio",
     "Junji Ito Maniac",
     "Kanata Reina",
     "Krow Thornes",
-    "Lizzy McAlpine",
     "MagniV",
-    "Megaman",
-    "Meme Cat",
-    "MF Ghost",
-    "Neuro-sama",
     "Oristarium",
-    "Payday: The Heist",
     "Prism:NOVA",
     "Re:Memories",
-    "Rotaeno",
     "Selena AmariS",
-    "Solace Amerta",
-    "The Legend of Heroes: Trails of Cold Steel",
-    "The S Class"
+    "Solace Amerta"
   ]
 }

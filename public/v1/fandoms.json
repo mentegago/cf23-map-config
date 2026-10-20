@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-tu6QfQii5U2TxsvsM8X_DdrutAugs_pobHlAooyut4E\"",
-    "lastModified": "Tue, 20 Oct 2026 07:23:41 GMT",
+    "etag": "\"sha256-0K8XFv6WMjOcT9boahDlib0fdYyNalh1_-dnNmADGbw\"",
+    "lastModified": "Tue, 20 Oct 2026 15:40:17 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -856,6 +856,7 @@
       "parentId": null,
       "alternateNames": [
         "Goddess of Victory : NIKKE",
+        "Goddess of Victory Nikke",
         "NIKKE",
         "NIKKE: Goddess of Victory"
       ]
@@ -3608,19 +3609,27 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "(SCTIR) S-CLASS THAT I RAISED",
         "MSCH",
         "My S class hunter",
         "My S-class Hunter",
         "My S-Class Hunters (MSCH)",
         "My S-Class Hunters (S-Class)",
         "My S-Class Hunters (The S-Classes that I Raised)",
+        "My S-class That I Raised",
         "My sclass hunter",
+        "Naega Kiun S-geupdeul",
         "S class",
         "S Class that I Raised",
         "S-Class",
         "S-class Hunter",
         "S-Class Hunters",
-        "SClass"
+        "S-Class I Raised",
+        "SClass",
+        "The S Class",
+        "The S Classes That I Raised",
+        "The S-classes That I Raised",
+        "The S-Ranks That I Raised"
       ]
     },
     {
@@ -5675,6 +5684,7 @@
       "parentId": null,
       "alternateNames": [
         "Cats Meme",
+        "Meme Cat",
         "Meme Cats"
       ]
     },
@@ -13128,18 +13138,6 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []
-    },
-    {
-      "id": 1496,
-      "name": "My S-Class That I Raised",
-      "kind": "franchise",
-      "parentId": null,
-      "alternateNames": [
-        "(SCTIR) S-CLASS THAT I RAISED",
-        "S-Class I Raised",
-        "The S Classes That I Raised",
-        "The S-classes That I Raised"
-      ]
     },
     {
       "id": 1497,
@@ -21584,7 +21582,7 @@
       "id": 2662,
       "name": "YHYJ",
       "kind": "franchise",
-      "parentId": 1496,
+      "parentId": 316,
       "alternateNames": [
         "Han Yoohyun",
         "Han Yoojin"
@@ -21736,6 +21734,107 @@
       "name": "Psychopomp",
       "kind": "franchise",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2685,
+      "name": "Alice in Chains",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2686,
+      "name": "beabadoobee",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2687,
+      "name": "Captain America",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2688,
+      "name": "Clairo",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2689,
+      "name": "Creep",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2690,
+      "name": "Disability Pride",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2691,
+      "name": "Jet Set Radio",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2692,
+      "name": "Lizzy McAlpine",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2693,
+      "name": "Mega Man",
+      "kind": "franchise",
+      "parentId": 896,
+      "alternateNames": [
+        "Megaman",
+        "Rockman"
+      ]
+    },
+    {
+      "id": 2694,
+      "name": "MF Ghost",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2695,
+      "name": "Neuro-sama",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2696,
+      "name": "PAYDAY: The Heist",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2697,
+      "name": "Rotaeno",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2698,
+      "name": "The Legend of Heroes: Trails of Cold Steel",
+      "kind": "franchise",
+      "parentId": 2185,
       "alternateNames": []
     }
   ]

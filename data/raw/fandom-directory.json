@@ -23,6 +23,7 @@
         "BL/Yaoi Original",
         "blue lock, wind breaker, original cat, oshi no ko, banana fish, frieren",
         "Cartoon and Original",
+        "Cat Original",
         "Cat Original Cute",
         "Chinese theme Original art",
         "Clay Character Merch (original Work)",
@@ -2239,12 +2240,14 @@
       "parentId": null,
       "aliases": [
         "Goddess of Victory : NIKKE",
+        "Goddess of Victory Nikke",
         "Goddess of Victory: NIKKE",
         "NIKKE",
         "NIKKE: Goddess of Victory"
       ],
       "alternateNames": [
         "Goddess of Victory : NIKKE",
+        "Goddess of Victory Nikke",
         "NIKKE",
         "NIKKE: Goddess of Victory"
       ]
@@ -3743,6 +3746,7 @@
         "Cat lover",
         "Cat Lover & cute stuff",
         "Cat merch",
+        "Cat Original",
         "Cat Original Cute",
         "Cat. Cars",
         "cats",
@@ -7123,6 +7127,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "(SCTIR) S-CLASS THAT I RAISED",
         "MSCH",
         "MSCH (My S-Class Hunters)",
         "My S class hunter",
@@ -7131,29 +7136,42 @@
         "My S-Class Hunters (MSCH)",
         "My S-Class Hunters (S-Class)",
         "My S-Class Hunters (The S-Classes that I Raised)",
+        "My S-Class That I Raised",
         "My sclass hunter",
         "S class",
         "S Class that I Raised",
         "S-Class",
         "S-class Hunter",
         "S-Class Hunters",
+        "S-Class I Raised",
         "S-Class/MSCH",
-        "SClass"
+        "SClass",
+        "The S Class",
+        "The S Classes That I Raised",
+        "The S-Classes That I Raised"
       ],
       "alternateNames": [
+        "(SCTIR) S-CLASS THAT I RAISED",
         "MSCH",
         "My S class hunter",
         "My S-class Hunter",
         "My S-Class Hunters (MSCH)",
         "My S-Class Hunters (S-Class)",
         "My S-Class Hunters (The S-Classes that I Raised)",
+        "My S-class That I Raised",
         "My sclass hunter",
+        "Naega Kiun S-geupdeul",
         "S class",
         "S Class that I Raised",
         "S-Class",
         "S-class Hunter",
         "S-Class Hunters",
-        "SClass"
+        "S-Class I Raised",
+        "SClass",
+        "The S Class",
+        "The S Classes That I Raised",
+        "The S-classes That I Raised",
+        "The S-Ranks That I Raised"
       ]
     },
     {
@@ -10439,10 +10457,12 @@
       "aliases": [
         "Cat Meme",
         "Cats Meme",
+        "Meme Cat",
         "Meme Cats"
       ],
       "alternateNames": [
         "Cats Meme",
+        "Meme Cat",
         "Meme Cats"
       ]
     },
@@ -21850,25 +21870,6 @@
         "Shaman King"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 1496,
-      "name": "My S-Class That I Raised",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "(SCTIR) S-CLASS THAT I RAISED",
-        "My S-Class That I Raised",
-        "S-Class I Raised",
-        "The S Classes That I Raised",
-        "The S-Classes That I Raised"
-      ],
-      "alternateNames": [
-        "(SCTIR) S-CLASS THAT I RAISED",
-        "S-Class I Raised",
-        "The S Classes That I Raised",
-        "The S-classes That I Raised"
-      ]
     },
     {
       "id": 1497,
@@ -34282,7 +34283,7 @@
       "id": 2662,
       "name": "YHYJ",
       "kind": "franchise",
-      "parentId": 1496,
+      "parentId": 316,
       "aliases": [
         "YHYJ"
       ],
@@ -34501,6 +34502,150 @@
       "parentId": null,
       "aliases": [
         "Psychopomp"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2685,
+      "name": "Alice in Chains",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Alice in Chains"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2686,
+      "name": "beabadoobee",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "beabadoobee"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2687,
+      "name": "Captain America",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Captain America"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2688,
+      "name": "Clairo",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Clairo"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2689,
+      "name": "Creep",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Creep"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2690,
+      "name": "Disability Pride",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Disability Pride"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2691,
+      "name": "Jet Set Radio",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Jet Set Radio"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2692,
+      "name": "Lizzy McAlpine",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Lizzy McAlpine"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2693,
+      "name": "Mega Man",
+      "kind": "franchise",
+      "parentId": 896,
+      "aliases": [
+        "Mega Man",
+        "Megaman"
+      ],
+      "alternateNames": [
+        "Megaman",
+        "Rockman"
+      ]
+    },
+    {
+      "id": 2694,
+      "name": "MF Ghost",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "MF Ghost"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2695,
+      "name": "Neuro-sama",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Neuro-sama"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2696,
+      "name": "PAYDAY: The Heist",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "PAYDAY: The Heist"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2697,
+      "name": "Rotaeno",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Rotaeno"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2698,
+      "name": "The Legend of Heroes: Trails of Cold Steel",
+      "kind": "franchise",
+      "parentId": 2185,
+      "aliases": [
+        "The Legend of Heroes: Trails of Cold Steel"
       ],
       "alternateNames": []
     }
