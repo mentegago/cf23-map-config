@@ -59849,5 +59849,121 @@
       "https://discord.com/channels/414798501625724949/415160052555710474/1561781060529037392",
       "https://discord.com/channels/414798501625724949/415160052555710474/1562009529175121980"
     ]
+  },
+  {
+    "id": "1001963",
+    "name": "Arunika Virtual",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1307",
+        "type": "corporate"
+      },
+      {
+        "code": "1308",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "VTuber",
+      "Solace Amerta",
+      "Re:Memories",
+      "Chiamachiato",
+      "CRIMSon",
+      "Deltoriel",
+      "Kanata Reina",
+      "Krow Thornes",
+      "MagniV",
+      "Oristarium",
+      "Prism:NOVA",
+      "Selena AmariS",
+      "Rieru Shindou",
+      "Versa"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001963/circle-cut-d851c7ec1301.webp",
+      "gallery": [
+        "images/exhibitors/1001963/catalog-d331d0553281.webp",
+        "images/exhibitors/1001963/catalog-652e83671b20.webp",
+        "images/exhibitors/1001963/catalog-d8196854b204.webp",
+        "images/exhibitors/1001963/catalog-1860f1b8654f.webp",
+        "images/exhibitors/1001963/catalog-255e92a5793b.webp",
+        "images/exhibitors/1001963/catalog-eae29068382f.webp",
+        "images/exhibitors/1001963/catalog-ee42c8fce3a6.webp",
+        "images/exhibitors/1001963/catalog-eb2237be1179.webp",
+        "images/exhibitors/1001963/catalog-68e99a8adbdc.webp",
+        "images/exhibitors/1001963/catalog-e767487d979f.webp",
+        "images/exhibitors/1001963/catalog-7531701b553a.webp",
+        "images/exhibitors/1001963/catalog-bab8b3a3679e.webp",
+        "images/exhibitors/1001963/catalog-8cf52e975923.webp",
+        "images/exhibitors/1001963/catalog-ce3adc4683f9.webp",
+        "images/exhibitors/1001963/catalog-ed0049bc80b9.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/ArunikaVirtual"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://x.com/ArunikaVirtual/status/2109855380146999654",
+      "https://x.com/ArunikaVirtual/status/2107318923519721839",
+      "https://x.com/ArunikaVirtual/status/2107685785176809501",
+      "https://x.com/ArunikaVirtual/status/2108056680156262810",
+      "https://x.com/ArunikaVirtual/status/2108386781595041944",
+      "https://x.com/ArunikaVirtual/status/2108769756304302158",
+      "https://x.com/ArunikaVirtual/status/2109138433830793517",
+      "https://x.com/ArunikaVirtual/status/2112396413057544218",
+      "https://x.com/ArunikaVirtual/status/2112396415167291895",
+      "https://x.com/PrismNOVA/status/2106564521578140064"
+    ]
+  },
+  {
+    "id": "1001964",
+    "name": "Muse Indonesia",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1201",
+        "type": "corporate"
+      },
+      {
+        "code": "1202",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "Junji Ito Maniac"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001964/circle-cut-304a121c3c27.webp",
+      "gallery": [
+        "images/exhibitors/1001964/catalog-a01e23fa1af1.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/muse_indonesia"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://x.com/muse_indonesia/status/2112514169207734526"
+    ]
   }
 ]

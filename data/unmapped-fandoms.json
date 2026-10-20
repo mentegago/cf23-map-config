@@ -7,28 +7,40 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 2548,
+    "matchedPieces": 2551,
     "ignoredPieces": 0,
-    "unknownPieces": 18,
-    "unknownSourceFields": 18
+    "unknownPieces": 30,
+    "unknownSourceFields": 30
   },
   "unknownSourceFields": [
     "Alice in Chains",
     "beabadoobee",
     "Captain America",
     "Cat Original",
+    "Chiamachiato",
     "Clairo",
     "Creep",
+    "CRIMSon",
+    "Deltoriel",
     "Disability Pride",
     "Goddess of Victory Nikke",
     "Jet Set Radio",
+    "Junji Ito Maniac",
+    "Kanata Reina",
+    "Krow Thornes",
     "Lizzy McAlpine",
+    "MagniV",
     "Megaman",
     "Meme Cat",
     "MF Ghost",
     "Neuro-sama",
+    "Oristarium",
     "Payday: The Heist",
+    "Prism:NOVA",
+    "Re:Memories",
     "Rotaeno",
+    "Selena AmariS",
+    "Solace Amerta",
     "The Legend of Heroes: Trails of Cold Steel",
     "The S Class"
   ]

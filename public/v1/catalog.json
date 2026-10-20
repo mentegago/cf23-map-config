@@ -32,7 +32,7 @@
     ]
   },
   "stats": {
-    "exhibitors": 1962,
+    "exhibitors": 1964,
     "fandomsReferenced": 793
   },
   "exhibitors": [
@@ -62734,6 +62734,153 @@
         2680,
         2682
       ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001963",
+      "name": "Arunika Virtual",
+      "category": "corporate",
+      "spaces": [
+        {
+          "code": "1307",
+          "type": "corporate"
+        },
+        {
+          "code": "1308",
+          "type": "corporate"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001963/circle-cut-d851c7ec1301.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-d331d0553281.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-652e83671b20.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-d8196854b204.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-1860f1b8654f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-255e92a5793b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-eae29068382f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-ee42c8fce3a6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-eb2237be1179.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-68e99a8adbdc.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-e767487d979f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-7531701b553a.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-bab8b3a3679e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-8cf52e975923.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-ce3adc4683f9.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001963/catalog-ed0049bc80b9.webp"
+        ]
+      },
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ArunikaVirtual"
+        },
+        {
+          "type": "source_post_1",
+          "url": "https://x.com/ArunikaVirtual/status/2109855380146999654"
+        },
+        {
+          "type": "source_post_2",
+          "url": "https://x.com/ArunikaVirtual/status/2107318923519721839"
+        },
+        {
+          "type": "source_post_3",
+          "url": "https://x.com/ArunikaVirtual/status/2107685785176809501"
+        },
+        {
+          "type": "source_post_4",
+          "url": "https://x.com/ArunikaVirtual/status/2108056680156262810"
+        },
+        {
+          "type": "source_post_5",
+          "url": "https://x.com/ArunikaVirtual/status/2108386781595041944"
+        },
+        {
+          "type": "source_post_6",
+          "url": "https://x.com/ArunikaVirtual/status/2108769756304302158"
+        },
+        {
+          "type": "source_post_7",
+          "url": "https://x.com/ArunikaVirtual/status/2109138433830793517"
+        },
+        {
+          "type": "source_post_8",
+          "url": "https://x.com/ArunikaVirtual/status/2112396413057544218"
+        },
+        {
+          "type": "source_post_9",
+          "url": "https://x.com/ArunikaVirtual/status/2112396415167291895"
+        },
+        {
+          "type": "source_post_10",
+          "url": "https://x.com/PrismNOVA/status/2106564521578140064"
+        }
+      ],
+      "sourceUrls": [
+        "https://x.com/ArunikaVirtual/status/2109855380146999654",
+        "https://x.com/ArunikaVirtual/status/2107318923519721839",
+        "https://x.com/ArunikaVirtual/status/2107685785176809501",
+        "https://x.com/ArunikaVirtual/status/2108056680156262810",
+        "https://x.com/ArunikaVirtual/status/2108386781595041944",
+        "https://x.com/ArunikaVirtual/status/2108769756304302158",
+        "https://x.com/ArunikaVirtual/status/2109138433830793517",
+        "https://x.com/ArunikaVirtual/status/2112396413057544218",
+        "https://x.com/ArunikaVirtual/status/2112396415167291895",
+        "https://x.com/PrismNOVA/status/2106564521578140064"
+      ],
+      "fandomIds": [
+        16,
+        915,
+        1320
+      ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001964",
+      "name": "Muse Indonesia",
+      "category": "corporate",
+      "spaces": [
+        {
+          "code": "1201",
+          "type": "corporate"
+        },
+        {
+          "code": "1202",
+          "type": "corporate"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001964/circle-cut-304a121c3c27.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001964/catalog-a01e23fa1af1.webp"
+        ]
+      },
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/muse_indonesia"
+        },
+        {
+          "type": "source_post",
+          "url": "https://x.com/muse_indonesia/status/2112514169207734526"
+        }
+      ],
+      "sourceUrls": [
+        "https://x.com/muse_indonesia/status/2112514169207734526"
+      ],
+      "fandomIds": []
     }
   ]
 }
