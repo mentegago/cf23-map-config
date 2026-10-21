@@ -8,7 +8,7 @@
   },
   "underlay": {
     "name": "CF23_FLOORMAP-1.png",
-    "opacity": 0.59
+    "opacity": 0
   },
   "editor": {
     "magnet": {
@@ -16,7 +16,7 @@
       "gap": 0,
       "distance": 12
     },
-    "labelOpacity": 0.76,
+    "labelOpacity": 1,
     "objectDefaults": {
       "arrow": {
         "label": "",
@@ -25,10 +25,15 @@
         "thickness": 4
       },
       "highlight": {
-        "label": "F&B",
-        "color": "#c0c0c0",
+        "label": "Outdoor Toilet",
+        "color": "#fff200",
         "rotation": 0,
         "preset": "custom"
+      },
+      "area": {
+        "label": "Panel Discussion Area",
+        "color": "#64748b",
+        "rotation": 0
       }
     }
   },
@@ -5233,7 +5238,7 @@
     },
     {
       "uid": "feature-mu9r19k7-3l",
-      "id": "Z-38b",
+      "id": "Z-39b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5246,7 +5251,7 @@
     },
     {
       "uid": "feature-mu9r19k7-3m",
-      "id": "Z-38a",
+      "id": "Z-39a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5259,7 +5264,7 @@
     },
     {
       "uid": "feature-mu9r1abu-3n",
-      "id": "Z-39b",
+      "id": "Z-38b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5272,7 +5277,7 @@
     },
     {
       "uid": "feature-mu9r1abu-3o",
-      "id": "Z-39a",
+      "id": "Z-38a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5311,7 +5316,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-3z",
-      "id": "Z-35a",
+      "id": "Z-36b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5324,7 +5329,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-40",
-      "id": "Z-36b",
+      "id": "Z-36a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5337,7 +5342,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-41",
-      "id": "Z-36a",
+      "id": "Z-35b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5350,7 +5355,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-42",
-      "id": "Z-33a",
+      "id": "Z-35a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5389,7 +5394,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-45",
-      "id": "Z-35b",
+      "id": "Z-33b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5402,7 +5407,7 @@
     },
     {
       "uid": "feature-mu9r1hbc-46",
-      "id": "Z-33b",
+      "id": "Z-33a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5415,7 +5420,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-47",
-      "id": "Z-31b",
+      "id": "Z-32b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5428,7 +5433,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-48",
-      "id": "Z-31a",
+      "id": "Z-32a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5441,7 +5446,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-49",
-      "id": "Z-32b",
+      "id": "Z-31b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5454,7 +5459,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-4a",
-      "id": "Z-32a",
+      "id": "Z-31a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5467,7 +5472,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-4b",
-      "id": "Z-29a",
+      "id": "Z-30b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5480,7 +5485,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-4c",
-      "id": "Z-30b",
+      "id": "Z-30a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5493,7 +5498,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-4d",
-      "id": "Z-30a",
+      "id": "Z-29b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5506,7 +5511,7 @@
     },
     {
       "uid": "feature-mu9r1nwn-4e",
-      "id": "Z-29b",
+      "id": "Z-29a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5545,7 +5550,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4h",
-      "id": "Z-26a",
+      "id": "Z-27b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5558,7 +5563,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4i",
-      "id": "Z-27b",
+      "id": "Z-27a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5571,7 +5576,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4j",
-      "id": "Z-27a",
+      "id": "Z-26b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5584,7 +5589,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4k",
-      "id": "Z-25b",
+      "id": "Z-26a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5597,7 +5602,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4l",
-      "id": "Z-25a",
+      "id": "Z-25b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5610,7 +5615,7 @@
     },
     {
       "uid": "feature-mu9r1ri0-4m",
-      "id": "Z-26b",
+      "id": "Z-25a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5623,7 +5628,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4n",
-      "id": "Z-23a",
+      "id": "Z-24b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5636,7 +5641,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4o",
-      "id": "Z-24b",
+      "id": "Z-24a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5649,7 +5654,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4p",
-      "id": "Z-24a",
+      "id": "Z-23b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5662,7 +5667,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4q",
-      "id": "Z-21b",
+      "id": "Z-23a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5675,7 +5680,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4r",
-      "id": "Z-21a",
+      "id": "Z-22b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5688,7 +5693,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4s",
-      "id": "Z-22b",
+      "id": "Z-22a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5701,7 +5706,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4t",
-      "id": "Z-22a",
+      "id": "Z-21b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5714,7 +5719,7 @@
     },
     {
       "uid": "feature-mu9r1wus-4u",
-      "id": "Z-23b",
+      "id": "Z-21a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5727,7 +5732,7 @@
     },
     {
       "uid": "feature-mu9r23rt-4v",
-      "id": "Z-19b",
+      "id": "Z-20b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5740,7 +5745,7 @@
     },
     {
       "uid": "feature-mu9r23rt-4w",
-      "id": "Z-19a",
+      "id": "Z-20a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5753,7 +5758,7 @@
     },
     {
       "uid": "feature-mu9r23rt-4x",
-      "id": "Z-20b",
+      "id": "Z-19b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5766,7 +5771,7 @@
     },
     {
       "uid": "feature-mu9r23rt-4y",
-      "id": "Z-20a",
+      "id": "Z-19a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5779,7 +5784,7 @@
     },
     {
       "uid": "feature-mu9r23rt-4z",
-      "id": "Z-17b",
+      "id": "Z-18b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5792,7 +5797,7 @@
     },
     {
       "uid": "feature-mu9r23rt-50",
-      "id": "Z-17a",
+      "id": "Z-18a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5805,7 +5810,7 @@
     },
     {
       "uid": "feature-mu9r23rt-51",
-      "id": "Z-18b",
+      "id": "Z-17b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5818,7 +5823,7 @@
     },
     {
       "uid": "feature-mu9r23rt-52",
-      "id": "Z-18a",
+      "id": "Z-17a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5831,7 +5836,7 @@
     },
     {
       "uid": "feature-mu9r27rh-53",
-      "id": "Z-15b",
+      "id": "Z-16b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5844,7 +5849,7 @@
     },
     {
       "uid": "feature-mu9r27rh-54",
-      "id": "Z-15a",
+      "id": "Z-16a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5857,7 +5862,7 @@
     },
     {
       "uid": "feature-mu9r27rh-55",
-      "id": "Z-16b",
+      "id": "Z-15b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5870,7 +5875,7 @@
     },
     {
       "uid": "feature-mu9r27rh-56",
-      "id": "Z-16a",
+      "id": "Z-15a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5883,7 +5888,7 @@
     },
     {
       "uid": "feature-mu9r27rh-57",
-      "id": "Z-13b",
+      "id": "Z-14b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5896,7 +5901,7 @@
     },
     {
       "uid": "feature-mu9r27rh-58",
-      "id": "Z-13a",
+      "id": "Z-14a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5909,7 +5914,7 @@
     },
     {
       "uid": "feature-mu9r27rh-59",
-      "id": "Z-14b",
+      "id": "Z-13b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5922,7 +5927,7 @@
     },
     {
       "uid": "feature-mu9r27rh-5a",
-      "id": "Z-14a",
+      "id": "Z-13a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5935,7 +5940,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5b",
-      "id": "Z-11a",
+      "id": "Z-12b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5948,7 +5953,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5c",
-      "id": "Z-12b",
+      "id": "Z-12a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5961,7 +5966,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5d",
-      "id": "Z-12a",
+      "id": "Z-11b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5974,7 +5979,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5e",
-      "id": "Z-09b",
+      "id": "Z-11a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -5987,7 +5992,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5f",
-      "id": "Z-09a",
+      "id": "Z-10b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6000,7 +6005,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5g",
-      "id": "Z-10b",
+      "id": "Z-10a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6013,7 +6018,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5h",
-      "id": "Z-10a",
+      "id": "Z-09b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6026,7 +6031,7 @@
     },
     {
       "uid": "feature-mu9r2hfw-5i",
-      "id": "Z-11b",
+      "id": "Z-09a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6039,7 +6044,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-1",
-      "id": "Z-07b",
+      "id": "Z-08b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6052,7 +6057,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-2",
-      "id": "Z-07a",
+      "id": "Z-08a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6065,7 +6070,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-3",
-      "id": "Z-08b",
+      "id": "Z-07b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6078,7 +6083,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-4",
-      "id": "Z-08a",
+      "id": "Z-07a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6091,7 +6096,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-5",
-      "id": "Z-05b",
+      "id": "Z-06b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6104,7 +6109,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-6",
-      "id": "Z-05a",
+      "id": "Z-06a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6117,7 +6122,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-7",
-      "id": "Z-06b",
+      "id": "Z-05b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6130,7 +6135,7 @@
     },
     {
       "uid": "feature-mu9rd9k7-8",
-      "id": "Z-06a",
+      "id": "Z-05a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6143,7 +6148,7 @@
     },
     {
       "uid": "feature-mu9rdizs-9",
-      "id": "Z-03a",
+      "id": "Z-04b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6156,7 +6161,7 @@
     },
     {
       "uid": "feature-mu9rdizs-a",
-      "id": "Z-04b",
+      "id": "Z-04a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6169,7 +6174,7 @@
     },
     {
       "uid": "feature-mu9rdizs-b",
-      "id": "Z-04a",
+      "id": "Z-03b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6182,7 +6187,7 @@
     },
     {
       "uid": "feature-mu9rdizs-c",
-      "id": "Z-02a",
+      "id": "Z-03a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6195,7 +6200,7 @@
     },
     {
       "uid": "feature-mu9rdizs-d",
-      "id": "Z-03b",
+      "id": "Z-02b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6208,7 +6213,7 @@
     },
     {
       "uid": "feature-mu9rdizs-e",
-      "id": "Z-01a",
+      "id": "Z-02a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6221,7 +6226,7 @@
     },
     {
       "uid": "feature-mu9rdizs-f",
-      "id": "Z-02b",
+      "id": "Z-01b",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -6234,7 +6239,7 @@
     },
     {
       "uid": "feature-mu9rdizs-g",
-      "id": "Z-01b",
+      "id": "Z-01a",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -108764,7 +108769,57 @@
       "color": "#f0e8de",
       "rotation": 0,
       "type": "booth-suffix-marker"
+    },
+    {
+      "uid": "feature-mvi4tj3z-2",
+      "id": null,
+      "status": "accepted",
+      "geometry": {
+        "type": "rect",
+        "x": 1940.6,
+        "y": 2120.4,
+        "width": 124,
+        "height": 77.90000000000009
+      },
+      "kind": "area",
+      "label": "Panel Discussion Area",
+      "color": "#64748b",
+      "rotation": 0
+    },
+    {
+      "uid": "feature-mvi4vhde-4",
+      "id": null,
+      "status": "accepted",
+      "geometry": {
+        "type": "rect",
+        "x": 5064.2,
+        "y": 1175.1,
+        "width": 136.4,
+        "height": 42.7
+      },
+      "kind": "highlight",
+      "preset": "custom",
+      "label": "Luggage Deposit - Lost & Found",
+      "color": "#ffff00",
+      "rotation": 0
+    },
+    {
+      "uid": "feature-mvi4wrgw-5",
+      "id": null,
+      "status": "accepted",
+      "geometry": {
+        "type": "rect",
+        "x": 4039.1,
+        "y": 182.1,
+        "width": 225.5999999999999,
+        "height": 55.900000000000006
+      },
+      "kind": "highlight",
+      "preset": "custom",
+      "label": "Outdoor Toilet",
+      "color": "#fff200",
+      "rotation": 0
     }
   ],
-  "updatedAt": "2026-09-27T18:22:34.172Z"
+  "updatedAt": "2026-10-21T13:15:35.354Z"
 }
