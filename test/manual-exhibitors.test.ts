@@ -70,7 +70,7 @@ test("unmapped corporate booths remain intact alongside mapped and unmapped offi
   expect(before.exhibitors.find(record => record.id === corporate.id)).toEqual(expected);
   expect(after.exhibitors.find(record => record.id === corporate.id)).toEqual(expected);
   expect(after.exhibitors.map(record => record.id)).toEqual([mappedManual.id, unrelated.id, corporate.id]);
-  expect(after.exhibitors.find(record => record.id === mappedManual.id)?.name).toBe(mappedManual.name);
+  expect(after.exhibitors.find(record => record.id === mappedManual.id)?.name).toBe(official.name);
   expect(after.exhibitors.find(record => record.id === unrelated.id)?.name).toBe(unrelated.name);
 });
 

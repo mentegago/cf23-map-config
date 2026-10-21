@@ -55,6 +55,22 @@ test("an official catalog switches content to official data, and its removal res
   expect(reverted.assets.gallery).toEqual(manual.assets.gallery);
 });
 
+test("without a manual catalog, all content comes from official data while the manual ID stays stable", async () => {
+  const withoutCatalog = { ...manual, assets: { ...manual.assets, gallery: [] } };
+  for (const current of [official, { ...official, assets: { ...official.assets, gallery: ["https://example.com/official-catalog.webp"] } }]) {
+    const published = (await run([current], [withoutCatalog], [{ officialId: official.id, manualId: manual.id }],
+      [{ id: manual.id, name: "Manual correction", fandoms: ["Unknown manual fandom"] }])).exhibitors[0]!;
+    const { fandomSourceFields, ...officialFields } = current;
+    expect(published).toEqual({ ...officialFields, id: manual.id, fandomIds: [20] });
+    expect(published).not.toHaveProperty("fandomSourceFields");
+    expect(published).not.toHaveProperty("sourceUrls");
+  }
+  const corporate = { ...withoutCatalog, category: "corporate", spaces: [{ code: "1106", type: null }] };
+  const unmatched = (await run([], [corporate])).exhibitors[0]!;
+  expect(unmatched.name).toBe(corporate.name);
+  expect(unmatched.fandomIds).toEqual([10]);
+});
+
 test("fallback requires every booth code and attendance day, and never matches numeric corporate booths", async () => {
   const sunday = { ...manual, id: "1000002", name: "Sunday", attendanceDates: ["2026-11-01"] };
   const matched = await run([official], [sunday, manual]);

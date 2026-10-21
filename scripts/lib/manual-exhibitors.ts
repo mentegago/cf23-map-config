@@ -170,9 +170,9 @@ export async function mergeManualExhibitors(options: {
       ...(mappedId === undefined ? {} : { catalogUrl: exhibitor.catalogUrl ?? null }),
     };
     const manual = mappedId ? additions.get(mappedId) : undefined;
-    if (manual && exhibitor.assets.gallery.length === 0) {
-      const patches = options.overrides.filter(patch => object(patch) && patch.id === mappedId);
-      const fallback = Object.assign({}, manual, ...patches) as unknown as ManualExhibitorInput;
+    const patches = options.overrides.filter(patch => object(patch) && patch.id === mappedId);
+    const fallback = manual ? Object.assign({}, manual, ...patches) as ManualExhibitorInput : undefined;
+    if (fallback && fallback.assets.gallery.length > 0 && exhibitor.assets.gallery.length === 0) {
       result.set(publicId, { ...fallback, id: publicId,
         spaces: official.spaces, attendanceDates: official.attendanceDates,
         offerings: official.offerings, catalogUrl: official.catalogUrl,
