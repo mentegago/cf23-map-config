@@ -19,11 +19,14 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     const rawFixture = await json("data/raw/catalog.json");
     rawFixture.circles = [{ id: 123, name: "Fixture creator", circle_code: "A-01",
       circle_type: null, circle_cut: null, day: "Both Days", rating: null,
-      fandom: null, other_fandom: null, sampleworks_images: [],
+      fandom: null, other_fandom: null, sampleworks_images: ["https://example.com/official-catalog.webp"],
       circle_facebook: null, circle_instagram: null, circle_twitter: null,
       circle_other_socials: null, marketplace_link: null }];
     rawFixture.recordCount = rawFixture.circles.length;
     await save("data/raw/catalog.json", rawFixture);
+    await save("data/manual/exhibitors.json", []);
+    await save("data/manual/id-mappings.json", []);
+    await save("data/manual/overrides.json", []);
     // Exercise the real build without network requests or submissions.
     const preload = path.join(fixture, "offline.ts");
     await writeFile(preload, 'import { appendFile } from "node:fs/promises";\n' +
@@ -92,12 +95,13 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
       assets: { thumbnail: "images/test/logo.webp", gallery: ["images/test/logo.webp"] },
       links: [], sourceUrls: ["https://example.com/announcement"],
     };
-    await save("data/manual/exhibitors.json", [manual]);
+    const officialManual = (await json("data/manual/exhibitors.json"))[0];
+    await save("data/manual/exhibitors.json", [officialManual, manual]);
     await save("data/manual/overrides.json", [{ id: String(catalog.circles[0].id), name: "Manual correction" }]);
     await build();
     const merged = await json("public/v1/catalog.json");
     expect(merged.stats.exhibitors).toBe(catalog.circles.length + 1);
-    expect(merged.exhibitors[0].name).toBe("Manual correction");
+    expect(merged.exhibitors[0].name).toBe(catalog.circles[0].name);
     const { fandoms: _manualFandoms, ...manualFields } = manual;
     expect(merged.exhibitors.at(-1)).toEqual({ ...manualFields, fandomIds: [], catalogUrl: null,
       links: [{ type: "source_post", url: "https://example.com/announcement" }],
@@ -108,7 +112,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     await build();
     expect(await json("public/last-updated.json")).toEqual(manualVersion);
     manual.name = "Renamed Food";
-    await save("data/manual/exhibitors.json", [manual]);
+    await save("data/manual/exhibitors.json", [officialManual, manual]);
     // Manual publication must use the cached registry and never submit fields,
     // even when an API key is available. Record every fetch at the boundary.
     const registryBefore = await readFile(path.join(fixture, "data/raw/fandom-directory.json"), "utf8");
@@ -132,6 +136,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
       .toBe("https://events.example.com/catalog/images/test/logo.webp");
 
     const beforeMapping = await json("public/last-updated.json");
+    await save("data/manual/exhibitors.json", [manual]);
     await save("data/manual/id-mappings.json", [{ officialId: String(catalog.circles[0].id), manualId: manual.id }]);
     await build();
     const mappedCatalog = await json("public/v1/catalog.json");
@@ -139,7 +144,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     expect(mappedCatalog.exhibitors[0].id).toBe(manual.id);
     expect(mappedCatalog.exhibitors[0].name).toBe(catalog.circles[0].name);
     expect(mappedCatalog.exhibitors[0].spaces).toEqual([{ code: "A-01", type: null }]);
-    expect(mappedCatalog.exhibitors[0].assets).toEqual({ thumbnail: null, gallery: [] });
+    expect(mappedCatalog.exhibitors[0].assets).toEqual({ thumbnail: null, gallery: catalog.circles[0].sampleworks_images });
     expect(mappedCatalog.exhibitors[0].catalogUrl).toBe(`https://catalog.comifuro.net/circle/${catalog.circles[0].id}`);
     expect((await json("public/last-updated.json")).creator_data_version).toBe(beforeMapping.creator_data_version + 1);
   } finally {

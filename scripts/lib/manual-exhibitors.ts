@@ -1,4 +1,4 @@
-import { readFile, realpath, stat } from "node:fs/promises";
+import { readFile, realpath, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import type { CanonicalExhibitorInput, EventConfig, FandomRegistry, ManualExhibitorInput } from "../types.ts";
 import { mapEventCatalog, type MappedEvent } from "./map-event.ts";
@@ -38,6 +38,26 @@ function positiveId(value: unknown): value is string {
     Number.isSafeInteger(Number(value)) && Number(value) <= 2_147_483_647;
 }
 
+function boothDayKey(value: { spaces: Array<{ code: string }>; attendanceDates: string[] }): string | undefined {
+  if (!value.attendanceDates.length || !value.spaces.length) return;
+  const codes: string[] = [];
+  for (const space of value.spaces) {
+    for (const raw of space.code.split("/")) {
+      const match = raw.trim().replace(/\s*\((?:SAT|SUN)\)$/i, "").trim()
+        .match(/^([A-Z]{1,2})-0*(\d+)(ab|a|b)?$/i);
+      if (!match) return;
+      const prefix = match[1]!.toUpperCase();
+      const stem = `${prefix}-${Number(match[2])}`;
+      const half = match[3]?.toLowerCase();
+      if (prefix.length === 1 && (!half || half === "ab")) codes.push(`${stem}a`, `${stem}b`);
+      else codes.push(stem + (half ?? ""));
+    }
+  }
+  return JSON.stringify([[...new Set(codes)].sort(), [...new Set(value.attendanceDates)].sort()]);
+}
+
+interface IdMapping { officialId: string; manualId: string }
+
 function validate(value: Record<string, unknown>, event: EventConfig): void {
   const id = value.id;
   requireValue(typeof value.name === "string" && value.name.trim(), `${id}: name is required`);
@@ -67,7 +87,8 @@ export async function mergeManualExhibitors(options: {
   registry: FandomRegistry;
   publicBaseUrl: string;
   publicDirectory: string;
-}): Promise<MappedEvent> {
+  assignManualIds?: boolean;
+}): Promise<MappedEvent & { idMappings: IdMapping[]; manualEntries: ManualExhibitorInput[] }> {
   requireValue(httpUrl(options.publicBaseUrl), "publicBaseUrl must be an absolute HTTP(S) URL");
   const base = new URL(options.publicBaseUrl);
   requireValue(!base.search && !base.hash && base.pathname.endsWith("/"), "publicBaseUrl must end in / with no query or fragment");
@@ -97,10 +118,45 @@ export async function mergeManualExhibitors(options: {
   for (const officialId of manualIdByOfficialId.keys()) {
     requireValue(!mappedManualIds.has(officialId), `ID mappings cannot form chains: ${officialId}`);
   }
+  const unmatchedByKey = new Map<string, string[]>();
+  for (const addition of additions.values()) {
+    if (mappedManualIds.has(addition.id) || addition.category) continue;
+    const key = boothDayKey(addition as unknown as ManualExhibitorInput);
+    if (key) unmatchedByKey.set(key, [...(unmatchedByKey.get(key) ?? []), addition.id]);
+  }
+  const fallbackClaims = new Map<string, string>();
+  for (const exhibitor of options.exhibitors) {
+    if (manualIdByOfficialId.has(exhibitor.id)) continue;
+    const key = boothDayKey(exhibitor);
+    const candidates = key ? unmatchedByKey.get(key) ?? [] : [];
+    requireValue(candidates.length <= 1, `ambiguous booth/day match for official ID ${exhibitor.id}`);
+    const candidate = candidates[0];
+    if (!candidate) continue;
+    requireValue(!fallbackClaims.has(candidate), `multiple official exhibitors claim manual ID ${candidate}`);
+    fallbackClaims.set(candidate, exhibitor.id);
+    manualIdByOfficialId.set(exhibitor.id, candidate);
+    mappedManualIds.add(candidate);
+  }
+  // New official exhibitors receive a persistent manual ID before publication.
+  if (options.assignManualIds) {
+    let nextId = Math.max(MANUAL_ID_MIN - 1, ...[...additions.keys()].map(Number)) + 1;
+    const officialIds = new Set(options.exhibitors.map(exhibitor => exhibitor.id));
+    for (const exhibitor of options.exhibitors) {
+      if (manualIdByOfficialId.has(exhibitor.id)) continue;
+      while (officialIds.has(String(nextId))) nextId++;
+      requireValue(nextId <= MANUAL_ID_MAX, "manual ID range exhausted");
+      const id = String(nextId++);
+      const { fandomSourceFields, ...fields } = exhibitor;
+      additions.set(id, { ...fields, id, fandoms: fandomSourceFields });
+      manualIdByOfficialId.set(exhibitor.id, id);
+      mappedManualIds.add(id);
+    }
+  }
   const result = new Map<string, ManualExhibitorInput>();
   const upstreamIds = new Set<string>();
   const officialBackedIds = new Set<string>();
   const activeOfficialIds = new Set<string>();
+  const touched = new Set<string>();
   for (const exhibitor of options.exhibitors) {
     requireValue(!upstreamIds.has(exhibitor.id), `duplicate upstream ID ${exhibitor.id}`);
     upstreamIds.add(exhibitor.id);
@@ -110,17 +166,27 @@ export async function mergeManualExhibitors(options: {
     requireValue(!additions.has(exhibitor.id),
       `addition ID already exists: ${exhibitor.id}`);
     const { fandomSourceFields, ...fields } = exhibitor;
-    result.set(publicId, { ...fields, id: publicId, fandoms: fandomSourceFields,
+    const official = { ...fields, id: publicId, fandoms: fandomSourceFields,
       ...(mappedId === undefined ? {} : { catalogUrl: exhibitor.catalogUrl ?? null }),
-    });
+    };
+    const manual = mappedId ? additions.get(mappedId) : undefined;
+    if (manual && exhibitor.assets.gallery.length === 0) {
+      const patches = options.overrides.filter(patch => object(patch) && patch.id === mappedId);
+      const fallback = Object.assign({}, manual, ...patches) as unknown as ManualExhibitorInput;
+      result.set(publicId, { ...fallback, id: publicId,
+        spaces: official.spaces, attendanceDates: official.attendanceDates,
+        offerings: official.offerings, catalogUrl: official.catalogUrl,
+        assets: { thumbnail: official.assets.thumbnail, gallery: fallback.assets.gallery },
+      });
+      touched.add(publicId);
+    } else result.set(publicId, official);
     if (mappedId !== undefined) {
       officialBackedIds.add(publicId);
       activeOfficialIds.add(exhibitor.id);
     }
   }
-  const touched = new Set<string>();
   for (const addition of additions.values()) {
-    // The official record supplies every field once its explicit mapping exists.
+    // Mapped entries have already been merged with their official data.
     if (officialBackedIds.has(addition.id)) continue;
     requireValue(!result.has(addition.id), `addition ID already exists: ${addition.id}`);
     // Explicit null prevents the app from inventing a Comifuro catalog page.
@@ -159,7 +225,7 @@ export async function mergeManualExhibitors(options: {
   }
   // Resolve the final merged records so overridden fields cannot submit stale
   // upstream text. Only the derived IDs are included in the public catalog.
-  return mapEventCatalog({ records: [...result.values()], event: options.event,
+  const mapped = mapEventCatalog({ records: [...result.values()], event: options.event,
     registry: options.registry, adapter: {
       toCanonicalInput(exhibitor) {
         const { fandoms, ...fields } = exhibitor;
@@ -167,17 +233,32 @@ export async function mergeManualExhibitors(options: {
       },
     },
   });
+  return { ...mapped,
+    idMappings: [...manualIdByOfficialId].map(([officialId, manualId]) => ({ officialId, manualId })),
+    manualEntries: [...additions.values()] as unknown as ManualExhibitorInput[],
+  };
 }
 
 export async function loadManualExhibitors(root: string, exhibitors: CanonicalExhibitorInput[], event: EventConfig, registry: FandomRegistry): Promise<MappedEvent> {
   const json = async (file: string) => JSON.parse(await readFile(path.join(root, file), "utf8"));
   const publicBaseUrl = process.env.PUBLIC_BASE_URL?.trim();
   requireValue(publicBaseUrl, "set PUBLIC_BASE_URL to the public site URL ending in / (GitHub Actions repository variable or local environment variable)");
-  return mergeManualExhibitors({ exhibitors, event, registry,
-    additions: await json("data/manual/exhibitors.json"),
+  const additions = await json("data/manual/exhibitors.json");
+  const idMappings = await json("data/manual/id-mappings.json");
+  const result = await mergeManualExhibitors({ exhibitors, event, registry, assignManualIds: true,
+    additions,
     overrides: await json("data/manual/overrides.json"),
-    idMappings: await json("data/manual/id-mappings.json"),
+    idMappings,
     publicBaseUrl,
     publicDirectory: path.join(root, "public"),
   });
+  for (const [file, previous, next] of [
+    ["data/manual/exhibitors.json", additions, result.manualEntries],
+    ["data/manual/id-mappings.json", idMappings, result.idMappings],
+  ] as const) {
+    if (JSON.stringify(previous) !== JSON.stringify(next)) {
+      await writeFile(path.join(root, file), `${JSON.stringify(next, null, 2)}\n`);
+    }
+  }
+  return result;
 }

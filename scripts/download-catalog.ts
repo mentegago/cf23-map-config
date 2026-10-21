@@ -2,19 +2,11 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { discoverCatalogConnection } from "./lib/comifuro-source.ts";
 import { preserveUnchangedSnapshot } from "./lib/catalog-snapshot.ts";
-import type { CatalogSnapshot, RawCircle } from "./types.ts";
+import { downloadCatalogCircles } from "./lib/catalog-download.ts";
+import type { CatalogSnapshot } from "./types.ts";
 
 const connection = await discoverCatalogConnection();
-const endpoint = `${connection.url}/rest/v1/circle_data?select=*&order=id.asc`;
-
-const response = await fetch(endpoint, {
-  headers: { apikey: connection.anonKey, Authorization: `Bearer ${connection.anonKey}` },
-  signal: AbortSignal.timeout(60_000),
-});
-if (!response.ok) throw new Error(`Catalog download failed: ${response.status} ${await response.text()}`);
-
-const circles = await response.json() as RawCircle[];
-if (!Array.isArray(circles) || circles.length === 0) throw new Error("Catalog returned no circles");
+const circles = await downloadCatalogCircles(connection);
 
 const snapshot: CatalogSnapshot = {
   schemaVersion: 1,

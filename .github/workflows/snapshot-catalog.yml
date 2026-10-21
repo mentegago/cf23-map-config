@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   refresh:
-    # Temporarily paused; manual dispatch remains available.
+    # Scheduled refreshes can be paused with the repository variable.
     if: github.event_name != 'schedule' || vars.AUTO_REFRESH_ENABLED == 'true'
     uses: ./.github/workflows/_refresh-data.yml
     with:
