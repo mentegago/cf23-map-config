@@ -14354,9 +14354,12 @@
       "aliases": [
         "General",
         "General & Pokemon",
+        "misc.",
         "Original, General & Pokemon"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "misc."
+      ]
     },
     {
       "id": 797,
@@ -38639,14 +38642,91 @@
         "Ahiru: full original. Youichi: Gundam"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 2967,
+      "name": "Casual",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Casual"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2969,
+      "name": "PlayStation 1",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "PlayStation 1"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2971,
+      "name": "Stomach Book",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Stomach Book",
+        "Stoumach book"
+      ],
+      "alternateNames": [
+        "Stoumach book"
+      ]
+    },
+    {
+      "id": 2972,
+      "name": "AKE",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "AKE"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2973,
+      "name": "20020",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "20020"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2974,
+      "name": "Psychologist",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Psychologist"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2979,
+      "name": "8:11",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "8:11"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
+    "& More!",
     "(other fandom)",
+    "-",
     "- /",
     ".",
     "..",
+    "...",
     "000",
+    "a nostalgic hangout game",
     "A5",
     "All fandoms based on request",
     "and more",
@@ -38659,12 +38739,16 @@
     "Discord link, not fandom",
     "Discord Servers",
     "DLL",
+    "dorm du",
     "dst.",
     "edt",
     "etc",
+    "etc coming soon (we also have a lot of goods variety)",
     "Etc.",
     "HDR",
     "https://discord.gg/zn2n82FD",
+    "https://www.allcpp.cn/u/144197.do?showtype=1",
+    "https://www.xiaohongshu.com/user/profile/5fae811b0000000001002e33",
     "Leva E&C",
     "Links, not Fandom",
     "linktr.ee/dreamscapeoflove",
@@ -38691,6 +38775,7 @@
     "v.v...",
     "Various",
     "Various Fandom",
-    "we basically offer"
+    "we basically offer",
+    "⁠"
   ]
 }

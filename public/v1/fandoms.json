@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-Kb8sS0g8l2WJ3Cv6osX8PJgVdFhmrpIFA4MvuerVfeQ\"",
-    "lastModified": "Wed, 21 Oct 2026 17:55:19 GMT",
+    "etag": "\"sha256-tEBWLGKTgWrzi92IbRi4SdLYa93tYZDwSoMHAIbaP0k\"",
+    "lastModified": "Wed, 21 Oct 2026 18:16:39 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -7878,7 +7878,9 @@
       "name": "General",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "misc."
+      ]
     },
     {
       "id": 797,
@@ -24137,6 +24139,57 @@
       "id": 2963,
       "name": "Ahiru",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2967,
+      "name": "Casual",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2969,
+      "name": "PlayStation 1",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2971,
+      "name": "Stomach Book",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "Stoumach book"
+      ]
+    },
+    {
+      "id": 2972,
+      "name": "AKE",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2973,
+      "name": "20020",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2974,
+      "name": "Psychologist",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2979,
+      "name": "8:11",
+      "kind": "franchise",
       "parentId": null,
       "alternateNames": []
     }

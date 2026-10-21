@@ -3,12 +3,12 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-21T16:10:12.906Z"
+      "downloadedAt": "2026-10-21T20:44:08.716Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-Kb8sS0g8l2WJ3Cv6osX8PJgVdFhmrpIFA4MvuerVfeQ\"",
-      "lastModified": "Wed, 21 Oct 2026 17:55:19 GMT",
+      "etag": "\"sha256-tEBWLGKTgWrzi92IbRi4SdLYa93tYZDwSoMHAIbaP0k\"",
+      "lastModified": "Wed, 21 Oct 2026 18:16:39 GMT",
       "schemaVersion": "5"
     }
   },
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1964,
-    "fandomsReferenced": 1608
+    "fandomsReferenced": 1613
   },
   "exhibitors": [
     {
@@ -914,7 +914,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Kang Cilok’s X Baktiabe.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Kang Ciloks X Baktiabe.jpg",
         "gallery": []
       },
       "links": [
@@ -2811,7 +2811,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Prism:Nova X Laeta.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/PrismNova X Laeta.jpg",
         "gallery": []
       },
       "links": [
@@ -3603,7 +3603,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/District#7.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/District7.jpg",
         "gallery": []
       },
       "links": [
@@ -6881,7 +6881,7 @@
         "magazine"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Bulu Biru x Shadowverse Indonesia: WB.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Bulu Biru x Shadowverse IndonesiaWB.jpg",
         "gallery": []
       },
       "links": [
@@ -7635,7 +7635,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23//IMG/entayangan.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/IMGentayangan.jpg",
         "gallery": []
       },
       "links": [
@@ -8180,7 +8180,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/lenkuass x lim#39.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/lenkuass x lim39.jpg",
         "gallery": []
       },
       "links": [
@@ -9082,7 +9082,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Shattā Kuriku.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Shatta Kuriku.jpg",
         "gallery": []
       },
       "links": [
@@ -9467,7 +9467,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Caca Café.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Caca cafe.jpg",
         "gallery": []
       },
       "links": [
@@ -10282,7 +10282,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Viku猫梨梨.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Viku.jpg",
         "gallery": []
       },
       "links": [
@@ -11229,7 +11229,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Fuuka風花.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Fuuka.jpg",
         "gallery": []
       },
       "links": [
@@ -11508,7 +11508,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Puine & PENG☆PENG.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/PuinePENGPENG.jpg",
         "gallery": []
       },
       "links": [
@@ -11851,7 +11851,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/ANPAN.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/circle_cut_blank.jpg",
         "gallery": []
       },
       "links": [
@@ -13119,7 +13119,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/IDK!? x catnichiwa.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/IDK x catnichiwa.jpg",
         "gallery": []
       },
       "links": [
@@ -15243,7 +15243,7 @@
         "magazine"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/bagi loker 🥺.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/bagi loker.jpg",
         "gallery": []
       },
       "links": [
@@ -15560,7 +15560,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Hani Kohi Studio — Uwelables.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Hani Kohi Studio Uwelables.jpg",
         "gallery": []
       },
       "links": [
@@ -16786,7 +16786,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Mokki: The Soft Dept.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Mokki The Soft Dept.jpg",
         "gallery": []
       },
       "links": [
@@ -17624,7 +17624,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Saya Orang Jahat 😈.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Saya Orang Jahat.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000405/catalog-d4cf58408046.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000405/catalog-8501430abb5b.webp",
@@ -21990,7 +21990,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/~La Creatura~.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/La Creatura.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000500/catalog-dd591dc8d3cb.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000500/catalog-e53142f9c4df.webp",
@@ -22969,7 +22969,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Seblak Kencoor x MAGICAL GURLS?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Seblak Kencoor x MAGICAL GURLS.jpg",
         "gallery": []
       },
       "links": [
@@ -23023,7 +23023,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Makanya..Makanya Apa?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Makanya..Makanya Apa.jpg",
         "gallery": []
       },
       "links": [
@@ -23391,7 +23391,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Kriya-Chan.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/circle_cut_blank.jpg",
         "gallery": []
       },
       "links": [
@@ -28207,7 +28207,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/TOOT N’ BOOTH.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/TOOT N BOOTH.jpg",
         "gallery": []
       },
       "links": [
@@ -28428,7 +28428,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/MULTIMODA プロジェクト.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/MULTIMODA.jpg",
         "gallery": []
       },
       "links": [
@@ -29955,7 +29955,8 @@
         275,
         436,
         830,
-        851
+        851,
+        2974
       ]
     },
     {
@@ -31017,7 +31018,7 @@
         "commission"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/three sacred sisters.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/circle_cut_blank.jpg",
         "gallery": []
       },
       "links": [
@@ -34594,7 +34595,8 @@
         350,
         522,
         1320,
-        1452
+        1452,
+        2972
       ]
     },
     {
@@ -35064,7 +35066,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Rizuム.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Rizumu.jpg",
         "gallery": []
       },
       "links": [
@@ -35361,7 +35363,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Hell’s Booth.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Hells Booth.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000782/catalog-196a830c9716.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000782/catalog-4c2ac2565dbb.webp",
@@ -38109,7 +38111,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/YOOMI CROCHET.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/circle_cut_blank.jpg",
         "gallery": []
       },
       "links": [
@@ -38760,7 +38762,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/rest:solace.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/restsolace.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000855/catalog-6dedeb15269f.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000855/catalog-00dba2c2623d.webp"
@@ -38917,7 +38919,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Witris Project × Addorable Mii.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Witris Project Addorable Mii.jpg",
         "gallery": []
       },
       "links": [
@@ -40620,7 +40622,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Biawak Coquette Khas Depok?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Biawak Coquette Khas Depok.jpg",
         "gallery": []
       },
       "links": [
@@ -41447,7 +41449,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/KKN: Kami Kurang Niat.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/KKN Kami Kurang Niat.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000911/catalog-055c8eace7d7.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000911/catalog-564f25ac1b0e.webp",
@@ -43364,7 +43366,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Café Riza.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Cafe Riza.jpg",
         "gallery": []
       },
       "links": [
@@ -44594,7 +44596,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Nyawit: Circle Nyawit.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Nyawit Circle Nyawit.jpg",
         "gallery": []
       },
       "links": [
@@ -44877,7 +44879,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Gumi’s Favorite.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Gumis Favorite.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1000981/catalog-dce89b1e18ff.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1000981/catalog-e53900446027.webp",
@@ -46035,7 +46037,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Capek Hidup™.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Capek Hidup.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001002/catalog-7888a9a861db.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001002/catalog-000271b29459.webp",
@@ -48790,7 +48792,7 @@
         "game"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Bluehood’s Corner.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Bluehoods Corner.jpg",
         "gallery": []
       },
       "links": [
@@ -49190,7 +49192,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Orion Ateliér.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Orion Atelier.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001069/catalog-70f33598859e.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001069/catalog-22f5012cd4e5.webp",
@@ -49346,7 +49348,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/fishcake :3.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/fishcake3.jpg",
         "gallery": []
       },
       "links": [
@@ -50271,7 +50273,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/[me:approve].jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/meapprove.jpg",
         "gallery": []
       },
       "links": [
@@ -52371,7 +52373,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/HOW NICHE CAN THIS GET?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/HOW NICHE CAN THIS GET.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001134/catalog-d55c32813365.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001134/catalog-fa6fc6b09951.webp",
@@ -52767,7 +52769,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Yang Jualan La[r]per.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Yang Jualan Larper.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001142/catalog-71b336741e9e.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001142/catalog-1311b5f966bf.webp",
@@ -55508,7 +55510,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lunaquête x Petite Rabbit Studio x mintxeclair.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lunaquete Petite Rabbit Studio mintxeclair.jpg",
         "gallery": []
       },
       "links": [
@@ -57729,7 +57731,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/medieval: mid n evil.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/medieval mid n evil.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001241/catalog-c6908dc21b07.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001241/catalog-6b8d80b371ab.webp",
@@ -59021,7 +59023,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Star☆Light.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/StarLight.jpg",
         "gallery": []
       },
       "links": [
@@ -60053,7 +60055,8 @@
         2722,
         2725,
         2727,
-        2809
+        2809,
+        2971
       ]
     },
     {
@@ -61088,7 +61091,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Deco*23.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Deco23.jpg",
         "gallery": []
       },
       "links": [
@@ -63723,7 +63726,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Sliceofromance x Kom*.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Sliceofromance x Kom.jpg",
         "gallery": []
       },
       "links": [
@@ -66231,7 +66234,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/PonDéPon.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/PonDePon.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001417/catalog-bf34698b52c5.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001417/catalog-0cfda7d2bef6.webp",
@@ -70216,7 +70219,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Five Nights at Jeva’s.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Five Nights at Jevas.jpg",
         "gallery": []
       },
       "links": [
@@ -70663,7 +70666,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lémmiting.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lemmiting.jpg",
         "gallery": []
       },
       "links": [
@@ -72449,7 +72452,8 @@
         108,
         297,
         1044,
-        1685
+        1685,
+        2973
       ]
     },
     {
@@ -73412,7 +73416,8 @@
         66,
         2503,
         2953,
-        2954
+        2954,
+        2979
       ]
     },
     {
@@ -74798,7 +74803,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Cari Apa Kak?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Cari Apa Kak.jpg",
         "gallery": []
       },
       "links": [
@@ -77723,7 +77728,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lelaki Pedang 🌹.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Lelaki Pedang.jpg",
         "gallery": []
       },
       "links": [
@@ -77781,7 +77786,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/baishuang × defragments × sagopearis.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/baishuang defragments sagopearis.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001661/catalog-d589a338efd6.webp"
         ]
@@ -77935,7 +77940,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Nihon Gak, Ka?.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Nihon Gak, Ka.jpg",
         "gallery": []
       },
       "links": [
@@ -79136,7 +79141,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/BUMN: Badan Usaha Merch Niche.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/BUMN Badan Usaha Merch Niche.jpg",
         "gallery": []
       },
       "links": [
@@ -84806,7 +84811,7 @@
         "handmade_crafts"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/24/7 ENCOK.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/247 ENCOK.jpg",
         "gallery": []
       },
       "links": [
@@ -88181,7 +88186,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/The Four Hjönkmen.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/The Four Hjonkmen.jpg",
         "gallery": [
           "https://cf23-config.nnt.gg/images/exhibitors/1001882/catalog-d2dd89340a27.webp",
           "https://cf23-config.nnt.gg/images/exhibitors/1001882/catalog-eccf0db7c4d3.webp",
@@ -88976,7 +88981,7 @@
         "goods"
       ],
       "assets": {
-        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/ocha/haco.jpg",
+        "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/ochahaco.jpg",
         "gallery": []
       },
       "links": [

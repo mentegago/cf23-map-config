@@ -2,27 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-Kb8sS0g8l2WJ3Cv6osX8PJgVdFhmrpIFA4MvuerVfeQ\"",
-    "lastModified": "Wed, 21 Oct 2026 17:55:19 GMT",
+    "etag": "\"sha256-tEBWLGKTgWrzi92IbRi4SdLYa93tYZDwSoMHAIbaP0k\"",
+    "lastModified": "Wed, 21 Oct 2026 18:16:39 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 10548,
-    "ignoredPieces": 12,
-    "unknownPieces": 305,
-    "unknownSourceFields": 11
+    "matchedPieces": 10553,
+    "ignoredPieces": 312,
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "-",
-    "Good/Bad Fortune, dorm du",
-    "Guilty gear, Team fortress 2, Limbus Company, Umamusume, NINAH, OneShot, Bocchi the rock, Ena dream bbq, Psychopomp, Pokemon, 2kawaii4comfort, Backrooms, The binding of isaac, Mewgenics, lookback, re: zero, Chainsmoker cat, Chainsawman, Dorohedoro, Homestuck, Stoumach book, femtanyl, will wood,",
-    "Haikyuu, Eve, LoM, GSGW, Versa, HSR, GI, NCT, AKE, Ori",
-    "Homestuck, The Magnus Archives, 20020, RPGMaker",
-    "Horror, Thriller, Psychologist, Manga gore enthusiastic",
-    "https://www.allcpp.cn/u/144197.do?showtype=1",
-    "https://www.xiaohongshu.com/user/profile/5fae811b0000000001002e33",
-    "Kimetsu no Yaiba, Pokémon, Alien Stage, Honkai: Star Rail, Cookie Run,...",
-    "Limbus Company, ROTTMNT, mlp, KREW -kaitou joker, regular show, star vs the forces of evil, kipo wonder beast-twst,- malevolent , a nostalgic hangout game, minecraft arg - xdinary heroes, The adams, ghibli",
-    "What in HELL is Bad?, Roblox, Original, Electric Dreams, Minesweeper, 8:11, Madoka Magica, ALNST"
-  ]
+  "unknownSourceFields": []
 }
