@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-wnf38jOdQNQrvtRP910YZc6pVxBuCtrBUJHQxK88QD8\"",
-    "lastModified": "Tue, 20 Oct 2026 16:05:05 GMT",
+    "etag": "\"sha256-CSf5hbzVUuwHtWiSmZc0_U26oVk1rLevmtHruuA8i-Y\"",
+    "lastModified": "Wed, 21 Oct 2026 16:00:54 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -4164,6 +4164,7 @@
       "parentId": null,
       "alternateNames": [
         "Trickcal",
+        "Trickcal Chibi",
         "Trickcal Chibi-Go",
         "Trickcal:Chibi go"
       ]
@@ -7160,7 +7161,9 @@
       "name": "Our Life: Beginning and Always",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Our Life: Beginnings & Always"
+      ]
     },
     {
       "id": 736,
@@ -15166,7 +15169,9 @@
       "name": "Brandon Works",
       "kind": "individual",
       "parentId": 66,
-      "alternateNames": []
+      "alternateNames": [
+        "Brandonworks"
+      ]
     },
     {
       "id": 1769,
@@ -21043,7 +21048,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Kamiina Botan"
+        "Kamiina Botan",
+        "Yoeru Sugata wa Yuri no Hana"
       ]
     },
     {
@@ -21226,6 +21232,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "I'm Not a Human",
         "No I'm Not A Human"
       ]
     },
@@ -21464,6 +21471,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Kimi tte Yatsu wa",
+        "Tashiro-kun",
         "Tashiro-kun Kimi tte Yatsu Wa"
       ]
     },
@@ -21920,6 +21929,78 @@
       "id": 2711,
       "name": "Solace Amerta",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2712,
+      "name": "British Railways",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2713,
+      "name": "ISH SMP",
+      "kind": "franchise",
+      "parentId": 62,
+      "alternateNames": [
+        "ISHSMP"
+      ]
+    },
+    {
+      "id": 2714,
+      "name": "Our Life: Now & Forever",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2715,
+      "name": "Phineas and Ferb",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2716,
+      "name": "Regect ARG",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2717,
+      "name": "RhyZyGy",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2718,
+      "name": "Rochas313",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2719,
+      "name": "TSFTL",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2720,
+      "name": "Whisper Me a Love Song",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2721,
+      "name": "Zootopia",
+      "kind": "franchise",
       "parentId": null,
       "alternateNames": []
     }

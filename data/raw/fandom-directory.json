@@ -6334,6 +6334,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "COTL",
         "Cult of the Lamb",
         "Cult of the Lamb (cotl)"
       ],
@@ -8064,12 +8065,14 @@
       "aliases": [
         "Original. Gacha. Trickcal",
         "Trickcal",
+        "Trickcal Chibi",
         "Trickcal Chibi-Go",
         "Trickcal: Chibi Go",
         "Trickcal:Chibi go"
       ],
       "alternateNames": [
         "Trickcal",
+        "Trickcal Chibi",
         "Trickcal Chibi-Go",
         "Trickcal:Chibi go"
       ]
@@ -11920,6 +11923,7 @@
         "Horror Game",
         "Horror RPG",
         "Horror Rpgs",
+        "Indie Horror",
         "Indie Horror (nso, Witchs Heart, Witchs House, Ddlc, Omori, Yume Nikki, Ao Oni)",
         "Rpg Horor Game",
         "RPG Horror",
@@ -12738,10 +12742,13 @@
       "parentId": null,
       "aliases": [
         "Our Life: Beginning and Always",
+        "Our Life: Beginnings & Always",
         "Reverse 1999, Visual novel (14 days with you, the kid at the back, a date with death, our life beginning and always, the freak circus)",
         "Visual novel (14 days with you, the kid at the back, a date with death, our life beginning and always, the freak circus)"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Our Life: Beginnings & Always"
+      ]
     },
     {
       "id": 736,
@@ -14016,6 +14023,7 @@
       "aliases": [
         "Gquuuuuux",
         "Gquuuux",
+        "GQUX",
         "Gundam GQuuuuuuX",
         "gundam gquuuuux",
         "Gundam Gqux",
@@ -14429,6 +14437,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "II",
         "Inanimate Insanity",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
@@ -24882,9 +24891,12 @@
       "parentId": 66,
       "aliases": [
         "Brandon Works",
+        "Brandonworks",
         "Roblox (forsaken, Block Tales, Dream Game, Brandon Works, Let Him Go, Admins)"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Brandonworks"
+      ]
     },
     {
       "id": 1769,
@@ -33503,10 +33515,12 @@
       "aliases": [
         "Botan Kamiina Fully Blossoms When Drunk",
         "Kamiina Botan",
-        "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
+        "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "Yoeru Sugata wa Yuri no Hana"
       ],
       "alternateNames": [
-        "Kamiina Botan"
+        "Kamiina Botan",
+        "Yoeru Sugata wa Yuri no Hana"
       ]
     },
     {
@@ -33767,10 +33781,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "I'm Not a Human",
         "No I'm Not A Human",
         "No, I'm Not a Human"
       ],
       "alternateNames": [
+        "I'm Not a Human",
         "No I'm Not A Human"
       ]
     },
@@ -34112,10 +34128,14 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Kimi tte Yatsu wa",
+        "Tashiro-kun",
         "Tashiro-kun Kimi tte Yatsu Wa",
         "Tashiro-kun, Kimi tte Yatsu wa"
       ],
       "alternateNames": [
+        "Kimi tte Yatsu wa",
+        "Tashiro-kun",
         "Tashiro-kun Kimi tte Yatsu Wa"
       ]
     },
@@ -34769,6 +34789,109 @@
       "parentId": null,
       "aliases": [
         "Solace Amerta"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2712,
+      "name": "British Railways",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "British Railways"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2713,
+      "name": "ISH SMP",
+      "kind": "franchise",
+      "parentId": 62,
+      "aliases": [
+        "ISH SMP",
+        "ISHSMP"
+      ],
+      "alternateNames": [
+        "ISHSMP"
+      ]
+    },
+    {
+      "id": 2714,
+      "name": "Our Life: Now & Forever",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Our Life: Now & Forever"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2715,
+      "name": "Phineas and Ferb",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Phineas and Ferb"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2716,
+      "name": "Regect ARG",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Regect ARG"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2717,
+      "name": "RhyZyGy",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "RhyZyGy"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2718,
+      "name": "Rochas313",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Rochas313"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2719,
+      "name": "TSFTL",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "TSFTL"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2720,
+      "name": "Whisper Me a Love Song",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Whisper Me a Love Song"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2721,
+      "name": "Zootopia",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Zootopia"
       ],
       "alternateNames": []
     }
