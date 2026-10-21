@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-CSf5hbzVUuwHtWiSmZc0_U26oVk1rLevmtHruuA8i-Y\"",
-    "lastModified": "Wed, 21 Oct 2026 16:00:54 GMT",
+    "etag": "\"sha256-8N4fVhsdR63b3rYiLJWR6Yondyiyf2Wq2Hog22eVrmk\"",
+    "lastModified": "Wed, 21 Oct 2026 16:49:08 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -9698,7 +9698,9 @@
       "name": "A ReGect",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Regect ARG"
+      ]
     },
     {
       "id": 1048,
@@ -21936,17 +21938,15 @@
       "id": 2712,
       "name": "British Railways",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 676,
       "alternateNames": []
     },
     {
       "id": 2713,
-      "name": "ISH SMP",
+      "name": "ishSMP",
       "kind": "franchise",
       "parentId": 62,
-      "alternateNames": [
-        "ISHSMP"
-      ]
+      "alternateNames": []
     },
     {
       "id": 2714,
@@ -21963,39 +21963,37 @@
       "alternateNames": []
     },
     {
-      "id": 2716,
-      "name": "Regect ARG",
-      "kind": "franchise",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
       "id": 2717,
       "name": "RhyZyGy",
       "kind": "individual",
-      "parentId": null,
+      "parentId": 206,
       "alternateNames": []
     },
     {
       "id": 2718,
       "name": "Rochas313",
       "kind": "individual",
-      "parentId": null,
+      "parentId": 66,
       "alternateNames": []
     },
     {
       "id": 2719,
-      "name": "TSFTL",
+      "name": "The Search for the Leviathan",
       "kind": "franchise",
-      "parentId": null,
-      "alternateNames": []
+      "parentId": 1169,
+      "alternateNames": [
+        "TSFTL"
+      ]
     },
     {
       "id": 2720,
       "name": "Whisper Me a Love Song",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Sasakoi",
+        "Sasayaku You ni Koi o Utau"
+      ]
     },
     {
       "id": 2721,

@@ -16693,9 +16693,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "A ReGect"
+        "A ReGect",
+        "Regect ARG"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Regect ARG"
+      ]
     },
     {
       "id": 1048,
@@ -34796,7 +34799,7 @@
       "id": 2712,
       "name": "British Railways",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 676,
       "aliases": [
         "British Railways"
       ],
@@ -34804,16 +34807,14 @@
     },
     {
       "id": 2713,
-      "name": "ISH SMP",
+      "name": "ishSMP",
       "kind": "franchise",
       "parentId": 62,
       "aliases": [
         "ISH SMP",
         "ISHSMP"
       ],
-      "alternateNames": [
-        "ISHSMP"
-      ]
+      "alternateNames": []
     },
     {
       "id": 2714,
@@ -34836,20 +34837,10 @@
       "alternateNames": []
     },
     {
-      "id": 2716,
-      "name": "Regect ARG",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Regect ARG"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 2717,
       "name": "RhyZyGy",
       "kind": "individual",
-      "parentId": null,
+      "parentId": 206,
       "aliases": [
         "RhyZyGy"
       ],
@@ -34859,7 +34850,7 @@
       "id": 2718,
       "name": "Rochas313",
       "kind": "individual",
-      "parentId": null,
+      "parentId": 66,
       "aliases": [
         "Rochas313"
       ],
@@ -34867,13 +34858,16 @@
     },
     {
       "id": 2719,
-      "name": "TSFTL",
+      "name": "The Search for the Leviathan",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 1169,
       "aliases": [
+        "The Search for the Leviathan",
         "TSFTL"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "TSFTL"
+      ]
     },
     {
       "id": 2720,
@@ -34883,7 +34877,10 @@
       "aliases": [
         "Whisper Me a Love Song"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Sasakoi",
+        "Sasayaku You ni Koi o Utau"
+      ]
     },
     {
       "id": 2721,
