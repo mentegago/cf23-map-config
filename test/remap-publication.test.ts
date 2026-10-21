@@ -58,8 +58,7 @@ test("remap keeps version and timestamp for metadata changes, and advances both 
     await build();
     expect(await readFile(path.join(fixture, "data/raw/publication.json"), "utf8")).toBe(initialPublication);
 
-    // Map publications share the manifest but have an independent version and
-    // must not conflict with immutable catalog analytics archives.
+    // Map publications share the manifest but have an independent version.
     const sharedManifest = await json("public/manifest.json");
     const mapDescriptor = {version: 999, path: "maps/independent.json", fingerprint: "map"};
     await save("public/manifest.json", {...sharedManifest, map: mapDescriptor});
