@@ -5319,7 +5319,8 @@
         "LCK",
         "League Of Legend",
         "League of Legends",
-        "League of Legends (Heartsteel)"
+        "League of Legends (Heartsteel)",
+        "LOL"
       ],
       "alternateNames": [
         "LCK",
@@ -15786,16 +15787,6 @@
         "Diamond No Ace",
         "Diamond no Ace/Daiya no Ace"
       ]
-    },
-    {
-      "id": 909,
-      "name": "LOL",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "LOL"
-      ],
-      "alternateNames": []
     },
     {
       "id": 910,
@@ -33819,6 +33810,19 @@
       ]
     },
     {
+      "id": 2518,
+      "name": "EVREN",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "EVREN",
+        "https://virtualyoutuber.fandom.com/id/wiki/EVREN"
+      ],
+      "alternateNames": [
+        "https://virtualyoutuber.fandom.com/id/wiki/EVREN"
+      ]
+    },
+    {
       "id": 2521,
       "name": "Aikatsu Stars!",
       "kind": "franchise",
@@ -38652,6 +38656,7 @@
     "commission requests",
     "Commission Showcase",
     "dan",
+    "Discord link, not fandom",
     "Discord Servers",
     "DLL",
     "dst.",
@@ -38660,8 +38665,8 @@
     "Etc.",
     "HDR",
     "https://discord.gg/zn2n82FD",
-    "https://virtualyoutuber.fandom.com/id/wiki/EVREN",
     "Leva E&C",
+    "Links, not Fandom",
     "linktr.ee/dreamscapeoflove",
     "many more!",
     "mask",

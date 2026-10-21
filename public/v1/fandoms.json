@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256--UpoTB3a8H-tSD_kdh8AFB8piISr-gbA51BqBmdU0yk\"",
-    "lastModified": "Wed, 21 Oct 2026 17:47:06 GMT",
+    "etag": "\"sha256-Kb8sS0g8l2WJ3Cv6osX8PJgVdFhmrpIFA4MvuerVfeQ\"",
+    "lastModified": "Wed, 21 Oct 2026 17:55:19 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -8765,13 +8765,6 @@
         "Diamond No Ace",
         "Diamond no Ace/Daiya no Ace"
       ]
-    },
-    {
-      "id": 909,
-      "name": "LOL",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": []
     },
     {
       "id": 910,
@@ -20822,6 +20815,15 @@
       "parentId": null,
       "alternateNames": [
         "Virche Forevermore"
+      ]
+    },
+    {
+      "id": 2518,
+      "name": "EVREN",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "https://virtualyoutuber.fandom.com/id/wiki/EVREN"
       ]
     },
     {
