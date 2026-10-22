@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-VlDbrN6smQnCy57m1VMaxlwDgymcjXPspeLc_c1N46A\"",
-    "lastModified": "Thu, 22 Oct 2026 03:56:00 GMT",
+    "etag": "\"sha256-secdxgYNqXJHRnYY0wWro55n6wrtvHIozf_gOnsKZqU\"",
+    "lastModified": "Thu, 22 Oct 2026 08:45:39 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -317,6 +317,7 @@
         "Holo Production",
         "Hololive Production",
         "Hololive Vtuber",
+        "Hololive.",
         "Holopro",
         "Vtuber Hololive"
       ]
@@ -396,6 +397,7 @@
         "Zenless Zone Hero",
         "Zenless Zone Zero ( Zzz )",
         "Zenless Zone Zero (ZZZ)",
+        "Zenless Zone Zero ZZZ",
         "Zenless Zone Zero(ZZZ)",
         "Zenless Zone Zero.",
         "Zenlesss Zone Zero",
@@ -720,6 +722,7 @@
         "Twisted Wonderland (heartslabyul)",
         "Twisted Wonderland (twst)",
         "Twisted-wonderland",
+        "Twsited Wonderland",
         "TWST",
         "Twst Wonderland",
         "⁠twisted Wonderland"
@@ -923,6 +926,7 @@
         "Goddess of Victory : NIKKE",
         "Goddess of Victory Nikke",
         "NIKKE",
+        "Nikke Fandom",
         "NIKKE: Goddess of Victory"
       ]
     },
@@ -993,6 +997,7 @@
         "Ensamble Star",
         "ensamble stars",
         "Ensemble Star",
+        "Ensemble Star.",
         "Ensemble Stars",
         "Ensemble Stars!",
         "Ensemble Stars!! (UNDEAD)",
@@ -1201,6 +1206,7 @@
       "alternateNames": [
         "Amazing Digital Circus",
         "Digital Circus",
+        "TAD",
         "TADC",
         "TADC (digital circus)",
         "The Amazing Digital Circus (TADC)",
@@ -1790,6 +1796,7 @@
       "kind": "individual",
       "parentId": null,
       "alternateNames": [
+        "Tomorrow X Together (txt)",
         "TXT"
       ]
     },
@@ -2324,7 +2331,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Avatar (By James Cameron)"
+        "Avatar (By James Cameron)",
+        "avatar james cameron"
       ]
     },
     {
@@ -2657,7 +2665,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Team Fotress 2"
+        "Team Fotress 2",
+        "TF2"
       ]
     },
     {
@@ -2720,7 +2729,9 @@
       "name": "Invincible",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Invincible (Series)"
+      ]
     },
     {
       "id": 209,
@@ -3239,7 +3250,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Fruit Basket"
+        "Fruit Basket",
+        "Furuba"
       ]
     },
     {
@@ -3485,6 +3497,7 @@
       "alternateNames": [
         "OHSHC",
         "Ouran",
+        "Ouran High Scholl Host Club",
         "Ouran High School",
         "Ouran Highschool",
         "Ouran Highschool Club",
@@ -4781,10 +4794,13 @@
     },
     {
       "id": 422,
-      "name": "Catholic",
+      "name": "Catholicism",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Catholic",
+        "Catholic Series"
+      ]
     },
     {
       "id": 423,
@@ -7770,7 +7786,9 @@
       "name": "My Little Monster",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Tonari no Kaibutsu-kun"
+      ]
     },
     {
       "id": 783,
@@ -12342,15 +12360,6 @@
       "alternateNames": []
     },
     {
-      "id": 1351,
-      "name": "TOMORROW X TOGETHER (TXT)",
-      "kind": "individual",
-      "parentId": null,
-      "alternateNames": [
-        "TXT"
-      ]
-    },
-    {
       "id": 1352,
       "name": "LUCY",
       "kind": "individual",
@@ -12806,7 +12815,9 @@
       "name": "Holostars ARMIS",
       "kind": "publisher_umbrella",
       "parentId": 177,
-      "alternateNames": []
+      "alternateNames": [
+        "ARMIS"
+      ]
     },
     {
       "id": 1416,
@@ -21482,6 +21493,7 @@
       "kind": "franchise",
       "parentId": 41,
       "alternateNames": [
+        "Marvel Tokkon",
         "Marvel Tokon"
       ]
     },
@@ -22189,7 +22201,8 @@
       "kind": "franchise",
       "parentId": 2185,
       "alternateNames": [
-        "Legend of Heroes : Trail of Cold Steel"
+        "Legend of Heroes : Trail of Cold Steel",
+        "Legend of heroes: Trails of coldsteel"
       ]
     },
     {
@@ -24286,6 +24299,197 @@
       "id": 2992,
       "name": "Meitantei",
       "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2994,
+      "name": "Monkey King",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2995,
+      "name": "Coyote vs. Acme",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Coyote Vs Acme"
+      ]
+    },
+    {
+      "id": 2996,
+      "name": "Mouse",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2997,
+      "name": "Wee",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2998,
+      "name": "Silver Lining",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2999,
+      "name": "Sukuna",
+      "kind": "individual",
+      "parentId": 7,
+      "alternateNames": []
+    },
+    {
+      "id": 3000,
+      "name": "Risk of Rain 2",
+      "kind": "franchise",
+      "parentId": 2630,
+      "alternateNames": []
+    },
+    {
+      "id": 3001,
+      "name": "FIFA",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3002,
+      "name": "Saint Seiya: The Lost Canvas",
+      "kind": "franchise",
+      "parentId": 964,
+      "alternateNames": [
+        "Saint Seiya The Lost Canvas"
+      ]
+    },
+    {
+      "id": 3003,
+      "name": "Yaelokre",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3004,
+      "name": "Digger",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3005,
+      "name": "HST",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3006,
+      "name": "Reincarnator's Stream",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Reincarnator’s stream"
+      ]
+    },
+    {
+      "id": 3007,
+      "name": "All Wishes Come True!",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "AWCT"
+      ]
+    },
+    {
+      "id": 3008,
+      "name": "Gingitsune",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Messenger Fox of the Gods"
+      ]
+    },
+    {
+      "id": 3009,
+      "name": "Gehenna",
+      "kind": "individual",
+      "parentId": 23,
+      "alternateNames": []
+    },
+    {
+      "id": 3010,
+      "name": "Nina the Starry Bride",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3012,
+      "name": "Ogawa and Team Saito",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "OGAWA",
+        "Ogawa to Yukai na Saitou-tachi",
+        "TEAM SAITO"
+      ]
+    },
+    {
+      "id": 3013,
+      "name": "Itazura na Kiss",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3014,
+      "name": "Sabaku no Harem",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3015,
+      "name": "Sakura no Uta",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3016,
+      "name": "Tokyo 7th Sisters",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3017,
+      "name": "Minami",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "373"
+      ]
+    },
+    {
+      "id": 3018,
+      "name": "Kessoku Band",
+      "kind": "franchise",
+      "parentId": 83,
+      "alternateNames": []
+    },
+    {
+      "id": 3019,
+      "name": "Re:Creators",
+      "kind": "franchise",
       "parentId": null,
       "alternateNames": []
     }
