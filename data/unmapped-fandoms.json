@@ -7,10 +7,23 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 10881,
+    "matchedPieces": 10930,
     "ignoredPieces": 309,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 20,
+    "unknownSourceFields": 12
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Bridgerton Polin, Renjin, Honkai Star Rail, Steel Ball Run, Indie Vtuber, Spongebob, Godzilla, Ultraman, Gameoverse, Gundam Witch of Mercury, Jaadugar, Project Hail Mary, Metal Slug",
+    "DC Comic, Marvel, Hotline Miami, Mouthwashing, Payday: The Heist, Grand Theft Auto V, Grand Theft Auto Online, Call of Duty, Metal Gear Solid, Resident Evil,Mouthwashing, Dexter, Creep, Uma Musume, Car Stuff, Jet Set Radio, Dungeon and Dragons, Epic: The Musical, Genshin Impact, ",
+    "DC/Comics, HSR",
+    "Honkai Star Rails, Arknights, AK Endfield, Pandavva, Witch Hat Atelier, Original, Genshin Impact, Elden Ring, Elden Ring Nightreign, Apex Legends, Chainsawman, Reserve 1999, Bleach, Record of Ragnarok, Blue Lock",
+    "IdentityV, Ensemble Stars, Danmei (TGCF, SVSSS), Nezha, Idolish7, Paradox Live, Arknights, Endfield, Yohaji, Hundred Line, Precure, Uma Musume, BANDS (Pierce the Veil, My Chemical Romance), HORROR (Movies, Shows, Resident Evil, Dead by Daylight, Yellowjackets, Hannibal) ORIGINALS, PRIDE, TADC, JOJO's, House MD, Disco Elysium, Gintama",
+    "Nitro+ CHiRAL, DRAMAtical Murder, Lamento: Beyond the Void, Hashihime, Nijisanji, Pretty Rhythm, Supernatural",
+    "Original IP, Persona, Stardew Valley, Overwatch, Baldur's Gate 3, Reverse:1999, Arcane, Light & Night",
+    "Originals, Vtuber (Niji Jp), Fire Emblem Fortune's Weave, Pokemon, Reverse:1999, Metaphor Re:Fantazio, Voca-P (Nilfruits), Limbus Company, Yohaji, Fear & Hunger 2: Termina, Outlast Trials, Yuri, YTTD",
+    "Princess Connect!Re:Dive, Original art, craft, rajut",
+    "Sailor Moon, Mermaid Melody Pichi Pichi Pich, Witch Hat Atelier, Ouran High School Host Club, Kimi ni Todoke, Gekkan Shoujo Nozaki-kun, Fruits Basket, Pretty Cure, Card Captor Sakura, Genshin Impact, Honkai Star Rail, Manhwa, Lolita Fashion, Original",
+    "Witch hat atelier, Ghibli, Needy Streamer (NSO), Umamusume, Deltarune, SkyCOTL, Hazbin, Panty & Stocking (PASWG), ATEEZ, Indie Vtuber (neurosama), Frieren, Silk song, Fire Emblem, Pokemon",
+    "Zeno Remake, Original, Visual Novel, Link Click, One-room TA, Happy Twogether, Tamon's b-side "
+  ]
 }
