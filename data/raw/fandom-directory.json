@@ -144,6 +144,7 @@
         "Original and anime fanart",
         "Original and fanart game",
         "original animal",
+        "Original Animal Stickers",
         "Original animals",
         "Original Art",
         "Original Art & Craft",
@@ -271,6 +272,7 @@
         "Original.",
         "Original. Gacha. Trickcal",
         "Original/IP",
+        "Original/OC",
         "original: Pacca the Fluffiest Alpaca",
         "Originals",
         "Originals & Misc",
@@ -453,6 +455,7 @@
         "Genshin Impact. Dungeon Meshi",
         "Genshin Impct",
         "genshin suikoden haikyuu honkai star rail",
+        "genshin_impact",
         "Genshinimpact",
         "GenshinImpact HonkaiStarRail",
         "Gensin Impact",
@@ -519,6 +522,7 @@
         "Genshin Impac",
         "Genshin Impact (Chilumi)",
         "Genshin Impct",
+        "genshin_impact",
         "Genshinimpact",
         "Gensin Impact",
         "GI",
@@ -582,6 +586,7 @@
         "Honkai: Starrail",
         "Honkai:Star Rail",
         "Honkai:starrail",
+        "honkai_star_rail",
         "Honkaistar rail",
         "Honkaistarrail",
         "Honks I:star Rail",
@@ -672,6 +677,7 @@
         "Honkai: Starrail",
         "Honkai:Star Rail",
         "Honkai:starrail",
+        "honkai_star_rail",
         "Honkaistar rail",
         "Honkaistarrail",
         "Honks I:star Rail",
@@ -1331,6 +1337,7 @@
         "Zenless Zone Zero ZZZ",
         "Zenless Zone Zero(ZZZ)",
         "Zenless Zone Zero.",
+        "zenless_zone_zero",
         "Zenlesss Zone Zero",
         "Zenlesszonezero",
         "ZenlessZoneZero:AOD",
@@ -1361,6 +1368,7 @@
         "Zenless Zone Zero ZZZ",
         "Zenless Zone Zero(ZZZ)",
         "Zenless Zone Zero.",
+        "zenless_zone_zero",
         "Zenlesss Zone Zero",
         "Zenlesszonezero",
         "ZenlessZoneZero:AOD",
@@ -6318,6 +6326,7 @@
         "original (food & animal)",
         "Original (Food, Animal)",
         "original animal",
+        "Original Animal Stickers",
         "Original Character & Personal Mascot : Aesthetic Theme, Animals Series, Titus Family, Ilna the Cat, Trixx (Maskot), Apel kun, Animal x japanese food.",
         "rabbit animal",
         "Reverse 1999, Plave, Naruto, Wuwa, original animal, original food, detective conan, my hero academia, marvel,valorant, original handmade craft."
@@ -8023,12 +8032,14 @@
         "Original Indie Vtuber IP",
         "Vtuber (hololive/indie)",
         "Vtuber (Nijisanji, Holostars, Hololive, Indie)",
-        "Vtuber Indie"
+        "Vtuber Indie",
+        "vtuber_indie"
       ],
       "alternateNames": [
         "Indie",
         "Indie vtubers",
-        "Vtuber Indie"
+        "Vtuber Indie",
+        "vtuber_indie"
       ]
     },
     {
@@ -12399,6 +12410,7 @@
         "Final Fantasy XIV, PLAVE, Nu-Carnival, Mahoyaku, Honkai Star Rail, Vtuber (NijiEN: By The Beat)",
         "Krisisis NIJISANJI EN",
         "Luxiem Nijisanji EN",
+        "NIJI EN",
         "NIJIEN BTB",
         "Nijisanji En (btb)",
         "NIJISANJI EN (BY THE BEAT)",
@@ -12418,6 +12430,7 @@
       ],
       "alternateNames": [
         "EN",
+        "NIJI EN",
         "Nijisanji EN",
         "Nijisanji En (btb)"
       ]
@@ -15737,10 +15750,12 @@
       "parentId": null,
       "aliases": [
         "Custom Nails & Originals (Sea Animals, Bunnies, Angels)",
-        "Nail art"
+        "Nail art",
+        "nail_art"
       ],
       "alternateNames": [
-        "Custom Nails"
+        "Custom Nails",
+        "nail_art"
       ]
     },
     {
@@ -27761,6 +27776,7 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "Original Animal Stickers",
         "Stickers"
       ],
       "alternateNames": []
@@ -30326,10 +30342,12 @@
         "content creator",
         "Content Creators",
         "Content Creators/VTubers",
+        "content_creator",
         "Konten Creator"
       ],
       "alternateNames": [
         "content creator",
+        "content_creator",
         "Konten Creator"
       ]
     },
@@ -35287,10 +35305,12 @@
       "parentId": null,
       "aliases": [
         "smoking behind the supermarket",
-        "Smoking Behind the Supermarket with You"
+        "Smoking Behind the Supermarket with You",
+        "smoking_with_you_behind_the_door"
       ],
       "alternateNames": [
-        "smoking behind the supermarket"
+        "smoking behind the supermarket",
+        "smoking_with_you_behind_the_door"
       ]
     },
     {
@@ -39465,6 +39485,106 @@
       "parentId": null,
       "aliases": [
         "Happy Twogether"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3037,
+      "name": "greenyz",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "greenyz"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3038,
+      "name": "grist_hayward",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "grist_hayward"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3039,
+      "name": "opikarief",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "opikarief"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3040,
+      "name": "jeville_samael",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "jeville_samael"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3041,
+      "name": "james_ferbe",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "james_ferbe"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3042,
+      "name": "riely_rin",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "riely_rin"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3043,
+      "name": "elyos_fletcher",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "elyos_fletcher"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3044,
+      "name": "j-ann",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "j-ann"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3045,
+      "name": "Dan and Phil",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Dan and Phil"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3046,
+      "name": "Fiona Apple",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Fiona Apple"
       ],
       "alternateNames": []
     }

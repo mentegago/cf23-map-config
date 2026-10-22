@@ -2,20 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-LK6nH3dH3Nte7DDSqHuhdPP1a5cpwmQq2C71cJ9LTCs\"",
-    "lastModified": "Thu, 22 Oct 2026 18:16:33 GMT",
+    "etag": "\"sha256-D5foP9S4sjweeCpPoiCRP4iDElGvRoz_iUV0RLwQk4A\"",
+    "lastModified": "Thu, 22 Oct 2026 21:44:28 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 10942,
+    "matchedPieces": 10962,
     "ignoredPieces": 308,
-    "unknownPieces": 20,
-    "unknownSourceFields": 4
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Original Animal Stickers",
-    "Original/OC",
-    "vtuber_indie, content_creator, zenless_zone_zero, genshin_impact, honkai_star_rail, hoyoverse, haikyu, original works, smoking_with_you_behind_the_door, greenyz, grist_hayward, opikarief, jeville_samael, james_ferbe, riely_rin, elyos_fletcher, nail_art, j-ann,",
-    "WHA, NIJI EN, IWTV, JJBA, One Piece, mcr, p!atd, fob, jane remover, underscores, dan and phil, severance, fiona apple, Ado, Hoyo, BTS, Katseye, Friends, Haikyuu, Bluelock, Pokemon, Kurobas"
-  ]
+  "unknownSourceFields": []
 }
