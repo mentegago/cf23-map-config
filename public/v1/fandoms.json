@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-secdxgYNqXJHRnYY0wWro55n6wrtvHIozf_gOnsKZqU\"",
-    "lastModified": "Thu, 22 Oct 2026 08:45:39 GMT",
+    "etag": "\"sha256-SVEiGk9FXStG0RICQpD8ujGus6Z2_gR9GYqgioNbYIc\"",
+    "lastModified": "Thu, 22 Oct 2026 12:57:10 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -160,6 +160,7 @@
         "Honks I:star Rail",
         "HSR",
         "HSR - Honkai Star Rail",
+        "HSR / Honkai Star Rail",
         "HSR.",
         "Phaidei",
         "star rail",
@@ -512,6 +513,7 @@
         "Dugeon Meshi",
         "Dungeon Meshi",
         "dungeon meshi (delicious in dungeon)",
+        "Dungeon Meshi / Delicious in Dungeon",
         "Dungeon Meshii",
         "Dungeon-Meshi",
         "DungeonMeshi",
@@ -1056,7 +1058,8 @@
         "The Summer That Hikaru Died",
         "The Summer when Hikaru Died",
         "THSC",
-        "TSHD"
+        "TSHD",
+        "TSHD (The Summer Hikaru Died)"
       ]
     },
     {
@@ -1188,7 +1191,8 @@
       "parentId": null,
       "alternateNames": [
         "mlp",
-        "My little ponny"
+        "My little ponny",
+        "My Little Pony/MLP"
       ]
     },
     {
@@ -1403,6 +1407,7 @@
         "F1",
         "F1 (Formula 1)",
         "F1 (Formula One)",
+        "F1/Formula One",
         "Formula 1 (F1)",
         "Formula One",
         "Formula One (F1)",
@@ -1745,7 +1750,8 @@
         "Saiki K",
         "Saiki Kusuo",
         "Saiki Kusuo no Psi-nan",
-        "the disastrous life of saiki k"
+        "the disastrous life of saiki k",
+        "The Disatrous Life of Saiki K."
       ]
     },
     {
@@ -1845,6 +1851,7 @@
         "GSWIIWAGAA",
         "Ki ni Natteru Hito ga Otoko Janakatta",
         "Kininatteru Hito",
+        "KiniOto / The Guy She Was Interested in Wasn't a Guy at All / TGSWIIWAGAA",
         "Tgiwiiwagaa",
         "TGSWIIWAGA",
         "TGSWIIWAGAA",
@@ -1914,6 +1921,7 @@
         "Hundred Line Defense Academy",
         "Hundred line last defense academy",
         "the hundred line",
+        "The Hundred Line ( HNDR )",
         "The Hundred Line -last Defense Academy-",
         "The Hundred Line Last Defense Academy"
       ]
@@ -2032,6 +2040,7 @@
       "alternateNames": [
         "GBF",
         "Granblue",
+        "Granblue Fantasy ( GBF )",
         "Granblue Fantasy (GBF)",
         "Grandblue Fantasy"
       ]
@@ -2902,6 +2911,7 @@
         "GL / Yuri",
         "GL Animanga",
         "GL Manga",
+        "Green Yuri",
         "various yuri",
         "Yuri",
         "Yuri Manga",
@@ -4322,6 +4332,7 @@
       "alternateNames": [
         "Kaoru Hana",
         "Kaoru Hana wa Rin to Saku",
+        "Kaoru Hana wa Rin to Saku / The Fragrant Flower Blooms with Dignity",
         "Kaoru Rin",
         "Kaoru-hana",
         "Kaoruhana"
@@ -4914,6 +4925,7 @@
       "parentId": null,
       "alternateNames": [
         "100m",
+        "100m / Hyakuemu",
         "Hyakuemu",
         "Hyakuemu (100m)"
       ]
@@ -5409,7 +5421,8 @@
         "Yugi Oh",
         "Yugi-Oh",
         "Yugioh",
-        "Yugioh series"
+        "Yugioh series",
+        "Yugioh!"
       ]
     },
     {
@@ -6576,6 +6589,7 @@
       "parentId": null,
       "alternateNames": [
         "Mahoutsukai no Yakusoku",
+        "Mahoutsukai no Yakusoku ( MHYK / Mahoyaku )",
         "Mahoyaku"
       ]
     },
@@ -7099,6 +7113,7 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": [
+        "Bunnies",
         "Bunny (original)"
       ]
     },
@@ -8451,7 +8466,9 @@
       "name": "Sea Creatures",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Sea Animals"
+      ]
     },
     {
       "id": 867,
@@ -8670,7 +8687,9 @@
       "name": "Nail art",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Custom Nails"
+      ]
     },
     {
       "id": 893,
@@ -11563,7 +11582,9 @@
       "name": "Sono Bisque Doll wa Koi wo Suru",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Sono Bisque Doll wa Koi wo Suru / My Dress-Up Darling"
+      ]
     },
     {
       "id": 1247,
@@ -12694,7 +12715,8 @@
       "parentId": null,
       "alternateNames": [
         "artist",
-        "Music Artists"
+        "Music Artists",
+        "Musicians"
       ]
     },
     {
@@ -12731,6 +12753,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Light&Night",
         "lightandnight"
       ]
     },
@@ -21925,7 +21948,9 @@
       "name": "World Cup",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "World Cup 2026"
+      ]
     },
     {
       "id": 2660,
@@ -24410,19 +24435,14 @@
     },
     {
       "id": 3008,
-      "name": "Gingitsune",
+      "name": "Gingitsune Gehenna",
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Gehenna",
+        "Gingitsune",
         "Messenger Fox of the Gods"
       ]
-    },
-    {
-      "id": 3009,
-      "name": "Gehenna",
-      "kind": "individual",
-      "parentId": 23,
-      "alternateNames": []
     },
     {
       "id": 3010,
@@ -24490,6 +24510,84 @@
       "id": 3019,
       "name": "Re:Creators",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3020,
+      "name": "The Mentalist",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3021,
+      "name": "Fundamental Paper Education",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Fundemental Paper Education (FPE)"
+      ]
+    },
+    {
+      "id": 3022,
+      "name": "Jennifer's Body",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3023,
+      "name": "FC Barcelona",
+      "kind": "franchise",
+      "parentId": 1270,
+      "alternateNames": [
+        "Barca"
+      ]
+    },
+    {
+      "id": 3024,
+      "name": "FC Bayern Munich",
+      "kind": "franchise",
+      "parentId": 1270,
+      "alternateNames": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": 3025,
+      "name": "Jason Todd",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3026,
+      "name": "Dick Grayson",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3027,
+      "name": "Angels",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3028,
+      "name": "hololive Fantasy",
+      "kind": "publisher_umbrella",
+      "parentId": 950,
+      "alternateNames": [
+        "Gen3"
+      ]
+    },
+    {
+      "id": 3029,
+      "name": "Galdive",
+      "kind": "individual",
       "parentId": null,
       "alternateNames": []
     }
