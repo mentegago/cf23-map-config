@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-tEBWLGKTgWrzi92IbRi4SdLYa93tYZDwSoMHAIbaP0k\"",
-    "lastModified": "Wed, 21 Oct 2026 18:16:39 GMT",
+    "etag": "\"sha256-VlDbrN6smQnCy57m1VMaxlwDgymcjXPspeLc_c1N46A\"",
+    "lastModified": "Thu, 22 Oct 2026 03:56:00 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -66,6 +66,7 @@
         "Original Goods",
         "Original IP",
         "Original IP (Original Characters)",
+        "original karakter",
         "Original Merch",
         "Original Merch (Others)",
         "Original Merchandise",
@@ -681,7 +682,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "RE"
+        "RE",
+        "Resident Evil Movie"
       ]
     },
     {
@@ -3499,6 +3501,7 @@
       "kind": "franchise",
       "parentId": 78,
       "alternateNames": [
+        "Trigun Stampade",
         "Trigun: Stampede",
         "TrigunStampede"
       ]
@@ -4360,7 +4363,8 @@
       "parentId": null,
       "alternateNames": [
         "KCD",
-        "Kingdom Come Deliverance"
+        "Kingdom Come Deliverance",
+        "Kingdom Come Deliverance I"
       ]
     },
     {
@@ -10073,6 +10077,7 @@
       "alternateNames": [
         "Magirevo",
         "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "tenten kakumei",
         "tentenkakumei"
       ]
     },
@@ -10091,6 +10096,7 @@
       "alternateNames": [
         "Warhammer 4-k",
         "Warhammer 40",
+        "warhammer 40000",
         "Warhammer 40K",
         "Wh40k"
       ]
@@ -10101,6 +10107,7 @@
       "kind": "franchise",
       "parentId": 371,
       "alternateNames": [
+        "II",
         "KCD II",
         "Kingdom Come Deliverance 2",
         "Kingdom Come: Deliverence II"
@@ -16661,7 +16668,9 @@
       "name": "Nippon Sangoku",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Nippon Sangaku"
+      ]
     },
     {
       "id": 1935,
@@ -22179,7 +22188,9 @@
       "name": "The Legend of Heroes: Trails of Cold Steel",
       "kind": "franchise",
       "parentId": 2185,
-      "alternateNames": []
+      "alternateNames": [
+        "Legend of Heroes : Trail of Cold Steel"
+      ]
     },
     {
       "id": 2700,
@@ -24187,9 +24198,94 @@
       "alternateNames": []
     },
     {
+      "id": 2978,
+      "name": "A Nostalgic Hangout Game",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
       "id": 2979,
       "name": "8:11",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2981,
+      "name": "The Painter Who Paints Dungeons",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": [
+        "Dungeon Painter",
+        "The Artist Who Paints Dungeons",
+        "TPWPD"
+      ]
+    },
+    {
+      "id": 2982,
+      "name": "NEXZ",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2983,
+      "name": "Shikishi",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2984,
+      "name": "Dexter: Original Sin",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Dexter Original Sin"
+      ]
+    },
+    {
+      "id": 2985,
+      "name": "Gameoverse",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2987,
+      "name": "Fanwork",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2988,
+      "name": "Whalefall",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2989,
+      "name": "Couples",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 2990,
+      "name": "Ocean's 8",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "ocean 8"
+      ]
+    },
+    {
+      "id": 2992,
+      "name": "Meitantei",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

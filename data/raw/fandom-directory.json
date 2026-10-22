@@ -232,6 +232,7 @@
         "Original IP (Original Characters)",
         "Original Ip (to Get Her - Webtoon)",
         "Original Japan Souvenir",
+        "original karakter",
         "Original mascot",
         "Original Merch",
         "Original Merch (Others)",
@@ -375,6 +376,7 @@
         "Original Goods",
         "Original IP",
         "Original IP (Original Characters)",
+        "original karakter",
         "Original Merch",
         "Original Merch (Others)",
         "Original Merchandise",
@@ -1989,10 +1991,12 @@
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "RE",
         "Resident Evil",
+        "Resident Evil Movie",
         "Video Game (persona, resident evil, final fantasy, kingdom hearts, genshin impact)"
       ],
       "alternateNames": [
-        "RE"
+        "RE",
+        "Resident Evil Movie"
       ]
     },
     {
@@ -2509,6 +2513,7 @@
         "Others (idwtbamg, Zelda, Love Bullet, Tgswiiwagaa, Vocaloid, Arcane, Tamagotchi, Miffy, Wha, Wicked, Pikmin)",
         "WHA",
         "WHA (witch hat atelier)",
+        "WHA etc",
         "witch hat",
         "Witch Hat Alterier",
         "Witch Hat Atalier",
@@ -3770,6 +3775,7 @@
         "shojo",
         "Shojo Anime",
         "Shojo Animes",
+        "Shojo Couples",
         "Shojou",
         "Shojou Anime",
         "Shonen & Shoujo manga",
@@ -7350,11 +7356,13 @@
       "kind": "franchise",
       "parentId": 78,
       "aliases": [
+        "Trigun Stampade",
         "Trigun Stampede",
         "Trigun: Stampede",
         "TrigunStampede"
       ],
       "alternateNames": [
+        "Trigun Stampade",
         "Trigun: Stampede",
         "TrigunStampede"
       ]
@@ -8801,11 +8809,13 @@
       "aliases": [
         "KCD",
         "Kingdom Come Deliverance",
+        "Kingdom Come Deliverance I&II",
         "Kingdom Come: Deliverance"
       ],
       "alternateNames": [
         "KCD",
-        "Kingdom Come Deliverance"
+        "Kingdom Come Deliverance",
+        "Kingdom Come Deliverance I"
       ]
     },
     {
@@ -17794,12 +17804,14 @@
       "aliases": [
         "Magirevo",
         "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "tenten kakumei",
         "tentenkakumei",
         "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
       ],
       "alternateNames": [
         "Magirevo",
         "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "tenten kakumei",
         "tentenkakumei"
       ]
     },
@@ -17822,12 +17834,14 @@
         "Warhammer 4-k",
         "Warhammer 40",
         "Warhammer 40,000",
+        "warhammer 40000",
         "Warhammer 40K",
         "Wh40k"
       ],
       "alternateNames": [
         "Warhammer 4-k",
         "Warhammer 40",
+        "warhammer 40000",
         "Warhammer 40K",
         "Wh40k"
       ]
@@ -17840,10 +17854,12 @@
       "aliases": [
         "KCD II",
         "Kingdom Come Deliverance 2",
+        "Kingdom Come Deliverance I&II",
         "Kingdom Come: Deliverance II",
         "Kingdom Come: Deliverence II"
       ],
       "alternateNames": [
+        "II",
         "KCD II",
         "Kingdom Come Deliverance 2",
         "Kingdom Come: Deliverence II"
@@ -27689,9 +27705,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Nippon Sangaku",
         "Nippon Sangoku"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Nippon Sangaku"
+      ]
     },
     {
       "id": 1935,
@@ -27940,6 +27959,7 @@
       "parentId": 179,
       "aliases": [
         "Meitantei Precure",
+        "Pretty Cure Meitantei",
         "Star Detective Precure"
       ],
       "alternateNames": [
@@ -35778,9 +35798,12 @@
       "kind": "franchise",
       "parentId": 2185,
       "aliases": [
+        "Legend of Heroes : Trail of Cold Steel",
         "The Legend of Heroes: Trails of Cold Steel"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Legend of Heroes : Trail of Cold Steel"
+      ]
     },
     {
       "id": 2700,
@@ -38707,12 +38730,135 @@
       "alternateNames": []
     },
     {
+      "id": 2978,
+      "name": "A Nostalgic Hangout Game",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "a nostalgic hangout game"
+      ],
+      "alternateNames": []
+    },
+    {
       "id": 2979,
       "name": "8:11",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
         "8:11"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2981,
+      "name": "The Painter Who Paints Dungeons",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Dungeon Painter",
+        "The Painter Who Paints Dungeons",
+        "TPWPD"
+      ],
+      "alternateNames": [
+        "Dungeon Painter",
+        "The Artist Who Paints Dungeons",
+        "TPWPD"
+      ]
+    },
+    {
+      "id": 2982,
+      "name": "NEXZ",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "NEXZ"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2983,
+      "name": "Shikishi",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Shikishi"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2984,
+      "name": "Dexter: Original Sin",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Dexter Original Sin",
+        "Dexter: Original Sin"
+      ],
+      "alternateNames": [
+        "Dexter Original Sin"
+      ]
+    },
+    {
+      "id": 2985,
+      "name": "Gameoverse",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "gameoverse"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2987,
+      "name": "Fanwork",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Fanwork"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2988,
+      "name": "Whalefall",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Whalefall"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2989,
+      "name": "Couples",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Couples",
+        "Shojo Couples"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 2990,
+      "name": "Ocean's 8",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "ocean 8",
+        "Ocean's 8"
+      ],
+      "alternateNames": [
+        "ocean 8"
+      ]
+    },
+    {
+      "id": 2992,
+      "name": "Meitantei",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Meitantei"
       ],
       "alternateNames": []
     }
@@ -38726,7 +38872,6 @@
     "..",
     "...",
     "000",
-    "a nostalgic hangout game",
     "A5",
     "All fandoms based on request",
     "and more",
