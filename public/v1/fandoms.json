@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-SVEiGk9FXStG0RICQpD8ujGus6Z2_gR9GYqgioNbYIc\"",
-    "lastModified": "Thu, 22 Oct 2026 12:57:10 GMT",
+    "etag": "\"sha256-7AG2co4CmuMSzQfIfuYcN7H3i-C7kSzws6pxNOqSTcM\"",
+    "lastModified": "Thu, 22 Oct 2026 17:18:40 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -633,6 +633,7 @@
         "DC heroes",
         "DC Universe",
         "DC.",
+        "DC/Comics",
         "Dcu",
         "Marvel",
         "⁠DC"
@@ -829,6 +830,7 @@
       "kind": "franchise",
       "parentId": 12,
       "alternateNames": [
+        "AK Endfield",
         "Aknights: Endfield",
         "ArkKnight EndField",
         "Arknight Endfield",
@@ -966,6 +968,7 @@
         "R1999",
         "R:1999",
         "Re:99",
+        "Reserve 1999",
         "Reserve:1999",
         "Reverse",
         "Reverse 1999",
@@ -1237,6 +1240,7 @@
         "needy girl overdose",
         "Needy Girl Overdose (NGO)",
         "Needy Streamer",
+        "Needy Streamer (NSO)",
         "needy streamer girl",
         "Needy Streamer Overdose",
         "NEEDY STREAMER OVERLOAD (NSO)",
@@ -6183,6 +6187,7 @@
       "alternateNames": [
         "Automotif",
         "Car",
+        "Car Stuff",
         "Mobil",
         "Otomotif"
       ]
@@ -12191,6 +12196,7 @@
       "alternateNames": [
         "Film/series",
         "Movie/TV Show",
+        "Shows",
         "tv show",
         "Tv Shows"
       ]
@@ -12753,6 +12759,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Light & Night",
         "Light&Night",
         "lightandnight"
       ]
@@ -13212,6 +13219,7 @@
       "kind": "franchise",
       "parentId": 172,
       "alternateNames": [
+        "Elden Ring Nightreign",
         "Nightreign"
       ]
     },
@@ -15840,7 +15848,9 @@
       "name": "Mermaid Melody Pichi Pichi Pitch",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Mermaid Melody Pichi Pichi Pich"
+      ]
     },
     {
       "id": 1814,
@@ -20690,7 +20700,9 @@
       "name": "The Outlast Trials",
       "kind": "franchise",
       "parentId": 1591,
-      "alternateNames": []
+      "alternateNames": [
+        "Outlast Trials"
+      ]
     },
     {
       "id": 2496,
@@ -21634,7 +21646,9 @@
       "name": "One Room TA",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "One-room TA"
+      ]
     },
     {
       "id": 2618,
@@ -22204,7 +22218,9 @@
       "name": "Neuro-sama",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "neurosama"
+      ]
     },
     {
       "id": 2696,
@@ -24588,6 +24604,57 @@
       "id": 3029,
       "name": "Galdive",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3030,
+      "name": "Polin",
+      "kind": "generic_tag",
+      "parentId": 940,
+      "alternateNames": []
+    },
+    {
+      "id": 3031,
+      "name": "Renjin",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3032,
+      "name": "Grand Theft Auto Online",
+      "kind": "franchise",
+      "parentId": 1394,
+      "alternateNames": []
+    },
+    {
+      "id": 3033,
+      "name": "Lamento: Beyond the Void",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3034,
+      "name": "Fire Emblem: Fortune's Weave",
+      "kind": "franchise",
+      "parentId": 242,
+      "alternateNames": [
+        "Fire Emblem Fortune's Weave"
+      ]
+    },
+    {
+      "id": 3035,
+      "name": "rajut",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3036,
+      "name": "Happy Twogether",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }
