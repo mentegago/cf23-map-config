@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-A9-lpiB3n_mRHilni5VLDS-XhhCBuD-575njYyqWHoE\"",
-    "lastModified": "Fri, 23 Oct 2026 03:20:59 GMT",
+    "etag": "\"sha256-ciwxsRZJgJsCe3MAt8z667dbaUaPzairb6EUNLqyoP4\"",
+    "lastModified": "Fri, 23 Oct 2026 03:24:06 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -11716,8 +11716,9 @@
       "id": 1262,
       "name": "Lifesteal SMP",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 62,
       "alternateNames": [
+        "Life Steal",
         "LifeSteal"
       ]
     },
@@ -14817,6 +14818,7 @@
         "Project Sekai: COLORFUL STAGE!",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
+        "ProSeka",
         "proseks",
         "PRSK",
         "PSekai"
@@ -22388,6 +22390,7 @@
       "kind": "franchise",
       "parentId": 1169,
       "alternateNames": [
+        "Searching for the Leviathan",
         "TSFTL"
       ]
     },
@@ -24745,6 +24748,27 @@
       "id": 3046,
       "name": "Fiona Apple",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3047,
+      "name": "SF",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3048,
+      "name": "Seishin",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3049,
+      "name": "jinhongi",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

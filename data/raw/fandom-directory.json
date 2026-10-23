@@ -2974,6 +2974,7 @@
         "Bang Dream, Dispatch, Heated Rivalry, Wicked, Nana, Umamusume, House MD, RDR2/Red dead redemption, Tgswiiwagaa, Silent hill f, Minecraft (SFAWTDE), Originals, Roblox (Dandy's world, Flamingo), Western Pop",
         "Minecraft",
         "Minecraft (Life Series, DAWTDE, LSW, MCSR)",
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
         "Minecraft (SFAWTDE)",
         "Minecraft SMP",
         "minecraft styled",
@@ -20373,12 +20374,14 @@
       "id": 1262,
       "name": "Lifesteal SMP",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 62,
       "aliases": [
         "LifeSteal",
-        "Lifesteal SMP"
+        "Lifesteal SMP",
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)"
       ],
       "alternateNames": [
+        "Life Steal",
         "LifeSteal"
       ]
     },
@@ -25008,6 +25011,7 @@
         "Project SEKAI",
         "Project SEKAI (Proseka) Gintama",
         "Project Sekai / Hatsune Miku Colorful Stage",
+        "Project Sekai / ProSeka / PRSK / PJSK",
         "Project Sekai Colorful Stage",
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
         "Project Sekai Featuring Hatsune Miku",
@@ -25043,6 +25047,7 @@
         "Project Sekai: COLORFUL STAGE!",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
+        "ProSeka",
         "proseks",
         "PRSK",
         "PSekai"
@@ -27977,6 +27982,7 @@
       "aliases": [
         "MCYT (MCSR, UU, DSMP, HC, QSMP)",
         "Minecraft (Life Series, DAWTDE, LSW, MCSR)",
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
         "Minecraft Speedrunning"
       ],
       "alternateNames": [
@@ -36167,10 +36173,12 @@
       "kind": "franchise",
       "parentId": 1169,
       "aliases": [
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
         "The Search for the Leviathan",
         "TSFTL"
       ],
       "alternateNames": [
+        "Searching for the Leviathan",
         "TSFTL"
       ]
     },
@@ -38013,6 +38021,7 @@
       "parentId": 62,
       "aliases": [
         "Minecraft (Life Series, DAWTDE, LSW, MCSR)",
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
         "Minecraft Life Series"
       ],
       "alternateNames": [
@@ -38028,6 +38037,7 @@
         "DAWTDE",
         "Destroying a World That Doesn't Exist",
         "Minecraft (Life Series, DAWTDE, LSW, MCSR)",
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
         "Searching For a World That Doesn't Exist"
       ],
       "alternateNames": [
@@ -39604,6 +39614,37 @@
       "parentId": null,
       "aliases": [
         "Fiona Apple"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3047,
+      "name": "SF",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan)",
+        "SF"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3048,
+      "name": "Seishin",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Seishin"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3049,
+      "name": "jinhongi",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "jinhongi"
       ],
       "alternateNames": []
     }

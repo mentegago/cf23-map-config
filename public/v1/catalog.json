@@ -3,12 +3,12 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-23T03:23:21.023Z"
+      "downloadedAt": "2026-10-23T05:00:32.339Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-A9-lpiB3n_mRHilni5VLDS-XhhCBuD-575njYyqWHoE\"",
-      "lastModified": "Fri, 23 Oct 2026 03:20:59 GMT",
+      "etag": "\"sha256-ciwxsRZJgJsCe3MAt8z667dbaUaPzairb6EUNLqyoP4\"",
+      "lastModified": "Fri, 23 Oct 2026 03:24:06 GMT",
       "schemaVersion": "5"
     }
   },
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1964,
-    "fandomsReferenced": 1641
+    "fandomsReferenced": 1652
   },
   "exhibitors": [
     {
@@ -258,7 +258,9 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Dango Kyoudai.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8327ba99-4338-477d-a981-4a682696e19b/28d6a1be-4727-4e52-ab18-edbc2c8bbae2/AA-07.png"
+        ]
       },
       "links": [
         {
@@ -973,7 +975,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Milk Mocha Bear.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/8ce86b31-012a-4c6f-9359-00fd03720ceb/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/9ba94cb2-765b-4897-bc3b-3378bbaa62ee/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/4b6454d1-6856-4219-8505-9fdf82cc9d25/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/78bca4fc-f150-48b8-ada6-412be944670e/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/46f87c38-ff69-46f0-a70b-ba1866d0fadb/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/d9a95129-4bb1-4bd6-bee9-ac2b8bf59768/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/37de016d-3031-486c-bdee-094f1760deb4/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/00cb2de9-ece2-4827-b22c-dbdc41bb3ef9/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/43d899d9-a786-47fb-9b60-70fc2d4d5704/AB-06.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/65919efa-b358-452b-88aa-dfc5843dd6cc/9cb14682-4a43-40d3-bcb3-396d2b97d26a/AB-06.jpg"
+        ]
       },
       "links": [
         {
@@ -8574,7 +8587,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Nozomi Studio.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/1ab4e88a-f544-4dc5-a3ad-04ca1105ad1e/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/afae5681-898a-402d-a05a-a3e73de1abee/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/b09e13b0-7dbc-40be-9b26-458e57163562/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/e2606cc8-5a4d-4aff-b456-37c9ba147e81/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/70d294ac-aa6d-4d56-a964-c28a81259328/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/0f3107b9-d92d-457e-85e5-68618aed3972/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/c2ed72eb-5dd1-489a-914b-958719d374f1/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/265228e5-78a6-4e13-b0e3-bdc97508b4cd/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/8a029d27-2692-4caf-9b62-e2c6df36dcf2/AF-51/AF-52.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/5daadeea-5f49-42dc-84e4-8b234a0b2653/c74e15b7-9a4e-46b3-b431-0b20e0c6e43a/AF-51/AF-52.png"
+        ]
       },
       "links": [
         {
@@ -10059,7 +10083,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Callus Ran.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/f754a805-ea3a-4257-8a35-238c588a11bc/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/70df795e-58bb-4417-93c0-1cf1215d20dc/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/80472821-4f83-4c50-b691-2b62ed73f288/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/2da006bb-d03e-42fe-a2a1-0c0681e9aa0d/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/37ab4713-3a45-4fc2-8201-11f8ebc6e071/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/c028b6ff-7f01-4174-ae77-65cc6c9677d8/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/a7ea648b-e27b-4f3b-9043-5498405ac971/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/e9491fc0-c6a1-4a1a-a4cb-2661a21b70c2/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/2829cc9e-bef7-4c01-a683-ee0241b5d84d/AG-48/AG-49.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/944afa3e-1029-431a-99ad-1b998985a805/70e2ad84-3886-4214-988a-27ce670e9890/AG-48/AG-49.jpg"
+        ]
       },
       "links": [
         {
@@ -16801,12 +16836,24 @@
       ],
       "contentRating": "PG",
       "offerings": [
+        "commission",
         "comic",
         "goods"
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Tana Raja x Doga.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/327ea772-322b-4c20-a28c-c407a97188ff/B-26ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/fddc61ca-bb09-47f8-a1f3-af48fd7c5d91/B-26ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/3b8bc17d-03c2-4d69-9d7d-bc78a58e7f89/B-26ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/b383b8b2-8a8d-4fd9-a600-0ff4e24a825e/B-26ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/e3e8d930-b87e-4bdd-8591-b0fe90e855ea/B-26ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/6be95c27-d652-487a-8a58-58fbb8b2db80/B-26ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/accc8747-37d8-4fb2-a7d0-ee8e6266b752/B-26ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/9fe71047-7d6f-4b2d-9c0d-6beb3c1d448b/B-26ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/934b48c3-521d-48f3-a27a-f1736e1141a2/B-26ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/08aa5d1c-10c4-4d51-99de-a3878f78e558/207c5ebf-aee6-45ff-8a99-e1daee665682/B-26ab.png"
+        ]
       },
       "links": [
         {
@@ -16819,7 +16866,7 @@
         },
         {
           "type": "other",
-          "url": "https://linktr.ee/tanaraja"
+          "url": "https://linktr.ee/tanaraja "
         }
       ],
       "fandomIds": [
@@ -21457,7 +21504,7 @@
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/ba536a04-6de2-4465-9fce-f02578a11796/C-58ab/C-59ab.jpg",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/14890826-89ec-4866-abb0-bd12a4352445/C-58ab/C-59ab.jpg",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/431a5f08-1d62-410c-bbcb-5d111b1f5c0e/C-58ab/C-59ab.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/085bd39f-56c4-450f-aeb7-5b2d152e55a5/C-58ab/C-59ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/d46cf311-1628-4cee-a2a8-51b243d00c2c/C-58ab/C-59ab.jpg",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/43f28d96-19d6-40ec-88a9-78af6ae03657/bd00cd3d-f800-413f-8c1d-0db8f6078acc/C-58ab/C-59ab.jpg"
         ]
       },
@@ -30377,6 +30424,7 @@
     },
     {
       "id": "1000664",
+      "catalogUrl": "https://catalog.comifuro.net/circle/11944",
       "name": "NYENYENYE",
       "spaces": [
         {
@@ -30392,35 +30440,68 @@
         "2026-10-31",
         "2026-11-01"
       ],
-      "contentRating": null,
+      "contentRating": "PG",
       "offerings": [
         "goods"
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/NYENYENYE.jpg",
         "gallery": [
-          "https://cf23-config.nnt.gg/images/exhibitors/1000664/catalog-2474eddd86c9.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000664/catalog-35cef1b266ce.webp",
-          "https://cf23-config.nnt.gg/images/exhibitors/1000664/catalog-e2f54e71a506.webp"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/9bf17089-fb78-4cae-a67d-f203f05bc25d/G-05ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/fdffbd60-1234-4512-9ca1-a7bfb093282b/G-05ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/ddccb0d0-1d16-4c3c-8bab-5d2163a6c39c/G-05ab.jpg"
         ]
       },
       "links": [
         {
-          "type": "source_post",
-          "url": "https://discord.com/channels/414798501625724949/415160052555710474/1555195144825733201"
+          "type": "instagram",
+          "url": "https://www.instagram.com/depravationcp , https://www.instagram.com/seeonggok_apel , https://www.instagram.com/illbllu_prince , https://www.instagram.com/justicheaaa"
+        },
+        {
+          "type": "twitter",
+          "url": "https://x.com/DepravationCP , https://x.com/seonggokapel , https://x.com/illbllu_prince , https://x.com/ichaahnbaeee"
+        },
+        {
+          "type": "other",
+          "url": "https://nyenyenye-catalogue.carrd.co"
         }
-      ],
-      "catalogUrl": "https://catalog.comifuro.net/circle/11944",
-      "sourceUrls": [
-        "https://discord.com/channels/414798501625724949/415160052555710474/1555195144825733201"
       ],
       "fandomIds": [
         1,
-        2,
+        4,
+        6,
         7,
+        9,
+        12,
+        13,
+        14,
+        22,
+        34,
+        35,
         38,
+        39,
+        43,
+        45,
+        53,
         55,
-        612
+        79,
+        85,
+        99,
+        158,
+        212,
+        223,
+        234,
+        327,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        808,
+        1561,
+        1562,
+        1677
       ]
     },
     {
@@ -32194,25 +32275,41 @@
       ],
       "contentRating": "PG",
       "offerings": [
+        "commission",
         "goods"
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Pixaru.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/cf4c4e8c-cbfc-40aa-b9ff-19425c3b367b/G-38b.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/9f3c1e19-e27b-492d-8bbf-f6cd0f40945b/G-38b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/3e1fdcd6-0736-441c-b5b7-186eea69eb0c/G-38b.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/723c20d6-dcc9-49ea-8db5-3d05535d81a9/G-38b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/65de1e80-7052-4a2f-82c3-e906e7cdbab7/G-38b.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/c9233267-1b52-43bf-a658-d1863441b174/b9af3b0f-fb2c-4786-8468-642ee42fb78c/G-38b.jpg"
+        ]
       },
       "links": [
         {
           "type": "instagram",
           "url": "https://www.instagram.com/pixaru_/"
+        },
+        {
+          "type": "twitter",
+          "url": "https://x.com/pixaru_"
+        },
+        {
+          "type": "other",
+          "url": "https://www.threads.com/@pixaru_"
         }
       ],
       "fandomIds": [
+        2,
         11,
         20,
         34,
         72,
-        76,
-        2171
+        76
       ]
     },
     {
@@ -35250,24 +35347,47 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Remington.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/a7bd58db-e3db-4fc5-8f8a-c018402d0da1/H-43ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/9d71dcca-8c2b-40d5-8bab-6b270dda5e40/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/b548cd02-d5b5-49e7-a602-ba60e1d6fe5e/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/eab93738-2de6-4218-9e0b-df8d1fb65760/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/66e9d5af-8752-4f80-aa61-13f171a30ccc/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/20161134-4d0f-4c10-9699-a67c2e35809d/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/9618e4bc-ba9d-4494-be91-2598d450d3e5/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/8085676f-a8b5-4943-8afd-9d193133cc68/H-43ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f47864d5-2db6-4ac4-8c8f-622f956fec88/fd880197-9ff7-409a-9ef0-eca74140f120/H-43ab.png"
+        ]
       },
       "links": [
         {
           "type": "instagram",
           "url": "https://www.instagram.com/nyampestress/ , https://www.instagram.com/reimu03/ , https://www.instagram.com/ario_r_w/, https://www.instagram.com/sukeruton.id/"
+        },
+        {
+          "type": "twitter",
+          "url": " https://x.com/reimuu03 "
+        },
+        {
+          "type": "other",
+          "url": "https://vgen.co/reimuu03"
         }
       ],
       "fandomIds": [
         2,
         3,
+        4,
         6,
         7,
         13,
+        19,
         20,
+        25,
+        37,
         56,
-        77,
+        90,
         121,
+        137,
         172,
         241
       ]
@@ -40261,6 +40381,7 @@
         22,
         43,
         44,
+        62,
         128,
         157,
         158,
@@ -40271,11 +40392,17 @@
         1196,
         1197,
         1198,
+        1262,
         1347,
+        1946,
         2511,
+        2719,
+        2887,
+        2888,
         2890,
         2891,
-        2892
+        2892,
+        3047
       ]
     },
     {
@@ -43097,7 +43224,8 @@
         165,
         283,
         536,
-        782
+        782,
+        3048
       ]
     },
     {
@@ -44006,7 +44134,8 @@
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/8dfd0231-705f-4c92-9310-67f8784ed2d6/K-28ab/K-29ab.png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/61347d01-4085-45be-a60e-fa1441a9b875/K-28ab/K-29ab.png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/b2cc4514-01a4-491b-9b8a-5993154f1310/K-28ab/K-29ab.png",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/e155865c-6b08-4759-b01a-f2dfab970a6b/K-28ab/K-29ab.png"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/e155865c-6b08-4759-b01a-f2dfab970a6b/K-28ab/K-29ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ad4c225f-623a-4ef1-b1b0-259477bceefd/07b49a5b-5c69-427b-8abc-56e814626052/K-28ab/K-29ab.png"
         ]
       },
       "links": [
@@ -46636,7 +46765,13 @@
         "gallery": [
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/1f23aef8-9f4b-4de9-82f9-76b3bedeb4ba/L-18ab (SAT).png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/75ca72b1-e034-4cb9-bf42-6e15b15e8223/L-18ab (SAT).png",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/9e13985b-33e4-4fa1-9a04-95320124968d/L-18ab (SAT).png"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/9e13985b-33e4-4fa1-9a04-95320124968d/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/51547c85-f6a0-45fb-b56a-8651571d9ff9/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/1aeb39cb-b5b5-47a1-81d2-5615ed2fb080/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/e35e194e-9045-4ad9-8138-f4e9b75579a6/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/cbb55b53-a17e-421b-b852-bd5a76ed3c71/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/b1d87095-1f8b-4bbd-bf74-cc493a40ee8f/L-18ab (SAT).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8b9ca2a2-dec2-4d77-a93e-92401f0818c6/23ff0db5-d3c9-4285-a687-9c7b3f335883/L-18ab (SAT).png"
         ]
       },
       "links": [
@@ -48800,7 +48935,8 @@
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/dac747f8-459e-40de-94b2-493ef5755e92/L-56ab.jpeg",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/1fd01b6a-294e-419f-a369-bce3acafbe96/L-56ab.jpeg",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/5ff17e12-5a60-4a81-8455-53ac8ea598dc/L-56ab.jpeg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/e19971d4-7e07-403a-b4a2-47c3deaeb840/L-56ab.png"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/e19971d4-7e07-403a-b4a2-47c3deaeb840/L-56ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/62422fb9-e163-459a-a3f4-3ec0d288735e/244a86b5-a486-4caf-912e-6712c353f5d3/L-56ab.png"
         ]
       },
       "links": [
@@ -48820,9 +48956,12 @@
       "fandomIds": [
         9,
         10,
+        19,
         48,
         61,
+        397,
         1027,
+        1705,
         2698
       ]
     },
@@ -52213,7 +52352,9 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/221BSD.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f03441ee-54e2-455a-9863-37bbaf4b6fbc/09b086e3-219f-44ba-bdcd-a88eaaa8c9c0/M-52a (SUN).png"
+        ]
       },
       "links": [
         {
@@ -56644,7 +56785,12 @@
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/6c57e05c-993d-4218-a4a6-3adbd7f8f007/O-02ab.png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/35fde05b-3bfe-4844-a408-7d307d2882aa/O-02ab.png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/da58b187-0d97-4bc5-85f9-9152e1074a0e/O-02ab.png",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/47859950-5206-44c1-933c-4500cab5973c/O-02ab.png"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/47859950-5206-44c1-933c-4500cab5973c/O-02ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/0c762e4b-aa22-4369-abca-c0bb5274229a/O-02ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/3f7ec272-d492-496d-9572-cfe540b3b6ca/O-02ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/1d7fed33-e885-48e3-a697-902303a5cabf/O-02ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/1e847dd4-d6a4-455f-9e54-c08d89148a4c/O-02ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/e8c53027-8844-4157-b986-c3c048132b6d/3fc8419f-937c-4604-895d-929a526ffdab/O-02ab.jpg"
         ]
       },
       "links": [
@@ -59384,7 +59530,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Warung Sonion-ring.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/32197e77-8384-4879-927d-febcfce394eb/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/8b1d5b02-164e-40e8-9ef9-40af928a6476/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/c20396b2-e41c-49ee-a5a0-c0d28e6d898d/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/4f2f3b14-1d14-4ee0-ae59-38f80d54e826/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/88e26896-b21f-4fc7-af8a-e08923d4f617/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/16262ceb-72fa-45d1-9774-529ef9b8d6d7/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/fad2313e-5992-471e-a92c-48837ddee177/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/a887d7ed-0386-4a86-8949-600fcd0aa467/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/3b411c3d-7a64-4673-afd9-410f5c123120/O-59ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1d53447e-5c91-4505-8dfb-44fd5c4a0d28/ec656467-cc87-49f3-b1ac-38e99281e794/O-59ab.png"
+        ]
       },
       "links": [
         {
@@ -59399,7 +59556,14 @@
       "fandomIds": [
         5,
         66,
-        138
+        112,
+        138,
+        182,
+        216,
+        271,
+        336,
+        355,
+        430
       ]
     },
     {
@@ -79635,7 +79799,8 @@
       "fandomIds": [
         26,
         48,
-        611
+        611,
+        3049
       ]
     },
     {
@@ -87038,7 +87203,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Kedai Bapang.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/761cae85-ee3a-43b3-a88b-118e0ed7a3ec/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/b063234d-38a1-48bf-a65f-703e600cdcd5/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/e544312a-bbe2-4366-8b91-344d946311f7/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/6e13f7c9-8224-47b2-a60e-90d1bfb7b613/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/bd9ce049-ef01-4ecc-8ea8-1b9b6d67804b/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/bed84fe6-2c20-47f3-9855-62cab3178c3e/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/0d6c54e9-f311-45f5-be31-a43db9d42fcf/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/08627897-b4bb-4c1b-8d39-b52b3cd3bf21/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/093d6c4e-4742-4037-b03c-599ae5397988/W-46b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/af14e6a0-7c58-4a2b-8c9d-7cd9733a0fef/95684ab4-2d8e-4844-aeb7-0440e047fe14/W-46b.png"
+        ]
       },
       "links": [
         {
