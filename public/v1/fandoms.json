@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-D5foP9S4sjweeCpPoiCRP4iDElGvRoz_iUV0RLwQk4A\"",
-    "lastModified": "Thu, 22 Oct 2026 21:44:28 GMT",
+    "etag": "\"sha256-A9-lpiB3n_mRHilni5VLDS-XhhCBuD-575njYyqWHoE\"",
+    "lastModified": "Fri, 23 Oct 2026 03:20:59 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -24668,59 +24668,71 @@
     },
     {
       "id": 3037,
-      "name": "greenyz",
+      "name": "GreenyZ",
       "kind": "individual",
       "parentId": null,
       "alternateNames": []
     },
     {
       "id": 3038,
-      "name": "grist_hayward",
+      "name": "Grist Hayward",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "grist_hayward"
+      ]
     },
     {
       "id": 3039,
-      "name": "opikarief",
+      "name": "Opikarief",
       "kind": "individual",
       "parentId": null,
       "alternateNames": []
     },
     {
       "id": 3040,
-      "name": "jeville_samael",
+      "name": "Jeville Samael",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "jeville_samael"
+      ]
     },
     {
       "id": 3041,
-      "name": "james_ferbe",
+      "name": "James Ferbe",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "james_ferbe"
+      ]
     },
     {
       "id": 3042,
-      "name": "riely_rin",
+      "name": "Riely Rin",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "riely_rin"
+      ]
     },
     {
       "id": 3043,
-      "name": "elyos_fletcher",
+      "name": "Elyos Fletcher",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "elyos_fletcher"
+      ]
     },
     {
       "id": 3044,
-      "name": "j-ann",
-      "kind": "generic_tag",
+      "name": "J Ann",
+      "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "j-ann"
+      ]
     },
     {
       "id": 3045,

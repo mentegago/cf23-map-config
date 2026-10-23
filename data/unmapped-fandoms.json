@@ -2,15 +2,20 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-D5foP9S4sjweeCpPoiCRP4iDElGvRoz_iUV0RLwQk4A\"",
-    "lastModified": "Thu, 22 Oct 2026 21:44:28 GMT",
+    "etag": "\"sha256-A9-lpiB3n_mRHilni5VLDS-XhhCBuD-575njYyqWHoE\"",
+    "lastModified": "Fri, 23 Oct 2026 03:20:59 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 10962,
+    "matchedPieces": 10966,
     "ignoredPieces": 308,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 4,
+    "unknownSourceFields": 4
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Original works, Minecraft (Life Series, SF/DAWTDE, Life Steal, MCSR, Searching for the Leviathan), Hoyoverse (Genshin, HSR, ZZZ), Arknights, Arknights : Enfield, Wuthering Waves, LADS, One Piece, Umamusume, K-pop (ATEEZ, XLOV), Bands (The Beatles), Western singers (Michael Jackson, Paul McCartney), Musicals (Hadestown, Hamilton, Heathers, Epic the Musical), Lord of the Mysteries (LOTM), Circle of Inevitability (COI)",
+    "Original, Orb, 100m / Hyakuemu, Project Sekai / ProSeka / PRSK / PJSK, Mononoke, Shin Ultraman, Haikyuu, Vocaloid, Kusuriya no Hitorigoto / Apothecary Diaries, Kaoru Hana wa Rin to Saku / The Fragrant Flower Blooms with Dignity, Green Yuri / KiniOto / The Guy She Was Interested in Wasn't a Guy at All / TGSWIIWAGAA, Sono Bisque Doll wa Koi wo Suru / My Dress-Up Darling, Project Moon / Lobotomy Corporation / Library of Ruina / Limbus Company, Frieren, DC Comics, Deltarune, Witch Hat Atelier, Dungeon Meshi / Delicious in Dungeon, Pandora Hearts, Ichi the Witch, HSR / Honkai Star Rail, Genshin Impact",
+    "Phantom Busters, Haikyuu, Pandavva, Wayama Yama, WindBreaker, The Summer Hikaru Died, Ouran High Scholl Host Club, Tonari no Kaibutsu-kun, Seishin",
+    "witch hat atelier, omniscient reader viewpoint, jinhongi"
+  ]
 }
