@@ -893,6 +893,7 @@
         "Jujutsu Kaisen & Haikyuu",
         "Jujutsu Kaisen (JJK)",
         "Jujutsu Kaisen (Toji)",
+        "jujutsu kaisen / jjk",
         "Jujutsu Kaisen JJK",
         "Jujutsu Kaisen.",
         "Jujutsu Kaisen. Sakamoto Days",
@@ -18276,7 +18277,8 @@
       "aliases": [
         "Percy Jackson",
         "Percy Jackson and the Olympians",
-        "PJO"
+        "PJO",
+        "PJO/Percy Jackson"
       ],
       "alternateNames": [
         "Percy Jackson",
@@ -33693,7 +33695,8 @@
         "Tenmaku no Jaadugar"
       ],
       "alternateNames": [
-        "Jaadugar"
+        "Jaadugar",
+        "Tenmaku no Jaadugar"
       ]
     },
     {
@@ -35326,10 +35329,12 @@
       "aliases": [
         "smoking behind the supermarket",
         "Smoking Behind the Supermarket with You",
+        "Smoking With You Behind The Door",
         "smoking_with_you_behind_the_door"
       ],
       "alternateNames": [
         "smoking behind the supermarket",
+        "Smoking With You Behind The Door",
         "smoking_with_you_behind_the_door"
       ]
     },
@@ -39695,6 +39700,19 @@
         "Jumpcut (ChrisShwafer)"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3053,
+      "name": "House of the Dragon",
+      "kind": "franchise",
+      "parentId": 861,
+      "aliases": [
+        "House of the Dragon",
+        "House of the Dragons"
+      ],
+      "alternateNames": [
+        "House of the Dragons"
+      ]
     }
   ],
   "ignored": [
