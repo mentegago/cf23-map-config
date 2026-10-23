@@ -2,20 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ciwxsRZJgJsCe3MAt8z667dbaUaPzairb6EUNLqyoP4\"",
-    "lastModified": "Fri, 23 Oct 2026 03:24:06 GMT",
+    "etag": "\"sha256-fkNNIApBMzUAbmF5I-O4EGJY5qxKU-LKypmsXE4OYns\"",
+    "lastModified": "Fri, 23 Oct 2026 05:40:15 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11014,
+    "matchedPieces": 11020,
     "ignoredPieces": 306,
-    "unknownPieces": 6,
-    "unknownSourceFields": 4
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Bocchi the rock! Ado Yorushika Eve PANDAVVA Eon of Stars Omori Limbus Company Forsaken ",
-    "Genshin, HSR, ALNST, LADS, Dandadan, Haikyuu, Frieren, JJK, Deltarune, FNAF, One Piece, HXH, Elden Ring, MBTI, Gravity Fall, Undertale, Kucing",
-    "Jujutsu Kaisen, Plave, Hoyoverse, Arknight, Hazbin Hotel, Identity V, Bungou Stray Dogs, Alien stage, LADS, WuWa, Enstar, Twisted Wonderland, Hanako, Nucani, HQ, Proseka, Kimetsu no Yaiba, CRK, Apothecary Diaries, KPOP Demon Hunter, Ave Mujica, EPIC, Wind Breaker, Endfield, Mygo.",
-    "South Park,Vocaloids,Utau,Dandy's World,Forsaken,Orison,Bad Things,Blocktales,Block tales,Maimai,Rhythm game,Pump it up,Jumpcut (ChrisShwafer)"
-  ]
+  "unknownSourceFields": []
 }

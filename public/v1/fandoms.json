@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ciwxsRZJgJsCe3MAt8z667dbaUaPzairb6EUNLqyoP4\"",
-    "lastModified": "Fri, 23 Oct 2026 03:24:06 GMT",
+    "etag": "\"sha256-fkNNIApBMzUAbmF5I-O4EGJY5qxKU-LKypmsXE4OYns\"",
+    "lastModified": "Fri, 23 Oct 2026 05:40:15 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -2472,7 +2472,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "graffiti falls"
+        "graffiti falls",
+        "Gravity Fall"
       ]
     },
     {
@@ -5889,7 +5890,8 @@
       "parentId": 111,
       "alternateNames": [
         "MyGO",
-        "MyGO!!"
+        "MyGO!!",
+        "Mygo."
       ]
     },
     {
@@ -24767,10 +24769,36 @@
     },
     {
       "id": 3049,
-      "name": "jinhongi",
+      "name": "Requiem of Subdued Souls",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": [
+        "jinhongi",
+        "Requiem for Wandering Souls"
+      ]
+    },
+    {
+      "id": 3050,
+      "name": "Orison",
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
+    },
+    {
+      "id": 3051,
+      "name": "Pump It Up",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3052,
+      "name": "ChrisShwafer",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": [
+        "Jumpcut"
+      ]
     }
   ]
 }
