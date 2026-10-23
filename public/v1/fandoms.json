@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-MPRdACKNn7rTmot88wVYmgqeBnrjNieO1G55OJ8EYiU\"",
-    "lastModified": "Fri, 23 Oct 2026 14:15:56 GMT",
+    "etag": "\"sha256-1h6B1Qq-fUGUyJQ1ISUCezpo-e8ATlVg4sucyANXam0\"",
+    "lastModified": "Fri, 23 Oct 2026 17:16:36 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -3867,6 +3867,7 @@
       "alternateNames": [
         "film",
         "Film & Movies",
+        "Films",
         "Movie",
         "Various Movies"
       ]
@@ -4381,6 +4382,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Trickal",
         "Trickcal",
         "Trickcal Chibi",
         "Trickcal Chibi Go",
@@ -6284,18 +6286,6 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
-    },
-    {
-      "id": 600,
-      "name": "Polar Opposites",
-      "kind": "franchise",
-      "parentId": null,
-      "alternateNames": [
-        "You & I Are Polar Opposites",
-        "You and I are Polar Opposite",
-        "You and I Are Polar Opposites",
-        "You and Me Are Polar Opposite"
-      ]
     },
     {
       "id": 601,
@@ -8575,7 +8565,9 @@
       "name": "ITFT",
       "kind": "franchise",
       "parentId": 457,
-      "alternateNames": []
+      "alternateNames": [
+        "It’s Time For The"
+      ]
     },
     {
       "id": 879,
@@ -11549,6 +11541,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Promise Neverland",
         "The Promise Neverland"
       ]
     },
@@ -17523,7 +17516,9 @@
       "name": "Bears",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "beruang"
+      ]
     },
     {
       "id": 2055,
@@ -24006,11 +24001,15 @@
     },
     {
       "id": 2934,
-      "name": "Seihantai na Kimi to Boku",
+      "name": "You and I Are Polar Opposites",
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Seihantai"
+        "Polar Opposites",
+        "Seihantai",
+        "You & I Are Polar Opposites",
+        "You and I are Polar Opposite",
+        "You and Me Are Polar Opposite"
       ]
     },
     {
@@ -24811,6 +24810,47 @@
       "parentId": 861,
       "alternateNames": [
         "House of the Dragons"
+      ]
+    },
+    {
+      "id": 3054,
+      "name": "The Nightly Manor",
+      "kind": "franchise",
+      "parentId": 457,
+      "alternateNames": []
+    },
+    {
+      "id": 3055,
+      "name": "Reze",
+      "kind": "individual",
+      "parentId": 24,
+      "alternateNames": []
+    },
+    {
+      "id": 3056,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "kind": "franchise",
+      "parentId": 103,
+      "alternateNames": [
+        "SDR2"
+      ]
+    },
+    {
+      "id": 3057,
+      "name": "Nagito Komaeda",
+      "kind": "individual",
+      "parentId": 103,
+      "alternateNames": [
+        "Nagito"
+      ]
+    },
+    {
+      "id": 3058,
+      "name": "Morrigan Aensland",
+      "kind": "individual",
+      "parentId": 2243,
+      "alternateNames": [
+        "Morrigan"
       ]
     }
   ]

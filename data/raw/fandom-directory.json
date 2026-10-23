@@ -1762,6 +1762,7 @@
         "Anime (Frieren, Dandadan, One Piece, Chainsaw Man...)",
         "Chainsaw",
         "Chainsaw Man",
+        "Chainsaw man Reze",
         "Chainsawman",
         "Chainsawman (CSM)",
         "Chaonsaw Man",
@@ -2824,6 +2825,7 @@
         "Project Moon, Twisted Wonderland, Debut or Die, Zero Escape, DC, Breaking Bad Universe, Ultrakill, Undertale/Deltarune",
         "Sonic, Marvel Rivals, Valorant, Vocaloid, Homestuck, Uma Musume, Undertale/Deltarune, Cookie Run, The Amazing Digital Circus (TADC), Ensemble Stars",
         "Undertale",
+        "Undertale bara beruang furry",
         "Undertale/Deltarune",
         "UTDR"
       ],
@@ -5055,7 +5057,8 @@
       "parentId": null,
       "aliases": [
         "Others (idwtbamg, Zelda, Love Bullet, Tgswiiwagaa, Vocaloid, Arcane, Tamagotchi, Miffy, Wha, Wicked, Pikmin)",
-        "Pikmin"
+        "Pikmin",
+        "Pikmin Plant vs Zombie"
       ],
       "alternateNames": []
     },
@@ -8009,6 +8012,7 @@
         "Film & Movies",
         "Film/series",
         "Film/TV",
+        "Films",
         "HORROR (Movies, Shows, Resident Evil, Dead by Daylight, Yellowjackets, Hannibal) ORIGINALS",
         "horror movies",
         "Movie",
@@ -8023,6 +8027,7 @@
       "alternateNames": [
         "film",
         "Film & Movies",
+        "Films",
         "Movie",
         "Various Movies"
       ]
@@ -8264,7 +8269,8 @@
         "Furry/others",
         "Holostars (EN / Tempus / Uproar), Honkai: Star Rail (HSR), Zenless Zone Zero (ZZZ), Touken Ranbu, Uma Musume, Horse Racing / Keiba, Formula 1 (F1), KLP48, JKTV, Nijisanji EN, Dokibird, PLAVE, Link Click, To Be Hero X, Utapri, APEX, Original / Furry / OC",
         "Original (Furry OCs, Otter, Vtuber OC)",
-        "Original / Furry / OC"
+        "Original / Furry / OC",
+        "Undertale bara beruang furry"
       ],
       "alternateNames": [
         "anthro",
@@ -8899,6 +8905,7 @@
       "parentId": null,
       "aliases": [
         "Original. Gacha. Trickcal",
+        "Trickal",
         "Trickcal",
         "Trickcal Chibi",
         "Trickcal Chibi Go",
@@ -8908,6 +8915,7 @@
         "Trickcal:Chibi go"
       ],
       "alternateNames": [
+        "Trickal",
         "Trickcal",
         "Trickcal Chibi",
         "Trickcal Chibi Go",
@@ -10080,6 +10088,7 @@
         "Object Show Community",
         "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
         "Object Show Community (bfdi, Ii, Tnm, One) Regretevator",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
         "Object Shows",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
@@ -11927,25 +11936,6 @@
         "Cosplay Anime"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 600,
-      "name": "Polar Opposites",
-      "kind": "franchise",
-      "parentId": null,
-      "aliases": [
-        "Polar Opposites",
-        "You & I Are Polar Opposites",
-        "You and I are Polar Opposite",
-        "You and I Are Polar Opposites",
-        "You and Me Are Polar Opposite"
-      ],
-      "alternateNames": [
-        "You & I Are Polar Opposites",
-        "You and I are Polar Opposite",
-        "You and I Are Polar Opposites",
-        "You and Me Are Polar Opposite"
-      ]
     },
     {
       "id": 601,
@@ -15453,6 +15443,7 @@
         "BFDI/TPOT",
         "Eve harapeco, Sakamoto days, Gachiakuta, genshin impact, honkai star rail, Heaven's official blessing, Original, chainsawman, Alien stage, Phantom busters. Omori, Tamon's B-Side, Grace, Pressure, CRK, Peak, Cult of The Lamb, Murder Drones, TADC, BFDI/TPOT, hfjONE, SFAWTDE, Tokutsastsu, Zzz, Tears Of Themis, Degree Of Lewdity, Transformers, reverse1999, A Date With Death, Date Everything, K-Pop Demon Hunters, Dandy's World, Limbus Company, Dispatch, mxtx, trigun, collinlock16, TBHK, Beastars, Brand New Animals, Paradise Kiss, Puella Magi Madoka Magica, NANA, Stranger Things, Until then, A space for the unbound, Tokyo Override, Castle crashers, Shoujos, Persona, 18trip, Racheldrawsthis games, Dead poet society, Harry potter, To be hero X, Puella record, Weak hero, Dune, Get A Snack At 4 AM: SNACKCORE , Phighting!, Block Tales, FNaF",
         "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS), Roblox, Dandy’s World, Sonic, Kirby, My Hero Academia, Alien Stage, Wonder Egg Priority",
@@ -15476,6 +15467,7 @@
         "II",
         "Inanimate Insanity",
         "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS), Roblox, Dandy’s World, Sonic, Kirby, My Hero Academia, Alien Stage, Wonder Egg Priority",
@@ -15528,6 +15520,7 @@
       "aliases": [
         "hfjONE",
         "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS), Roblox, Dandy’s World, Sonic, Kirby, My Hero Academia, Alien Stage, Wonder Egg Priority",
@@ -15568,12 +15561,15 @@
       "aliases": [
         "ITFT",
         "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
         "Object Shows (BFDI, II, hfjONE, TNM, ITFT, LOTS)",
         "Object Shows (inanimate Insanity, Itft)",
         "Object Shows (Inanimate Insanity, ITFT, BFDI)",
         "Originals, Granblue Fantasy (GBF), PLAVE, Kuroko no Basket (KnB), Object Shows (Inanimate Insanity, ITFT, BFDI), Touhou Project, Roblox (World Tower Defense, Die of Death), Deltarune, Minecraft, Love Bullet, Project Hail Mary, Helldivers II, Fallout"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "It’s Time For The"
+      ]
     },
     {
       "id": 879,
@@ -16063,6 +16059,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Pikmin Plant vs Zombie",
         "Plant vs Zombie",
         "Plants vs. Zombies",
         "PvZ"
@@ -17675,7 +17672,8 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Love of the s*n"
+        "Love of the s*n",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)"
       ],
       "alternateNames": []
     },
@@ -20131,10 +20129,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Promise Neverland",
         "The Promise Neverland",
         "The Promised Neverland"
       ],
       "alternateNames": [
+        "Promise Neverland",
         "The Promise Neverland"
       ]
     },
@@ -23213,7 +23213,8 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
-        "Bara"
+        "Bara",
+        "Undertale bara beruang furry"
       ],
       "alternateNames": []
     },
@@ -29071,9 +29072,12 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
-        "Bears"
+        "Bears",
+        "Undertale bara beruang furry"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "beruang"
+      ]
     },
     {
       "id": 2055,
@@ -31148,7 +31152,8 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Darkstalkers"
+        "Darkstalkers",
+        "darkstalkers Morrigan"
       ],
       "alternateNames": []
     },
@@ -37913,7 +37918,8 @@
       "parentId": 457,
       "aliases": [
         "Animatic Battle",
-        "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)"
+        "Object Show Community (BFDI, II, TNM, hfjONE, ITFT, LoTS, Animatic Battle)",
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)"
       ],
       "alternateNames": []
     },
@@ -38543,15 +38549,24 @@
     },
     {
       "id": 2934,
-      "name": "Seihantai na Kimi to Boku",
+      "name": "You and I Are Polar Opposites",
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Polar Opposites",
         "Seihantai",
-        "Seihantai na Kimi to Boku"
+        "Seihantai na Kimi to Boku",
+        "You & I Are Polar Opposites",
+        "You and I are Polar Opposite",
+        "You and I Are Polar Opposites",
+        "You and Me Are Polar Opposite"
       ],
       "alternateNames": [
-        "Seihantai"
+        "Polar Opposites",
+        "Seihantai",
+        "You & I Are Polar Opposites",
+        "You and I are Polar Opposite",
+        "You and Me Are Polar Opposite"
       ]
     },
     {
@@ -39716,6 +39731,67 @@
       ],
       "alternateNames": [
         "House of the Dragons"
+      ]
+    },
+    {
+      "id": 3054,
+      "name": "The Nightly Manor",
+      "kind": "franchise",
+      "parentId": 457,
+      "aliases": [
+        "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle)",
+        "The Nightly Manor"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3055,
+      "name": "Reze",
+      "kind": "individual",
+      "parentId": 24,
+      "aliases": [
+        "Chainsaw man Reze",
+        "Reze"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3056,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "kind": "franchise",
+      "parentId": 103,
+      "aliases": [
+        "Danganronpa 2: Goodbye Despair",
+        "SDR2 Nagito"
+      ],
+      "alternateNames": [
+        "SDR2"
+      ]
+    },
+    {
+      "id": 3057,
+      "name": "Nagito Komaeda",
+      "kind": "individual",
+      "parentId": 103,
+      "aliases": [
+        "Nagito Komaeda",
+        "SDR2 Nagito"
+      ],
+      "alternateNames": [
+        "Nagito"
+      ]
+    },
+    {
+      "id": 3058,
+      "name": "Morrigan Aensland",
+      "kind": "individual",
+      "parentId": 2243,
+      "aliases": [
+        "darkstalkers Morrigan",
+        "Morrigan Aensland"
+      ],
+      "alternateNames": [
+        "Morrigan"
       ]
     }
   ],
