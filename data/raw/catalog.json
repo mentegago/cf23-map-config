@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://catalog.comifuro.net",
-  "downloadedAt": "2026-10-23T17:15:31.040Z",
+  "downloadedAt": "2026-10-23T19:20:41.773Z",
   "recordCount": 1957,
   "circles": [
     {
@@ -2458,7 +2458,14 @@
       "fandom": "Vtuber",
       "other_fandom": "Vtuber Indie, AMA, 3D Vtuber, VRChat",
       "rating": "GA",
-      "sampleworks_images": null,
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/e7beb83c-af94-4b4f-aa4e-02b0b69aa33f/AC-30.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/562c6104-239e-4ccf-bc38-9708680469e1/AC-30.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/627ca45d-0b4b-43d8-a571-7d2287959d5c/AC-30.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/41dcbdec-7736-43b1-89d0-89015ed098b8/AC-30.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/61b6910e-5d58-4a39-b6f3-23d0482a01b4/AC-30.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/8ba587f2-8597-4562-a6e3-2c74230f555f/f52bd56d-ccc7-4962-9f62-7aa4cc0be811/AC-30.png"
+      ],
       "day": "Both Days",
       "SellsHandmadeCrafts": false,
       "SellsMagazine": false,
@@ -6811,7 +6818,9 @@
       "fandom": "danmei",
       "other_fandom": "lotm, dmbj, orv, bhd, gdcg, hsr, tka, link click, frz, bl",
       "rating": "M",
-      "sampleworks_images": null,
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/de4da35f-6bf5-475f-a556-c7066e2e3814/5f55cd85-30e3-4dfe-9040-6992d1a591b0/AG-07/AG-08.jpg"
+      ],
       "day": "Both Days",
       "SellsHandmadeCrafts": false,
       "SellsMagazine": false,
@@ -15833,8 +15842,9 @@
       "other_fandom": "DoL, Hannibal",
       "rating": "M",
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/7f9eb5ac-b0cc-419b-a504-9e1dd603b737/68d2ae66-cb72-4090-af68-23467590d4e5/C-60b (SAT).jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/7f9eb5ac-b0cc-419b-a504-9e1dd603b737/5bf23610-577a-406b-be66-9fe1fa1cb79d/C-60b (SAT).jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/7f9eb5ac-b0cc-419b-a504-9e1dd603b737/0b166efb-a6b0-47a8-950a-5f112f6d9831/C-60b (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/7f9eb5ac-b0cc-419b-a504-9e1dd603b737/30f87810-6211-435b-9384-51eeb9c206e2/C-60b (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/7f9eb5ac-b0cc-419b-a504-9e1dd603b737/359a54ba-cfc4-45e7-bdca-4889e2ccb185/C-60b (SAT).jpg"
       ],
       "day": "SAT",
       "SellsHandmadeCrafts": false,
@@ -33446,11 +33456,15 @@
       "rating": "GA",
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/148d4741-cf61-42ba-8f32-c507e081a60d/L-33ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/d74abe38-d00d-48b8-a569-24d5125954e9/L-33ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/d2258524-8936-4815-b4e7-e1f2bc25cc06/L-33ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/d65b8b3c-01d8-4fa2-96cd-51afb3672511/L-33ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/d74abe38-d00d-48b8-a569-24d5125954e9/L-33ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/29d3287f-b04c-41df-af60-e588477bbe72/L-33ab.jpeg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/b65aeabd-040d-4e48-83ec-9c367edf471b/L-33ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/b65aeabd-040d-4e48-83ec-9c367edf471b/L-33ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/75d986c0-117d-488b-9ebd-46be9a58c3bc/L-33ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/5a6f6981-758f-4fc9-8e08-5daf96dd0e9f/L-33ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/26a88250-a9e0-4b07-aa0b-7461b720be0f/L-33ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/a391a363-f2dd-4027-813a-21f6fb526c62/L-33ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/daaf7f83-ae63-41a8-880b-f29ce2eabecc/dd47b5f7-b0b8-44df-b336-75fc5be87096/L-33ab.jpg"
       ],
       "day": "Both Days",
       "SellsHandmadeCrafts": false,
@@ -35582,7 +35596,7 @@
       "circle_other_socials": "-",
       "marketplace_link": null,
       "fandom": "Witch Hat Atelier",
-      "other_fandom": "ORV, Genshin Impact, HSR, Apothecary Diaries, Dungeon Meshi, Frieren, Link Click, HSR, Limbus, DDLC",
+      "other_fandom": "ORV, Genshin Impact, HSR, Apothecary Diaries, Dungeon Meshi, Frieren, Link Click, HSR, Limbus, DDLC, Death Note",
       "rating": "GA",
       "sampleworks_images": null,
       "day": "SUN",
@@ -56029,7 +56043,17 @@
       "fandom": "Alien Stage",
       "other_fandom": "Zeno Remake, Original, Visual Novel, Link Click, One-room TA, Happy Twogether, Tamon's b-side ",
       "rating": "PG",
-      "sampleworks_images": null,
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/22ea3258-701c-4a6f-b323-661e7ca72818/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/89c37e6f-dd62-4df5-836c-e2c659e12aff/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/e6c11dfe-4a49-4528-b48b-a1f903761aa3/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/e883fcf8-5954-4cc7-80d4-d37b1e293392/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/7f8b5286-ec3f-4470-beaa-0ed87a4a51c5/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/f0fb5878-fa30-4c98-ae52-63aaf2a8e18d/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/a8556c49-6c7f-460f-8632-f7028e2c1f15/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/ded66aef-0d86-4752-b28b-5a46a9fee364/U-54b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/cb98c6f6-3bfb-407d-9962-24d29c198592/8536dcd8-0049-431e-88a9-392df33aec30/U-54b.png"
+      ],
       "day": "Both Days",
       "SellsHandmadeCrafts": true,
       "SellsMagazine": false,

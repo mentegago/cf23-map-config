@@ -79,7 +79,7 @@ test("ID mappings reject ambiguous sources, targets, chains, and public ID colli
   const mapping = { officialId: "123", manualId: exhibitor.id };
   await expect(processManual([exhibitor], [], [], [mapping, mapping])).rejects.toThrow("duplicate mapping");
   await expect(processManual([exhibitor], [], [], [mapping, { ...mapping, officialId: "456" }])).rejects.toThrow("multiple official IDs");
-  await expect(processManual([exhibitor], [], [], [{ ...mapping, manualId: "1000099" }])).rejects.toThrow("manual ID not found");
+  await expect(processManual([exhibitor], [], [], [{ ...mapping, manualId: "999999" }])).rejects.toThrow("mapped manual IDs must be in");
   await expect(processManual([exhibitor], [], [], { "123": exhibitor.id })).rejects.toThrow("must be an array");
   await expect(processManual([exhibitor], [], [], null)).rejects.toThrow("must be an array");
   await expect(processManual([exhibitor], [], [], [{ ...mapping, officialId: 123 }])).rejects.toThrow("positive integer strings");

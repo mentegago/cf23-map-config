@@ -119,3 +119,21 @@ test("new official booths and fallback matches persist manual identities across 
     await rm(root, { recursive: true, force: true });
   }
 });
+
+test("ID mappings survive removal of manual records and reserve IDs for absent official booths", async () => {
+  const corporate = { ...manual, id: "1000002", category: "corporate", spaces: [{ code: "1106", type: null }] };
+  const idMappings = [{ officialId: official.id, manualId: manual.id }, { officialId: "999", manualId: "1000010" }];
+  const newcomer = { ...official, id: "456", name: "New booth", spaces: [{ code: "B-02", type: null }] };
+  const result = await mergeManualExhibitors({ exhibitors: [official, newcomer], additions: [corporate],
+    overrides: [], idMappings, event, registry, assignManualIds: true,
+    publicBaseUrl: "https://cf23-config.nnt.gg/", publicDirectory: "public" });
+  expect(result.exhibitors.map(e => e.id)).toEqual([manual.id, "1000011", corporate.id]);
+  expect(result.exhibitors[0]?.name).toBe(official.name);
+  expect(result.exhibitors[0]?.assets).toEqual(official.assets);
+  expect(result.exhibitors[0]?.fandomIds).toEqual([20]);
+  expect(result.manualEntries.some(e => e.id === manual.id)).toBe(false);
+  expect(result.idMappings).toEqual([...idMappings, { officialId: "456", manualId: "1000011" }]);
+  const absent = await run([], [], idMappings);
+  expect(absent.exhibitors).toEqual([]);
+  expect(absent.idMappings).toEqual(idMappings);
+});

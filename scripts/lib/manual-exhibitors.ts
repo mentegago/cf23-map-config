@@ -111,7 +111,8 @@ export async function mergeManualExhibitors(options: {
     requireValue(mapping.officialId !== mapping.manualId, "officialId and manualId must differ");
     requireValue(!manualIdByOfficialId.has(mapping.officialId), `duplicate mapping for official ID ${mapping.officialId}`);
     requireValue(!mappedManualIds.has(mapping.manualId), `multiple official IDs map to manual ID ${mapping.manualId}`);
-    requireValue(additions.has(mapping.manualId), `mapped manual ID not found in exhibitors.json: ${mapping.manualId}`);
+    requireValue(Number(mapping.manualId) >= MANUAL_ID_MIN && Number(mapping.manualId) <= MANUAL_ID_MAX,
+      `mapped manual IDs must be in ${MANUAL_ID_MIN}–${MANUAL_ID_MAX}`);
     manualIdByOfficialId.set(mapping.officialId, mapping.manualId);
     mappedManualIds.add(mapping.manualId);
   }
@@ -139,7 +140,7 @@ export async function mergeManualExhibitors(options: {
   }
   // New official exhibitors receive a persistent manual ID before publication.
   if (options.assignManualIds) {
-    let nextId = Math.max(MANUAL_ID_MIN - 1, ...[...additions.keys()].map(Number)) + 1;
+    let nextId = Math.max(MANUAL_ID_MIN - 1, ...[...additions.keys(), ...mappedManualIds].map(Number)) + 1;
     const officialIds = new Set(options.exhibitors.map(exhibitor => exhibitor.id));
     for (const exhibitor of options.exhibitors) {
       if (manualIdByOfficialId.has(exhibitor.id)) continue;
