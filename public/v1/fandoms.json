@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-fkNNIApBMzUAbmF5I-O4EGJY5qxKU-LKypmsXE4OYns\"",
+    "etag": "\"sha256-rLKF7w7bZbSiFO_Wcx62CYMF2p-A1re36_KI0BbsZGY\"",
     "lastModified": "Fri, 23 Oct 2026 05:40:15 GMT",
     "schemaVersion": "5"
   },
@@ -24796,9 +24796,7 @@
       "name": "ChrisShwafer",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": [
-        "Jumpcut"
-      ]
+      "alternateNames": []
     }
   ]
 }

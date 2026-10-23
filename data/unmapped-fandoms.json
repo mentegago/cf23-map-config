@@ -2,15 +2,20 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-fkNNIApBMzUAbmF5I-O4EGJY5qxKU-LKypmsXE4OYns\"",
+    "etag": "\"sha256-rLKF7w7bZbSiFO_Wcx62CYMF2p-A1re36_KI0BbsZGY\"",
     "lastModified": "Fri, 23 Oct 2026 05:40:15 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11020,
-    "ignoredPieces": 306,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 11054,
+    "ignoredPieces": 305,
+    "unknownPieces": 4,
+    "unknownSourceFields": 4
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "HoneyWorks, Roblox, EATOT, All Tomorrows, Rick and Morty, Backrooms, IHNMAIMS, LOVE-BULLET, Ensemble Stars!!, Homestuck, Yuri/GL, Deltarune, PJO/Percy Jackson, Alien Stage, Tenmaku no Jaadugar, Medalist, Original",
+    "Hoyoverse, blue lock, cats, vocaloid, vtuber, jujutsu kaisen / jjk",
+    "Reverse:1999, Bandori, Hololive, Genshin, Alien Stage, Green Yuri, Love Bullet, Dandadan, Project SEKAI, Utaite, Kenshi Yonezu, Mana Khemia, NewJeans, House of the Dragons, A Knight of the Seven Kingdoms, Interview with the Vampire, Pride, original",
+    "Vtuber Indie, Content Creator, Zenless Zone Zero, Genshin Impact, Honkai Star Rail, Hoyoverse, Haikyu, Original Works, Smoking With You Behind The Door, Greenyz, Grist Hayward, Opikarief, Jeville Samael, James Ferbe, Riely Rin, Elyos Fletcher, Nail Art, J-ann,"
+  ]
 }
