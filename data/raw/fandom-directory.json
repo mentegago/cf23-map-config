@@ -15588,8 +15588,8 @@
     {
       "id": 880,
       "name": "Jumpcut",
-      "kind": "individual",
-      "parentId": null,
+      "kind": "franchise",
+      "parentId": 3052,
       "aliases": [
         "Jumpcut",
         "Jumpcut (ChrisShwafer)"
@@ -35333,9 +35333,13 @@
         "smoking_with_you_behind_the_door"
       ],
       "alternateNames": [
+        "A Story About Smoking at the Back of the Supermarket",
         "smoking behind the supermarket",
         "Smoking With You Behind The Door",
-        "smoking_with_you_behind_the_door"
+        "smoking_with_you_behind_the_door",
+        "Super no Ura de Yani Suu Hanashi",
+        "Suupaa no Ura de Yani Suu Futari",
+        "YaniSuu"
       ]
     },
     {

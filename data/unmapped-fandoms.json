@@ -2,15 +2,23 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-YsgmBt15GHgicZBqkoC2NKTObh3D5DwxCZmarPgjWfo\"",
-    "lastModified": "Fri, 23 Oct 2026 11:49:01 GMT",
+    "etag": "\"sha256-MPRdACKNn7rTmot88wVYmgqeBnrjNieO1G55OJ8EYiU\"",
+    "lastModified": "Fri, 23 Oct 2026 14:15:56 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11058,
-    "ignoredPieces": 305,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 11085,
+    "ignoredPieces": 304,
+    "unknownPieces": 9,
+    "unknownSourceFields": 7
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Arcane, Final Fantasy, Genshin Impact,  Legend of Zelda, One Piece, Pikmin Plant vs Zombie, Pokémon,  Super Mario Bros, Totoro, Minecraft, Capybara, Hollow Knight, Kingdom Hearts",
+    "Hibike Euphonium, Idolmaster, Trickal, Stella Sora",
+    "Honkai Star Rail, Genshin Impact, Promise Neverland, Dr. Stone, Holo id, The Summer Hikaru Die, Pandavva, Love and Deepspace, Sakamoto Days, Apothecary Diaries",
+    "Object Show Community (BFDI, Inanimate Insanity, The Nightly Manor, hfjONE, It’s Time For The, Love of the S*N, Animatic Battle), Sonic, Alan Becker, Pokemon, MCYT, Unstable Universe, Among Us, SFAWTDE, Project Sekai, Vocaloid",
+    "Sonic, original, nikke, project Hail mary, persona series, Needy Streamer Overload, Chainsaw man Reze, SDR2 Nagito, deltarune, HSR, darkstalkers Morrigan, Hatsune Miku",
+    "Uma Musume, Stardew Valley, Deltarune, Films, Originals",
+    "Undertale bara beruang furry"
+  ]
 }

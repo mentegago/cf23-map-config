@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-YsgmBt15GHgicZBqkoC2NKTObh3D5DwxCZmarPgjWfo\"",
-    "lastModified": "Fri, 23 Oct 2026 11:49:01 GMT",
+    "etag": "\"sha256-MPRdACKNn7rTmot88wVYmgqeBnrjNieO1G55OJ8EYiU\"",
+    "lastModified": "Fri, 23 Oct 2026 14:15:56 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -8587,8 +8587,8 @@
     {
       "id": 880,
       "name": "Jumpcut",
-      "kind": "individual",
-      "parentId": null,
+      "kind": "franchise",
+      "parentId": 3052,
       "alternateNames": []
     },
     {
@@ -21795,9 +21795,13 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "A Story About Smoking at the Back of the Supermarket",
         "smoking behind the supermarket",
         "Smoking With You Behind The Door",
-        "smoking_with_you_behind_the_door"
+        "smoking_with_you_behind_the_door",
+        "Super no Ura de Yani Suu Hanashi",
+        "Suupaa no Ura de Yani Suu Futari",
+        "YaniSuu"
       ]
     },
     {
