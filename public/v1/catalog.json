@@ -3,7 +3,7 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-23T19:20:41.773Z"
+      "downloadedAt": "2026-10-23T21:29:31.403Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
@@ -2055,7 +2055,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Hacyra.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/019b6b84-0c98-4265-8118-e768532bbc36/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/bc06f8df-2c70-475f-b8df-6fc68dd1adc5/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/cbb14261-b29b-46c2-93ea-778b443e57c8/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/d4f5023a-0780-48ea-af3e-f8c60ac88765/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/9d38d86d-2ec4-4ff0-a5cf-45af73c5a8bc/AB-47.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/5ed44713-a298-4b1f-84b1-d3e3001d8643/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/8e7b0b7b-688b-4bc8-a4d1-6ef9bc818911/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/fa54af12-37bd-4333-9b03-fe093f255ed6/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/916081a9-b284-46a2-a55c-fbb05f0a56ea/AB-47.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1bc2a8ae-94c4-42c4-bdec-055cd259e43d/5f991b34-75b5-411c-b71e-87a5bb2f48f4/AB-47.jpeg"
+        ]
       },
       "links": [
         {
@@ -2712,7 +2723,15 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Barongsai Content Creators.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/c87cdf49-6667-48df-a781-d784188fe8a1/AC-21.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/ebe94604-ed70-4612-9075-c320b3185d29/AC-21.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/65c90469-ef90-4f57-9b5e-d05a202331ae/AC-21.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/9ca961ca-7a87-435c-b2fc-cd2728e7b5ba/AC-21.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/b840578b-e263-4b17-8045-c1ab00c15e2a/AC-21.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/4484bd3f-2042-4d8c-845e-f73bb71098f8/AC-21.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ee1edc91-7b3c-4461-b0ee-675262ecb136/baa762e6-d1ae-43f0-839f-fe8068ad85a6/AC-21.png"
+        ]
       },
       "links": [
         {
@@ -67567,7 +67586,13 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/The Chill Beans.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/db3a8e6e-f177-41bb-9f2d-035ab5d513c5/70f35f3f-74cc-4f73-b4e2-0ae5a31de14d/R-50ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/db3a8e6e-f177-41bb-9f2d-035ab5d513c5/cb455129-bcbb-4459-80d0-4cd24b06ecac/R-50ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/db3a8e6e-f177-41bb-9f2d-035ab5d513c5/2b51e3b5-b1a0-4b73-be09-71d40ac128fd/R-50ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/db3a8e6e-f177-41bb-9f2d-035ab5d513c5/d7d07a3e-2fcc-4093-a823-b0dbf8b0c1ae/R-50ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/db3a8e6e-f177-41bb-9f2d-035ab5d513c5/b89025a7-2665-45ea-9a26-c59a8d0cc890/R-50ab.png"
+        ]
       },
       "links": [
         {
