@@ -312,6 +312,7 @@
         "orignal",
         "Otiginals (others Tba)",
         "Personal Maskot & OC - Trixx (bunny)",
+        "plave & OC",
         "Precure Cats Original",
         "Punishing Gray Raven, Wuthering Waves, Honkai Star Rail, Zenless Zone Zero, Jojo Bizzare Adventure, Stardew Valley, Deltarune, Pizza Tower, Detroit: Become Human, Project Sekai, ORV, Dunmeshi, Tokyo Ghoul, AOT, Arknights, Silksong, Grandblue Fantasy, OC/Originals",
         "Reverse 1999, Plave, Naruto, Wuwa, original animal, original food, detective conan, my hero academia, marvel,valorant, original handmade craft.",
@@ -1296,6 +1297,7 @@
         "Kpop (Plave)",
         "Music (plave, Vocaloid)",
         "PLAVE",
+        "plave & OC",
         "Plave (kpop virtual idol)",
         "Plave(idol)",
         "PLAVE(KPOP)",
@@ -40651,6 +40653,16 @@
       "parentId": null,
       "aliases": [
         "Monsters vs. Aliens"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3110,
+      "name": "The Green Yuri",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "The Green Yuri"
       ],
       "alternateNames": []
     }
