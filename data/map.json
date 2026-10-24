@@ -8,7 +8,7 @@
   },
   "underlay": {
     "name": "CF23_FLOORMAP-1.png",
-    "opacity": 0
+    "opacity": 1
   },
   "editor": {
     "magnet": {
@@ -8007,7 +8007,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1og",
-      "id": "AA-06",
+      "id": "AA-10",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8020,7 +8020,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1oh",
-      "id": "AA-07",
+      "id": "AA-09",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8046,7 +8046,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1oj",
-      "id": "AA-09",
+      "id": "AA-07",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8059,7 +8059,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1ok",
-      "id": "AA-10",
+      "id": "AA-06",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8072,7 +8072,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1ol",
-      "id": "AA-02",
+      "id": "AA-05",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8085,7 +8085,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1om",
-      "id": "AA-03",
+      "id": "AA-04",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8098,7 +8098,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1on",
-      "id": "AA-04",
+      "id": "AA-03",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -8111,7 +8111,7 @@
     },
     {
       "uid": "feature-mu9ruwng-1oo",
-      "id": "AA-05",
+      "id": "AA-02",
       "kind": "booth",
       "status": "accepted",
       "geometry": {
@@ -108821,5 +108821,5 @@
       "rotation": 0
     }
   ],
-  "updatedAt": "2026-10-21T13:15:35.354Z"
+  "updatedAt": "2026-10-24T18:40:36.393Z"
 }
