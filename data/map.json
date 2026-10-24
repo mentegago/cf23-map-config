@@ -3683,7 +3683,7 @@
       "status": "accepted",
       "geometry": {
         "type": "rect",
-        "x": 844.9,
+        "x": 847,
         "y": 1871.8,
         "width": 13.800000000000068,
         "height": 13.100000000000136
@@ -3696,7 +3696,7 @@
       "status": "accepted",
       "geometry": {
         "type": "rect",
-        "x": 858.7,
+        "x": 860.8,
         "y": 1871.8,
         "width": 13.899999999999977,
         "height": 13.100000000000136
@@ -108819,7 +108819,43 @@
       "label": "Outdoor Toilet",
       "color": "#fff200",
       "rotation": 0
+    },
+    {
+      "uid": "feature-mvmx47hb-1",
+      "id": null,
+      "status": "accepted",
+      "geometry": {
+        "type": "rect",
+        "x": 847,
+        "y": 1884.9,
+        "width": 13.799999999999955,
+        "height": 15.099999999999909
+      },
+      "kind": "highlight",
+      "preset": "custom",
+      "label": "a",
+      "color": "#f0e8de",
+      "rotation": 0,
+      "type": "booth-suffix-marker"
+    },
+    {
+      "uid": "feature-mvmx4atz-2",
+      "id": null,
+      "status": "accepted",
+      "geometry": {
+        "type": "rect",
+        "x": 860.9,
+        "y": 1884.9,
+        "width": 13.799999999999955,
+        "height": 15.099999999999909
+      },
+      "kind": "highlight",
+      "preset": "custom",
+      "label": "b",
+      "color": "#f0e8de",
+      "rotation": 0,
+      "type": "booth-suffix-marker"
     }
   ],
-  "updatedAt": "2026-10-24T18:40:36.393Z"
+  "updatedAt": "2026-10-24T21:36:09.977Z"
 }

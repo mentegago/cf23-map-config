@@ -7,8 +7,8 @@
   "catalog": "v1/catalog.json",
   "fandomRegistry": "v1/fandoms.json",
   "map": {
-    "version": 3,
-    "path": "maps/94f5f2c12f2189c9f361e581b0fa1c46b0f358cf03f1326ee1f102ba6e00b106.json",
-    "fingerprint": "1a2ce6993ed8dc40cdf2cf13ecbbaf71d085ae4b2f19c235ea2f9d979834d93b"
+    "version": 4,
+    "path": "maps/2973409fbccddfbd63bc02609400de356910c8e8729f2e12047d40dfd128a976.json",
+    "fingerprint": "3550fd0777663b64fa10c5ddc3285d1f67285031bb3931f781cc0c33e1d00c0c"
   }
 }
