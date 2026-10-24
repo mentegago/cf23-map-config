@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-L-MAEXuvjk5mxVgHfIZ5PVQ-GvcCXwdBYv3dVESls-o\"",
-    "lastModified": "Sat, 24 Oct 2026 04:45:45 GMT",
+    "etag": "\"sha256-FL2ha2bgYjM86jDQ90gVUr6YKjTkoiVteMrqOQrL85w\"",
+    "lastModified": "Sat, 24 Oct 2026 11:13:14 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -18592,6 +18592,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Legend of heroes",
         "Trails/Kiseki"
       ]
     },
@@ -22070,7 +22071,9 @@
       "name": "Yanisuu",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "yani suu"
+      ]
     },
     {
       "id": 2662,
@@ -25300,6 +25303,41 @@
       "id": 3109,
       "name": "Monsters vs. Aliens",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3111,
+      "name": "Beaded bracelet",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3112,
+      "name": "Ribbon",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3113,
+      "name": "Headscarf",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3114,
+      "name": "DIR EN GREY",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3115,
+      "name": "AMAPro.",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

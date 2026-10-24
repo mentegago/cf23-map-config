@@ -2,21 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-L-MAEXuvjk5mxVgHfIZ5PVQ-GvcCXwdBYv3dVESls-o\"",
-    "lastModified": "Sat, 24 Oct 2026 04:45:45 GMT",
+    "etag": "\"sha256-FL2ha2bgYjM86jDQ90gVUr6YKjTkoiVteMrqOQrL85w\"",
+    "lastModified": "Sat, 24 Oct 2026 11:13:14 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11698,
+    "matchedPieces": 11705,
     "ignoredPieces": 327,
-    "unknownPieces": 7,
-    "unknownSourceFields": 5
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "HunterxHunter, Yuyu hakusho, aikatsu, black butler, Original, formula 1, beaded bracelet, kusuriya, yani suu, kaoru hana, blue box ",
-    "JoJo's Bizarre Adventure, jojo, Berserk, Hunter x Hunter, Pita, Ribbon, Headscarf, accessories",
-    "Mushoku Tensei ,Hoyoverse,Legend of heroes,Hololive,MHW, Pragmata, Witch Hat Atelier, Frieren, Wuthering Waves, Blue Archive",
-    "One piece, The Owl House, Nana, Vkei, BUCK-TICK, DIR EN GREY ",
-    "Vtuber Indie , AMAPro. , 3D Vtuber , VRChat , tapiocaalice , Anzai Takt , Salmoon , Naka Ramatya"
-  ]
+  "unknownSourceFields": []
 }
