@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-FL2ha2bgYjM86jDQ90gVUr6YKjTkoiVteMrqOQrL85w\"",
-    "lastModified": "Sat, 24 Oct 2026 11:13:14 GMT",
+    "etag": "\"sha256-MtXpDF9SFCqIQ6Cp72Pb1TffFMJVb4h1or5qxEo6A08\"",
+    "lastModified": "Sat, 24 Oct 2026 16:03:23 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -336,6 +336,7 @@
       "parentId": null,
       "alternateNames": [
         "- Pokemon",
+        "PKMN",
         "Pokemon",
         "Pokemon sticker sheet"
       ]
@@ -844,6 +845,7 @@
         "Arknight Endfiled",
         "Arknight Enfield",
         "Arknight: Endfield",
+        "Arknights : Endfield",
         "Arknights : Enfield",
         "Arknights :Endfield",
         "Arknights Endfield",
@@ -7074,7 +7076,8 @@
       "kind": "individual",
       "parentId": null,
       "alternateNames": [
-        "L'arc~en~Ciel"
+        "L'arc~en~Ciel",
+        "Larc en Ciel"
       ]
     },
     {
@@ -17776,6 +17779,7 @@
       "alternateNames": [
         "Fear & Hunger 2: Termina",
         "Fear and Hunger Termina",
+        "Funger 2: Termina",
         "Termina"
       ]
     },
@@ -20535,7 +20539,9 @@
       "name": "The God of High School",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "The God of Highschool"
+      ]
     },
     {
       "id": 2462,
@@ -20727,7 +20733,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Dungeon Painter /던그화"
+        "Dungeon Painter /던그화",
+        "The Painter Who Draws Dungeons"
       ]
     },
     {
@@ -24749,7 +24756,8 @@
       "kind": "franchise",
       "parentId": 242,
       "alternateNames": [
-        "Fire Emblem Fortune's Weave"
+        "Fire Emblem Fortune's Weave",
+        "Fire Emblem FW"
       ]
     },
     {
@@ -25338,6 +25346,20 @@
       "id": 3115,
       "name": "AMAPro.",
       "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3116,
+      "name": "Maigo",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3117,
+      "name": "HYDE",
+      "kind": "individual",
       "parentId": null,
       "alternateNames": []
     }

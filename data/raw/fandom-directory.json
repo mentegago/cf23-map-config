@@ -174,6 +174,7 @@
         "Original BL",
         "Original BL & GL",
         "Original BL comic",
+        "Original BL GL",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "Original Boy’s Love Webtoon",
         "Original Cat",
@@ -1195,6 +1196,7 @@
         "nintendo games (pokemon, kirby)",
         "Original contents. Super Sentai. Valorant. Phineas & Ferb. Kirby. Pokemon. Powerpuff Girls. Animals Inspired.",
         "Original, General & Pokemon",
+        "PKMN",
         "Pokemon",
         "Pokemon +vocaloid",
         "Pokemon Genshin Impact",
@@ -1207,6 +1209,7 @@
       ],
       "alternateNames": [
         "- Pokemon",
+        "PKMN",
         "Pokemon",
         "Pokemon sticker sheet"
       ]
@@ -2396,6 +2399,7 @@
         "Arknight Enfield/Original Arknight",
         "Arknight: Endfield",
         "Arknights & Arknights: Enfield",
+        "Arknights : Endfield",
         "Arknights : Enfield",
         "Arknights :Endfield",
         "Arknights Endfield",
@@ -2423,6 +2427,7 @@
         "Arknight Endfiled",
         "Arknight Enfield",
         "Arknight: Endfield",
+        "Arknights : Endfield",
         "Arknights : Enfield",
         "Arknights :Endfield",
         "Arknights Endfield",
@@ -6551,6 +6556,7 @@
         "HoneyWorks, Ensemble Stars, LOVE-BULLET, Yuri/GL Animanga, Homestuck, Frozen Soul/Dream Game, Phighting, Love of the s*n, 17776, Roblox Admins, Roblox Myths, SFAWTDE, A ReGect",
         "Honkai: Star Rail, Alien stage, Valorant, ORV, Lout of Count's Family, Phantom buster, The Summer Hikaru Died, Stardew Valley, GL/Yuri, BL/Yaoi Original",
         "Original BL & GL",
+        "Original BL GL",
         "Original GL",
         "Original GL / Yuri",
         "original yuri",
@@ -13322,10 +13328,12 @@
       "parentId": null,
       "aliases": [
         "L'Arc-en-Ciel",
-        "L'arc~en~Ciel"
+        "L'arc~en~Ciel",
+        "Larc en Ciel"
       ],
       "alternateNames": [
-        "L'arc~en~Ciel"
+        "L'arc~en~Ciel",
+        "Larc en Ciel"
       ]
     },
     {
@@ -22201,6 +22209,7 @@
         "Original BL",
         "Original BL & GL",
         "Original BL comic",
+        "Original BL GL",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "Original Boy’s Love Webtoon",
         "Original, Original BL, Ao Haru Ride, Banana Fish, Bloodborne, Call of Duty, Death Stranding, Devil May Cry, Elden Ring, Epic the Musical, Fire Emblem Three Houses, Hannibal, Honkai Impact 3rd, Honkai Star Rail, Hybrid Child, Initial D, Kamisama Kiss, Kaoruko, Lookism, Maid-sama, My Little Monster, Nana, Noblesse, Pretty Cure, Sailor Moon, Sekaiichi Hatsukoi, Silent Hill, Stranger From Hell, Tokyo Mew Mew",
@@ -29655,11 +29664,13 @@
         "Fear & Hunger 2: Termina",
         "Fear & Hunger: Termina",
         "Fear and Hunger Termina",
+        "Funger 2: Termina",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi"
       ],
       "alternateNames": [
         "Fear & Hunger 2: Termina",
         "Fear and Hunger Termina",
+        "Funger 2: Termina",
         "Termina"
       ]
     },
@@ -33715,9 +33726,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "The God of High School"
+        "The God of High School",
+        "The God of Highschool"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "The God of Highschool"
+      ]
     },
     {
       "id": 2462,
@@ -33995,10 +34009,12 @@
       "parentId": null,
       "aliases": [
         "Dungeon Painter /던그화",
-        "The Artist Who Paints Dungeon"
+        "The Artist Who Paints Dungeon",
+        "The Painter Who Draws Dungeons"
       ],
       "alternateNames": [
-        "Dungeon Painter /던그화"
+        "Dungeon Painter /던그화",
+        "The Painter Who Draws Dungeons"
       ]
     },
     {
@@ -39855,10 +39871,12 @@
       "parentId": 242,
       "aliases": [
         "Fire Emblem Fortune's Weave",
+        "Fire Emblem FW",
         "Fire Emblem: Fortune's Weave"
       ],
       "alternateNames": [
-        "Fire Emblem Fortune's Weave"
+        "Fire Emblem Fortune's Weave",
+        "Fire Emblem FW"
       ]
     },
     {
@@ -40710,6 +40728,26 @@
       "parentId": null,
       "aliases": [
         "AMAPro."
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3116,
+      "name": "Maigo",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Maigo"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3117,
+      "name": "HYDE",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "HYDE"
       ],
       "alternateNames": []
     }
