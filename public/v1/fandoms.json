@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-jV5w6r3OSpoZpw_brmZt_SB9XIZ9VEn7FnPBDaWnqaw\"",
+    "etag": "\"sha256-L-MAEXuvjk5mxVgHfIZ5PVQ-GvcCXwdBYv3dVESls-o\"",
     "lastModified": "Sat, 24 Oct 2026 04:45:45 GMT",
     "schemaVersion": "5"
   },
@@ -1882,6 +1882,7 @@
         "TGSWIIWAGAA",
         "TGSWIIWAGAA/Green Yuri",
         "TGTIAIWAGAA",
+        "The Green Yuri",
         "The Guy She Was Interested In Was Not A Guy At All",
         "the guy she was interested in wasn't a guy",
         "The Guy She Was Interested In Wasn't A Guy At All (TGSWIIWAGAA)",
@@ -25299,13 +25300,6 @@
       "id": 3109,
       "name": "Monsters vs. Aliens",
       "kind": "franchise",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
-      "id": 3110,
-      "name": "The Green Yuri",
-      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

@@ -4573,6 +4573,7 @@
         "TGSWIIWAGAA/Green Yuri (MitsuAya)",
         "TGTIAIWAGAA",
         "Tgwiiwagaa",
+        "The Green Yuri",
         "The Guy She Was Interested In Was Not A Guy At All",
         "the guy she was interested in wasn't a guy",
         "The Guy She Was Interested in Wasn't a Guy at All",
@@ -4594,6 +4595,7 @@
         "TGSWIIWAGAA",
         "TGSWIIWAGAA/Green Yuri",
         "TGTIAIWAGAA",
+        "The Green Yuri",
         "The Guy She Was Interested In Was Not A Guy At All",
         "the guy she was interested in wasn't a guy",
         "The Guy She Was Interested In Wasn't A Guy At All (TGSWIIWAGAA)",
@@ -40653,16 +40655,6 @@
       "parentId": null,
       "aliases": [
         "Monsters vs. Aliens"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 3110,
-      "name": "The Green Yuri",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "The Green Yuri"
       ],
       "alternateNames": []
     }
