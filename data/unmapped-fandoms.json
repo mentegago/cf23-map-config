@@ -2,15 +2,18 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-XISooH9vxuuIhouOGVj1rE9HmG0ldH2p2_yelbxdaj8\"",
-    "lastModified": "Fri, 23 Oct 2026 19:45:53 GMT",
+    "etag": "\"sha256-r6On-yFv9vraj6aFt-MaBjTRGStZ5G-15-lX_ENKTYM\"",
+    "lastModified": "Fri, 23 Oct 2026 22:41:33 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11661,
-    "ignoredPieces": 328,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 11670,
+    "ignoredPieces": 327,
+    "unknownPieces": 2,
+    "unknownSourceFields": 2
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "jujutsu kaisen, haikyuu, sakamoto days, hunter x hunter, gachiakuta, plave & OC",
+    "Original Food, Danmei, LADS, Link Click, Stray Kids, Nana, The Green Yuri, Detective Conan"
+  ]
 }

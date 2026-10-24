@@ -1556,14 +1556,12 @@
         "Studio Ghibli And Original Art"
       ],
       "alternateNames": [
-        "Anime Ghibli",
         "Fandom Studio Ghibli",
         "Ghibi",
         "ghibli",
         "Ghibli Movies",
         "Ghibli Studio",
         "Ghibli Studios",
-        "Ghibli’s Anime",
         "Ghiblli",
         "Ghilbi",
         "Ghili",
@@ -1611,9 +1609,6 @@
         "⁠frieren"
       ],
       "alternateNames": [
-        "Anime : Frieren",
-        "Freieren",
-        "freiren",
         "Friefen",
         "Frierein",
         "Frieren",
@@ -2270,10 +2265,8 @@
         "Wbk",
         "Win Breaker",
         "Winbre",
-        "Wind Breaker (anime)",
         "windbre",
         "Windbreaker",
-        "Windbreaker (Anime)",
         "Windbreaker (jp)",
         "⁠windbreaker"
       ]
@@ -2676,9 +2669,11 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "- kpop (the boyz, riize, ateez, seventeen, aespa, newjeans) - anime (dandadan, dungeon meshi, slam dunk, mob psycho) - game (final fantasy, pokemon, baldur's gate) - f1 - tv show / movies - band / artist (oasis, blur, system of a down, hatsune miku) - original characters",
         "amine",
         "and others",
         "Anime",
+        "Anime & Kpop",
         "Anime (chainsaw Man, Frieren, Dandadan, Etc...)",
         "Anime (chainsaw Man, Frieren, One Piece)",
         "Anime (Detective Conan)",
@@ -2686,11 +2681,13 @@
         "Anime (Getter, Big O, Gundam UC)",
         "Anime (Ghibli, Jujutsu Kaisen, Frieren, Saiki H, HxH) Comics (Daredevil, marvel, dc)",
         "Anime (haikyuu!, Apothecary Diaries, Dandadan)",
+        "Anime (Jujutsu Kaisen, Bleach)",
         "Anime (jujutsu Kaisen, Orv, Haikyuu, Dunmesh, Akatsuki No Yona) Other (the Beatles, My Chemical Romance, Seventeen, Newjeans)",
         "ANIME (K-On, Madoka Magica)",
         "Anime (kusuriya, Bocchi The Rock)",
         "ANIME (madoka magica, yanineko)",
         "Anime (My Hero Academia, Detective Conan, TGSWIIWAGAA, Mahou Shoujo Madoka Magica, Mahou Shoujo Site, Sasayaku You ni Koi wo Utau, Love Live)",
+        "Anime (Skip and Loafer, A Sign of Affection)",
         "Anime (Studio ghibli)",
         "Anime - Jujutsu Kaisen",
         "Anime Dan Kartun (hai Miiko, Dandandan, Atla, Dungeon Meshi, Jjk, Aot)",
@@ -2698,9 +2695,11 @@
         "anime focused",
         "Anime General",
         "Anime In General",
+        "Anime on Season",
         "anime populer",
         "Anime Series",
         "anime series/ movie (demon slayer, haikyuu, hxh, dungeon meshi, zzz, etc)",
+        "Anime Shoujo",
         "Anime/Manga",
         "Anime/manga, Original, hoyoverse, alien stage, Vtuber",
         "Character Anime",
@@ -2712,6 +2711,8 @@
         "Games / Anime",
         "Hololive and Anime Fanart",
         "Hoyo games and anime",
+        "Japanese animation (Ghibli, HxH)",
+        "Japanese Anime",
         "Kpop & Anime",
         "mix anime",
         "Multi fandom anime n game",
@@ -2722,7 +2723,10 @@
         "Others",
         "Others (idwtbamg, Zelda, Love Bullet, Tgswiiwagaa, Vocaloid, Arcane, Tamagotchi, Miffy, Wha, Wicked, Pikmin)",
         "Phantom Busters, Anime/Manga",
+        "Rhythm anime (vocaloid, ensemble stars, project sekai)",
+        "Seasonal Anime",
         "Shonen & Seinen Anime (new & Old)",
+        "The summer hikaru died (Anime)",
         "Various Anime",
         "Various Niche Anime",
         "Video Games, Western, Film/TV, Anime/Manga"
@@ -2734,15 +2738,19 @@
         "anime focused",
         "Anime General",
         "Anime In General",
+        "Anime on Season",
         "anime populer",
         "Anime Series",
         "anime series/ movie",
         "Character Anime",
         "Etc.",
+        "Japanese animation",
+        "Japanese Anime",
         "mix anime",
         "Multifandom Anime",
         "Other Animes",
         "Others",
+        "seasonal anime",
         "Various Anime",
         "Various Niche Anime"
       ]
@@ -3895,7 +3903,6 @@
       "alternateNames": [
         "AA",
         "Ace Atorney",
-        "Ace Attorney (game Anime)",
         "Ace Attorney.",
         "Ace of Attorney",
         "Gyakuten Saiban",
@@ -11987,21 +11994,6 @@
         "Manusia Pagi"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 584,
-      "name": "Seasonal Anime",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Anime on Season",
-        "Seasonal Anime",
-        "The summer hikaru died (Anime)"
-      ],
-      "alternateNames": [
-        "Anime",
-        "Anime on Season"
-      ]
     },
     {
       "id": 585,
@@ -28822,26 +28814,6 @@
         "Anpanman"
       ],
       "alternateNames": []
-    },
-    {
-      "id": 2003,
-      "name": "Japanese Anime",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "- kpop (the boyz, riize, ateez, seventeen, aespa, newjeans) - anime (dandadan, dungeon meshi, slam dunk, mob psycho) - game (final fantasy, pokemon, baldur's gate) - f1 - tv show / movies - band / artist (oasis, blur, system of a down, hatsune miku) - original characters",
-        "Anime & Kpop",
-        "Anime (Jujutsu Kaisen, Bleach)",
-        "Anime (Skip and Loafer, A Sign of Affection)",
-        "Anime Shoujo",
-        "Japanese animation (Ghibli, HxH)",
-        "Japanese Anime",
-        "Rhythm anime (vocaloid, ensemble stars, project sekai)"
-      ],
-      "alternateNames": [
-        "Anime",
-        "Japanese animation"
-      ]
     },
     {
       "id": 2004,

@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-XISooH9vxuuIhouOGVj1rE9HmG0ldH2p2_yelbxdaj8\"",
-    "lastModified": "Fri, 23 Oct 2026 19:45:53 GMT",
+    "etag": "\"sha256-r6On-yFv9vraj6aFt-MaBjTRGStZ5G-15-lX_ENKTYM\"",
+    "lastModified": "Fri, 23 Oct 2026 22:41:33 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -449,14 +449,12 @@
       "kind": "publisher_umbrella",
       "parentId": null,
       "alternateNames": [
-        "Anime Ghibli",
         "Fandom Studio Ghibli",
         "Ghibi",
         "ghibli",
         "Ghibli Movies",
         "Ghibli Studio",
         "Ghibli Studios",
-        "Ghibli’s Anime",
         "Ghiblli",
         "Ghilbi",
         "Ghili",
@@ -469,9 +467,6 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Anime : Frieren",
-        "Freieren",
-        "freiren",
         "Friefen",
         "Frierein",
         "Frieren",
@@ -789,10 +784,8 @@
         "Wbk",
         "Win Breaker",
         "Winbre",
-        "Wind Breaker (anime)",
         "windbre",
         "Windbreaker",
-        "Windbreaker (Anime)",
         "Windbreaker (jp)",
         "⁠windbreaker"
       ]
@@ -963,15 +956,19 @@
         "anime focused",
         "Anime General",
         "Anime In General",
+        "Anime on Season",
         "anime populer",
         "Anime Series",
         "anime series/ movie",
         "Character Anime",
         "Etc.",
+        "Japanese animation",
+        "Japanese Anime",
         "mix anime",
         "Multifandom Anime",
         "Other Animes",
         "Others",
+        "seasonal anime",
         "Various Anime",
         "Various Niche Anime"
       ]
@@ -1556,7 +1553,6 @@
       "alternateNames": [
         "AA",
         "Ace Atorney",
-        "Ace Attorney (game Anime)",
         "Ace Attorney.",
         "Ace of Attorney",
         "Gyakuten Saiban",
@@ -6224,16 +6220,6 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []
-    },
-    {
-      "id": 584,
-      "name": "Seasonal Anime",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": [
-        "Anime",
-        "Anime on Season"
-      ]
     },
     {
       "id": 585,
@@ -17227,16 +17213,6 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []
-    },
-    {
-      "id": 2003,
-      "name": "Japanese Anime",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": [
-        "Anime",
-        "Japanese animation"
-      ]
     },
     {
       "id": 2004,
