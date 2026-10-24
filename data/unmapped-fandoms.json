@@ -7,10 +7,12 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11734,
+    "matchedPieces": 11741,
     "ignoredPieces": 327,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Yugioh, Monster, Naoki Urasawa, Monster Hunter, Bocchi the Rock, Cardcaptor Sakura, Zutomayo, Eve, J-POP, Berserk, Clamp XXXHOLIC"
+  ]
 }

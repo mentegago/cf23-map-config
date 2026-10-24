@@ -3,7 +3,7 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-24T20:56:38.859Z"
+      "downloadedAt": "2026-10-24T23:20:57.295Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
@@ -30048,9 +30048,11 @@
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/NYENYENYE.jpg",
         "gallery": [
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/9bf17089-fb78-4cae-a67d-f203f05bc25d/G-05ab.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/fdffbd60-1234-4512-9ca1-a7bfb093282b/G-05ab.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/ddccb0d0-1d16-4c3c-8bab-5d2163a6c39c/G-05ab.jpg"
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/a1357e3d-b2b5-46e8-9731-65b987b13db2/G-05ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/2bcfb8c9-5ad3-44e9-bd54-30f243699b1f/G-05ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/10aa04c0-d69e-46f7-9cbe-f9d334f034e3/G-05ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/4c611c07-7315-4358-a38f-6c6856a69e5a/G-05ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/763c854a-3509-43b0-91f3-9f4846fb0149/48fb8000-5317-4ae3-a7c3-4342328921fd/G-05ab.png"
         ]
       },
       "links": [
@@ -50718,7 +50720,13 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Kincrot Corporation.jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/73d32731-f447-4df0-91f4-85c332491563/8215de2c-685f-4e96-8253-975fa816dad2/M-41ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/73d32731-f447-4df0-91f4-85c332491563/6fe021dd-4190-422f-9b89-b0a708595d9a/M-41ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/73d32731-f447-4df0-91f4-85c332491563/3144bb84-0309-454a-9e2e-3c4e37d8ae0c/M-41ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/73d32731-f447-4df0-91f4-85c332491563/1bd27a52-c094-44a6-b407-442b91875692/M-41ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/73d32731-f447-4df0-91f4-85c332491563/9b821116-55c5-437b-9ee6-d883a6077544/M-41ab.jpg"
+        ]
       },
       "links": [
         {
@@ -50736,7 +50744,13 @@
       ],
       "fandomIds": [
         52,
+        83,
+        198,
+        273,
+        279,
+        301,
         328,
+        377,
         494,
         1073
       ]
@@ -51320,7 +51334,10 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/CIRCLE CAPER (Calon Perintis).jpg",
-        "gallery": []
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f85117c8-2348-445e-8a5d-b44ee3274ea6/f7a46f42-8615-4921-ae10-6d60f56d1d8a/M-52ab (SAT).jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f85117c8-2348-445e-8a5d-b44ee3274ea6/1be72138-14a4-4765-bc57-31cd1723adce/M-52ab (SAT).png"
+        ]
       },
       "links": [
         {
