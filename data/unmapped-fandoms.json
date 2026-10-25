@@ -2,17 +2,21 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-MtXpDF9SFCqIQ6Cp72Pb1TffFMJVb4h1or5qxEo6A08\"",
-    "lastModified": "Sat, 24 Oct 2026 16:03:23 GMT",
+    "etag": "\"sha256-brWlCrJNT_IWGwxbWX6VyLnqaYGrOQ7oYHL9QKeN2wk\"",
+    "lastModified": "Sat, 24 Oct 2026 23:42:22 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11741,
-    "ignoredPieces": 327,
-    "unknownPieces": 1,
-    "unknownSourceFields": 1
+    "matchedPieces": 11753,
+    "ignoredPieces": 326,
+    "unknownPieces": 8,
+    "unknownSourceFields": 5
   },
   "unknownSourceFields": [
-    "Yugioh, Monster, Naoki Urasawa, Monster Hunter, Bocchi the Rock, Cardcaptor Sakura, Zutomayo, Eve, J-POP, Berserk, Clamp XXXHOLIC"
+    "Blue Archive, ZZZ. Wuthering Waves, Hololive",
+    "Genshin Impact, Omniscient Reader's Viewpoint, Got Dropped into a Ghost Story, Trigun Stampade, Banana Fish, ORV, GDCD / GSGW",
+    "Honkai Star Rail, Sousou no Frieren, Reverse 1999, Wuthering Waves, Mahoyaku, Witch Hat Atelier, Love and Deepspace, 86, Katekyo Hitman Reborn, Kono Oto Tomare, Seihantai Kimi to Boku, The Ramparts of Ice, Degrees of Lewdity, Original Characters",
+    "MCYT , UnstableSMP, LifeSteal, Haikyuu, Blocktales, Termination Protocol, JJK, PJSK, Pokemon, Ish State , ORV, BFDI ,Odyssey , Hetalia, DandyWorld, Animal Hospital",
+    "Power Bulletin!, Anima Versa"
   ]
 }

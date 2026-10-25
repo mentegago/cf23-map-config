@@ -7514,6 +7514,7 @@
       ],
       "alternateNames": [
         "HBR",
+        "Hebuban",
         "ヘブバン",
         "ヘブンバーンズレッド"
       ]
@@ -11568,6 +11569,7 @@
         "Bandori MyGO/AveMujica",
         "Bang Dream (Ave Mujica & MyGO!!!)",
         "Bang Dream! (mygo & Ave Mujica)",
+        "Maigo",
         "MyGO",
         "MyGO!!",
         "MyGO!!!!!",
@@ -11579,6 +11581,7 @@
         "⁠Bandori MyGO Ave Mujica"
       ],
       "alternateNames": [
+        "Maigo",
         "MyGO",
         "MyGO!!",
         "Mygo."
@@ -12104,7 +12107,8 @@
       "parentId": null,
       "aliases": [
         "CLAMP",
-        "CLAMP (xxxHOLIC, Cardcaptor Sakura)"
+        "CLAMP (xxxHOLIC, Cardcaptor Sakura)",
+        "Clamp XXXHOLIC"
       ],
       "alternateNames": []
     },
@@ -21871,6 +21875,7 @@
       "parentId": 594,
       "aliases": [
         "CLAMP (xxxHOLIC, Cardcaptor Sakura)",
+        "Clamp XXXHOLIC",
         "XXX Holic",
         "xxxHOLiC"
       ],
@@ -40728,16 +40733,6 @@
       "parentId": null,
       "aliases": [
         "AMAPro."
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 3116,
-      "name": "Maigo",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Maigo"
       ],
       "alternateNames": []
     },
