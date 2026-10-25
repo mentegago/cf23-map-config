@@ -7,10 +7,18 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11781,
+    "matchedPieces": 11783,
     "ignoredPieces": 324,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 7,
+    "unknownSourceFields": 7
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Houshou Marine",
+    "KY:MERA",
+    "Mori Calliope",
+    "Oozora Subaru",
+    "Shiranui Flare",
+    "Shirogane Noel",
+    "Usada Pekora"
+  ]
 }

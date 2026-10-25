@@ -335,5 +335,85 @@
     "sourceUrls": [
       "https://www.instagram.com/p/DeyuriqEtlJ/"
     ]
+  },
+  {
+    "id": "1001966",
+    "name": "hololive x SUNRISEPOP",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1203",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "hololive",
+      "Oozora Subaru",
+      "Usada Pekora",
+      "Shiranui Flare",
+      "Shirogane Noel",
+      "Houshou Marine",
+      "Mori Calliope",
+      "Kobo Kanaeru"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001966/announcement-bab6ac508f67.webp",
+      "gallery": [
+        "images/exhibitors/1001966/announcement-eef991d7f4e5.webp",
+        "images/exhibitors/1001966/announcement-bab6ac508f67.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/hololive_Id"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://x.com/hololive_Id/status/2113480591878345037"
+    ]
+  },
+  {
+    "id": "1001967",
+    "name": "KY:MERA",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1211",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "KY:MERA"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001967/announcement-1b540ee42c35.webp",
+      "gallery": [
+        "images/exhibitors/1001967/announcement-1b540ee42c35.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/kymera_official"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": [
+      "https://x.com/kymera_official/status/2114288438208077977"
+    ]
   }
 ]
