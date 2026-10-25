@@ -9,8 +9,13 @@
   "stats": {
     "matchedPieces": 11790,
     "ignoredPieces": 324,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 4,
+    "unknownSourceFields": 4
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Derra",
+    "lioye",
+    "Mythia Batford",
+    "Pomu"
+  ]
 }
