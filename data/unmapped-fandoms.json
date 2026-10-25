@@ -2,19 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-9wASGEbHPITCGT6KzkzlBZJSwyhK27FIig2fGU_Wkz8\"",
-    "lastModified": "Sun, 25 Oct 2026 07:01:05 GMT",
+    "etag": "\"sha256--5WrV9Rmif-b77iRVxDh4ECmjn4j9XwWGF8Xzf3IimQ\"",
+    "lastModified": "Sun, 25 Oct 2026 11:42:39 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11778,
+    "matchedPieces": 11781,
     "ignoredPieces": 324,
-    "unknownPieces": 3,
-    "unknownSourceFields": 3
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "-limbus company ",
-    "Deadlock, Alien/Zombie Stage, OFF, Cult of the Lamb, Vocaloid",
-    "Vocaloid, Omori, Blue Archive, Genshin Impact, Bocchi The Rock, KPOP Demon Hunter, Final Fantasy 7, Big Walk, Original Character"
-  ]
+  "unknownSourceFields": []
 }

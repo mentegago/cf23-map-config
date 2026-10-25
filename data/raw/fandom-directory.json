@@ -850,6 +850,7 @@
         "Alien Stage | Katekyo Hitman Reborn | Omori",
         "Alien stage/Zombie Stage",
         "Alien Star",
+        "Alien/Zombie Stage",
         "Alienstage",
         "Alient Stage",
         "Allien Stage",
@@ -870,6 +871,7 @@
         "⁠ALNST"
       ],
       "alternateNames": [
+        "Alien",
         "Alien Stafe",
         "Alien Stage (ALNST)",
         "Alien Star",
@@ -2170,6 +2172,7 @@
       "kind": "franchise",
       "parentId": 93,
       "aliases": [
+        "-limbus company",
         "1. BSD 2. ALNST 3. No Home 4. Studio Investigrave 5. DoL 6. Limbus 7. Deltarune 8. Undertale 9. Hotline Miami 10. TGSWIIWAGAA 11. Banana fish 12. Given 13. Enstars 14. Blue Period 15. Mahou Shoujo Site 16. Nijisanji (ike doang) 17. Original / OC 18. Chihayafuru 19. Magia Records 20. Shadows House 21. Nana 22. Death note 23. Witch hat atelier 24. ⁠voltron 25. ⁠bang dream 26. ⁠18trip 27. Lads 28. Bluelock 29. Dr stone 30. ⁠gachiakuta 31. ⁠zzz",
         "1. Hsr 2. 18trip 3. Limbus 4. BSD 5. ALNST 6. Given 7. Banana fish 8. Green yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio investigrave",
         "Bocchi the rock! Ado Yorushika Eve PANDAVVA Eon of Stars Omori Limbus Company Forsaken",
@@ -2188,6 +2191,7 @@
         "⁠limbus company"
       ],
       "alternateNames": [
+        "-limbus company",
         "l Limbus company",
         "LC",
         "LCB",
@@ -27901,6 +27905,7 @@
       "aliases": [
         "Alien Stage and Zombie Stage",
         "Alien stage/Zombie Stage",
+        "Alien/Zombie Stage",
         "ALNST ZOMST",
         "vivinos (alien stage, zombie stage)",
         "Zombie Stage",
@@ -40781,6 +40786,16 @@
       "parentId": null,
       "aliases": [
         "Anima Versa"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3122,
+      "name": "Big Walk",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Big Walk"
       ],
       "alternateNames": []
     }
