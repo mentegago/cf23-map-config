@@ -39106,11 +39106,14 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "GDCD",
+        "GDCD / GSGW",
         "Ghost Story Gotta Work (GSGW, GDCG)",
         "Got Dropped in Ghost Story",
         "GSGW/GDCDG"
       ],
       "alternateNames": [
+        "GDCD",
         "GDCDG",
         "GDCG"
       ]
@@ -40633,7 +40636,9 @@
         "To Aru Railgun"
       ],
       "alternateNames": [
-        "To Aru Railgun"
+        "David",
+        "To Aru Railgun",
+        "Toaru Kagaku no Railgun"
       ]
     },
     {
@@ -40688,7 +40693,7 @@
     },
     {
       "id": 3111,
-      "name": "Beaded bracelet",
+      "name": "Beaded Bracelet",
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
@@ -40743,17 +40748,6 @@
       "parentId": null,
       "aliases": [
         "HYDE"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 3118,
-      "name": "GDCD",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "GDCD",
-        "GDCD / GSGW"
       ],
       "alternateNames": []
     },

@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ORY7mow_V5kW6SKVxO2tMqOIV8hWW0zeCP5Egxxr_EU\"",
-    "lastModified": "Sun, 25 Oct 2026 06:59:17 GMT",
+    "etag": "\"sha256-9wASGEbHPITCGT6KzkzlBZJSwyhK27FIig2fGU_Wkz8\"",
+    "lastModified": "Sun, 25 Oct 2026 07:01:05 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -24228,6 +24228,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "GDCD",
         "GDCDG",
         "GDCG"
       ]
@@ -25276,7 +25277,9 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "To Aru Railgun"
+        "David",
+        "To Aru Railgun",
+        "Toaru Kagaku no Railgun"
       ]
     },
     {
@@ -25316,7 +25319,7 @@
     },
     {
       "id": 3111,
-      "name": "Beaded bracelet",
+      "name": "Beaded Bracelet",
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
@@ -25353,13 +25356,6 @@
       "id": 3117,
       "name": "HYDE",
       "kind": "individual",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
-      "id": 3118,
-      "name": "GDCD",
-      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     },
