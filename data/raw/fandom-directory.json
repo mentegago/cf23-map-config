@@ -1391,6 +1391,7 @@
         "ZZZ and HSR.",
         "Zzz Bangboo",
         "ZZZ.",
+        "ZZZ. Wuthering Waves",
         "ZZZero"
       ],
       "alternateNames": [
@@ -1750,7 +1751,8 @@
         "Wuthering Waves.",
         "Wutheringwaves",
         "Wuwa",
-        "Wuwa."
+        "Wuwa.",
+        "ZZZ. Wuthering Waves"
       ],
       "alternateNames": [
         "Wuterhing Waves",
@@ -4424,6 +4426,7 @@
         "Kucing",
         "Kucing etc",
         "Kucing Kucing",
+        "Meng",
         "Neko and Shiba",
         "ORIGINAL (cat, fish)",
         "Original (Cats & Comic)",
@@ -4434,6 +4437,7 @@
         "Original (Foods illustrations, Pets/ Cats). Comic, Novel",
         "Original (Frog & Cat)",
         "Original (Kucing, Meng, Japan Shrine, Food, Fruit)",
+        "Original (Meng, Kelinci, Japan Shrine, Food)",
         "Original (oc,cats)",
         "Original / Cats",
         "original art (cat)",
@@ -4461,6 +4465,7 @@
         "kitten",
         "Kucing",
         "Kucing Kucing",
+        "Meng",
         "Neko"
       ]
     },
@@ -5754,6 +5759,7 @@
         "Dandy's World",
         "dandys world",
         "dandysworld",
+        "DandyWorld",
         "Dandy’s World",
         "Roblox (Dandy's world, Flamingo)",
         "Roblox (Nullscape, Dandy's World)"
@@ -5762,6 +5768,7 @@
         "Dandy World",
         "dandys world",
         "dandysworld",
+        "DandyWorld",
         "Dandy’s World"
       ]
     },
@@ -11118,6 +11125,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "GDCD / GSGW",
         "GDCG",
         "GDCG / GSGW",
         "Gdcg Gsgw",
@@ -16801,19 +16809,6 @@
       "alternateNames": [
         "VSHOUJO"
       ]
-    },
-    {
-      "id": 956,
-      "name": "Meng",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "Arknights: Enfield, Azurlane, Chainsaw Man, Ensemble Stars!! (UNDEAD), Genshin Impact, Golden Kamuy, Harley Quinn, Harvest Moon (Back to Nature), Hololive (ID & JP), Ikemen Revolution, Ikemen Sengoku, Ikemen Vampire, Love and Deepspace, Magical Doremi, Michi Mochievee (Vshojo), Mystic Messenger, NIJISANJI EN (BY THE BEAT), Obey Me!, Original (Kucing, Meng, Japan Shrine, Food, Fruit), Original Comic (Pancarona, Impression), Pop Team Epic, Ranma 1/2, Rurouni Kenshin (Samurai X), Sailor Moon, Saint Seiya, Sugar Sugar Rune, Vocaloid, Webtoon Kanvas (Someone Still Loves You), Wedding Peach, Yuyu Hakusho",
-        "Meng",
-        "Original (Kucing, Meng, Japan Shrine, Food, Fruit)",
-        "Original (Meng, Kelinci, Japan Shrine, Food)"
-      ],
-      "alternateNames": []
     },
     {
       "id": 957,
@@ -24163,9 +24158,12 @@
       "parentId": null,
       "aliases": [
         "Epic: The Musical & The Odyssey",
+        "Odyssey",
         "The Odyssey"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Odyssey"
+      ]
     },
     {
       "id": 1571,
@@ -38912,6 +38910,7 @@
         "(Seihantai)",
         "Polar Opposites",
         "Seihantai",
+        "Seihantai Kimi to Boku",
         "Seihantai na Kimi to Boku",
         "You & I Are Polar Opposites",
         "You and I are Polar Opposite",
@@ -38922,6 +38921,7 @@
         "(Seihantai)",
         "Polar Opposites",
         "Seihantai",
+        "Seihantai Kimi to Boku",
         "You & I Are Polar Opposites",
         "You and I are Polar Opposite",
         "You and Me Are Polar Opposite"
@@ -40743,6 +40743,50 @@
       "parentId": null,
       "aliases": [
         "HYDE"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3118,
+      "name": "GDCD",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "GDCD",
+        "GDCD / GSGW"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3119,
+      "name": "ish's State",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Ish State",
+        "ish's State"
+      ],
+      "alternateNames": [
+        "Ish State"
+      ]
+    },
+    {
+      "id": 3120,
+      "name": "Power Bulletin!",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Power Bulletin!"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3121,
+      "name": "Anima Versa",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Anima Versa"
       ],
       "alternateNames": []
     }

@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-brWlCrJNT_IWGwxbWX6VyLnqaYGrOQ7oYHL9QKeN2wk\"",
-    "lastModified": "Sat, 24 Oct 2026 23:42:22 GMT",
+    "etag": "\"sha256-ORY7mow_V5kW6SKVxO2tMqOIV8hWW0zeCP5Egxxr_EU\"",
+    "lastModified": "Sun, 25 Oct 2026 06:59:17 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -1820,6 +1820,7 @@
         "kitten",
         "Kucing",
         "Kucing Kucing",
+        "Meng",
         "Neko"
       ]
     },
@@ -2513,6 +2514,7 @@
         "Dandy World",
         "dandys world",
         "dandysworld",
+        "DandyWorld",
         "Dandy’s World"
       ]
     },
@@ -9247,13 +9249,6 @@
       ]
     },
     {
-      "id": 956,
-      "name": "Meng",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
       "id": 957,
       "name": "Japanese Shrine",
       "kind": "generic_tag",
@@ -14086,7 +14081,9 @@
       "name": "The Odyssey",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Odyssey"
+      ]
     },
     {
       "id": 1571,
@@ -24101,6 +24098,7 @@
         "(Seihantai)",
         "Polar Opposites",
         "Seihantai",
+        "Seihantai Kimi to Boku",
         "You & I Are Polar Opposites",
         "You and I are Polar Opposite",
         "You and Me Are Polar Opposite"
@@ -25355,6 +25353,36 @@
       "id": 3117,
       "name": "HYDE",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3118,
+      "name": "GDCD",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3119,
+      "name": "ish's State",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": [
+        "Ish State"
+      ]
+    },
+    {
+      "id": 3120,
+      "name": "Power Bulletin!",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3121,
+      "name": "Anima Versa",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }
