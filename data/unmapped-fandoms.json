@@ -2,24 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ZP0l9vXW0PhiP8ERnUs9yqXRZe7xt9Bm8tUsj1uC-4w\"",
-    "lastModified": "Sun, 25 Oct 2026 16:27:41 GMT",
+    "etag": "\"sha256-23qIHkaTEt3XfecusRZRKP5dq14lzGiM_gRd7xN7Kso\"",
+    "lastModified": "Sun, 25 Oct 2026 16:38:36 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11822,
+    "matchedPieces": 11839,
     "ignoredPieces": 325,
-    "unknownPieces": 17,
-    "unknownSourceFields": 8
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Boboiboy, detective Conan, Gachiakuta, Mairimashita Iruma Kun, ensemble star, Apothecary diaries, Frieren, fairy tail, medalist, jujutsu kaisen modulo, black butler, doraemon",
-    "cute stuff, meme, relatable, pokemon, animals, pride / lgbtq+, indie games, studio ghibli, furry, chainsaw man, cardcaptor sakura, kingdom hearts, journaling, daily life, lucky emma, pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara), vtuber (seishin, aya aulya, niskala naia, etc), western cartoons and movies (project hail mary, ryan gosling, goslingverse), sports (football), chiikawa, gachiakuta, jojo's bizarre adventure, deltarune, kaiju, vivinos (alien stage, zombie stage), coquette, monster horror, stamp rally, mahjong, games, chinese, shirts, cats, dogs",
-    "Derra",
-    "Jujutsu Kaisen, Dungeon Meshi, Haikyuu, Yakuza, Harvest Moon, Chainsaw Man, Disco Elysium, Team Fortress 2, Ib, Resident Evil, Hotline Miami, Golden Kamuy, Oshi no Ko, Bloodborne, Original Characters, Interview with the Vampire, Paramore, Pandora Hearts, Mad Father",
-    "Limbus Company, Lobotomy Corp, Library of Ruina, Ultrakill, Honkai: Star Rail, Roblox, Minecraft ARG, MCYT, ENA, Marvel, Undertale, Hololive, Hazbin Hotel, Deltarune, Original, Aikatsu, Love and Deepspace, BATIM, Project Hail Mary, Iron Lung, Witch hat atelier, Meccha chameleon, Stardew Valley, Slay the Princess, Hades, Slay the Spire 2, Jojo Bizarre Adventure, Homicipher, Indie games, Newgrounds, Ace Attorney, The Great Ace Attorney, CORTIS, Love Bullet, Look Back, Maimai, Genshin Impact, Path to Nowhere, EPIC the musical, TDS, Pokespe, Mesmalie, Guilty Gear Strive.",
-    "lioye",
-    "Mythia Batford",
-    "Pomu"
-  ]
+  "unknownSourceFields": []
 }

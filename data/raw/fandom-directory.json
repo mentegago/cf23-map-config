@@ -1497,6 +1497,7 @@
         "Vtuber (PANDAVVA, EoS, etc)",
         "vtuber (pandavva, hololive)",
         "VTuber (PDVV/Nijisanji)",
+        "vtuber (seishin, aya aulya, niskala naia, etc)",
         "Vtuber (Shxtou/Minase)",
         "Vtuber (sol.4ce)",
         "Vtuber (Sol4ce)",
@@ -4128,6 +4129,7 @@
         "Project Hail Mary & Heated Rivalry",
         "Project: Hail Mary",
         "western cartoons and movies (project hail mary)",
+        "western cartoons and movies (project hail mary, ryan gosling, goslingverse)",
         "Western Franchise; Project Hail Mary"
       ],
       "alternateNames": [
@@ -4147,6 +4149,7 @@
         "Pandavva",
         "Pandavva (Valko)",
         "Pandavva (VTuber)",
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)",
         "pandavva Vtuber",
         "pandavvabluelock",
         "Pandavvatachi",
@@ -8234,7 +8237,8 @@
         "Movies (Obsession, Coraline, Lord of the Rings, Dune, dll)",
         "Various Movies",
         "Video Games, Western, Film/TV, Anime/Manga",
-        "western cartoons and movies (project hail mary)"
+        "western cartoons and movies (project hail mary)",
+        "western cartoons and movies (project hail mary, ryan gosling, goslingverse)"
       ],
       "alternateNames": [
         "film",
@@ -15808,10 +15812,12 @@
       "aliases": [
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS)",
         "Object Shows (BFDI, II, LoTS, TNM, HfjONE, TDOS), Roblox, Dandy’s World, Sonic, Kirby, My Hero Academia, Alien Stage, Wonder Egg Priority",
+        "TDS",
         "The Daily Object Show"
       ],
       "alternateNames": [
-        "TDOS"
+        "TDOS",
+        "TDS"
       ]
     },
     {
@@ -16423,6 +16429,7 @@
       "parentId": null,
       "aliases": [
         "Arjuna Arkana",
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)",
         "Vtuber Arjuna Arkana"
       ],
       "alternateNames": [
@@ -17739,10 +17746,12 @@
         "GGST",
         "Ggst & Tekken",
         "Guilty Gear Strive",
+        "Guilty Gear Strive.",
         "Guilty Gear: Strive"
       ],
       "alternateNames": [
         "GGST",
+        "Guilty Gear Strive.",
         "Guilty Gear: Strive"
       ]
     },
@@ -31568,7 +31577,8 @@
       "aliases": [
         "Western Cartoons",
         "Western Cartoons & Games",
-        "western cartoons and movies (project hail mary)"
+        "western cartoons and movies (project hail mary)",
+        "western cartoons and movies (project hail mary, ryan gosling, goslingverse)"
       ],
       "alternateNames": []
     },
@@ -33607,7 +33617,8 @@
       "parentId": null,
       "aliases": [
         "Gosling RGCU",
-        "Ryan Gosling"
+        "Ryan Gosling",
+        "western cartoons and movies (project hail mary, ryan gosling, goslingverse)"
       ],
       "alternateNames": [
         "Gosling"
@@ -38600,7 +38611,8 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
-        "Aya Aulya"
+        "Aya Aulya",
+        "vtuber (seishin, aya aulya, niskala naia, etc)"
       ],
       "alternateNames": []
     },
@@ -40047,7 +40059,8 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
-        "Seishin"
+        "Seishin",
+        "vtuber (seishin, aya aulya, niskala naia, etc)"
       ],
       "alternateNames": []
     },
@@ -40545,9 +40558,11 @@
       "parentId": null,
       "aliases": [
         "RGCU (Ryan Gosling Cinematic Universe)",
-        "Ryan Gosling Cinematic Universe"
+        "Ryan Gosling Cinematic Universe",
+        "western cartoons and movies (project hail mary, ryan gosling, goslingverse)"
       ],
       "alternateNames": [
+        "goslingverse",
         "RGCU (Ryan Gosling Cinematic Universe)"
       ]
     },
@@ -40866,6 +40881,187 @@
       "parentId": 3028,
       "aliases": [
         "Usada Pekora"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3130,
+      "name": "Jujutsu Kaisen Modulo",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Jujutsu Kaisen Modulo"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3131,
+      "name": "Yudistira Yogendra",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)",
+        "Yudistira Yogendra"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3132,
+      "name": "Bima Bayusena",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Bima Bayusena",
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3133,
+      "name": "Nakula Nalendra",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Nakula Nalendra",
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3134,
+      "name": "Sadewa Sagara",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara)",
+        "Sadewa Sagara"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3135,
+      "name": "Niskala Naia",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Niskala Naia",
+        "vtuber (seishin, aya aulya, niskala naia, etc)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3136,
+      "name": "Stamp Rally",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Stamp Rally"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3137,
+      "name": "Chinese",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Chinese"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3138,
+      "name": "Shirts",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Shirts"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3139,
+      "name": "Shin Derra",
+      "kind": "generic_tag",
+      "parentId": 3124,
+      "aliases": [
+        "Derra",
+        "Shin Derra"
+      ],
+      "alternateNames": [
+        "Derra"
+      ]
+    },
+    {
+      "id": 3140,
+      "name": "Paramore",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Paramore"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3141,
+      "name": "Newgrounds",
+      "kind": "publisher_umbrella",
+      "parentId": null,
+      "aliases": [
+        "Newgrounds"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3142,
+      "name": "Pokémon Adventures",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Pokespe",
+        "Pokémon Adventures"
+      ],
+      "alternateNames": [
+        "Pokespe"
+      ]
+    },
+    {
+      "id": 3143,
+      "name": "Mesmalie",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Mesmalie"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3144,
+      "name": "lioye",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "lioye"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3145,
+      "name": "Mythia Batford",
+      "kind": "generic_tag",
+      "parentId": 3124,
+      "aliases": [
+        "Mythia Batford"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3146,
+      "name": "Pomu",
+      "kind": "individual",
+      "parentId": 3124,
+      "aliases": [
+        "Pomu"
       ],
       "alternateNames": []
     }

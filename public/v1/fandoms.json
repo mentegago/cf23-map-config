@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ZP0l9vXW0PhiP8ERnUs9yqXRZe7xt9Bm8tUsj1uC-4w\"",
-    "lastModified": "Sun, 25 Oct 2026 16:27:41 GMT",
+    "etag": "\"sha256-23qIHkaTEt3XfecusRZRKP5dq14lzGiM_gRd7xN7Kso\"",
+    "lastModified": "Sun, 25 Oct 2026 16:38:36 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -8607,7 +8607,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "TDOS"
+        "TDOS",
+        "TDS"
       ]
     },
     {
@@ -9853,6 +9854,7 @@
       "parentId": null,
       "alternateNames": [
         "GGST",
+        "Guilty Gear Strive.",
         "Guilty Gear: Strive"
       ]
     },
@@ -25214,6 +25216,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "goslingverse",
         "RGCU (Ryan Gosling Cinematic Universe)"
       ]
     },
@@ -25438,6 +25441,129 @@
       "name": "Usada Pekora",
       "kind": "individual",
       "parentId": 3028,
+      "alternateNames": []
+    },
+    {
+      "id": 3130,
+      "name": "Jujutsu Kaisen Modulo",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3131,
+      "name": "Yudistira Yogendra",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3132,
+      "name": "Bima Bayusena",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3133,
+      "name": "Nakula Nalendra",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3134,
+      "name": "Sadewa Sagara",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3135,
+      "name": "Niskala Naia",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3136,
+      "name": "Stamp Rally",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3137,
+      "name": "Chinese",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3138,
+      "name": "Shirts",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3139,
+      "name": "Shin Derra",
+      "kind": "generic_tag",
+      "parentId": 3124,
+      "alternateNames": [
+        "Derra"
+      ]
+    },
+    {
+      "id": 3140,
+      "name": "Paramore",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3141,
+      "name": "Newgrounds",
+      "kind": "publisher_umbrella",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3142,
+      "name": "Pokémon Adventures",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Pokespe"
+      ]
+    },
+    {
+      "id": 3143,
+      "name": "Mesmalie",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3144,
+      "name": "lioye",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3145,
+      "name": "Mythia Batford",
+      "kind": "generic_tag",
+      "parentId": 3124,
+      "alternateNames": []
+    },
+    {
+      "id": 3146,
+      "name": "Pomu",
+      "kind": "individual",
+      "parentId": 3124,
       "alternateNames": []
     }
   ]

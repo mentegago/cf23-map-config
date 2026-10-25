@@ -7,8 +7,8 @@
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-ZP0l9vXW0PhiP8ERnUs9yqXRZe7xt9Bm8tUsj1uC-4w\"",
-      "lastModified": "Sun, 25 Oct 2026 16:27:41 GMT",
+      "etag": "\"sha256-23qIHkaTEt3XfecusRZRKP5dq14lzGiM_gRd7xN7Kso\"",
+      "lastModified": "Sun, 25 Oct 2026 16:38:36 GMT",
       "schemaVersion": "5"
     }
   },
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1967,
-    "fandomsReferenced": 1641
+    "fandomsReferenced": 1660
   },
   "exhibitors": [
     {
@@ -22533,10 +22533,13 @@
         1,
         6,
         11,
+        16,
         18,
         24,
         25,
         30,
+        106,
+        107,
         121,
         128,
         146,
@@ -22545,6 +22548,7 @@
         198,
         212,
         262,
+        318,
         328,
         331,
         332,
@@ -22560,11 +22564,25 @@
         714,
         715,
         718,
+        925,
         1270,
         1325,
         1517,
         1906,
-        2653
+        2252,
+        2449,
+        2653,
+        2905,
+        3048,
+        3095,
+        3131,
+        3132,
+        3133,
+        3134,
+        3135,
+        3136,
+        3137,
+        3138
       ]
     },
     {
@@ -23975,7 +23993,8 @@
         289,
         448,
         862,
-        905
+        905,
+        3130
       ]
     },
     {
@@ -50324,7 +50343,8 @@
         463,
         897,
         898,
-        899
+        899,
+        3140
       ]
     },
     {
@@ -55176,7 +55196,9 @@
         418,
         508,
         541,
+        876,
         907,
+        1026,
         1142,
         1155,
         1169,
@@ -55184,7 +55206,10 @@
         1308,
         1433,
         2723,
-        2842
+        2842,
+        3141,
+        3142,
+        3143
       ]
     },
     {
@@ -92552,60 +92577,9 @@
         {
           "type": "twitter",
           "url": "https://x.com/ArunikaVirtual"
-        },
-        {
-          "type": "source_post_1",
-          "url": "https://x.com/ArunikaVirtual/status/2109855380146999654"
-        },
-        {
-          "type": "source_post_2",
-          "url": "https://x.com/ArunikaVirtual/status/2107318923519721839"
-        },
-        {
-          "type": "source_post_3",
-          "url": "https://x.com/ArunikaVirtual/status/2107685785176809501"
-        },
-        {
-          "type": "source_post_4",
-          "url": "https://x.com/ArunikaVirtual/status/2108056680156262810"
-        },
-        {
-          "type": "source_post_5",
-          "url": "https://x.com/ArunikaVirtual/status/2108386781595041944"
-        },
-        {
-          "type": "source_post_6",
-          "url": "https://x.com/ArunikaVirtual/status/2108769756304302158"
-        },
-        {
-          "type": "source_post_7",
-          "url": "https://x.com/ArunikaVirtual/status/2109138433830793517"
-        },
-        {
-          "type": "source_post_8",
-          "url": "https://x.com/ArunikaVirtual/status/2112396413057544218"
-        },
-        {
-          "type": "source_post_9",
-          "url": "https://x.com/ArunikaVirtual/status/2112396415167291895"
-        },
-        {
-          "type": "source_post_10",
-          "url": "https://x.com/PrismNOVA/status/2106564521578140064"
         }
       ],
-      "sourceUrls": [
-        "https://x.com/ArunikaVirtual/status/2109855380146999654",
-        "https://x.com/ArunikaVirtual/status/2107318923519721839",
-        "https://x.com/ArunikaVirtual/status/2107685785176809501",
-        "https://x.com/ArunikaVirtual/status/2108056680156262810",
-        "https://x.com/ArunikaVirtual/status/2108386781595041944",
-        "https://x.com/ArunikaVirtual/status/2108769756304302158",
-        "https://x.com/ArunikaVirtual/status/2109138433830793517",
-        "https://x.com/ArunikaVirtual/status/2112396413057544218",
-        "https://x.com/ArunikaVirtual/status/2112396415167291895",
-        "https://x.com/PrismNOVA/status/2106564521578140064"
-      ],
+      "sourceUrls": [],
       "fandomIds": [
         16,
         915,
@@ -92696,15 +92670,9 @@
         {
           "type": "website",
           "url": "https://pressplayid.com/"
-        },
-        {
-          "type": "source_post",
-          "url": "https://www.instagram.com/p/DeyuriqEtlJ/"
         }
       ],
-      "sourceUrls": [
-        "https://www.instagram.com/p/DeyuriqEtlJ/"
-      ],
+      "sourceUrls": [],
       "fandomIds": [
         624
       ]
@@ -92789,30 +92757,19 @@
           "url": "https://x.com/kymera_official"
         },
         {
-          "type": "source_post_1",
+          "type": "source_post",
           "url": "https://x.com/kymera_official/status/2114288438208077977"
-        },
-        {
-          "type": "source_post_2",
-          "url": "https://x.com/kymera_official/status/2114288441932513475"
-        },
-        {
-          "type": "source_post_3",
-          "url": "https://x.com/kymera_official/status/2114288445128634657"
-        },
-        {
-          "type": "source_post_4",
-          "url": "https://x.com/kymera_official/status/2114288449146822717"
         }
       ],
       "sourceUrls": [
-        "https://x.com/kymera_official/status/2114288438208077977",
-        "https://x.com/kymera_official/status/2114288441932513475",
-        "https://x.com/kymera_official/status/2114288445128634657",
-        "https://x.com/kymera_official/status/2114288449146822717"
+        "https://x.com/kymera_official/status/2114288438208077977"
       ],
       "fandomIds": [
-        3124
+        3124,
+        3139,
+        3144,
+        3145,
+        3146
       ]
     }
   ]
