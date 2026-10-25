@@ -6632,12 +6632,14 @@
       "aliases": [
         "yotsuba",
         "Yotsuba!",
+        "Yotsuba&",
         "Yotsuba&!",
         "Yotsubato!"
       ],
       "alternateNames": [
         "yotsuba",
         "Yotsuba!",
+        "Yotsuba&",
         "Yotsubato!"
       ]
     },
@@ -9755,6 +9757,7 @@
       "aliases": [
         "Bocchi ZZZ TADC Hazbin Helluva Meshi Frieren Pokemon Doraemon Sky",
         "Ghibli Umamusume SkyCOTL Hazbin PASWG Indie Vtuber Frieren Hollow Knight / Silk song Original NSO Fabulous Beast Bluey TADC ZZZ Okamiden Doraemon KDH Ena Chiikawa",
+        "Sky : Cotl",
         "sky children of light",
         "Sky Children Of The Light",
         "Sky cotl",
@@ -9765,6 +9768,7 @@
       ],
       "alternateNames": [
         "Sky",
+        "Sky : Cotl",
         "sky children of light",
         "Sky Children Of The Light",
         "Sky cotl",
@@ -34182,9 +34186,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Rick & Morty",
         "Rick and Morty"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Rick & Morty"
+      ]
     },
     {
       "id": 2502,
@@ -41062,6 +41069,76 @@
       "parentId": 3124,
       "aliases": [
         "Pomu"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3147,
+      "name": "Yeule",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Yeule"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3148,
+      "name": "Piercings",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Piercings"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3149,
+      "name": "You Kill Me Everytime",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "You Kill Me Everytime"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3150,
+      "name": "The Price of Flesh",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Price of Flesh"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3151,
+      "name": "Indie Horror Games",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Indie Horror Games"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3152,
+      "name": "Psycho Cuties",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Psycho Cuties"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3153,
+      "name": "Baldi's Basics in Education and Learning",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Baldi's Basics in Education and Learning"
       ],
       "alternateNames": []
     }

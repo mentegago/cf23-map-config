@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ajKv9D_3zDx83a1e3EEC3tta88jf8juRBrDsXb4z3jU\"",
-    "lastModified": "Sun, 25 Oct 2026 16:38:50 GMT",
+    "etag": "\"sha256-nLYcobH60XXjxGXnNCM0pQY3NqLz0vZgZUhYBlz-X0A\"",
+    "lastModified": "Sun, 25 Oct 2026 20:57:20 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -2983,6 +2983,7 @@
       "alternateNames": [
         "yotsuba",
         "Yotsuba!",
+        "Yotsuba&",
         "Yotsubato!"
       ]
     },
@@ -4818,6 +4819,7 @@
       "parentId": null,
       "alternateNames": [
         "Sky",
+        "Sky : Cotl",
         "sky children of light",
         "Sky Children Of The Light",
         "Sky cotl",
@@ -20840,7 +20842,9 @@
       "name": "Rick and Morty",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Rick & Morty"
+      ]
     },
     {
       "id": 2502,
@@ -25564,6 +25568,55 @@
       "name": "Pomu",
       "kind": "individual",
       "parentId": 3124,
+      "alternateNames": []
+    },
+    {
+      "id": 3147,
+      "name": "Yeule",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3148,
+      "name": "Piercings",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3149,
+      "name": "You Kill Me Everytime",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3150,
+      "name": "The Price of Flesh",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3151,
+      "name": "Indie Horror Games",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3152,
+      "name": "Psycho Cuties",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3153,
+      "name": "Baldi's Basics in Education and Learning",
+      "kind": "franchise",
+      "parentId": null,
       "alternateNames": []
     }
   ]

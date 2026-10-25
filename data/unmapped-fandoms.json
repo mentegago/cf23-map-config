@@ -2,19 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ajKv9D_3zDx83a1e3EEC3tta88jf8juRBrDsXb4z3jU\"",
-    "lastModified": "Sun, 25 Oct 2026 16:38:50 GMT",
+    "etag": "\"sha256-nLYcobH60XXjxGXnNCM0pQY3NqLz0vZgZUhYBlz-X0A\"",
+    "lastModified": "Sun, 25 Oct 2026 20:57:20 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11875,
+    "matchedPieces": 11885,
     "ignoredPieces": 324,
-    "unknownPieces": 10,
-    "unknownSourceFields": 3
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Original, Pokemon, FFXIV, Code Vein, Funamusea, Epic the musical, DoL, Sky : Cotl",
-    "Originals, ATEEZ, J-Fashion, Love Live!, Genshin Impact, Zenless Zone Zero, Takayan, Ethel Cain, Yeule, Piercings, Pokemon, Furry",
-    "Visual Novel Games, Boyfriend To Death, You Kill Me Everytime, The Price of Flesh, Mouthwashing, RPG Maker Horror Games, Indie Horror Games, The Eltingville Club, Vocaloid, Identity V, Danganronpa, CountryHumans, Team Fortress 2, JoJo's Bizarre Adventure, Dispatch, Helluva Boss, Hazbin Hotel, Psycho Cuties, Just Shapes & Beats, Friday Night Funkin, Smiling Friends, Rick & Morty, Don't Hug Me I'm Scared, Chowder, Baldi's Basics In Education And Learning, Fear & Hunger, Backrooms, Deadlock, Gorillaz, Yotsuba&, Chainsawman, Saya No Uta, Silent Hill F, Azumanga Daioh, Needy Girl Overdose, Original Character, Devil May Cry"
-  ]
+  "unknownSourceFields": []
 }
