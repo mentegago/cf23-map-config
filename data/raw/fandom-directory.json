@@ -40798,6 +40798,76 @@
         "Big Walk"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3123,
+      "name": "Houshou Marine",
+      "kind": "individual",
+      "parentId": 3028,
+      "aliases": [
+        "Houshou Marine"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3124,
+      "name": "KY:MERA",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "KY:MERA"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3125,
+      "name": "Mori Calliope",
+      "kind": "individual",
+      "parentId": 488,
+      "aliases": [
+        "Mori Calliope"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3126,
+      "name": "Oozora Subaru",
+      "kind": "individual",
+      "parentId": 950,
+      "aliases": [
+        "Oozora Subaru"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3127,
+      "name": "Shiranui Flare",
+      "kind": "individual",
+      "parentId": 3028,
+      "aliases": [
+        "Shiranui Flare"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3128,
+      "name": "Shirogane Noel",
+      "kind": "individual",
+      "parentId": 3028,
+      "aliases": [
+        "Shirogane Noel"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3129,
+      "name": "Usada Pekora",
+      "kind": "individual",
+      "parentId": 3028,
+      "aliases": [
+        "Usada Pekora"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [

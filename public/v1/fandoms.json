@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256--5WrV9Rmif-b77iRVxDh4ECmjn4j9XwWGF8Xzf3IimQ\"",
-    "lastModified": "Sun, 25 Oct 2026 11:42:39 GMT",
+    "etag": "\"sha256-ZP0l9vXW0PhiP8ERnUs9yqXRZe7xt9Bm8tUsj1uC-4w\"",
+    "lastModified": "Sun, 25 Oct 2026 16:27:41 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -25389,6 +25389,55 @@
       "name": "Big Walk",
       "kind": "franchise",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3123,
+      "name": "Houshou Marine",
+      "kind": "individual",
+      "parentId": 3028,
+      "alternateNames": []
+    },
+    {
+      "id": 3124,
+      "name": "KY:MERA",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3125,
+      "name": "Mori Calliope",
+      "kind": "individual",
+      "parentId": 488,
+      "alternateNames": []
+    },
+    {
+      "id": 3126,
+      "name": "Oozora Subaru",
+      "kind": "individual",
+      "parentId": 950,
+      "alternateNames": []
+    },
+    {
+      "id": 3127,
+      "name": "Shiranui Flare",
+      "kind": "individual",
+      "parentId": 3028,
+      "alternateNames": []
+    },
+    {
+      "id": 3128,
+      "name": "Shirogane Noel",
+      "kind": "individual",
+      "parentId": 3028,
+      "alternateNames": []
+    },
+    {
+      "id": 3129,
+      "name": "Usada Pekora",
+      "kind": "individual",
+      "parentId": 3028,
       "alternateNames": []
     }
   ]
