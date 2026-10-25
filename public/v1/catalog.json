@@ -92574,7 +92574,10 @@
       "assets": {
         "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-1b540ee42c35.webp",
         "gallery": [
-          "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-1b540ee42c35.webp"
+          "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-1b540ee42c35.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-5ca2541ee0eb.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-0d2c7d44a2cf.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001967/announcement-99747831a6fb.webp"
         ]
       },
       "links": [
@@ -92583,12 +92586,27 @@
           "url": "https://x.com/kymera_official"
         },
         {
-          "type": "source_post",
+          "type": "source_post_1",
           "url": "https://x.com/kymera_official/status/2114288438208077977"
+        },
+        {
+          "type": "source_post_2",
+          "url": "https://x.com/kymera_official/status/2114288441932513475"
+        },
+        {
+          "type": "source_post_3",
+          "url": "https://x.com/kymera_official/status/2114288445128634657"
+        },
+        {
+          "type": "source_post_4",
+          "url": "https://x.com/kymera_official/status/2114288449146822717"
         }
       ],
       "sourceUrls": [
-        "https://x.com/kymera_official/status/2114288438208077977"
+        "https://x.com/kymera_official/status/2114288438208077977",
+        "https://x.com/kymera_official/status/2114288441932513475",
+        "https://x.com/kymera_official/status/2114288445128634657",
+        "https://x.com/kymera_official/status/2114288449146822717"
       ],
       "fandomIds": []
     }
