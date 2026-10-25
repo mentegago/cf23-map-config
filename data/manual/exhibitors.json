@@ -245,18 +245,7 @@
       }
     ],
     "catalogUrl": null,
-    "sourceUrls": [
-      "https://x.com/ArunikaVirtual/status/2109855380146999654",
-      "https://x.com/ArunikaVirtual/status/2107318923519721839",
-      "https://x.com/ArunikaVirtual/status/2107685785176809501",
-      "https://x.com/ArunikaVirtual/status/2108056680156262810",
-      "https://x.com/ArunikaVirtual/status/2108386781595041944",
-      "https://x.com/ArunikaVirtual/status/2108769756304302158",
-      "https://x.com/ArunikaVirtual/status/2109138433830793517",
-      "https://x.com/ArunikaVirtual/status/2112396413057544218",
-      "https://x.com/ArunikaVirtual/status/2112396415167291895",
-      "https://x.com/PrismNOVA/status/2106564521578140064"
-    ]
+    "sourceUrls": []
   },
   {
     "id": "1001964",
@@ -332,9 +321,7 @@
       }
     ],
     "catalogUrl": null,
-    "sourceUrls": [
-      "https://www.instagram.com/p/DeyuriqEtlJ/"
-    ]
+    "sourceUrls": []
   },
   {
     "id": "1001966",
@@ -420,10 +407,7 @@
     ],
     "catalogUrl": null,
     "sourceUrls": [
-      "https://x.com/kymera_official/status/2114288438208077977",
-      "https://x.com/kymera_official/status/2114288441932513475",
-      "https://x.com/kymera_official/status/2114288445128634657",
-      "https://x.com/kymera_official/status/2114288449146822717"
+      "https://x.com/kymera_official/status/2114288438208077977"
     ]
   }
 ]
