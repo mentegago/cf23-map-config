@@ -7,10 +7,14 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11839,
-    "ignoredPieces": 325,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 11875,
+    "ignoredPieces": 324,
+    "unknownPieces": 10,
+    "unknownSourceFields": 3
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Original, Pokemon, FFXIV, Code Vein, Funamusea, Epic the musical, DoL, Sky : Cotl",
+    "Originals, ATEEZ, J-Fashion, Love Live!, Genshin Impact, Zenless Zone Zero, Takayan, Ethel Cain, Yeule, Piercings, Pokemon, Furry",
+    "Visual Novel Games, Boyfriend To Death, You Kill Me Everytime, The Price of Flesh, Mouthwashing, RPG Maker Horror Games, Indie Horror Games, The Eltingville Club, Vocaloid, Identity V, Danganronpa, CountryHumans, Team Fortress 2, JoJo's Bizarre Adventure, Dispatch, Helluva Boss, Hazbin Hotel, Psycho Cuties, Just Shapes & Beats, Friday Night Funkin, Smiling Friends, Rick & Morty, Don't Hug Me I'm Scared, Chowder, Baldi's Basics In Education And Learning, Fear & Hunger, Backrooms, Deadlock, Gorillaz, Yotsuba&, Chainsawman, Saya No Uta, Silent Hill F, Azumanga Daioh, Needy Girl Overdose, Original Character, Devil May Cry"
+  ]
 }
