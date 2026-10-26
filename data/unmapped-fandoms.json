@@ -7,10 +7,14 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11885,
-    "ignoredPieces": 324,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 11911,
+    "ignoredPieces": 323,
+    "unknownPieces": 3,
+    "unknownSourceFields": 3
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Honkai: Star Rail, Genshin Impact, Original, Aespa, NMIXX, Lesserafim, IVE, Twice, Spongebob Squarepants, Valorant, Windah Basudara",
+    "metal cardbot, south park, teenage mutnt ninja turtles, dramatical murder, supernatural, arcane, arknights endfield, honkai star rail",
+    "Zombie stage, MCYT, anime, twisted wonderland, hollo knight, umamusume"
+  ]
 }
