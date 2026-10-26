@@ -8,6 +8,8 @@ on:
       - 'public/images/**'
       - 'scripts/lib/manual-exhibitors.ts'
       - 'scripts/lib/creator-icons.ts'
+      - 'scripts/lib/icon-crop.ts'
+      - 'config/creator-icons.json'
       - 'package.json'
       - 'bun.lock'
       - 'scripts/remap.ts'

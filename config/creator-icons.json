@@ -1,0 +1,9 @@
+{
+  "size": 80,
+  "quality": 75,
+  "crop": {
+    "centerX": 0.5,
+    "centerY": 0.55,
+    "shortSideScale": 0.9
+  }
+}

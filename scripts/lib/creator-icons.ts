@@ -3,8 +3,8 @@ import { access, mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import path from "node:path";
 import sharp from "sharp";
 import type { CanonicalExhibitor } from "../types.ts";
+import { iconCrop, validateIconSettings } from "./icon-crop.ts";
 
-const recipe = "center-80-webp-v1";
 type Entry = { source: string; digest: string; file: string; etag?: string; modified?: string };
 type Cache = { recipe: string; entries: Record<string, Entry> };
 const hash = (data: Uint8Array) => createHash("sha256").update(data).digest("hex");
@@ -16,6 +16,8 @@ export async function generateCreatorIcons(
   publicBaseUrl: string,
   request: (url: string, options: RequestInit) => Promise<Response> = fetch,
 ) {
+  const settings = validateIconSettings(JSON.parse(await readFile(path.join(root, "config/creator-icons.json"), "utf8")));
+  const recipe = `crop-v2-${hash(Buffer.from(JSON.stringify(settings)))}`;
   const base = new URL(publicBaseUrl);
   const cacheFile = path.join(root, "data/raw/creator-icons.json");
   let previous: Cache = { recipe, entries: {} };
@@ -69,9 +71,12 @@ export async function generateCreatorIcons(
         const digest = hash(body);
         let file = cached?.digest === digest ? cached.file : undefined;
         if (!file) {
-          const output = await sharp(body, { limitInputPixels: 40_000_000 })
-            .rotate().resize(80, 80, { fit: "cover", position: "centre" })
-            .webp({ quality: 75 }).toBuffer();
+          const oriented = await sharp(body, { limitInputPixels: 40_000_000 })
+            .rotate().raw().toBuffer({ resolveWithObject: true });
+          const output = await sharp(oriented.data, { raw: oriented.info })
+            .extract(iconCrop(oriented.info.width, oriented.info.height, settings.crop))
+            .resize(settings.size, settings.size)
+            .webp({ quality: settings.quality }).toBuffer();
           file = `images/icons/${hash(output)}.webp`;
           if (!await exists(path.join(root, "public", file)))
             await writeFile(path.join(root, "public", file), output);

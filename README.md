@@ -13,9 +13,17 @@ Check `last-updated.json` first. Its managed `creator_data_version` increments o
 
 Catalog processing generates optional `assets.icon` URLs for list avatars. The
 original circle cut stays in `assets.thumbnail`. Icons are auto-oriented,
-center-cropped to 80×80, and encoded as WebP at quality 75 with Sharp. Generated
+cropped inside the artwork border, resized to 80×80, and encoded as WebP at quality 75 with Sharp. Generated
 files live in `public/images/icons/` with SHA-256 content hashes as filenames.
 Identical output images share a file.
+
+Adjust **`config/creator-icons.json`** to tune the crop. `centerX` and `centerY`
+are fractions of the auto-oriented source width and height; `shortSideScale`
+sets the square crop size relative to the shorter side. The default crops 90%
+of the short side, centered horizontally and at 55% of the image height to avoid
+the title strip above the artwork. Smaller `shortSideScale` crops more tightly;
+larger `centerY` moves down. `size` and `quality` control the output. Changing
+any setting automatically invalidates the generation cache on the next build.
 
 `data/raw/creator-icons.json` records source digests and HTTP validators. Each
 refresh conditionally revalidates remote images; unchanged bytes skip conversion.

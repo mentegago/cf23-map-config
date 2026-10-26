@@ -11,6 +11,8 @@ const creator: CanonicalExhibitor = { id: "1", name: "Test", spaces: [], attenda
 test("icons crop the center, revalidate, change with content, and survive temporary failures", async () => {
   const root = await mkdtemp(path.join(tmpdir(), "cf23-icons-"));
   try {
+    await mkdir(path.join(root, "config"), { recursive: true });
+    await writeFile(path.join(root, "config/creator-icons.json"), JSON.stringify({ size: 80, quality: 75, crop: { centerX: 0.5, centerY: 0.5, shortSideScale: 0.9 } }));
     const source = await sharp({ create: { width: 240, height: 80, channels: 3, background: "red" } })
       .composite([{ input: await sharp({ create: { width: 80, height: 80, channels: 3, background: "blue" } }).png().toBuffer(), left: 80, top: 0 }]).png().toBuffer();
     const request = (async () => new Response(source, { headers: { etag: '"one"' } }));
@@ -40,6 +42,8 @@ test("icons crop the center, revalidate, change with content, and survive tempor
 test("local manual art needs no network and corrupt sources retain the fallback", async () => {
   const root = await mkdtemp(path.join(tmpdir(), "cf23-icons-"));
   try {
+    await mkdir(path.join(root, "config"), { recursive: true });
+    await writeFile(path.join(root, "config/creator-icons.json"), JSON.stringify({ size: 80, quality: 75, crop: { centerX: 0.5, centerY: 0.55, shortSideScale: 0.9 } }));
     await mkdir(path.join(root, "public/images/manual"), { recursive: true });
     await sharp({ create: { width: 30, height: 50, channels: 3, background: "yellow" } }).png().toFile(path.join(root, "public/images/manual/cut.png"));
     const [local] = await generateCreatorIcons(root, [{ ...creator, assets: { thumbnail: "https://data.example/base/images/manual/cut.png", gallery: [] } }], "https://data.example/base/", (async () => { throw Error("No network allowed"); }));

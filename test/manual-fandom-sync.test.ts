@@ -12,6 +12,7 @@ test("manual fandoms submit unknown names, retry failures, and pick up later dir
   };
   const json = async (file: string) => JSON.parse(await readFile(path.join(root, file), "utf8"));
   try {
+    await save("config/creator-icons.json", { size: 80, quality: 75, crop: { centerX: 0.5, centerY: 0.55, shortSideScale: 0.9 } });
     const known = { id: 10, name: "Known", kind: "franchise", parentId: null, aliases: [], alternateNames: [] };
     const registry = { fandoms: [known], ignored: [] };
     await save("config/event.json", { id: "test", name: "Test", series: { id: "test", name: "Test" },
