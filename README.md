@@ -9,6 +9,23 @@ Check `last-updated.json` first. Its managed `creator_data_version` increments o
 - `v1/fandoms.json`: the global canonical fandom list, including `parentId` and `alternateNames` for search/autocomplete.
 - `v1/catalog.json`: event metadata and exhibitors using fandom IDs. Each exhibitor's `attendanceDates` is an array of ISO calendar dates (`YYYY-MM-DD`). Those dates match `event.days[].id`; `event.days[].label` is a human-readable weekday name.
 
+### Creator icons
+
+Catalog processing generates optional `assets.icon` URLs for list avatars. The
+original circle cut stays in `assets.thumbnail`. Icons are auto-oriented,
+center-cropped to 80×80, and encoded as WebP at quality 75 with Sharp. Generated
+files live in `public/images/icons/` with SHA-256 content hashes as filenames.
+Identical output images share a file.
+
+`data/raw/creator-icons.json` records source digests and HTTP validators. Each
+refresh conditionally revalidates remote images; unchanged bytes skip conversion.
+Manual images hosted under `PUBLIC_BASE_URL` are read from `public/` directly.
+Downloads run six at a time with a timeout. Missing or corrupt sources do not
+block publication: an existing icon for the same source is retained, otherwise
+the optional field is omitted and clients can show a fallback. Old image files
+are retained for clients using cached catalogs. No image URL replaces the full
+circle cut or gallery assets, and no client storage migration is needed.
+
 The `map` entry in `manifest.json` has an independent increasing
 `version` and a `path` pointing to an immutable `maps/*.json` snapshot. Each
 snapshot contains its `version`, `layout`, and derived `proximity` data. The app

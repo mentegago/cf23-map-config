@@ -4,6 +4,7 @@ import path from "node:path";
 import { comifuroAdapter } from "./adapters/comifuro.ts";
 import { fetchRegistryWithFallback } from "./lib/fandom-directory.ts";
 import { loadManualExhibitors } from "./lib/manual-exhibitors.ts";
+import { generateCreatorIcons } from "./lib/creator-icons.ts";
 import { nextCreatorDataVersion, publicationTimestamp } from "./lib/publication.ts";
 import type {
   CatalogSnapshot,
@@ -125,6 +126,7 @@ const { registry, meta } = refreshFandoms
 const mapped = await loadManualExhibitors(root,
   catalog.circles.map(circle => comifuroAdapter.toCanonicalInput(circle, eventConfig)),
   eventConfig, registry);
+mapped.exhibitors = await generateCreatorIcons(root, mapped.exhibitors, process.env.PUBLIC_BASE_URL!);
 
 const fandoms = [...registry.fandoms]
   .sort((a, b) => a.id - b.id)

@@ -80,7 +80,7 @@ export interface CanonicalExhibitorInput {
   contentRating: string | null;
   fandomSourceFields: string[];
   offerings: string[];
-  assets: { thumbnail: string | null; gallery: string[] };
+  assets: { thumbnail: string | null; icon?: string; gallery: string[] };
   links: Array<{ type: string; url: string }>;
   sourceUrls?: string[];
 }
