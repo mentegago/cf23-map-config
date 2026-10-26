@@ -2,19 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-nLYcobH60XXjxGXnNCM0pQY3NqLz0vZgZUhYBlz-X0A\"",
-    "lastModified": "Sun, 25 Oct 2026 20:57:20 GMT",
+    "etag": "\"sha256-gmS1s2FFMe3PMBCe2MUGoZEKCKLYAsuPTO1uXqaiVAo\"",
+    "lastModified": "Mon, 26 Oct 2026 04:56:46 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11911,
+    "matchedPieces": 11914,
     "ignoredPieces": 323,
-    "unknownPieces": 3,
-    "unknownSourceFields": 3
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Honkai: Star Rail, Genshin Impact, Original, Aespa, NMIXX, Lesserafim, IVE, Twice, Spongebob Squarepants, Valorant, Windah Basudara",
-    "metal cardbot, south park, teenage mutnt ninja turtles, dramatical murder, supernatural, arcane, arknights endfield, honkai star rail",
-    "Zombie stage, MCYT, anime, twisted wonderland, hollo knight, umamusume"
-  ]
+  "unknownSourceFields": []
 }
