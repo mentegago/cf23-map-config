@@ -25352,7 +25352,7 @@
       "id": 1677,
       "name": "Project SEKAI",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 5,
       "aliases": [
         "Colorful Stage : Project Sekai",
         "Di:Verse Fusion (Project Sekai x Ensemble Stars, Bocchi The Rock, Pingu, Moodeng",
@@ -26850,7 +26850,7 @@
     {
       "id": 1806,
       "name": "25-ji, Nightcord de.",
-      "kind": "franchise",
+      "kind": "individual",
       "parentId": 1677,
       "aliases": [
         "1. Hsr 2. 18trip 3. Limbus 4. BSD 5. ALNST 6. Given 7. Banana fish 8. Green yuri 9. Nigo (proseka) 10. Aikatsu 11. Final Fantasy 12. Wukong 13. ⁠zzz 14. ⁠genshin 15. ⁠ald1 16. ⁠cortis 17. Hazbin Hotel 18. Studio investigrave",
@@ -26858,6 +26858,7 @@
         "Hololive / V.w.p / Mono / Gi / Hsr / R1999 / Wuwa / Kaoru Hana / Holoid / 25-ji / Yuru Camp"
       ],
       "alternateNames": [
+        "Nightcord at 25:00",
         "Nigo"
       ]
     },
@@ -41197,6 +41198,76 @@
       "parentId": null,
       "aliases": [
         "Sheep"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3158,
+      "name": "Leo/need",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "Leo/need"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3159,
+      "name": "Wonderlands x Showtime",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "Wonderlands x Showtime"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3160,
+      "name": "Vivid BAD SQUAD",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "Vivid BAD SQUAD"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3161,
+      "name": "MORE MORE JUMP!",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "MORE MORE JUMP!"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3162,
+      "name": "VIRTUAL SINGER (Project SEKAI)",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "VIRTUAL SINGER (Project SEKAI)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3163,
+      "name": "YUME YUME JUMP!",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "YUME YUME JUMP!"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3164,
+      "name": "Fantasista SQUAD",
+      "kind": "individual",
+      "parentId": 1677,
+      "aliases": [
+        "Fantasista SQUAD"
       ],
       "alternateNames": []
     }

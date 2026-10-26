@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-6irDQQA-PN4Mfjt-JD43P8-MAFB15DYl3d1t4muZjzY\"",
-    "lastModified": "Mon, 26 Oct 2026 13:14:59 GMT",
+    "etag": "\"sha256-6wcY0v3Esw6rGxMW39fkFmyekehz1MJG4buEqzW542o\"",
+    "lastModified": "Mon, 26 Oct 2026 18:07:28 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -14876,7 +14876,7 @@
       "id": 1677,
       "name": "Project SEKAI",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 5,
       "alternateNames": [
         "Colorful Stage : Project Sekai",
         "Hatsune Miku Colorful Stage",
@@ -15874,9 +15874,10 @@
     {
       "id": 1806,
       "name": "25-ji, Nightcord de.",
-      "kind": "franchise",
+      "kind": "individual",
       "parentId": 1677,
       "alternateNames": [
+        "Nightcord at 25:00",
         "Nigo"
       ]
     },
@@ -25653,6 +25654,55 @@
       "name": "Sheep",
       "kind": "generic_tag",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3158,
+      "name": "Leo/need",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3159,
+      "name": "Wonderlands x Showtime",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3160,
+      "name": "Vivid BAD SQUAD",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3161,
+      "name": "MORE MORE JUMP!",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3162,
+      "name": "VIRTUAL SINGER (Project SEKAI)",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3163,
+      "name": "YUME YUME JUMP!",
+      "kind": "individual",
+      "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3164,
+      "name": "Fantasista SQUAD",
+      "kind": "individual",
+      "parentId": 1677,
       "alternateNames": []
     }
   ]
