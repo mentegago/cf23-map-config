@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-RD7phaMbhRzHxw1TvzBBLn8A7iUSLn9DiNEmcpCubIs\"",
-    "lastModified": "Mon, 26 Oct 2026 20:40:40 GMT",
+    "etag": "\"sha256-Lta0vX4GnRU1M0H4icI6aco7WI2f4jI2xbnu8iW-mhI\"",
+    "lastModified": "Mon, 26 Oct 2026 20:43:56 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -25733,6 +25733,27 @@
       "name": "Knight's College",
       "kind": "generic_tag",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3168,
+      "name": "Ave Kanehoshii",
+      "kind": "individual",
+      "parentId": 2579,
+      "alternateNames": []
+    },
+    {
+      "id": 3169,
+      "name": "Daem",
+      "kind": "individual",
+      "parentId": 2579,
+      "alternateNames": []
+    },
+    {
+      "id": 3170,
+      "name": "Reynard Blanc",
+      "kind": "individual",
+      "parentId": 2579,
       "alternateNames": []
     }
   ]
