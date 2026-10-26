@@ -32,7 +32,7 @@
     ]
   },
   "stats": {
-    "exhibitors": 1967,
+    "exhibitors": 1968,
     "fandomsReferenced": 1680
   },
   "exhibitors": [
@@ -95504,6 +95504,54 @@
         3145,
         3146
       ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001968",
+      "name": "GRAVT",
+      "category": "corporate",
+      "spaces": [
+        {
+          "code": "1305",
+          "type": "corporate"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001968/circle-cut-30770b992578.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001968/meet-and-greet-66ea90daa51f.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001968/meet-and-greet-c82c9ba9105b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001968/meet-and-greet-f244d7a349be.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001968/meet-and-greet-f21361d185a9.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/48de462bb42662fbf140605e08b9fce3b783638d9ae746365c170d4a5e7fd5b1.webp"
+      },
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gravtch"
+        },
+        {
+          "type": "website",
+          "url": "https://gravt.noatorie.com"
+        },
+        {
+          "type": "tickets",
+          "url": "https://t2u.asia/e/52533"
+        },
+        {
+          "type": "shopee",
+          "url": "https://shopee.co.id/gravtch"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": []
     }
   ]
 }

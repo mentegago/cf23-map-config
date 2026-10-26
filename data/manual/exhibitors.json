@@ -409,5 +409,54 @@
     "sourceUrls": [
       "https://x.com/kymera_official/status/2114288438208077977"
     ]
+  },
+  {
+    "id": "1001968",
+    "name": "GRAVT",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1305",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "GRAVT (Ave Kanehoshii, Daem, Reynard Blanc)"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001968/circle-cut-30770b992578.webp",
+      "gallery": [
+        "images/exhibitors/1001968/meet-and-greet-66ea90daa51f.webp",
+        "images/exhibitors/1001968/meet-and-greet-c82c9ba9105b.webp",
+        "images/exhibitors/1001968/meet-and-greet-f244d7a349be.webp",
+        "images/exhibitors/1001968/meet-and-greet-f21361d185a9.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/gravtch"
+      },
+      {
+        "type": "website",
+        "url": "https://gravt.noatorie.com"
+      },
+      {
+        "type": "tickets",
+        "url": "https://t2u.asia/e/52533"
+      },
+      {
+        "type": "shopee",
+        "url": "https://shopee.co.id/gravtch"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": []
   }
 ]

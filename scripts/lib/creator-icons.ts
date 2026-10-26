@@ -23,7 +23,7 @@ export async function generateCreatorIcons(
   let previous: Cache = { recipe, entries: {} };
   try {
     const saved = JSON.parse(await readFile(cacheFile, "utf8")) as Cache;
-    if (saved.recipe === recipe) previous = saved;
+    previous = saved;
   } catch (error) {
     if (!(error instanceof Error && "code" in error && error.code === "ENOENT")) throw error;
   }
@@ -38,10 +38,15 @@ export async function generateCreatorIcons(
       const { icon: _oldIcon, ...assets } = creator.assets;
       result[index] = { ...creator, assets };
       const source = assets.thumbnail;
-      if (!source) continue;
       const saved = previous.entries[creator.id];
-      const cached = saved?.source === source && /^images\/icons\/[a-f0-9]{64}\.webp$/.test(saved.file) &&
+      const cached = saved && /^images\/icons\/[a-f0-9]{64}\.webp$/.test(saved.file) &&
         await exists(path.join(root, "public", saved.file)) ? saved : undefined;
+      if (cached) {
+        entries[creator.id] = cached;
+        result[index] = { ...creator, assets: { ...assets, icon: new URL(cached.file, base).href } };
+        continue;
+      }
+      if (!source) continue;
       try {
         const url = new URL(source);
         if (!["http:", "https:"].includes(url.protocol)) throw Error("Unsupported image URL");
@@ -52,15 +57,7 @@ export async function generateCreatorIcons(
         if (/^images\/(?:[\w-]+\/)*[\w.-]+$/.test(relative)) {
           body = await readFile(path.join(root, "public", relative));
         } else {
-          const headers: Record<string, string> = {};
-          if (cached?.etag) headers["If-None-Match"] = cached.etag;
-          if (cached?.modified) headers["If-Modified-Since"] = cached.modified;
-          const response = await request(url.href, { headers, signal: AbortSignal.timeout(20_000) });
-          if (response.status === 304 && cached) {
-            entries[creator.id] = cached;
-            result[index] = { ...creator, assets: { ...assets, icon: new URL(cached.file, base).href } };
-            continue;
-          }
+          const response = await request(url.href, { signal: AbortSignal.timeout(20_000) });
           if (!response.ok) throw Error(`Image HTTP ${response.status}`);
           if (Number(response.headers.get("content-length")) > 12 * 1024 * 1024) throw Error("Image too large");
           body = Buffer.from(await response.arrayBuffer());
@@ -69,8 +66,8 @@ export async function generateCreatorIcons(
         }
         if (body.length > 12 * 1024 * 1024) throw Error("Image too large");
         const digest = hash(body);
-        let file = cached?.digest === digest ? cached.file : undefined;
-        if (!file) {
+        let file: string;
+        {
           const oriented = await sharp(body, { limitInputPixels: 40_000_000 })
             .rotate().raw().toBuffer({ resolveWithObject: true });
           const output = await sharp(oriented.data, { raw: oriented.info })
@@ -86,10 +83,6 @@ export async function generateCreatorIcons(
         result[index] = { ...creator, assets: { ...assets, icon: new URL(file, base).href } };
       } catch {
         failed++;
-        if (cached) {
-          entries[creator.id] = cached;
-          result[index] = { ...creator, assets: { ...assets, icon: new URL(cached.file, base).href } };
-        }
       }
     }
   }));
