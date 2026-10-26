@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-go2rCFEVY0ngA-PE2mlclLUhwogBN2LIRLLl7ND8RB8\"",
-    "lastModified": "Mon, 26 Oct 2026 10:30:13 GMT",
+    "etag": "\"sha256-6irDQQA-PN4Mfjt-JD43P8-MAFB15DYl3d1t4muZjzY\"",
+    "lastModified": "Mon, 26 Oct 2026 13:14:59 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -932,7 +932,8 @@
         "Witch Hat Atelier.",
         "Witch Hat Atelier/WHA",
         "witch hat hatelier",
-        "Witch Wat Atelier"
+        "Witch Wat Atelier",
+        "WITCHHAT ATALIER"
       ]
     },
     {
@@ -3346,7 +3347,8 @@
         "PGR",
         "Punishin: Gray Raven",
         "Punishing Gray Rave",
-        "punishing gray raven"
+        "punishing gray raven",
+        "Punishing Gray Ravens"
       ]
     },
     {
@@ -15067,6 +15069,7 @@
       "kind": "franchise",
       "parentId": 188,
       "alternateNames": [
+        "Fate Stay Night",
         "Fate UBW"
       ]
     },
@@ -25621,6 +25624,34 @@
       "id": 3153,
       "name": "Baldi's Basics in Education and Learning",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3154,
+      "name": "Happy Sugar Life",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3155,
+      "name": "Claymore",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3156,
+      "name": "Silver Palace",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3157,
+      "name": "Sheep",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

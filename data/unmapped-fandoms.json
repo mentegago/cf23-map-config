@@ -2,22 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-go2rCFEVY0ngA-PE2mlclLUhwogBN2LIRLLl7ND8RB8\"",
-    "lastModified": "Mon, 26 Oct 2026 10:30:13 GMT",
+    "etag": "\"sha256-6irDQQA-PN4Mfjt-JD43P8-MAFB15DYl3d1t4muZjzY\"",
+    "lastModified": "Mon, 26 Oct 2026 13:14:59 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 11943,
+    "matchedPieces": 11951,
     "ignoredPieces": 322,
-    "unknownPieces": 8,
-    "unknownSourceFields": 6
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Arknights, takopi, frieren, happy sugar life, LOTM",
-    "GENSHIN IMPACT, HONKAI STAR RAIL, GHIBLI, LADS, DCMK, HANNIBAL, ORIGINAL, WITCHHAT ATALIER",
-    "Hellsing, Claymore, Orb, Castlevania, Golden Kamuy, Made in Abyss, Original",
-    "Pandavva, Love and Deepspace, Genshin Impact, Ghibli, Guilty Gear Strive, Punishing Gray Ravens, Silver Palace, Plave, Dandadan, Cat, Sheep, Duck, Fruit",
-    "The Apothecary Diaries, Frieren, Genshin, HSR, Demon Slayer, Ghibli,Fate Stay Night, ZZZ",
-    "Undertale Digimon bara furry"
-  ]
+  "unknownSourceFields": []
 }
