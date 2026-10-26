@@ -292,6 +292,7 @@
         "Originals ( comic )",
         "Originals (Animal themed)",
         "Originals (Animals)",
+        "Originals (Cat)",
         "Originals (Cat,Wholesome)",
         "Originals (creatures, OC, aesthetic)",
         "Originals (Fish, puns)",
@@ -2079,12 +2080,14 @@
         "HORROR (Movies, Shows, Resident Evil, Dead by Daylight, Yellowjackets, Hannibal) ORIGINALS",
         "Nitrochiral | Yakuza | JJBA | Ace Attorney | Dungeon meshi | Caseoh & Windah | Soulsborne (Elden ring & Bloodborne) | Hades | Jujutsu Kaisen STSG | Golden Kamuy | House MD | Originals & misc | Death Stranding | Castlevania | Cyber Punk | Metaphor | DC | Daredevil | PinkPantheress | Nezha | The Summer Hikaru Died | Dispatch | Stardew Valley | Alice Madness Returns | BG3 | The Bear | MLP | Resident Evil | life is strange | K-pop",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
+        "president evil",
         "RE",
         "Resident Evil",
         "Resident Evil Movie",
         "Video Game (persona, resident evil, final fantasy, kingdom hearts, genshin impact)"
       ],
       "alternateNames": [
+        "president evil",
         "RE",
         "Resident Evil Movie"
       ]
@@ -3489,6 +3492,7 @@
       "aliases": [
         "Anime (My Hero Academia, Detective Conan, TGSWIIWAGAA, Mahou Shoujo Madoka Magica, Mahou Shoujo Site, Sasayaku You ni Koi wo Utau, Love Live)",
         "BHNA",
+        "BnH",
         "BNHA",
         "Boku no Hero",
         "Boku No Hero Academia",
@@ -3506,6 +3510,7 @@
       ],
       "alternateNames": [
         "BHNA",
+        "BnH",
         "Bnha",
         "boku no hero",
         "Boku No Hero Academia",
@@ -4463,6 +4468,7 @@
         "Original character (bear,cats, dogs, cute animals), Ghibli",
         "Original IP (animals esp. cats, #wiburumahtangga, astronomical art)",
         "Original(cats)",
+        "Originals (Cat)",
         "Originals (Cat,Wholesome)",
         "Originals (OC, Kucing)",
         "Piku (cat)",
@@ -7442,6 +7448,7 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
+        "& Eve",
         "and Eve Utaite",
         "Bocchi the rock! Ado Yorushika Eve PANDAVVA Eon of Stars Omori Limbus Company Forsaken",
         "Eve",
@@ -7456,6 +7463,7 @@
         "Utaites (ado, Eve, Mafumafu, Royal Scandal)"
       ],
       "alternateNames": [
+        "& Eve",
         "Eve (J-Pop)",
         "Eve (jpop)",
         "Eve Utaite"
@@ -16322,9 +16330,12 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
+        "Rieru",
         "Rieru Shindou"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Rieru"
+      ]
     },
     {
       "id": 917,
@@ -17330,6 +17341,7 @@
       "kind": "franchise",
       "parentId": 131,
       "aliases": [
+        "283",
         "Idolm@ster Shiny Colors",
         "Idolm@ster Shinycolors",
         "Idolm@ster Shinycolors, Bang Dream, Reverse:1999, Hololive",
@@ -17339,6 +17351,7 @@
         "The Idolmaster Shiny Colors"
       ],
       "alternateNames": [
+        "283",
         "Idolm@ster Shiny Colors",
         "Idolmaster Shiny Colors",
         "Shiny Colors",
@@ -34188,12 +34201,14 @@
       "aliases": [
         "All Wishes Come True",
         "Ba Xian",
+        "Baxian",
         "Baxian / All Wishes Come True",
         "Baxian: All Wishes Come True"
       ],
       "alternateNames": [
         "All Wishes Come True",
         "Ba Xian",
+        "Baxian",
         "Baxian / All Wishes Come True"
       ]
     },
@@ -34226,9 +34241,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "What in Hell is Bad?"
+        "What in Hell is Bad?",
+        "WHB"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "WHB"
+      ]
     },
     {
       "id": 2504,
@@ -41268,6 +41286,36 @@
       "parentId": 1677,
       "aliases": [
         "Fantasista SQUAD"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3165,
+      "name": "ABO",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "ABO"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3166,
+      "name": "Wangan Midnight",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Wangan Midnight"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3167,
+      "name": "Knight's College",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Knight's College"
       ],
       "alternateNames": []
     }

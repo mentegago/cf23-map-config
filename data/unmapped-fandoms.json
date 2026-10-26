@@ -2,25 +2,17 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-6wcY0v3Esw6rGxMW39fkFmyekehz1MJG4buEqzW542o\"",
-    "lastModified": "Mon, 26 Oct 2026 18:07:28 GMT",
+    "etag": "\"sha256-RD7phaMbhRzHxw1TvzBBLn8A7iUSLn9DiNEmcpCubIs\"",
+    "lastModified": "Mon, 26 Oct 2026 20:40:40 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12000,
+    "matchedPieces": 12011,
     "ignoredPieces": 321,
-    "unknownPieces": 12,
-    "unknownSourceFields": 9
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
   "unknownSourceFields": [
-    "Arknights, Reverse 1999, Genshin Impact, Limbus Company, Jujutsu Kaisen, 283, BnH",
-    "Dungeon Meshi, Ouran Higshchool Host Club, Pandavva, Originals (Cat)",
-    "EVE, Pandavva, Versa, LADS, Project Hail Mary, Genshin, Tears of Themis, Vocaloid, Green Yuri, Haikyuu, MBTI, Detective conan, Iron Lung, ABO, Rieru",
-    "Formula 1, eX-Driver, Circuit Wolf, Initial D, Wangan Midnight, Meme Otomotif, Hoyoverse, Arknights",
-    "GRAVT (Ave Kanehoshii, Daem, Reynard Blanc)",
-    "Housamo , Original , Arknights, Knight's College, Undertale, Deltarune , FFXIV , Furry",
-    "HSR, GSGW, R1999, Resident Evil, WuWa, WHB",
-    "Hundred Line, Nightreign, SMT, Nezha, Metaphor Refantazio, Tamagotchi, Originals, Baxian, Ghost Trick, Devil Survivor, Library of Ruina, Limbus Company, Gnosia",
-    "The amazing digital circus, Jojo, president evil, Umamusume, BTR, Soul eater, persona, SBR, & Eve"
+    "GRAVT (Ave Kanehoshii, Daem, Reynard Blanc)"
   ]
 }

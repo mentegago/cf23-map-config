@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-6wcY0v3Esw6rGxMW39fkFmyekehz1MJG4buEqzW542o\"",
-    "lastModified": "Mon, 26 Oct 2026 18:07:28 GMT",
+    "etag": "\"sha256-RD7phaMbhRzHxw1TvzBBLn8A7iUSLn9DiNEmcpCubIs\"",
+    "lastModified": "Mon, 26 Oct 2026 20:40:40 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -695,6 +695,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "president evil",
         "RE",
         "Resident Evil Movie"
       ]
@@ -1353,6 +1354,7 @@
       "parentId": null,
       "alternateNames": [
         "BHNA",
+        "BnH",
         "Bnha",
         "boku no hero",
         "Boku No Hero Academia",
@@ -3448,6 +3450,7 @@
       "kind": "individual",
       "parentId": null,
       "alternateNames": [
+        "& Eve",
         "Eve (J-Pop)",
         "Eve (jpop)",
         "Eve Utaite"
@@ -8930,7 +8933,9 @@
       "name": "Rieru Shindou",
       "kind": "individual",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Rieru"
+      ]
     },
     {
       "id": 917,
@@ -9582,6 +9587,7 @@
       "kind": "franchise",
       "parentId": 131,
       "alternateNames": [
+        "283",
         "Idolm@ster Shiny Colors",
         "Idolmaster Shiny Colors",
         "Shiny Colors",
@@ -20841,6 +20847,7 @@
       "alternateNames": [
         "All Wishes Come True",
         "Ba Xian",
+        "Baxian",
         "Baxian / All Wishes Come True"
       ]
     },
@@ -20865,7 +20872,9 @@
       "name": "What in Hell is Bad?",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "WHB"
+      ]
     },
     {
       "id": 2504,
@@ -25703,6 +25712,27 @@
       "name": "Fantasista SQUAD",
       "kind": "individual",
       "parentId": 1677,
+      "alternateNames": []
+    },
+    {
+      "id": 3165,
+      "name": "ABO",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3166,
+      "name": "Wangan Midnight",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3167,
+      "name": "Knight's College",
+      "kind": "generic_tag",
+      "parentId": null,
       "alternateNames": []
     }
   ]
