@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-Lta0vX4GnRU1M0H4icI6aco7WI2f4jI2xbnu8iW-mhI\"",
-    "lastModified": "Mon, 26 Oct 2026 20:43:56 GMT",
+    "etag": "\"sha256-x71gDG7KznaoJ_8fG0EgzjBJJr6GOcF7IDEvFVlnvJQ\"",
+    "lastModified": "Tue, 27 Oct 2026 02:12:13 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -210,7 +210,6 @@
       "parentId": null,
       "alternateNames": [
         "Voca-P",
-        "Vocaloid (rin len)",
         "Vocaloids",
         "Voice synth (vocaloid)",
         "Volcaloid"
@@ -25755,6 +25754,24 @@
       "kind": "individual",
       "parentId": 2579,
       "alternateNames": []
+    },
+    {
+      "id": 3171,
+      "name": "Kagamine Rin",
+      "kind": "individual",
+      "parentId": 5,
+      "alternateNames": [
+        "rin"
+      ]
+    },
+    {
+      "id": 3172,
+      "name": "Kagamine Len",
+      "kind": "individual",
+      "parentId": 5,
+      "alternateNames": [
+        "len"
+      ]
     }
   ]
 }

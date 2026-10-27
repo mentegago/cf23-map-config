@@ -830,7 +830,6 @@
       ],
       "alternateNames": [
         "Voca-P",
-        "Vocaloid (rin len)",
         "Vocaloids",
         "Voice synth (vocaloid)",
         "Volcaloid"
@@ -41352,6 +41351,32 @@
         "Reynard Blanc"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3171,
+      "name": "Kagamine Rin",
+      "kind": "individual",
+      "parentId": 5,
+      "aliases": [
+        "Kagamine Rin",
+        "Vocaloid (rin len)"
+      ],
+      "alternateNames": [
+        "rin"
+      ]
+    },
+    {
+      "id": 3172,
+      "name": "Kagamine Len",
+      "kind": "individual",
+      "parentId": 5,
+      "aliases": [
+        "Kagamine Len",
+        "Vocaloid (rin len)"
+      ],
+      "alternateNames": [
+        "len"
+      ]
     }
   ],
   "ignored": [
