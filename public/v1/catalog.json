@@ -3,7 +3,7 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-26T20:34:50.557Z"
+      "downloadedAt": "2026-10-27T00:32:20.641Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
@@ -31624,7 +31624,7 @@
         },
         {
           "type": "twitter",
-          "url": "https://x.com/wandermerchs"
+          "url": "https://x.com/shrimphosis"
         }
       ],
       "fandomIds": [
@@ -50639,7 +50639,13 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Riselanest.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/9877bf3c-7a33-43b2-874d-3501a77ac46b/694f5a03-8220-4688-8d49-18da030d8780/M-10a.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/9877bf3c-7a33-43b2-874d-3501a77ac46b/7643edf7-bf81-4e10-9296-ea367cccac10/M-10a.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/9877bf3c-7a33-43b2-874d-3501a77ac46b/2b8b0822-5e66-428e-995e-0960fae1cc13/M-10a.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/9877bf3c-7a33-43b2-874d-3501a77ac46b/3f6057a1-caaf-4185-8e1d-30f5be3c5f7a/M-10a.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/9877bf3c-7a33-43b2-874d-3501a77ac46b/f8ff449f-2e08-471a-8952-908a5792c1c4/M-10a.jpg"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/d1847de3eaca082e1878fa976b4145b815833e1241995882c31781629559e838.webp"
       },
       "links": [
@@ -59880,7 +59886,18 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Baked Hamstress.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/9ef809a9-765f-45cd-869a-79b7c0748caa/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/7652f82a-81e2-4d4f-9e0f-e01b1f1d97f8/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/56e9b359-9069-4915-96c1-c6c5ab1450bd/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/3823c550-a09b-4609-a55d-8a4af44eda8e/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/f866f217-e840-45c5-8ac4-486777d31d13/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/11d94299-a80b-4670-920f-475ed7ace022/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/5f073701-9905-4d82-b807-a4cd73f64628/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/2b5b47e7-e04c-4b83-9c1f-ca853ea38d03/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/06ff94ef-da32-46bb-a600-5d460eff3bbb/O-50ab.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/483a5e42-2b55-42f6-ab92-8c4b45eb7166/e6fd9172-2700-4ee7-afd5-c6c0fd6b1252/O-50ab.png"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/798a4df586b273b29f1b236aedfbf48f02a816478050dc9ca52f78137796a135.webp"
       },
       "links": [
@@ -60903,7 +60920,14 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Fyoiret.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/7e8bdcfd-b833-400a-a09d-7a1472ca2f12/P-08b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/bd740c24-1c94-4048-a580-06fed690e1a0/P-08b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/0f6e8636-b207-413a-8892-dcb2341187b4/P-08b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/70fd8216-6b28-4d33-9278-6ede9fa6334c/P-08b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/676a1fd1-945a-4d7a-bb68-15d9c0e68e5f/P-08b.png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1e9dd34f-3885-4cf3-a468-f661ab799676/3613218a-1dcc-4c15-9044-db5184013c02/P-08b.png"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/b7c3a3e3cdbd8b26613f0eab6a6db1bd799f3cbbce3cb23291eedc8fdf4f1cf1.webp"
       },
       "links": [
