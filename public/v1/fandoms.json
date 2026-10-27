@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-KF5QHSifiM3ydff_4u4yDMbc2GWrE8FhpeHApDzDL6A\"",
-    "lastModified": "Tue, 27 Oct 2026 09:10:11 GMT",
+    "etag": "\"sha256-I35XaVLBLT72lo6CZeVKWvpjEdYSzcKBp38g-JKZc8s\"",
+    "lastModified": "Tue, 27 Oct 2026 15:26:05 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -2416,6 +2416,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "ER",
         "ring"
       ]
     },
@@ -3380,7 +3381,8 @@
       "parentId": null,
       "alternateNames": [
         "Nier Automata",
-        "Nier: Automata"
+        "Nier: Automata",
+        "NierAutomata"
       ]
     },
     {
@@ -3804,6 +3806,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "BB",
         "Bloodborn"
       ]
     },
@@ -14261,6 +14264,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Cells at Work",
         "Hataraku Saibou"
       ]
     },
@@ -23650,7 +23654,8 @@
       "kind": "franchise",
       "parentId": 308,
       "alternateNames": [
-        "Dark Souls 3"
+        "Dark Souls 3",
+        "DS3"
       ]
     },
     {
@@ -25913,6 +25918,50 @@
       "id": 3191,
       "name": "Lurking for Love",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3192,
+      "name": "Makkachin",
+      "kind": "individual",
+      "parentId": 613,
+      "alternateNames": []
+    },
+    {
+      "id": 3193,
+      "name": "Naruto Shippuden",
+      "kind": "franchise",
+      "parentId": 65,
+      "alternateNames": []
+    },
+    {
+      "id": 3194,
+      "name": "ZONA",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3195,
+      "name": "Dead Cells",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3196,
+      "name": "Hyper Light Drifter",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Hyperlight Drifter"
+      ]
+    },
+    {
+      "id": 3197,
+      "name": "Pink Floyd",
+      "kind": "individual",
       "parentId": null,
       "alternateNames": []
     }

@@ -663,6 +663,7 @@
         "HSR Hololive Wuthering Waves",
         "HSR x Fate UBW",
         "HSR/GI",
+        "HSR/HI3rd",
         "Hsr/zzz",
         "Jujutsu Kaisen, Hoyoverse (Genshin Impact, HSR), VTubers (Hololive and Nijisanji), Uma Musume, Karaoke Iko, Famiresu Iko, Chainsawman (CSM), Arknights, Gachiakuta, By the Beat, BNHA",
         "Mihoyo (Genshin & HSR)",
@@ -5169,6 +5170,7 @@
         "Honkai Impact 3rd",
         "Honkai Impact 3rd/HI3RD",
         "Honkai Star rail Honkai impact 3rd",
+        "HSR/HI3rd",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi"
       ],
       "alternateNames": [
@@ -5595,12 +5597,14 @@
       "aliases": [
         "Ace Attorney | Animals | BG 3 | Berserk | BloodBorne | Castlevania | Dunmeshi | Elden Ring | Genshin | Golden Kamuy | Hogwarts Legacy | JJBA | Life is Strange | Marvel Rivals | Misc | Nezha | OC | Nitro + Chiral | Persona 4 & 5 | Resident Evil | Stardew Valley |  Streamers (Windah & Caseoh) | That’s Not My Neighbour |  The Bear | Yakuza",
         "Elden Ring",
+        "FromSoft (ER,DS3,BB)",
         "Nitrochiral | Yakuza | JJBA | Ace Attorney | Dungeon meshi | Caseoh & Windah | Soulsborne (Elden ring & Bloodborne) | Hades | Jujutsu Kaisen STSG | Golden Kamuy | House MD | Originals & misc | Death Stranding | Castlevania | Cyber Punk | Metaphor | DC | Daredevil | PinkPantheress | Nezha | The Summer Hikaru Died | Dispatch | Stardew Valley | Alice Madness Returns | BG3 | The Bear | MLP | Resident Evil | life is strange | K-pop",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "Soulsborne (elden Wing & Bloodborne)",
         "soulsborne-ring"
       ],
       "alternateNames": [
+        "ER",
         "ring"
       ]
     },
@@ -7340,11 +7344,13 @@
       "aliases": [
         "Nier Automata",
         "Nier: Automata",
-        "NieR:Automata"
+        "NieR:Automata",
+        "NierAutomata"
       ],
       "alternateNames": [
         "Nier Automata",
-        "Nier: Automata"
+        "Nier: Automata",
+        "NierAutomata"
       ]
     },
     {
@@ -8069,11 +8075,13 @@
         "Bloodborn",
         "Bloodborne",
         "Crossover (Bloodborne x Dead or Alive)",
+        "FromSoft (ER,DS3,BB)",
         "Nitrochiral | Yakuza | JJBA | Ace Attorney | Dungeon meshi | Caseoh & Windah | Soulsborne (Elden ring & Bloodborne) | Hades | Jujutsu Kaisen STSG | Golden Kamuy | House MD | Originals & misc | Death Stranding | Castlevania | Cyber Punk | Metaphor | DC | Daredevil | PinkPantheress | Nezha | The Summer Hikaru Died | Dispatch | Stardew Valley | Alice Madness Returns | BG3 | The Bear | MLP | Resident Evil | life is strange | K-pop",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "Soulsborne (elden Wing & Bloodborne)"
       ],
       "alternateNames": [
+        "BB",
         "Bloodborn"
       ]
     },
@@ -8476,6 +8484,7 @@
       "parentId": null,
       "aliases": [
         "Monster",
+        "Monster (Naoki Urasawa)",
         "monster horror",
         "Monster Johan Liebert",
         "Naoki Urasawa (Monster, Pluto, 20th Century Boys)"
@@ -12391,6 +12400,7 @@
       "aliases": [
         "Yuri On Ice",
         "Yuri on Ice (just a lot of Otome and BL)",
+        "Yuri on ice (makkachin)",
         "yuri!! on Ice",
         "Yuri!!! on Ice"
       ],
@@ -18424,6 +18434,7 @@
       "aliases": [
         "From Software games",
         "Fromsoft",
+        "FromSoft (ER,DS3,BB)",
         "Fromsoft/soulsborne",
         "FromSoftware"
       ],
@@ -18451,6 +18462,7 @@
       "kind": "individual",
       "parentId": null,
       "aliases": [
+        "Monster (Naoki Urasawa)",
         "Naoki Urasawa",
         "Naoki Urasawa (Monster, Pluto, 20th Century Boys)"
       ],
@@ -24489,10 +24501,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Cells at Work",
         "Cells at Work!",
         "Hataraku Saibou"
       ],
       "alternateNames": [
+        "Cells at Work",
         "Hataraku Saibou"
       ]
     },
@@ -38319,10 +38333,12 @@
       "parentId": 308,
       "aliases": [
         "Dark Souls 3",
-        "Dark Souls III"
+        "Dark Souls III",
+        "FromSoft (ER,DS3,BB)"
       ],
       "alternateNames": [
-        "Dark Souls 3"
+        "Dark Souls 3",
+        "DS3"
       ]
     },
     {
@@ -41627,6 +41643,70 @@
       "parentId": null,
       "aliases": [
         "Lurking for Love"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3192,
+      "name": "Makkachin",
+      "kind": "individual",
+      "parentId": 613,
+      "aliases": [
+        "Makkachin",
+        "Yuri on ice (makkachin)"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3193,
+      "name": "Naruto Shippuden",
+      "kind": "franchise",
+      "parentId": 65,
+      "aliases": [
+        "Naruto Shippuden"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3194,
+      "name": "ZONA",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "ZONA"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3195,
+      "name": "Dead Cells",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Dead Cells"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3196,
+      "name": "Hyper Light Drifter",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Hyper Light Drifter",
+        "Hyperlight Drifter"
+      ],
+      "alternateNames": [
+        "Hyperlight Drifter"
+      ]
+    },
+    {
+      "id": 3197,
+      "name": "Pink Floyd",
+      "kind": "individual",
+      "parentId": null,
+      "aliases": [
+        "Pink Floyd"
       ],
       "alternateNames": []
     }
