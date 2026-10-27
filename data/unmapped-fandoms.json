@@ -2,18 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-I35XaVLBLT72lo6CZeVKWvpjEdYSzcKBp38g-JKZc8s\"",
-    "lastModified": "Tue, 27 Oct 2026 15:26:05 GMT",
+    "etag": "\"sha256-d0akekM9OfQX48HWTvTrAtTeE818JgR0PeN3iB6l674\"",
+    "lastModified": "Tue, 27 Oct 2026 22:22:14 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12153,
+    "matchedPieces": 12155,
     "ignoredPieces": 316,
-    "unknownPieces": 2,
-    "unknownSourceFields": 2
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "BY THE BEAT, NIJISANJI EN. TOILET BOUND HANAKO SAN, THE PROMISED NEVERLAND",
-    "Nijisanji EN, Nijisanji JP, Holostars, Heartsteel, Degrees of Lewdity (DOL), Vocaloid, Miku Hatsune, Monitoring, Féileacán Cú, Resident Evil, Final Fantasy 7 / FF7, Naruto, Heated Rivalry, Originals (Tote bag & Photocard Holders), Uma Musume"
-  ]
+  "unknownSourceFields": []
 }
