@@ -7,10 +7,13 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12154,
+    "matchedPieces": 12153,
     "ignoredPieces": 316,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 2,
+    "unknownSourceFields": 2
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "BY THE BEAT, NIJISANJI EN. TOILET BOUND HANAKO SAN, THE PROMISED NEVERLAND",
+    "Nijisanji EN, Nijisanji JP, Holostars, Heartsteel, Degrees of Lewdity (DOL), Vocaloid, Miku Hatsune, Monitoring, Féileacán Cú, Resident Evil, Final Fantasy 7 / FF7, Naruto, Heated Rivalry, Originals (Tote bag & Photocard Holders), Uma Musume"
+  ]
 }
