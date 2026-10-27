@@ -2,30 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-x71gDG7KznaoJ_8fG0EgzjBJJr6GOcF7IDEvFVlnvJQ\"",
-    "lastModified": "Tue, 27 Oct 2026 02:12:13 GMT",
+    "etag": "\"sha256-KF5QHSifiM3ydff_4u4yDMbc2GWrE8FhpeHApDzDL6A\"",
+    "lastModified": "Tue, 27 Oct 2026 09:10:11 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12099,
+    "matchedPieces": 12128,
     "ignoredPieces": 316,
-    "unknownPieces": 29,
-    "unknownSourceFields": 14
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "-Dungeon Meshi, Sky Children of The Light, Chainsmoker Cat",
-    "Blue Reflection, Crossick, Path to Nowhere, Kamiina Botan, Watanare, Atelier Series, Original, military, ace combat. girls und panzer",
-    "CGDCT, Umamusume, Shadowverse, GBF, Princess Connect, Blue Archive, Kancolle, Nikke, Idolmaster, Saki, Original",
-    "cute stuff, meme, relatable, pokemon, animals, pride / lgbtq+, indie games, studio ghibli, furry, chainsaw man, cardcaptor sakura, kingdom hearts, journaling, daily life, lucky emma, pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara), notesun, sunnote, vtuber indonesia (seishin, aya aulya, niskala naia, rieru shindou, etc), western cartoons and movies (project hail mary, ryan gosling, goslingverse), sports (football), chiikawa, gachiakuta, jojo's bizarre adventure, deltarune, kaiju, vivinos (alien stage, zombie stage), coquette, monster horror, stamp rally, mahjong, games, chinese, shirts, cats, dogs",
-    "Genshin Impact Precure Deltarune Epic the Musical Original Reverse 1999 Honkai Star Rail Zzz Lads Jujutsu Kaisen Lero escape Minecraft story mode Eddsworld Nisanji",
-    "Nijisanji, Nijisanji EN, Nijisanji JP, Holostars, Heartsteel, Degrees of Lewdity (DOL), Vocaloid, Monitoring, Féileacán Cú, Resident Evil, Final Fantasy 7 / FF7, Naruto, Heated Rivalry, Originals (Tote bag & Photocard Holders), Uma Musume",
-    "One Piece, BnHA, Gachiakuta, Haikyuu, Kuroko no basuke, Wind Breaker, Naruto, Saiki, Pandavva, Tamon's B Side, Avatar, Boboboy, NOREKEN",
-    "Original IP, Pixel Art, Omikuji, Gacha, Potion, Omamori",
-    "Original, umamusume, vocaloid, yanineko, even the student council has its holes (Seitokai ni mo Ana wa Aru), family guy",
-    "Originals, Honkai Star Rail, Deltarune, Undertale, WWE, Arcane, Dandy's World, Animal Hospital, Genshin Impact, Hades, JJBA, Digimon, Pokemon, Geronimo Stilton, Dr. Stone, Witch Hat Atelier, Frieren, Dispatch, MCYT, Wifies ARG, Backrooms, Iron Lung, Reanimator, False Memory, Over The Garden Wall",
-    "Sefurden, TGSWIIWAGAA, Nana, Aikatsu (Soleil), Detective Conan (DCMK)",
-    "VTuber (PANDAVVA, GRAVT, Nijisanji EN, Nijisanjii JP, VERSA, FSP EN), Utaitte (Mafumafu, Soraru, Ado, Natori), Delicious in Dungeon, My Hero Academia, Demon Slayer, Honkai Star Rail, Aikatsu, LOTM, Tamagotchi, Black Buttler, TASM, Resident Evil, SCP, Seventeen",
-    "Vtuber, Limbus Company, Touhou Project, YKMET / BTD, Yani neko, Lurking for love, original character",
-    "Yugioh dan Pokemon"
-  ]
+  "unknownSourceFields": []
 }

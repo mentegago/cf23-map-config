@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-x71gDG7KznaoJ_8fG0EgzjBJJr6GOcF7IDEvFVlnvJQ\"",
-    "lastModified": "Tue, 27 Oct 2026 02:12:13 GMT",
+    "etag": "\"sha256-KF5QHSifiM3ydff_4u4yDMbc2GWrE8FhpeHApDzDL6A\"",
+    "lastModified": "Tue, 27 Oct 2026 09:10:11 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -514,6 +514,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "-Dungeon Meshi",
         "danmeshi",
         "Dugeon Meshi",
         "Dungeon Meshi",
@@ -807,6 +808,7 @@
         "Nijisanji Heroes",
         "NijisanjiEN",
         "Nijisanjii",
+        "Nisanji",
         "Njisanji",
         "Vtubers (Nijisanji)",
         "にじさんじ"
@@ -1617,6 +1619,7 @@
       "alternateNames": [
         "Black Butle",
         "Black Butler (Kuroshitsuji)",
+        "Black Buttler",
         "Kuroshithuji",
         "kuroshitsuji",
         "Kuroshitsuji Black Butler"
@@ -1984,6 +1987,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Boboboy",
         "Boboiboy (bbb)"
       ]
     },
@@ -2764,6 +2768,7 @@
       "alternateNames": [
         "Niji JP",
         "Nijisanji (jp)",
+        "Nijisanjii JP",
         "NijisanjiJP"
       ]
     },
@@ -3122,7 +3127,7 @@
       "id": 242,
       "name": "Fire Emblem",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 96,
       "alternateNames": [
         "Soleil"
       ]
@@ -10685,6 +10690,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "DCMK",
         "Dcmk (magic Kaito)",
         "Kaito Kid"
       ]
@@ -25772,6 +25778,143 @@
       "alternateNames": [
         "len"
       ]
+    },
+    {
+      "id": 3173,
+      "name": "Saki",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3174,
+      "name": "notesun",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3175,
+      "name": "sunnote",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3176,
+      "name": "Monitoring",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3177,
+      "name": "Féileacán Cú",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3178,
+      "name": "Tote bag",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3179,
+      "name": "Photocard Holders",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3180,
+      "name": "NOREKEN",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3181,
+      "name": "Pixel Art",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3182,
+      "name": "Omikuji",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3183,
+      "name": "Potion",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3184,
+      "name": "Omamori",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3185,
+      "name": "Even the Student Council Has Its Holes",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Seitokai ni mo Ana wa Aru"
+      ]
+    },
+    {
+      "id": 3186,
+      "name": "Wifies",
+      "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3187,
+      "name": "ARG",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3188,
+      "name": "False Memory",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3189,
+      "name": "The Amazing Spider-Man",
+      "kind": "franchise",
+      "parentId": 281,
+      "alternateNames": [
+        "TASM"
+      ]
+    },
+    {
+      "id": 3190,
+      "name": "YKMET",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3191,
+      "name": "Lurking for Love",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
     }
   ]
 }
