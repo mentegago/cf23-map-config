@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-d0akekM9OfQX48HWTvTrAtTeE818JgR0PeN3iB6l674\"",
-    "lastModified": "Tue, 27 Oct 2026 22:22:14 GMT",
+    "etag": "\"sha256-Dwypjvl8f_xooUi-SKjF-CgVKcgBduH_qvyVGXnLDi8\"",
+    "lastModified": "Wed, 28 Oct 2026 02:01:51 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -1175,7 +1175,9 @@
       "name": "Naruto",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Naruto Shippuden"
+      ]
     },
     {
       "id": 66,
@@ -2033,7 +2035,6 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": [
-        "and",
         "Utaites",
         "utaitte",
         "uttaite",
@@ -25838,7 +25839,7 @@
     {
       "id": 3180,
       "name": "NOREKEN",
-      "kind": "generic_tag",
+      "kind": "individual",
       "parentId": null,
       "alternateNames": []
     },
@@ -25911,10 +25912,12 @@
     },
     {
       "id": 3190,
-      "name": "YKMET",
-      "kind": "generic_tag",
+      "name": "YKMET: Strade",
+      "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "YKMET"
+      ]
     },
     {
       "id": 3191,
@@ -25928,13 +25931,6 @@
       "name": "Makkachin",
       "kind": "individual",
       "parentId": 613,
-      "alternateNames": []
-    },
-    {
-      "id": 3193,
-      "name": "Naruto Shippuden",
-      "kind": "franchise",
-      "parentId": 65,
       "alternateNames": []
     },
     {

@@ -3170,9 +3170,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Naruto"
+        "Naruto",
+        "Naruto Shippuden"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Naruto Shippuden"
+      ]
     },
     {
       "id": 66,
@@ -4905,7 +4908,6 @@
         "Youtaite"
       ],
       "alternateNames": [
-        "and",
         "Utaites",
         "utaitte",
         "uttaite",
@@ -41525,7 +41527,7 @@
     {
       "id": 3180,
       "name": "NOREKEN",
-      "kind": "generic_tag",
+      "kind": "individual",
       "parentId": null,
       "aliases": [
         "NOREKEN"
@@ -41632,14 +41634,17 @@
     },
     {
       "id": 3190,
-      "name": "YKMET",
-      "kind": "generic_tag",
+      "name": "YKMET: Strade",
+      "kind": "franchise",
       "parentId": null,
       "aliases": [
         "YKMET",
-        "YKMET / BTD"
+        "YKMET / BTD",
+        "YKMET: Strade"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "YKMET"
+      ]
     },
     {
       "id": 3191,
@@ -41659,16 +41664,6 @@
       "aliases": [
         "Makkachin",
         "Yuri on ice (makkachin)"
-      ],
-      "alternateNames": []
-    },
-    {
-      "id": 3193,
-      "name": "Naruto Shippuden",
-      "kind": "franchise",
-      "parentId": 65,
-      "aliases": [
-        "Naruto Shippuden"
       ],
       "alternateNames": []
     },

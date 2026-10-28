@@ -2,15 +2,19 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-d0akekM9OfQX48HWTvTrAtTeE818JgR0PeN3iB6l674\"",
-    "lastModified": "Tue, 27 Oct 2026 22:22:14 GMT",
+    "etag": "\"sha256-Dwypjvl8f_xooUi-SKjF-CgVKcgBduH_qvyVGXnLDi8\"",
+    "lastModified": "Wed, 28 Oct 2026 02:01:51 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12155,
-    "ignoredPieces": 316,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 12178,
+    "ignoredPieces": 315,
+    "unknownPieces": 3,
+    "unknownSourceFields": 3
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "Limbus Company, Lobotomy Corp, Library of Ruina, Ultrakill, Honkai: Star Rail, Roblox, Minecraft ARG, MCYT, ENA, Marvel, Undertale, Hololive, Hazbin Hotel, Deltarune, Original, Aikatsu, Love and Deepspace, BATIM, Project Hail Mary, Iron Lung, Witch hat atelier, Meccha Chameleon, Stardew Valley, Slay the Princess, Hades, Slay the Spire 2, Jojo Bizarre Adventure, Homicipher, Indie games, Newgrounds, TDS, Pokespe, Mesmalie, Ace Attorney, The Great Ace Attorney, CORTIS, Love Bullet, Look Back, Maimai, Genshin Impact, Path to Nowhere, EPIC the musical, Guilty Gear Strive, Sonic the Hedgehog, Outcome memories, The Freak Circus",
+    "Original, Arknights-Endfield, To Love-Ru, Lucky Stars, Minky Momo, Hayate no Gotoku, Zero no Tsukaima, Shakugan no Shana, Toradora!",
+    "Original, Sea Slugs, Sefurden, TGSWIIWAGAA, Nana, Aikatsu (Soleil), Detective Conan (DCMK)"
+  ]
 }
