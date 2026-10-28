@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-Dwypjvl8f_xooUi-SKjF-CgVKcgBduH_qvyVGXnLDi8\"",
-    "lastModified": "Wed, 28 Oct 2026 02:01:51 GMT",
+    "etag": "\"sha256--6GOZVHE0JA-PPGzxGQamn5LHVhJdpaTR9P7bkgxCpk\"",
+    "lastModified": "Wed, 28 Oct 2026 05:52:33 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -25960,6 +25960,27 @@
       "id": 3197,
       "name": "Pink Floyd",
       "kind": "individual",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3198,
+      "name": "Outcome memories",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3199,
+      "name": "To Love-Ru",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3200,
+      "name": "Sea Slugs",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }

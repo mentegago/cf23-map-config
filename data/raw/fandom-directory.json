@@ -41709,6 +41709,36 @@
         "Pink Floyd"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3198,
+      "name": "Outcome memories",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Outcome memories"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3199,
+      "name": "To Love-Ru",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "To Love-Ru"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3200,
+      "name": "Sea Slugs",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Sea Slugs"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [
