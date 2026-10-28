@@ -458,5 +458,49 @@
     ],
     "catalogUrl": null,
     "sourceUrls": []
+  },
+  {
+    "id": "1001969",
+    "name": "Yorushika Indonesia",
+    "category": "community",
+    "spaces": [
+      {
+        "code": "COM-07",
+        "type": "community"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "Yorushika"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001969/announcement-d5a2fe0bc722.webp",
+      "gallery": [
+        "images/exhibitors/1001969/announcement-d5a2fe0bc722.webp",
+        "images/exhibitors/1001969/announcement-8de1ea2a5033.webp",
+        "images/exhibitors/1001969/announcement-078f17af44cb.webp",
+        "images/exhibitors/1001969/announcement-141c75428bfd.webp",
+        "images/exhibitors/1001969/announcement-309ab2c7f77c.webp",
+        "images/exhibitors/1001969/announcement-59e8fdd3ac10.webp",
+        "images/exhibitors/1001969/announcement-274140ce22d6.webp",
+        "images/exhibitors/1001969/announcement-defe38b97c53.webp",
+        "images/exhibitors/1001969/announcement-2c5e2dc449f6.webp",
+        "images/exhibitors/1001969/announcement-dc0ddbc70fda.webp",
+        "images/exhibitors/1001969/announcement-08fb9fd11198.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/yorucast/"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": []
   }
 ]

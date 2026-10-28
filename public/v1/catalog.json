@@ -32,7 +32,7 @@
     ]
   },
   "stats": {
-    "exhibitors": 1968,
+    "exhibitors": 1969,
     "fandomsReferenced": 1729
   },
   "exhibitors": [
@@ -97214,6 +97214,51 @@
         3168,
         3169,
         3170
+      ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001969",
+      "name": "Yorushika Indonesia",
+      "category": "community",
+      "spaces": [
+        {
+          "code": "COM-07",
+          "type": "community"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-d5a2fe0bc722.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-d5a2fe0bc722.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-8de1ea2a5033.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-078f17af44cb.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-141c75428bfd.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-309ab2c7f77c.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-59e8fdd3ac10.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-274140ce22d6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-defe38b97c53.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-2c5e2dc449f6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-dc0ddbc70fda.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-08fb9fd11198.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/61d7aa004eaca827ef659a65a9a22ae619bbb17c0c55e1c458978d35811f57cc.webp"
+      },
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/yorucast/"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": [
+        481
       ]
     }
   ]
