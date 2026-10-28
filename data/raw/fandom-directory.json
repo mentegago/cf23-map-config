@@ -148,6 +148,7 @@
         "Original (Western)",
         "Original / Cats",
         "Original / Furry / OC",
+        "Original / OC",
         "Original [onionholic seiryuuden topi5356 dknrkg]",
         "Original and animals",
         "Original and anime fanart",
@@ -749,6 +750,7 @@
         "Love and deeepspace",
         "Love and Deep Space",
         "Love and Deep Space.",
+        "Love and deep spaceplave",
         "Love and Deepsace",
         "Love and Deepsapce",
         "Love and Deepscape",
@@ -783,6 +785,7 @@
         "Love and deeepspace",
         "Love and Deep Space",
         "Love and Deep Space.",
+        "Love and deep spaceplave",
         "Love and Deepsace",
         "Love and Deepsapce",
         "Love and Deepscape",
@@ -2382,6 +2385,7 @@
         "Marvel Loki TVA Series",
         "Marvel Studios",
         "Marvel Universe",
+        "Marvel X-Men",
         "Marvel/DC",
         "Marvel/Loki series",
         "Marvel/Superhero",
@@ -3225,10 +3229,12 @@
         "Game Changers/Heated Rivalry",
         "Heated Rivalry",
         "Heated Rivarly",
+        "HR Heated Rivalry",
         "Project Hail Mary & Heated Rivalry"
       ],
       "alternateNames": [
-        "Heated Rivarly"
+        "Heated Rivarly",
+        "HR Heated Rivalry"
       ]
     },
     {
@@ -4989,6 +4995,7 @@
         "Granblue Fantasy ( GBF )",
         "Granblue Fantasy (GBF)",
         "Granblue Fantasy Twisted Wonderland",
+        "granbluefantasy",
         "Grandblue Fantasy"
       ],
       "alternateNames": [
@@ -4996,6 +5003,7 @@
         "Granblue",
         "Granblue Fantasy ( GBF )",
         "Granblue Fantasy (GBF)",
+        "granbluefantasy",
         "Grandblue Fantasy"
       ]
     },
@@ -5438,6 +5446,7 @@
       "parentId": null,
       "aliases": [
         "Dr. House",
+        "HM House M.D.",
         "House M.D",
         "House M.D.",
         "House MD",
@@ -5447,6 +5456,7 @@
       ],
       "alternateNames": [
         "Dr. House",
+        "HM House M.D.",
         "House M.D",
         "House MD",
         "house md.",
@@ -6704,9 +6714,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "DE Disco Elysium The Pitt",
         "Disco Elysium"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "DE Disco Elysium"
+      ]
     },
     {
       "id": 230,
@@ -7236,6 +7249,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "DE Disco Elysium The Pitt",
         "The Pitt"
       ],
       "alternateNames": []
@@ -14258,12 +14272,14 @@
         "A Knight of The Seven Kingdom",
         "A Knight of the Seven Kingdoms",
         "AKOTSK",
-        "AKOTSK (a knight of the seven kingdoms)"
+        "AKOTSK (a knight of the seven kingdoms)",
+        "Knight of the Seven Kingdoms"
       ],
       "alternateNames": [
         "A Knight of The Seven Kingdom",
         "AKOTSK",
-        "AKOTSK (a knight of the seven kingdoms)"
+        "AKOTSK (a knight of the seven kingdoms)",
+        "Knight of the Seven Kingdoms"
       ]
     },
     {
@@ -19601,9 +19617,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Mogeko",
         "Mogeko Castle"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Mogeko"
+      ]
     },
     {
       "id": 1164,
@@ -25073,6 +25092,7 @@
       "parentId": 41,
       "aliases": [
         "Marvel : Avengers Assemble & X-Men",
+        "Marvel X-Men",
         "X-Men",
         "X-Men 97 XMen X Men",
         "Xmen"
@@ -33902,9 +33922,14 @@
       "parentId": null,
       "aliases": [
         "Jojo's Bizzare Adventure SAW",
-        "Saw"
+        "Saw",
+        "Saw Franchies",
+        "SAW Movie"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Saw Franchies",
+        "SAW Movie"
+      ]
     },
     {
       "id": 2466,
@@ -41774,6 +41799,36 @@
       "alternateNames": [
         "Love Live! School Idol Festival (Muse)"
       ]
+    },
+    {
+      "id": 3203,
+      "name": "Whitepine",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Whitepine"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3204,
+      "name": "ThatMob",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "ThatMob"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3205,
+      "name": "Mazinger Z",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Mazinger Z"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [

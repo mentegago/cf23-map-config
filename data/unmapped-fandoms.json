@@ -2,22 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-2bpV3v4etRNZR3eOh16-0iTV1tuLyzanX6GFKrrt3oY\"",
-    "lastModified": "Wed, 28 Oct 2026 13:08:23 GMT",
+    "etag": "\"sha256-nuW-ai0FpiI1HbYcM_W-AjCMvQnTjKvEFHYBQ1Idhxo\"",
+    "lastModified": "Wed, 28 Oct 2026 20:21:50 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12271,
+    "matchedPieces": 12285,
     "ignoredPieces": 311,
-    "unknownPieces": 14,
-    "unknownSourceFields": 6
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Forsaken, Phighting, Boboiboy, TADC, Hermitcraft, Whitepine, Yaelokre, ThatMob, MCYT, Marvel X-Men, Pokespe, Jujutsu Kaisen, Sonic, ",
-    "Hibike Euphonium, Idolmaster, Trickal, Stella Sora, granbluefantasy",
-    "Left 4 Dead, Devil May Cry, Jojo's Bizzare Adventure, SAW Movie, Saw Franchies, Supernatural, Needy Girl Overdose, Hazbin Hotel, Mogeko, Wadanohara and the Great Blue Sea, BTD, Boyfriend To Death,, Genshin Impact, Original, UTAU, Sengoku Basara, Honkai Star Rail, Genshin Impact, Hoyoverse, Nier Automata, Chainsaw Man, Bloodborne, Elden Ring, Houseki no Kuni, SpyxFamily",
-    "Love and deep spaceplave, dr stone, The Painter Who Draws Dungeons",
-    "Original / OC, HR Heated Rivalry, Resident Evil , DE Disco Elysium The Pitt, HM House M.D., Mitski, Knight of the Seven Kingdoms, no na, Jane Remover ,The Nice Guys, boygenius, Underscores, Outer Wilds, Project Hail Mary, Stardew Valley, Honkai: Star Rail",
-    "Stardew Valley, Haikyu!!, Fish, Cat, Capybara, Astro Boy, Mazinger Z, DC Comics, Star Wars"
-  ]
+  "unknownSourceFields": []
 }

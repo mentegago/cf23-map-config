@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-2bpV3v4etRNZR3eOh16-0iTV1tuLyzanX6GFKrrt3oY\"",
-    "lastModified": "Wed, 28 Oct 2026 13:08:23 GMT",
+    "etag": "\"sha256-nuW-ai0FpiI1HbYcM_W-AjCMvQnTjKvEFHYBQ1Idhxo\"",
+    "lastModified": "Wed, 28 Oct 2026 20:21:50 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -187,6 +187,7 @@
         "Love and deeepspace",
         "Love and Deep Space",
         "Love and Deep Space.",
+        "Love and deep spaceplave",
         "Love and Deepsace",
         "Love and Deepsapce",
         "Love and Deepscape",
@@ -1199,7 +1200,8 @@
       "kind": "franchise",
       "parentId": 2576,
       "alternateNames": [
-        "Heated Rivarly"
+        "Heated Rivarly",
+        "HR Heated Rivalry"
       ]
     },
     {
@@ -2087,6 +2089,7 @@
         "Granblue",
         "Granblue Fantasy ( GBF )",
         "Granblue Fantasy (GBF)",
+        "granbluefantasy",
         "Grandblue Fantasy"
       ]
     },
@@ -2338,6 +2341,7 @@
       "parentId": null,
       "alternateNames": [
         "Dr. House",
+        "HM House M.D.",
         "House M.D",
         "House MD",
         "house md.",
@@ -3006,7 +3010,9 @@
       "name": "Disco Elysium",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "DE Disco Elysium"
+      ]
     },
     {
       "id": 230,
@@ -7627,7 +7633,8 @@
       "alternateNames": [
         "A Knight of The Seven Kingdom",
         "AKOTSK",
-        "AKOTSK (a knight of the seven kingdoms)"
+        "AKOTSK (a knight of the seven kingdoms)",
+        "Knight of the Seven Kingdoms"
       ]
     },
     {
@@ -11026,7 +11033,9 @@
       "name": "Mogeko Castle",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Mogeko"
+      ]
     },
     {
       "id": 1164,
@@ -20604,7 +20613,10 @@
       "name": "Saw",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Saw Franchies",
+        "SAW Movie"
+      ]
     },
     {
       "id": 2466,
@@ -26004,6 +26016,27 @@
       "alternateNames": [
         "Love Live! School Idol Festival (Muse)"
       ]
+    },
+    {
+      "id": 3203,
+      "name": "Whitepine",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3204,
+      "name": "ThatMob",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3205,
+      "name": "Mazinger Z",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
     }
   ]
 }
