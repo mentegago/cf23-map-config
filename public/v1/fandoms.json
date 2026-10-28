@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256--6GOZVHE0JA-PPGzxGQamn5LHVhJdpaTR9P7bkgxCpk\"",
-    "lastModified": "Wed, 28 Oct 2026 05:52:33 GMT",
+    "etag": "\"sha256-2bpV3v4etRNZR3eOh16-0iTV1tuLyzanX6GFKrrt3oY\"",
+    "lastModified": "Wed, 28 Oct 2026 13:08:23 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -706,6 +706,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Demon Slayer (KnY)",
         "Demon Slayer/Kimetsu No Yaiba",
         "Demon Slayers",
         "DEMONSLYER",
@@ -1542,6 +1543,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Aikatse!",
         "Aikatsu"
       ]
     },
@@ -2048,6 +2050,7 @@
       "parentId": null,
       "alternateNames": [
         "Five Night At Freddy",
+        "Five Night at Freddy’s",
         "five night freddy",
         "Five Nights At Freddy",
         "Five Nights At Freddys",
@@ -3697,6 +3700,7 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Shin Megami Tensei series",
         "SMT"
       ]
     },
@@ -4818,7 +4822,8 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
-        "Okami"
+        "Okami",
+        "Ookami"
       ]
     },
     {
@@ -25983,6 +25988,22 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
+    },
+    {
+      "id": 3201,
+      "name": "Ruzhui",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3202,
+      "name": "Love Live! School Idol Festival",
+      "kind": "franchise",
+      "parentId": 235,
+      "alternateNames": [
+        "Love Live! School Idol Festival (Muse)"
+      ]
     }
   ]
 }

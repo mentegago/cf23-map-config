@@ -2,22 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256--6GOZVHE0JA-PPGzxGQamn5LHVhJdpaTR9P7bkgxCpk\"",
-    "lastModified": "Wed, 28 Oct 2026 05:52:33 GMT",
+    "etag": "\"sha256-2bpV3v4etRNZR3eOh16-0iTV1tuLyzanX6GFKrrt3oY\"",
+    "lastModified": "Wed, 28 Oct 2026 13:08:23 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12214,
+    "matchedPieces": 12222,
     "ignoredPieces": 312,
-    "unknownPieces": 8,
-    "unknownSourceFields": 6
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Bang Dream, Project Sekai, Shin Megami Tensei series, Path to Nowhere, Arknights, Ookami",
-    "Deltarune, Fabulous Beast, Pokemon, MDZS, JWQS, Ruzhui, Love Bullet, Original",
-    "Genshin Impact, Honkai Star Rail, Wind Breaker, Medalist, FGO, Demon Slayer (KnY), Love Live! School Idol Festival (Muse)",
-    "Magical Girl, CCS, Shugo Chara, love and deepspace, Shoujo, ouran highschool, Aikatse!, Precure",
-    "Spy x family, One piece, Hai miiko!, Silent Hill f, Sonic the hedgehog, Attack on titan, Five Night at Freddy’s, Witch Hat Atelier, LADS, Demon Slayer, Original",
-    "Umamusume & Bangdream"
-  ]
+  "unknownSourceFields": []
 }
