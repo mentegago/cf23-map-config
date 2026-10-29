@@ -4916,6 +4916,7 @@
         "Utaite Eve",
         "Utaite/After the rain",
         "Utaite/JPOP",
+        "Utaite/Vsinger",
         "Utaites (ado, Eve, Mafumafu, Royal Scandal)",
         "utaitte",
         "Utaitte (Mafumafu, Soraru, Ado, Natori)",
@@ -6023,6 +6024,7 @@
       "aliases": [
         "beads and crochet crafts",
         "Crochet",
+        "crochet goods",
         "crochet hairbands",
         "Crochet works",
         "Crochet/ handmade product",
@@ -6032,6 +6034,7 @@
       ],
       "alternateNames": [
         "crochet crafts",
+        "crochet goods",
         "Crochet works"
       ]
     },
@@ -8406,12 +8409,14 @@
         "Kagepro",
         "Kagerou Project",
         "Kagerou Project (Mekakucity Actors)",
+        "mekaku",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi"
       ],
       "alternateNames": [
         "Ene Kagepro",
         "Kagepro",
-        "Kagerou Project (Mekakucity Actors)"
+        "Kagerou Project (Mekakucity Actors)",
+        "mekaku"
       ]
     },
     {
@@ -10998,9 +11003,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "Mario"
+        "Mario",
+        "Mario."
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Mario."
+      ]
     },
     {
       "id": 503,
@@ -33276,6 +33284,7 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "Utaite/Vsinger",
         "virtual singer",
         "VSinger",
         "VSinger (Unnamed)."
@@ -41142,9 +41151,12 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
-        "Shirts"
+        "Shirts",
+        "t-shirts"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "t-shirts"
+      ]
     },
     {
       "id": 3139,
@@ -41852,6 +41864,36 @@
       "aliases": [
         "Klance",
         "Voltron ( Klance )"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3207,
+      "name": "E33",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "E33"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3208,
+      "name": "Eloquent Countenance",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "Eloquent Countenance"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3209,
+      "name": "Skullgirls",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Skullgirls"
       ],
       "alternateNames": []
     }

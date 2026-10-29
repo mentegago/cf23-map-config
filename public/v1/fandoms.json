@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-B30DZRNN74Ny-8ZfwjTxGRWAmvxT6NnBA8pd7P41r7k\"",
-    "lastModified": "Thu, 29 Oct 2026 01:02:46 GMT",
+    "etag": "\"sha256-I9sNvSpEBhLLbzdn8GsKpa6VR6Z9RE6gTmVlCkkBBrU\"",
+    "lastModified": "Thu, 29 Oct 2026 10:08:33 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -2638,6 +2638,7 @@
       "parentId": null,
       "alternateNames": [
         "crochet crafts",
+        "crochet goods",
         "Crochet works"
       ]
     },
@@ -3982,7 +3983,8 @@
       "alternateNames": [
         "Ene Kagepro",
         "Kagepro",
-        "Kagerou Project (Mekakucity Actors)"
+        "Kagerou Project (Mekakucity Actors)",
+        "mekaku"
       ]
     },
     {
@@ -5566,7 +5568,9 @@
       "name": "Mario",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Mario."
+      ]
     },
     {
       "id": 503,
@@ -25559,7 +25563,9 @@
       "name": "Shirts",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "t-shirts"
+      ]
     },
     {
       "id": 3139,
@@ -26048,6 +26054,27 @@
       "name": "Klance",
       "kind": "generic_tag",
       "parentId": 1251,
+      "alternateNames": []
+    },
+    {
+      "id": 3207,
+      "name": "E33",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3208,
+      "name": "Eloquent Countenance",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3209,
+      "name": "Skullgirls",
+      "kind": "franchise",
+      "parentId": null,
       "alternateNames": []
     }
   ]

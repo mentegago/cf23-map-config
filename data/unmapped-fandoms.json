@@ -2,22 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-B30DZRNN74Ny-8ZfwjTxGRWAmvxT6NnBA8pd7P41r7k\"",
-    "lastModified": "Thu, 29 Oct 2026 01:02:46 GMT",
+    "etag": "\"sha256-I9sNvSpEBhLLbzdn8GsKpa6VR6Z9RE6gTmVlCkkBBrU\"",
+    "lastModified": "Thu, 29 Oct 2026 10:08:33 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12333,
+    "matchedPieces": 12341,
     "ignoredPieces": 310,
-    "unknownPieces": 8,
-    "unknownSourceFields": 6
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Genshin Impact, Honkai Star Rail, Honkai Impact 3rd, Fire Emblem, DC Comics, Klance, Witch Hat Atelier, Reverse 1999, E33",
-    "Mouthwashing, NANA, Fear & Hunger, Sally Face, Silent Hill, Studio Investigrave, Spiderverse, Deltarune, Project Hail Mary, Chainsaw Man, Hai Miiko, Dandadan, Resident Evil, Fatal Frame, Lies of P, Elden Ring, Nightreign, Haikyuu, Dead Plate, Married in Red, Cold Front, Elevator Hitch, Eloquent Countenance, Persona 3, Alice Madness Returns",
-    "Original, Arknights, Pokemon, Made in Abyss, Touhou, Undertale, Deltarune, Reverse 1999, Ghibli, Sameko Saba, Oneshot, Skullgirls, Mario.",
-    "Path to Nowhere,Moriarty the Patriot, Heated Rivalry, Plave, Haikyuu, Dandandan, Seventeen, Pandavva, Gachiakuta, Frieren, Dungeon Painter, HSR, Alien stage, Zombie stage, mekaku",
-    "Reanimal, Eddsworld, Cookie Run Tower of Adventures, Friday Night Funkin : Dave & Bambi Mod, Nullscape, crochet goods, t-shirts",
-    "Umamusume, Utaite/Vsinger, Aikatsu!, Genshin Impact"
-  ]
+  "unknownSourceFields": []
 }
