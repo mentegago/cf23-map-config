@@ -1603,6 +1603,7 @@
         "Anime (Ghibli, Jujutsu Kaisen, Frieren, Saiki H, HxH) Comics (Daredevil, marvel, dc)",
         "Anime : Frieren",
         "Bocchi ZZZ TADC Hazbin Helluva Meshi Frieren Pokemon Doraemon Sky",
+        "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
         "Freieren",
         "freiren",
         "Friefen",
@@ -1712,6 +1713,7 @@
         "dungeon meshi (delicious in dungeon)",
         "Dungeon Meshi (Farcille)",
         "Dungeon Meshi / Delicious in Dungeon",
+        "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
         "Dungeon Meshi Hypmic",
         "Dungeon Meshii",
         "Dungeon-Meshi",
@@ -2648,6 +2650,7 @@
         "1. BSD 2. ALNST 3. No Home 4. Studio Investigrave 5. DoL 6. Limbus 7. Deltarune 8. Undertale 9. Hotline Miami 10. TGSWIIWAGAA 11. Banana fish 12. Given 13. Enstars 14. Blue Period 15. Mahou Shoujo Site 16. Nijisanji (ike doang) 17. Original / OC 18. Chihayafuru 19. Magia Records 20. Shadows House 21. Nana 22. Death note 23. Witch hat atelier 24. ⁠voltron 25. ⁠bang dream 26. ⁠18trip 27. Lads 28. Bluelock 29. Dr stone 30. ⁠gachiakuta 31. ⁠zzz",
         "Animanga (Trigun, Witch Hat Atelier, Golden Kamuy, JJK)",
         "Atelier of witch hat",
+        "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
         "Genshin Impact Honkai: Star Rail Aikatsu Project Sekai Dugeon Meshi Wind Breaker Witch Hat Atelier Milgram Ensemble Star Haikyuu Hololive Omori",
         "Ghibli WHA",
         "Ghibli; Witch Hat Atelier",
@@ -10944,6 +10947,7 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
         "Made in Abyss"
       ],
       "alternateNames": []
@@ -20687,6 +20691,7 @@
       "aliases": [
         "1. BSD 2. ALNST 3. No Home 4. Studio Investigrave 5. DoL 6. Limbus 7. Deltarune 8. Undertale 9. Hotline Miami 10. TGSWIIWAGAA 11. Banana fish 12. Given 13. Enstars 14. Blue Period 15. Mahou Shoujo Site 16. Nijisanji (ike doang) 17. Original / OC 18. Chihayafuru 19. Magia Records 20. Shadows House 21. Nana 22. Death note 23. Witch hat atelier 24. ⁠voltron 25. ⁠bang dream 26. ⁠18trip 27. Lads 28. Bluelock 29. Dr stone 30. ⁠gachiakuta 31. ⁠zzz",
         "Voltron",
+        "Voltron ( Klance )",
         "⁠⁠voltron"
       ],
       "alternateNames": [
@@ -29007,9 +29012,11 @@
       "parentId": 88,
       "aliases": [
         "Final Fantasy 16",
-        "Final Fantasy XVI"
+        "Final Fantasy XVI",
+        "Final Fantasy XVI (FFXV / FF16)"
       ],
       "alternateNames": [
+        "FF16",
         "Final Fantasy 16"
       ]
     },
@@ -32598,9 +32605,12 @@
       "parentId": null,
       "aliases": [
         "Judgment",
+        "Judgment / Judge Eyes",
         "Ryu Ga Gotoku (Yakuza and Judgment)"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Judge Eyes"
+      ]
     },
     {
       "id": 2340,
@@ -34367,9 +34377,12 @@
       "kind": "franchise",
       "parentId": 88,
       "aliases": [
-        "Final Fantasy XV"
+        "Final Fantasy XV",
+        "Final Fantasy XVI (FFXV / FF16)"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "FFXV"
+      ]
     },
     {
       "id": 2506,
@@ -37162,6 +37175,7 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
         "Forest Guardian"
       ],
       "alternateNames": []
@@ -41827,6 +41841,17 @@
       "parentId": null,
       "aliases": [
         "Mazinger Z"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3206,
+      "name": "Klance",
+      "kind": "generic_tag",
+      "parentId": 1251,
+      "aliases": [
+        "Klance",
+        "Voltron ( Klance )"
       ],
       "alternateNames": []
     }

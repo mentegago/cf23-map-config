@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-nuW-ai0FpiI1HbYcM_W-AjCMvQnTjKvEFHYBQ1Idhxo\"",
-    "lastModified": "Wed, 28 Oct 2026 20:21:50 GMT",
+    "etag": "\"sha256-B30DZRNN74Ny-8ZfwjTxGRWAmvxT6NnBA8pd7P41r7k\"",
+    "lastModified": "Thu, 29 Oct 2026 01:02:46 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -17284,6 +17284,7 @@
       "kind": "franchise",
       "parentId": 88,
       "alternateNames": [
+        "FF16",
         "Final Fantasy 16"
       ]
     },
@@ -19716,7 +19717,9 @@
       "name": "Judgment",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Judge Eyes"
+      ]
     },
     {
       "id": 2340,
@@ -20917,7 +20920,9 @@
       "name": "Final Fantasy XV",
       "kind": "franchise",
       "parentId": 88,
-      "alternateNames": []
+      "alternateNames": [
+        "FFXV"
+      ]
     },
     {
       "id": 2506,
@@ -26036,6 +26041,13 @@
       "name": "Mazinger Z",
       "kind": "franchise",
       "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3206,
+      "name": "Klance",
+      "kind": "generic_tag",
+      "parentId": 1251,
       "alternateNames": []
     }
   ]

@@ -2,18 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-nuW-ai0FpiI1HbYcM_W-AjCMvQnTjKvEFHYBQ1Idhxo\"",
-    "lastModified": "Wed, 28 Oct 2026 20:21:50 GMT",
+    "etag": "\"sha256-B30DZRNN74Ny-8ZfwjTxGRWAmvxT6NnBA8pd7P41r7k\"",
+    "lastModified": "Thu, 29 Oct 2026 01:02:46 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12282,
+    "matchedPieces": 12286,
     "ignoredPieces": 310,
-    "unknownPieces": 4,
-    "unknownSourceFields": 2
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Dungeon Meshi Frieren beyond journey end Forest guardian Made in abyss Witch hat atelier",
-    "Mahoutsukai no Yakusoku ( MHYK / Mahoyaku ), Limbus Company, Library of Ruina, Alien Stage, The Hundred Line ( HNDR ), Ooe, Gnosia, KiniOto, Yakuza, Fire Emblem Three Houses, Hatoful Boyfriend, Idolish7, Persona, 18Trip, Granblue Fantasy ( GBF ), 13 Sentinels, Final Fantasy XVI (FFXV / FF16), Judgment / Judge Eyes, Omori, Sleep Token, Voltron ( Klance ) "
-  ]
+  "unknownSourceFields": []
 }
