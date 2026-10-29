@@ -2,27 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-I9sNvSpEBhLLbzdn8GsKpa6VR6Z9RE6gTmVlCkkBBrU\"",
-    "lastModified": "Thu, 29 Oct 2026 10:08:33 GMT",
+    "etag": "\"sha256-1F30iHPP6utIY4zCClEGgb4-BCn9nlw3acyJgLSAmtM\"",
+    "lastModified": "Thu, 29 Oct 2026 18:32:55 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12408,
+    "matchedPieces": 12425,
     "ignoredPieces": 308,
-    "unknownPieces": 17,
-    "unknownSourceFields": 11
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Deltarune, Guilty Gear, ZZZ, Limbus Company/PM, Mononoke, HSR, Evilious Chronicles, DC, Vocaloid, Aotuworld, JJK, Saiki k, MCYT, One Room TA, Lost in the cloud, TSHD",
-    "GAL",
-    "Granblue Fantasy, Project Sekai, Zenless Zone Zero, Peaky Blinders",
-    "Hololive, LADS, Ghibli, ORV, Gintama, Witch Hat Atelier, Spy x Family, My Little Pony, Endfield Arknight",
-    "Moriarty the Patriot, Originals, Orb on the movements of the earth, VTubers, Hoyoverse, ZZZ, HSR, Paradox Live, Re:zero / rezero",
-    "Natsume Yuujinchou, Genshin Dr. Stone, Moriarty the Patriot, Bungou Stray Dogs, black Butler, Akatsuki no Yona, fumetsu no anata e, kpop demon hunter, windbreaker, jujutsu kaisen",
-    "octopath, zelda (botw), sonic, okami, tenmaku no jaadugar, undertale, vocaloid (miku), originals",
-    "Original Works, Love and Deepspace, Handcraft, Honkai Star Rail, Genshin Impact, Puella Magi Madoka, 3d print, pandavva, hololive, zzz",
-    "Original, Hoyoverse, Arknights, Reverse 1999, Witch Hat Atelier, Agents of Four Seasons, SPY x Family",
-    "UU, TSFTL, A Nostolgic Hangout Game, Grace, Deltarune, LN, FNAF, PPT, IDV, TBHX, CRK, ALNST, Persona, HSR",
-    "Zenless Zone Zero, Honkai Star Rail, Uma Musume, The Guy She Was Interested In Wasn't a Guy At All,  MyGO!!!!!, Cosmic Princess Kaguya!, Project Sekai: Colorful Stage! feat. Hatsune Miku, Alien Stage, Hololive,  Bocchi the Rock!"
-  ]
+  "unknownSourceFields": []
 }

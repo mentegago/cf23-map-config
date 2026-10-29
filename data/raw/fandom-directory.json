@@ -460,6 +460,7 @@
         "Genshin (Wriolette)",
         "Genshin / HSR",
         "Genshin Digimon",
+        "Genshin Dr. Stone",
         "Genshin Honkai Zzz Frieren Dunmeshi",
         "Genshin HSR",
         "Genshin Impac",
@@ -824,6 +825,7 @@
         "Voca-P (Nilfruits)",
         "Vocaloid",
         "Vocaloid & Utauloid",
+        "vocaloid (miku)",
         "Vocaloid (rin len)",
         "VOCALOID / UTAULOID",
         "Vocaloid and Original",
@@ -2447,6 +2449,7 @@
         "Arknights:enfield",
         "Arknikght: Endfield",
         "Endfield",
+        "Endfield Arknight",
         "Mihoyo Fandom / Blue Archive / Arknight: Endfield",
         "Original, Zenless Zone Zero, Blue Archive, Arknights & Arknights: Enfield, Granblue Fantasy, Bocchi The Rock, Frieren, HSR",
         "⁠arknight : Enfield"
@@ -2474,6 +2477,7 @@
         "Arknights:enfield",
         "Arknikght: Endfield",
         "Endfield",
+        "Endfield Arknight",
         "⁠arknight : Enfield"
       ]
     },
@@ -3093,6 +3097,7 @@
         "MMMM",
         "Original Bloodborne Banana Fish Dandadan Adventure Time Call of Duty Devil May Cry Dead Plate Death Note Elden Ring Elevator Hitch Hades TGSWIIWAGAA Nana Lookism Madoka Magica Married in Red Mortal Kombat Pretty Cure Sailor Moon Spiderverse Tekken 8 Tokyo Mew Mew Initial D Hannibal Hai Miiko Fear & Hunger Termina MouthWashing Kamisama Kiss Maid-sama My Little Monster Solo Leveling Honkai Impact 3 Sally Face Silent Hill Company & Private Life Resident Evil Epic The Musical BL Banana Fish  Hybrid Child Kagerou Project Sekaiichi Hatsukoi",
         "pmmm",
+        "Puella Magi Madoka",
         "Puella Magi Madoka Magica"
       ],
       "alternateNames": [
@@ -3103,7 +3108,8 @@
         "Madomagi",
         "Mahou Shoujo Madoka Magica",
         "MMMM",
-        "pmmm"
+        "pmmm",
+        "Puella Magi Madoka"
       ]
     },
     {
@@ -3569,7 +3575,8 @@
         "MIKU TETO NERU",
         "MUSIC (ATEEZ, &TEAM, Hatsune Miku, Oasis, Blur, Nu Metal, RIIZE, XG)",
         "Project Sekai Featuring Hatsune Miku",
-        "Project Sekai ft. Hatsune Miku"
+        "Project Sekai ft. Hatsune Miku",
+        "vocaloid (miku)"
       ],
       "alternateNames": [
         "Miku",
@@ -5053,6 +5060,7 @@
         "Dr. STONE",
         "Dr. STONE / dr stone",
         "Dr.Stone",
+        "Genshin Dr. Stone",
         "Stone"
       ],
       "alternateNames": [
@@ -5260,6 +5268,7 @@
         "The Legend of Zelda",
         "TLOZ",
         "Zelda",
+        "zelda (botw)",
         "zelda toon link only"
       ],
       "alternateNames": [
@@ -6999,10 +7008,12 @@
       "aliases": [
         "and Cosmic Princess Kaguya",
         "Cosmic Princess Kaguya",
+        "Cosmic Princess Kaguya!",
         "CPK"
       ],
       "alternateNames": [
         "and Cosmic Princess Kaguya",
+        "Cosmic Princess Kaguya!",
         "CPK"
       ]
     },
@@ -13050,10 +13061,12 @@
         "Legend Of Zelda: Breath Of The Wild/tears Of Kingdom",
         "The Legend of Zela: BOTW",
         "The Legend of Zelda: Breath of the Wild",
+        "zelda (botw)",
         "Zelda BOTW",
         "Zelda Breath of the Wild"
       ],
       "alternateNames": [
+        "botw",
         "Breath of The Wild",
         "The Legend of Zela: BOTW",
         "Zelda BOTW",
@@ -14301,10 +14314,12 @@
       "parentId": null,
       "aliases": [
         "Light Novel",
+        "LN",
         "Original Stories (Light Novel Style)"
       ],
       "alternateNames": [
-        "Light Novel Style"
+        "Light Novel Style",
+        "LN"
       ]
     },
     {
@@ -17520,6 +17535,7 @@
       "aliases": [
         "Re: Zero",
         "Re:Zero",
+        "Re:zero / rezero",
         "Re:Zero Kara Hajimaru Isekai Seikatsu",
         "Re:Zero − Starting Life in Another World",
         "Rezero"
@@ -25497,6 +25513,7 @@
         "Project Sekai/Vocaloid",
         "Project Sekai: Colorful Stage",
         "Project SEKAI: Colorful Stage!",
+        "Project Sekai: Colorful Stage! feat. Hatsune Miku",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
         "proseka",
@@ -25523,6 +25540,7 @@
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
         "Project Sekai: Colorful Stage",
         "Project Sekai: COLORFUL STAGE!",
+        "Project Sekai: Colorful Stage! feat. Hatsune Miku",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
         "ProSeka",
@@ -27156,9 +27174,12 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "3d print",
         "3D Prints"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "3d print"
+      ]
     },
     {
       "id": 1822,
@@ -39021,9 +39042,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Agents of Four Seasons",
         "Agents of the Four Seasons"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Agents of Four Seasons"
+      ]
     },
     {
       "id": 2928,
@@ -39511,9 +39535,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
-        "a nostalgic hangout game"
+        "a nostalgic hangout game",
+        "A Nostolgic Hangout Game"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "A Nostolgic Hangout Game"
+      ]
     },
     {
       "id": 2979,
@@ -41894,6 +41921,62 @@
       "parentId": null,
       "aliases": [
         "Skullgirls"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3210,
+      "name": "Aotu World",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Aotu World",
+        "Aotuworld"
+      ],
+      "alternateNames": [
+        "Aotuworld"
+      ]
+    },
+    {
+      "id": 3211,
+      "name": "GAL",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "GAL"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3212,
+      "name": "Peaky Blinders",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Peaky Blinders"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3213,
+      "name": "To Your Eternity",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "fumetsu no anata e",
+        "To Your Eternity"
+      ],
+      "alternateNames": [
+        "fumetsu no anata e"
+      ]
+    },
+    {
+      "id": 3214,
+      "name": "PPT",
+      "kind": "generic_tag",
+      "parentId": null,
+      "aliases": [
+        "PPT"
       ],
       "alternateNames": []
     }

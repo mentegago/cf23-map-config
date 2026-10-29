@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-I9sNvSpEBhLLbzdn8GsKpa6VR6Z9RE6gTmVlCkkBBrU\"",
-    "lastModified": "Thu, 29 Oct 2026 10:08:33 GMT",
+    "etag": "\"sha256-1F30iHPP6utIY4zCClEGgb4-BCn9nlw3acyJgLSAmtM\"",
+    "lastModified": "Thu, 29 Oct 2026 18:32:55 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -865,6 +865,7 @@
         "Arknights:enfield",
         "Arknikght: Endfield",
         "Endfield",
+        "Endfield Arknight",
         "⁠arknight : Enfield"
       ]
     },
@@ -1135,7 +1136,8 @@
         "Madomagi",
         "Mahou Shoujo Madoka Magica",
         "MMMM",
-        "pmmm"
+        "pmmm",
+        "Puella Magi Madoka"
       ]
     },
     {
@@ -3172,6 +3174,7 @@
       "parentId": null,
       "alternateNames": [
         "and Cosmic Princess Kaguya",
+        "Cosmic Princess Kaguya!",
         "CPK"
       ]
     },
@@ -6857,6 +6860,7 @@
       "kind": "franchise",
       "parentId": 154,
       "alternateNames": [
+        "botw",
         "Breath of The Wild",
         "The Legend of Zela: BOTW",
         "Zelda BOTW",
@@ -7647,7 +7651,8 @@
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": [
-        "Light Novel Style"
+        "Light Novel Style",
+        "LN"
       ]
     },
     {
@@ -14925,6 +14930,7 @@
         "Project Sekai Colourful Stage Ft. Hatsune Miku",
         "Project Sekai: Colorful Stage",
         "Project Sekai: COLORFUL STAGE!",
+        "Project Sekai: Colorful Stage! feat. Hatsune Miku",
         "Project Sekai: Colourful Stage!",
         "Project: SEKAI",
         "ProSeka",
@@ -16034,7 +16040,9 @@
       "name": "3D Prints",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "3d print"
+      ]
     },
     {
       "id": 1822,
@@ -24104,7 +24112,9 @@
       "name": "Agents of the Four Seasons",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "Agents of Four Seasons"
+      ]
     },
     {
       "id": 2928,
@@ -24433,7 +24443,9 @@
       "name": "A Nostalgic Hangout Game",
       "kind": "franchise",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "A Nostolgic Hangout Game"
+      ]
     },
     {
       "id": 2979,
@@ -26074,6 +26086,45 @@
       "id": 3209,
       "name": "Skullgirls",
       "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3210,
+      "name": "Aotu World",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "Aotuworld"
+      ]
+    },
+    {
+      "id": 3211,
+      "name": "GAL",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3212,
+      "name": "Peaky Blinders",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3213,
+      "name": "To Your Eternity",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": [
+        "fumetsu no anata e"
+      ]
+    },
+    {
+      "id": 3214,
+      "name": "PPT",
+      "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
     }
