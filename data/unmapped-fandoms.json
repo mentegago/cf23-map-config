@@ -7,10 +7,16 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12427,
-    "ignoredPieces": 308,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "matchedPieces": 12454,
+    "ignoredPieces": 307,
+    "unknownPieces": 9,
+    "unknownSourceFields": 5
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "call of duty, dorohedoro, fear and hunger, clayface, terrifier, angine de poitrine, berserk, dark souls, elden ring, resident evil, honkai star rail, jjba,",
+    "Cats Alien Stage ARGONAVIS Arknights BanG Dream! Our Notes BaXIan CRK DMC3 EVANGELION Genshin Impact Sonic Sailor Moon Genshiken ITB Girls’Last Tour Green Yuri Helios Rising Heroes Hibike! Euphonium Hikaru ga Shinda Natsu Historical Figures HoneyWorks Honkai Star Rail LotM Made In Abyss Madoka Magica MCYT MEDALIST Monogatari Series NSO No Home Originals Reverse 1999 Umamusume UTDT TGCF VOCALOID YBC Youjo Senki ZZZ Zeno",
+    "cute stuff, meme, relatable, pokemon, animals, cats, dogs, seal, pride / lgbtq+, indie games, studio ghibli, furry, chainsaw man, cardcaptor sakura, kingdom hearts, journaling, daily life, lucky emma, pandavva (yudistira yogendra, arjuna arkana, bima bayusena, nakula nalendra, sadewa sagara), notesun, sunnote, vtuber indonesia (seishin, aya aulya, niskala naia, rieru shindou, etc), western cartoons and movies (project hail mary, ryan gosling, goslingverse), sports (football), chiikawa, gachiakuta, jojo's bizarre adventure, deltarune, kaiju, vivinos (alien stage, zombie stage), coquette, monster horror, stamp rally, mahjong, games, chinese, shirts, clothes, apparel, bags",
+    "Granblue Fantasy, Uma Musume, PLAVE, Kuroko no Basket, Object Shows (Inanimate Insanity, ITFT, etc), Project Hail Mary, Deltarune, Minecraft, Touhou Project, Roblox, Unnatural/MIU404/Last Mile, etc",
+    "Zenless Zone Zero, Uma Musume / Umamusume, Genshin Impact, Ultraman, Arknights: Endfield"
+  ]
 }
