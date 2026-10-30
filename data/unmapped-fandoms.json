@@ -9,8 +9,10 @@
   "stats": {
     "matchedPieces": 12463,
     "ignoredPieces": 307,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "osu!"
+  ]
 }

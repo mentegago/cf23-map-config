@@ -502,5 +502,40 @@
     ],
     "catalogUrl": null,
     "sourceUrls": []
+  },
+  {
+    "id": "1001970",
+    "name": "osu! Indonesia",
+    "category": "community",
+    "spaces": [
+      {
+        "code": "COM-04",
+        "type": "community"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "osu!"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001970/circle-cut-615b5c8b6f1d.webp",
+      "gallery": [
+        "images/exhibitors/1001970/announcement-7044a07c64ee.webp",
+        "images/exhibitors/1001970/announcement-90b25c8468f5.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/osu.indonesia/"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": []
   }
 ]

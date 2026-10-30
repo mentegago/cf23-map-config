@@ -32,7 +32,7 @@
     ]
   },
   "stats": {
-    "exhibitors": 1969,
+    "exhibitors": 1970,
     "fandomsReferenced": 1770
   },
   "exhibitors": [
@@ -98289,6 +98289,40 @@
       "fandomIds": [
         481
       ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001970",
+      "name": "osu! Indonesia",
+      "category": "community",
+      "spaces": [
+        {
+          "code": "COM-04",
+          "type": "community"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001970/circle-cut-615b5c8b6f1d.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001970/announcement-7044a07c64ee.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001970/announcement-90b25c8468f5.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/a4c688c55fc5ad3c8fd702535dbd5428ba4a616223135164076d2d450e7c0a7c.webp"
+      },
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/osu.indonesia/"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": []
     }
   ]
 }

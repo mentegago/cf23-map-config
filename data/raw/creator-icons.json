@@ -13723,6 +13723,11 @@
       "source": "https://cf23-config.nnt.gg/images/exhibitors/1001969/announcement-d5a2fe0bc722.webp",
       "digest": "d5a2fe0bc7224c107bb6499c116a988975ed07a8abe7e18cb8c6b564ad1f030c",
       "file": "images/icons/61d7aa004eaca827ef659a65a9a22ae619bbb17c0c55e1c458978d35811f57cc.webp"
+    },
+    "1001970": {
+      "source": "https://cf23-config.nnt.gg/images/exhibitors/1001970/circle-cut-615b5c8b6f1d.webp",
+      "digest": "615b5c8b6f1d8db95aad7fc40cd76a29909a92fc4ed817e59bf40a58d5b47621",
+      "file": "images/icons/a4c688c55fc5ad3c8fd702535dbd5428ba4a616223135164076d2d450e7c0a7c.webp"
     }
   }
 }
