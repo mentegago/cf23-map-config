@@ -3,12 +3,12 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-30T18:07:40.509Z"
+      "downloadedAt": "2026-10-30T22:26:58.892Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-waLWTZBNzkz-gQM8TrDTZ89g_n7ay8V-8PTd1UnHuMw\"",
-      "lastModified": "Fri, 30 Oct 2026 16:52:11 GMT",
+      "etag": "\"sha256-ZdkqBjhGn5g2iZXwF-DwWbfMvLIjRp_hXtFmurghGH0\"",
+      "lastModified": "Fri, 30 Oct 2026 18:08:08 GMT",
       "schemaVersion": "5"
     }
   },
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1970,
-    "fandomsReferenced": 1771
+    "fandomsReferenced": 1773
   },
   "exhibitors": [
     {
@@ -6072,8 +6072,10 @@
         106,
         126,
         225,
+        487,
         512,
-        907
+        907,
+        1388
       ]
     },
     {
@@ -9891,7 +9893,13 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Yumekawa-ya!.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/b7a0c102-d913-4acd-8092-4c6b122ec751/cd071b90-9ffe-4a3e-b9b9-68eeaa7db69f/AG-16/AG-17.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/b7a0c102-d913-4acd-8092-4c6b122ec751/6c17892a-d36c-4b45-a6f4-e89ec794c9e3/AG-16/AG-17.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/b7a0c102-d913-4acd-8092-4c6b122ec751/3c86332f-17ba-459d-bb51-f7d75fec40d9/AG-16/AG-17.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/b7a0c102-d913-4acd-8092-4c6b122ec751/668f8940-1946-4d19-8849-2f5f7573a7a3/AG-16/AG-17.jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/b7a0c102-d913-4acd-8092-4c6b122ec751/8d2b0808-092b-4591-9d10-06f93a8c25a5/AG-16/AG-17.jpeg"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/011d4b5f9c2fb47a3322b043e7033e19e3e2b03325d799fe739e3c6477320fcb.webp"
       },
       "links": [
@@ -49690,7 +49698,12 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Aiiromori.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/733f2e1f-b0e2-4508-a634-c33879703515/fcebae6e-ce66-4bb0-9435-fdae959a114c/L-28ab/L-29ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/733f2e1f-b0e2-4508-a634-c33879703515/acbbdf22-8c09-48ba-b04d-1ecf0847ec62/L-28ab/L-29ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/733f2e1f-b0e2-4508-a634-c33879703515/3a5d01c0-68a6-4a9c-b280-e371101d0029/L-28ab/L-29ab.jpg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/733f2e1f-b0e2-4508-a634-c33879703515/b6b53141-d928-4fab-94b6-b5f37b0da5a7/L-28ab/L-29ab.jpg"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/901967587d5b3e6ae8aa76b7614c1e19519e782b7eb3de275be7ef35001d818c.webp"
       },
       "links": [
@@ -49704,9 +49717,13 @@
         8,
         15,
         23,
+        49,
         111,
+        147,
         234,
-        548
+        548,
+        2680,
+        2682
       ]
     },
     {
@@ -52177,7 +52194,8 @@
         8,
         162,
         369,
-        1795
+        1795,
+        3100
       ]
     },
     {
@@ -85236,7 +85254,8 @@
         361,
         1113,
         1795,
-        2213
+        2213,
+        3225
       ]
     },
     {

@@ -2,19 +2,17 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-waLWTZBNzkz-gQM8TrDTZ89g_n7ay8V-8PTd1UnHuMw\"",
-    "lastModified": "Fri, 30 Oct 2026 16:52:11 GMT",
+    "etag": "\"sha256-ZdkqBjhGn5g2iZXwF-DwWbfMvLIjRp_hXtFmurghGH0\"",
+    "lastModified": "Fri, 30 Oct 2026 18:08:08 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12484,
+    "matchedPieces": 12492,
     "ignoredPieces": 307,
-    "unknownPieces": 4,
-    "unknownSourceFields": 3
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
   "unknownSourceFields": [
-    "Original, Mob Psycho, Alice in Borderland, Your Turn to Die, Ramparts of Ice, Genshin Impact, Uma Musume",
-    "Taylor Swift, Loki, Harry Potter, Spider-Man, The Hunger Games, Seventeen, Valorant, Heated Rivalry, Xdinary Heroes, Lngshot, Cortis, Alice in Borderland",
-    "Wind Breaker, OFF game, ENA, HSR, Genshin, Vocaloid, Knights of Guinevere, Aikatsu, NSO, Tales of, Stardew Valley, Project Hail Mary, Green Yuri, Blue Lock"
+    "Original, Zenless Zone Zero(ZZZ), Blue Archive(BA), Touhou Project, BanG Dream!, MyGO!!!!! Ave Mujica, Yumemita, Millsage, Ikka Dumb Rock, Goddess of Victory Nikke"
   ]
 }

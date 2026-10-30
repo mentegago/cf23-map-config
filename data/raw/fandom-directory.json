@@ -10850,10 +10850,12 @@
       "parentId": null,
       "aliases": [
         "OFF",
-        "Off (game)"
+        "Off (game)",
+        "OFF game"
       ],
       "alternateNames": [
-        "Off (game)"
+        "Off (game)",
+        "OFF game"
       ]
     },
     {
@@ -22318,9 +22320,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Tales of",
         "Tales of Series"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Tales of"
+      ]
     },
     {
       "id": 1389,
@@ -40857,9 +40862,12 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Ramparts of Ice",
         "The Ramparts of Ice"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "Ramparts of Ice"
+      ]
     },
     {
       "id": 3101,
@@ -42129,6 +42137,16 @@
       "parentId": null,
       "aliases": [
         "osu!"
+      ],
+      "alternateNames": []
+    },
+    {
+      "id": 3225,
+      "name": "The Hunger Games",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "The Hunger Games"
       ],
       "alternateNames": []
     }
