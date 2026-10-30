@@ -2,17 +2,19 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-GNYlEkXYe7KhgbXiGFl7CViX7eAhFg9teSvilRZxzA4\"",
-    "lastModified": "Fri, 30 Oct 2026 10:12:04 GMT",
+    "etag": "\"sha256-waLWTZBNzkz-gQM8TrDTZ89g_n7ay8V-8PTd1UnHuMw\"",
+    "lastModified": "Fri, 30 Oct 2026 16:52:11 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12463,
+    "matchedPieces": 12484,
     "ignoredPieces": 307,
-    "unknownPieces": 1,
-    "unknownSourceFields": 1
+    "unknownPieces": 4,
+    "unknownSourceFields": 3
   },
   "unknownSourceFields": [
-    "osu!"
+    "Original, Mob Psycho, Alice in Borderland, Your Turn to Die, Ramparts of Ice, Genshin Impact, Uma Musume",
+    "Taylor Swift, Loki, Harry Potter, Spider-Man, The Hunger Games, Seventeen, Valorant, Heated Rivalry, Xdinary Heroes, Lngshot, Cortis, Alice in Borderland",
+    "Wind Breaker, OFF game, ENA, HSR, Genshin, Vocaloid, Knights of Guinevere, Aikatsu, NSO, Tales of, Stardew Valley, Project Hail Mary, Green Yuri, Blue Lock"
   ]
 }

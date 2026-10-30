@@ -42121,6 +42121,16 @@
         "Unnatural/MIU404/Last Mile"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3224,
+      "name": "osu!",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "osu!"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [

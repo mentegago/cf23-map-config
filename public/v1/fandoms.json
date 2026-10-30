@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-GNYlEkXYe7KhgbXiGFl7CViX7eAhFg9teSvilRZxzA4\"",
-    "lastModified": "Fri, 30 Oct 2026 10:12:04 GMT",
+    "etag": "\"sha256-waLWTZBNzkz-gQM8TrDTZ89g_n7ay8V-8PTd1UnHuMw\"",
+    "lastModified": "Fri, 30 Oct 2026 16:52:11 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -26192,6 +26192,13 @@
     {
       "id": 3223,
       "name": "Last Mile",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3224,
+      "name": "osu!",
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []
