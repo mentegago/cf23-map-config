@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-4d6xo-Db-cY5aT0WYlBp6jqjUMSqaK5HkcVq0Hy17gg\"",
-    "lastModified": "Fri, 30 Oct 2026 01:07:35 GMT",
+    "etag": "\"sha256-GNYlEkXYe7KhgbXiGFl7CViX7eAhFg9teSvilRZxzA4\"",
+    "lastModified": "Fri, 30 Oct 2026 10:12:04 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -5548,7 +5548,8 @@
       "alternateNames": [
         "Girl Last Tour",
         "Girls Last Tour",
-        "girls last tour (shoujo shuumatsu ryokou)"
+        "girls last tour (shoujo shuumatsu ryokou)",
+        "Girls’Last Tour"
       ]
     },
     {
@@ -26126,6 +26127,72 @@
       "id": 3214,
       "name": "PPT",
       "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3215,
+      "name": "Clayface",
+      "kind": "franchise",
+      "parentId": 28,
+      "alternateNames": []
+    },
+    {
+      "id": 3216,
+      "name": "Terrifier",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3217,
+      "name": "angine de poitrine",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3218,
+      "name": "UTDT",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3219,
+      "name": "Clothing",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": [
+        "apparel",
+        "clothes"
+      ]
+    },
+    {
+      "id": 3220,
+      "name": "Bags",
+      "kind": "generic_tag",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3221,
+      "name": "Unnatural",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3222,
+      "name": "MIU404",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3223,
+      "name": "Last Mile",
+      "kind": "franchise",
       "parentId": null,
       "alternateNames": []
     }
