@@ -2,17 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ZdkqBjhGn5g2iZXwF-DwWbfMvLIjRp_hXtFmurghGH0\"",
-    "lastModified": "Fri, 30 Oct 2026 18:08:08 GMT",
+    "etag": "\"sha256-eeJzaX-nd4AyDNUpS6jqOdIi0AuRfhVy5kEUOujWS00\"",
+    "lastModified": "Fri, 30 Oct 2026 22:27:24 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12492,
+    "matchedPieces": 12493,
     "ignoredPieces": 307,
-    "unknownPieces": 1,
-    "unknownSourceFields": 1
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Original, Zenless Zone Zero(ZZZ), Blue Archive(BA), Touhou Project, BanG Dream!, MyGO!!!!! Ave Mujica, Yumemita, Millsage, Ikka Dumb Rock, Goddess of Victory Nikke"
-  ]
+  "unknownSourceFields": []
 }

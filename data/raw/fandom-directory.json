@@ -42149,6 +42149,16 @@
         "The Hunger Games"
       ],
       "alternateNames": []
+    },
+    {
+      "id": 3226,
+      "name": "Yumemita",
+      "kind": "franchise",
+      "parentId": null,
+      "aliases": [
+        "Yumemita"
+      ],
+      "alternateNames": []
     }
   ],
   "ignored": [

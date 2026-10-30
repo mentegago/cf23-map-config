@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-ZdkqBjhGn5g2iZXwF-DwWbfMvLIjRp_hXtFmurghGH0\"",
-    "lastModified": "Fri, 30 Oct 2026 18:08:08 GMT",
+    "etag": "\"sha256-eeJzaX-nd4AyDNUpS6jqOdIi0AuRfhVy5kEUOujWS00\"",
+    "lastModified": "Fri, 30 Oct 2026 22:27:24 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -26211,6 +26211,13 @@
     {
       "id": 3225,
       "name": "The Hunger Games",
+      "kind": "franchise",
+      "parentId": null,
+      "alternateNames": []
+    },
+    {
+      "id": 3226,
+      "name": "Yumemita",
       "kind": "franchise",
       "parentId": null,
       "alternateNames": []
