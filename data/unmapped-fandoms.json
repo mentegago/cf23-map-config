@@ -2,17 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-AIZX_RpuulzrfKtwBJ8gjKJ9EM3OrJA-S2UQz8B-4iI\"",
-    "lastModified": "Sat, 31 Oct 2026 17:55:58 GMT",
+    "etag": "\"sha256-jI7Kzx94_sND3hrYGbdfy2lEp04VXEVzZkUrAqv4slY\"",
+    "lastModified": "Sat, 31 Oct 2026 19:22:39 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12518,
+    "matchedPieces": 12519,
     "ignoredPieces": 306,
-    "unknownPieces": 1,
-    "unknownSourceFields": 1
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "Radiohead - bands - pjsk - pmmm - ⁠the beatles - ⁠resident evil - ⁠final fantasy - ⁠fire emblem - south park - Arctic Monkeys  - Blur - Oasis - Gorillaz - Okegom funamusea mogeko - Genshin impact (Stell4r)"
-  ]
+  "unknownSourceFields": []
 }
