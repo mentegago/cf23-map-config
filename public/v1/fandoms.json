@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-fWDedB1N1Kn8AlIUdAvYAeLMSELCIFcJLpzPHwI9dvM\"",
-    "lastModified": "Sat, 31 Oct 2026 12:43:45 GMT",
+    "etag": "\"sha256-AIZX_RpuulzrfKtwBJ8gjKJ9EM3OrJA-S2UQz8B-4iI\"",
+    "lastModified": "Sat, 31 Oct 2026 17:55:58 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -4316,8 +4316,10 @@
       "kind": "franchise",
       "parentId": null,
       "alternateNames": [
+        "Poppy",
         "Poppy Play Time",
-        "Poppy's Playtime"
+        "Poppy's Playtime",
+        "PPT"
       ]
     },
     {
@@ -15221,13 +15223,6 @@
       ]
     },
     {
-      "id": 1712,
-      "name": "Poppy",
-      "kind": "individual",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
       "id": 1713,
       "name": "Mads Mikkelsen",
       "kind": "individual",
@@ -24023,7 +24018,9 @@
       "name": "Gyaru",
       "kind": "generic_tag",
       "parentId": null,
-      "alternateNames": []
+      "alternateNames": [
+        "GAL"
+      ]
     },
     {
       "id": 2915,
@@ -26107,13 +26104,6 @@
       ]
     },
     {
-      "id": 3211,
-      "name": "GAL",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": []
-    },
-    {
       "id": 3212,
       "name": "Peaky Blinders",
       "kind": "franchise",
@@ -26128,13 +26118,6 @@
       "alternateNames": [
         "fumetsu no anata e"
       ]
-    },
-    {
-      "id": 3214,
-      "name": "PPT",
-      "kind": "generic_tag",
-      "parentId": null,
-      "alternateNames": []
     },
     {
       "id": 3215,
@@ -26152,7 +26135,7 @@
     },
     {
       "id": 3217,
-      "name": "angine de poitrine",
+      "name": "Angine de Poitrine",
       "kind": "generic_tag",
       "parentId": null,
       "alternateNames": []
@@ -26206,7 +26189,7 @@
       "id": 3224,
       "name": "osu!",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 271,
       "alternateNames": []
     },
     {
@@ -26220,7 +26203,7 @@
       "id": 3226,
       "name": "Yumemita",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 111,
       "alternateNames": []
     }
   ]

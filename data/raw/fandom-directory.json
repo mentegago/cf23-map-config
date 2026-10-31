@@ -9029,13 +9029,17 @@
       "kind": "franchise",
       "parentId": null,
       "aliases": [
+        "Poppy",
         "Poppy Play Time",
         "Poppy Playtime",
-        "Poppy's Playtime"
+        "Poppy's Playtime",
+        "PPT"
       ],
       "alternateNames": [
+        "Poppy",
         "Poppy Play Time",
-        "Poppy's Playtime"
+        "Poppy's Playtime",
+        "PPT"
       ]
     },
     {
@@ -26002,16 +26006,6 @@
       ]
     },
     {
-      "id": 1712,
-      "name": "Poppy",
-      "kind": "individual",
-      "parentId": null,
-      "aliases": [
-        "Poppy"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 1713,
       "name": "Mads Mikkelsen",
       "kind": "individual",
@@ -38955,9 +38949,12 @@
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
+        "GAL",
         "Gyaru"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "GAL"
+      ]
     },
     {
       "id": 2915,
@@ -41991,16 +41988,6 @@
       ]
     },
     {
-      "id": 3211,
-      "name": "GAL",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "GAL"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 3212,
       "name": "Peaky Blinders",
       "kind": "franchise",
@@ -42024,16 +42011,6 @@
       ]
     },
     {
-      "id": 3214,
-      "name": "PPT",
-      "kind": "generic_tag",
-      "parentId": null,
-      "aliases": [
-        "PPT"
-      ],
-      "alternateNames": []
-    },
-    {
       "id": 3215,
       "name": "Clayface",
       "kind": "franchise",
@@ -42055,7 +42032,7 @@
     },
     {
       "id": 3217,
-      "name": "angine de poitrine",
+      "name": "Angine de Poitrine",
       "kind": "generic_tag",
       "parentId": null,
       "aliases": [
@@ -42136,7 +42113,7 @@
       "id": 3224,
       "name": "osu!",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 271,
       "aliases": [
         "osu!"
       ],
@@ -42156,7 +42133,7 @@
       "id": 3226,
       "name": "Yumemita",
       "kind": "franchise",
-      "parentId": null,
+      "parentId": 111,
       "aliases": [
         "Yumemita"
       ],
