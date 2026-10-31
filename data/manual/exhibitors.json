@@ -537,5 +537,140 @@
     ],
     "catalogUrl": null,
     "sourceUrls": []
+  },
+  {
+    "id": "1001971",
+    "name": "Project SEKAI Indonesia",
+    "category": "community",
+    "spaces": [
+      {
+        "code": "COM-12",
+        "type": "community"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "Project SEKAI"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001971/circle-cut-a3ffd5d77abe.webp",
+      "gallery": [
+        "images/exhibitors/1001971/announcement-a697609b15c9.webp",
+        "images/exhibitors/1001971/announcement-274e84588dcc.webp",
+        "images/exhibitors/1001971/announcement-ecde9ae552b3.webp",
+        "images/exhibitors/1001971/announcement-a418b7cf3bf6.webp",
+        "images/exhibitors/1001971/announcement-d06f391be846.webp",
+        "images/exhibitors/1001971/announcement-15987685088d.webp",
+        "images/exhibitors/1001971/announcement-660cdf249c76.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/pjsekai_id/"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": []
+  },
+  {
+    "id": "1001972",
+    "name": "Kyou Hobby Shop",
+    "category": "corporate",
+    "spaces": [
+      {
+        "code": "1206",
+        "type": "corporate"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "Honkai: Star Rail",
+      "Genshin Impact",
+      "Blue Archive",
+      "hololive",
+      "Arknights",
+      "Zenless Zone Zero",
+      "Vocaloid",
+      "Wuthering Waves",
+      "Uma Musume Pretty Derby",
+      "NEEDY STREAMER OVERLOAD",
+      "Arknights: Endfield"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001972/circle-cut-fb7913d8c611.webp",
+      "gallery": [
+        "images/exhibitors/1001972/announcement-c6263d336fef.webp",
+        "images/exhibitors/1001972/announcement-e244b059a976.webp",
+        "images/exhibitors/1001972/announcement-6d2a243b532b.webp",
+        "images/exhibitors/1001972/announcement-ba30c24e6b6b.webp",
+        "images/exhibitors/1001972/announcement-c41f12d8ca98.webp",
+        "images/exhibitors/1001972/announcement-340c6bc29af3.webp",
+        "images/exhibitors/1001972/announcement-9a39ac1abca7.webp",
+        "images/exhibitors/1001972/announcement-39900044a2ba.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/kyouhobbyshop/"
+      },
+      {
+        "type": "website",
+        "url": "https://kyou.id/cf23"
+      }
+    ],
+    "catalogUrl": "https://kyou.id/cf23",
+    "sourceUrls": []
+  },
+  {
+    "id": "1001973",
+    "name": "Arknights: Endfield Indonesia Community",
+    "category": "community",
+    "spaces": [
+      {
+        "code": "COM-09",
+        "type": "community"
+      }
+    ],
+    "attendanceDates": [
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "contentRating": null,
+    "fandoms": [
+      "Arknights: Endfield"
+    ],
+    "offerings": [],
+    "assets": {
+      "thumbnail": "images/exhibitors/1001973/circle-cut-f1088d99501d.webp",
+      "gallery": [
+        "images/exhibitors/1001973/announcement-5fc83ccafcb0.webp",
+        "images/exhibitors/1001973/announcement-f7c30268feef.webp",
+        "images/exhibitors/1001973/announcement-f1cba77cece6.webp",
+        "images/exhibitors/1001973/announcement-7ac912b88535.webp",
+        "images/exhibitors/1001973/announcement-c9b592c39a9e.webp",
+        "images/exhibitors/1001973/announcement-28b7da3ac61d.webp",
+        "images/exhibitors/1001973/announcement-03ce3358b34b.webp"
+      ]
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/endfield.gg/"
+      }
+    ],
+    "catalogUrl": null,
+    "sourceUrls": []
   }
 ]

@@ -13728,6 +13728,21 @@
       "source": "https://cf23-config.nnt.gg/images/exhibitors/1001970/circle-cut-615b5c8b6f1d.webp",
       "digest": "615b5c8b6f1d8db95aad7fc40cd76a29909a92fc4ed817e59bf40a58d5b47621",
       "file": "images/icons/a4c688c55fc5ad3c8fd702535dbd5428ba4a616223135164076d2d450e7c0a7c.webp"
+    },
+    "1001971": {
+      "source": "https://cf23-config.nnt.gg/images/exhibitors/1001971/circle-cut-a3ffd5d77abe.webp",
+      "digest": "a3ffd5d77abe89da7492b390282a548046dcc6a63b14aeac3f13ab0e402c9ce5",
+      "file": "images/icons/cea0cb51b86f10cfbd1bbd8e53269996e5cef6b0cb597dd704d5c140c6361136.webp"
+    },
+    "1001972": {
+      "source": "https://cf23-config.nnt.gg/images/exhibitors/1001972/circle-cut-fb7913d8c611.webp",
+      "digest": "fb7913d8c611e714e95e4a5e4cfc9f04722afd18a4c904552428adece992f732",
+      "file": "images/icons/268776219f9d918c16d076745d752733a1bbeef90607c1c852d114477fc4e82c.webp"
+    },
+    "1001973": {
+      "source": "https://cf23-config.nnt.gg/images/exhibitors/1001973/circle-cut-f1088d99501d.webp",
+      "digest": "f1088d99501d075a0242034027e6463887e5d3e9fc2695dfcaf661e263d81c85",
+      "file": "images/icons/aecc4858d7bb7807a5d30acb957a058f4c4368cdbd76aa19a5b584ec4c1269a4.webp"
     }
   }
 }

@@ -32,7 +32,7 @@
     ]
   },
   "stats": {
-    "exhibitors": 1970,
+    "exhibitors": 1973,
     "fandomsReferenced": 1774
   },
   "exhibitors": [
@@ -98495,6 +98495,144 @@
       "sourceUrls": [],
       "fandomIds": [
         3224
+      ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001971",
+      "name": "Project SEKAI Indonesia",
+      "category": "community",
+      "spaces": [
+        {
+          "code": "COM-12",
+          "type": "community"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001971/circle-cut-a3ffd5d77abe.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-a697609b15c9.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-274e84588dcc.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-ecde9ae552b3.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-a418b7cf3bf6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-d06f391be846.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-15987685088d.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001971/announcement-660cdf249c76.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/cea0cb51b86f10cfbd1bbd8e53269996e5cef6b0cb597dd704d5c140c6361136.webp"
+      },
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/pjsekai_id/"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": [
+        1677
+      ]
+    },
+    {
+      "catalogUrl": "https://kyou.id/cf23",
+      "id": "1001972",
+      "name": "Kyou Hobby Shop",
+      "category": "corporate",
+      "spaces": [
+        {
+          "code": "1206",
+          "type": "corporate"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001972/circle-cut-fb7913d8c611.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-c6263d336fef.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-e244b059a976.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-6d2a243b532b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-ba30c24e6b6b.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-c41f12d8ca98.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-340c6bc29af3.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-9a39ac1abca7.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001972/announcement-39900044a2ba.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/268776219f9d918c16d076745d752733a1bbeef90607c1c852d114477fc4e82c.webp"
+      },
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/kyouhobbyshop/"
+        },
+        {
+          "type": "website",
+          "url": "https://kyou.id/cf23"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": [
+        2,
+        3,
+        5,
+        8,
+        10,
+        12,
+        15,
+        22,
+        23,
+        43,
+        73
+      ]
+    },
+    {
+      "catalogUrl": null,
+      "id": "1001973",
+      "name": "Arknights: Endfield Indonesia Community",
+      "category": "community",
+      "spaces": [
+        {
+          "code": "COM-09",
+          "type": "community"
+        }
+      ],
+      "attendanceDates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "contentRating": null,
+      "offerings": [],
+      "assets": {
+        "thumbnail": "https://cf23-config.nnt.gg/images/exhibitors/1001973/circle-cut-f1088d99501d.webp",
+        "gallery": [
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-5fc83ccafcb0.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-f7c30268feef.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-f1cba77cece6.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-7ac912b88535.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-c9b592c39a9e.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-28b7da3ac61d.webp",
+          "https://cf23-config.nnt.gg/images/exhibitors/1001973/announcement-03ce3358b34b.webp"
+        ],
+        "icon": "https://cf23-config.nnt.gg/images/icons/aecc4858d7bb7807a5d30acb957a058f4c4368cdbd76aa19a5b584ec4c1269a4.webp"
+      },
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/endfield.gg/"
+        }
+      ],
+      "sourceUrls": [],
+      "fandomIds": [
+        43
       ]
     }
   ]
