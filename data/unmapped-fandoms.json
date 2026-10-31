@@ -7,10 +7,12 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12511,
+    "matchedPieces": 12508,
     "ignoredPieces": 307,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "My Little Pony, The Amazing Digital Circus, Cats, Creepy Pasta"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://catalog.comifuro.net",
-  "downloadedAt": "2026-10-31T05:53:44.104Z",
+  "downloadedAt": "2026-10-31T12:43:24.750Z",
   "recordCount": 1957,
   "circles": [
     {
@@ -39067,9 +39067,11 @@
       "other_fandom": "Deadlock, OC",
       "rating": "PG",
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/2c0fd3a8-dfc4-45e6-8858-d4fac721b865/M-53b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/260e5db0-f698-4a1d-b33f-cee145fe2bb8/M-53b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/09c9b48f-c9c9-41a9-bd21-c3631088c536/M-53b (SUN).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/92d11969-beec-4ae3-a4da-1977413a9b38/M-53b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/a279ebdd-d643-4aca-a651-75b6e627b1ee/M-53b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/2015c77d-2ef9-4df9-a4d1-955b7785f96b/M-53b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/6869dc87-fdff-403a-9788-7fdbfa37186a/M-53b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/6442248a-f6ce-4dd9-9350-ed2e0a427613/M-53b (SUN).png"
       ],
       "day": "SUN",
       "SellsHandmadeCrafts": false,
@@ -54998,9 +55000,14 @@
       "circle_other_socials": "",
       "marketplace_link": null,
       "fandom": "My Little Pony",
-      "other_fandom": "Equestria Girls,The Amazing Digital Circus, V Tuber, Creepypasta, Battle cats, Minecraft",
+      "other_fandom": "My Little Pony, The Amazing Digital Circus, Cats, Creepy Pasta",
       "rating": "PG",
-      "sampleworks_images": null,
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f8efa587-f404-4ddb-a6b6-11f8472f09ca/474be7c5-8988-4491-94f2-4303124e6bf6/T-18ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f8efa587-f404-4ddb-a6b6-11f8472f09ca/39dcfdec-9fcb-4b45-bdd4-955e22258e22/T-18ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f8efa587-f404-4ddb-a6b6-11f8472f09ca/be50ebab-f9ce-4793-8be5-20a37ae95980/T-18ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/f8efa587-f404-4ddb-a6b6-11f8472f09ca/6fbc0b51-6c3c-465f-91bf-f3efe0ce6d49/T-18ab (SUN).png"
+      ],
       "day": "SUN",
       "SellsHandmadeCrafts": false,
       "SellsMagazine": false,
