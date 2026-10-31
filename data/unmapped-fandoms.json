@@ -2,17 +2,15 @@
   "schemaVersion": 1,
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-eeJzaX-nd4AyDNUpS6jqOdIi0AuRfhVy5kEUOujWS00\"",
-    "lastModified": "Fri, 30 Oct 2026 22:27:24 GMT",
+    "etag": "\"sha256-fWDedB1N1Kn8AlIUdAvYAeLMSELCIFcJLpzPHwI9dvM\"",
+    "lastModified": "Sat, 31 Oct 2026 12:43:45 GMT",
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12508,
+    "matchedPieces": 12509,
     "ignoredPieces": 307,
-    "unknownPieces": 1,
-    "unknownSourceFields": 1
+    "unknownPieces": 0,
+    "unknownSourceFields": 0
   },
-  "unknownSourceFields": [
-    "My Little Pony, The Amazing Digital Circus, Cats, Creepy Pasta"
-  ]
+  "unknownSourceFields": []
 }
