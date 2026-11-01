@@ -7,10 +7,12 @@
     "schemaVersion": "5"
   },
   "stats": {
-    "matchedPieces": 12519,
+    "matchedPieces": 12509,
     "ignoredPieces": 306,
-    "unknownPieces": 0,
-    "unknownSourceFields": 0
+    "unknownPieces": 1,
+    "unknownSourceFields": 1
   },
-  "unknownSourceFields": []
+  "unknownSourceFields": [
+    "JJK, Hoyoverse, JJBA, Animal Hospital, COD, LADS."
+  ]
 }

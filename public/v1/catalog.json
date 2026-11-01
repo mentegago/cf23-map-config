@@ -3,7 +3,7 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-10-31T19:21:45.189Z"
+      "downloadedAt": "2026-11-01T00:11:19.556Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
@@ -33,7 +33,7 @@
   },
   "stats": {
     "exhibitors": 1973,
-    "fandomsReferenced": 1767
+    "fandomsReferenced": 1765
   },
   "exhibitors": [
     {
@@ -38171,7 +38171,14 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/EGGXELLENT.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/9bdfbc3d-2f81-44e7-a9ed-9bf9e7c7adf6/I-02a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/23d5d06a-1b08-4926-bba9-064922365806/I-02a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/a67379df-f18a-4391-8032-cf43f5fc6f19/I-02a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/faa56c2b-c280-4b17-8298-6d0f5c825459/I-02a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/8b55023f-d58b-4da5-9bdd-93be3ab68df0/I-02a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/aea6ccd5-87d3-4eb7-ac24-709fa966ea8e/2ee84c52-6de8-4c61-a095-83d9bbf7b347/I-02a (SUN).png"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/3ac67f662fe199b0c899273af79860dec1e808d7c971dd0e8201df171f78f38e.webp"
       },
       "links": [
@@ -38185,9 +38192,11 @@
         }
       ],
       "fandomIds": [
-        1,
         7,
-        9
+        9,
+        86,
+        128,
+        2539
       ]
     },
     {
@@ -87581,50 +87590,15 @@
         "2026-11-01"
       ],
       "contentRating": "GA",
-      "offerings": [
-        "goods",
-        "handmade_crafts"
-      ],
+      "offerings": [],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Zoo-na Main.jpg",
-        "gallery": [
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/cb0cc873-2c7b-45ae-a45c-ecc8b216e2dd/V-36a.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/96bb185d-5d9d-4e70-962a-fc70447b4c6a/V-36a.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/3b769f2c-967d-49f6-afb6-85ade48cc39a/V-36a.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/a8abf5cf-3126-4470-82d0-0f5510c84eb5/V-36a.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/bbb1da6b-e5fb-40e4-b325-2eee597c6666/V-36a.jpg",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/bae61928-5ec4-4011-a999-5e09d7bb8b27/34fd14ea-5062-4ad1-9292-3a14ff02370f/V-36a.jpg"
-        ],
+        "gallery": [],
         "icon": "https://cf23-config.nnt.gg/images/icons/01705c667ccca5765fab3842d7ffcfc0e55c59e30bf2b1101acbe9b710e47360.webp"
       },
-      "links": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/kitsunetrash13"
-        },
-        {
-          "type": "twitter",
-          "url": "https://x.com/kitsunetrash13"
-        },
-        {
-          "type": "other",
-          "url": "https://vgen.co/Kitsunetrash13"
-        }
-      ],
+      "links": [],
       "fandomIds": [
-        2,
-        4,
-        14,
-        18,
-        37,
-        107,
-        121,
-        263,
-        792,
-        958,
-        1026,
-        3156,
-        3157
+        14
       ]
     },
     {
