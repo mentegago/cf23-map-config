@@ -3,12 +3,12 @@
   "sources": {
     "catalog": {
       "url": "https://catalog.comifuro.net",
-      "downloadedAt": "2026-11-01T00:11:19.556Z"
+      "downloadedAt": "2026-11-01T06:19:02.270Z"
     },
     "fandomDirectory": {
       "url": "https://fandom.directory/api/fandoms.json",
-      "etag": "\"sha256-jI7Kzx94_sND3hrYGbdfy2lEp04VXEVzZkUrAqv4slY\"",
-      "lastModified": "Sat, 31 Oct 2026 19:22:39 GMT",
+      "etag": "\"sha256-XYbrKaNTFP6AF6OrsZDIf_IlH-t16oi6bCYsDtQ5WyM\"",
+      "lastModified": "Sun, 01 Nov 2026 00:11:38 GMT",
       "schemaVersion": "5"
     }
   },
@@ -21037,7 +21037,9 @@
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Xycariven.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/6cbeb3e3-1cb8-4026-b043-d8832d1b95d6/315eec31-e206-4eb5-a60c-ba50687412b3/C-25b.png"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/f522e7357ba4f52dd3a469055254983396a683fce3b782d5de0ca80991838f3b.webp"
       },
       "links": [
@@ -38192,6 +38194,7 @@
         }
       ],
       "fandomIds": [
+        4,
         7,
         9,
         86,
@@ -51114,12 +51117,17 @@
       ],
       "contentRating": "GA",
       "offerings": [
-        "comic",
         "goods"
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Aidorusona.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ebafa65a-73b8-4ca4-9471-6ea8fc226bae/0e5aaa31-80ff-48aa-a282-2f994a0cdf59/L-50a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ebafa65a-73b8-4ca4-9471-6ea8fc226bae/0169be80-339e-4e12-b904-44f33316bb0e/L-50a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ebafa65a-73b8-4ca4-9471-6ea8fc226bae/87f5ad28-b07b-4a3a-94cf-9ea75f13deb9/L-50a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ebafa65a-73b8-4ca4-9471-6ea8fc226bae/3a3ea135-0a7b-445f-8bd6-73eb5363d4cc/L-50a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/ebafa65a-73b8-4ca4-9471-6ea8fc226bae/ad23fde0-d79c-489e-a953-cc90c06f956b/L-50a (SUN).png"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/75a39519fcb9aa0ba217c9b1fa0ac1276874a906990be120584ef73f811e3d06.webp"
       },
       "links": [
@@ -51133,7 +51141,6 @@
         }
       ],
       "fandomIds": [
-        29,
         131,
         367,
         2543
@@ -54137,13 +54144,22 @@
       "contentRating": "GA",
       "offerings": [
         "commission",
-        "comic",
         "goods",
         "handmade_crafts"
       ],
       "assets": {
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Gummy Dummy.jpg",
-        "gallery": [],
+        "gallery": [
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/fb81d4ce-ac7e-48af-bff0-a81efc5c3eee/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/fa6c61da-29f9-482d-8ca2-b3410249bf98/M-38a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/f5f4606c-b65b-4865-9229-22dc181ef6a7/M-38a (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/f86c9772-0efc-43f9-af88-ce9ef4174e4b/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/c0fd432a-a046-4254-b6c6-225db2a059d8/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/7cf207d4-b18b-4667-8a92-07bc5ffef990/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/34d5f67d-cc10-473d-b7af-4b5f303520c6/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/95849aaa-ab69-4fe8-adc1-edd722c23e95/M-38a (SUN).jpeg",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/1de6759f-d366-47a4-a542-ba6ab9795073/e93555a6-5761-48c7-8a15-b9f74748b12e/M-38a (SUN).jpeg"
+        ],
         "icon": "https://cf23-config.nnt.gg/images/icons/0f05d67b1bffe9db225ae619abefbe281a9a9ef8b547470aa05aaf8c16e0cabf.webp"
       },
       "links": [
@@ -54154,15 +54170,17 @@
       ],
       "fandomIds": [
         2,
-        4,
+        6,
         13,
         19,
         20,
         42,
         45,
+        56,
         162,
-        190,
-        328
+        328,
+        434,
+        1677
       ]
     },
     {
@@ -55235,8 +55253,8 @@
         "thumbnail": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-23/Bramana.jpg",
         "gallery": [
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/92d11969-beec-4ae3-a4da-1977413a9b38/M-53b (SUN).png",
-          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/a279ebdd-d643-4aca-a651-75b6e627b1ee/M-53b (SUN).png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/2015c77d-2ef9-4df9-a4d1-955b7785f96b/M-53b (SUN).png",
+          "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/a279ebdd-d643-4aca-a651-75b6e627b1ee/M-53b (SUN).png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/6869dc87-fdff-403a-9788-7fdbfa37186a/M-53b (SUN).png",
           "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-23/a178d4ec-ba50-4488-95ed-2d8ef767581a/6442248a-f6ce-4dd9-9350-ed2e0a427613/M-53b (SUN).png"
         ],
@@ -77351,8 +77369,12 @@
         }
       ],
       "fandomIds": [
-        2,
         3,
+        4,
+        5,
+        6,
+        24,
+        96,
         1080,
         2485
       ]

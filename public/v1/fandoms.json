@@ -2,8 +2,8 @@
   "schemaVersion": "1.0.0",
   "source": {
     "url": "https://fandom.directory/api/fandoms.json",
-    "etag": "\"sha256-jI7Kzx94_sND3hrYGbdfy2lEp04VXEVzZkUrAqv4slY\"",
-    "lastModified": "Sat, 31 Oct 2026 19:22:39 GMT",
+    "etag": "\"sha256-XYbrKaNTFP6AF6OrsZDIf_IlH-t16oi6bCYsDtQ5WyM\"",
+    "lastModified": "Sun, 01 Nov 2026 00:11:38 GMT",
     "schemaVersion": "5"
   },
   "fandoms": [
@@ -181,6 +181,7 @@
         "LADS",
         "Lads ( Love And Deepspace )",
         "LADS Love and Deepspace",
+        "LADS.",
         "LnD",
         "LnD.",
         "Love & DeepSpace",
