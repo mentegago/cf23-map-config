@@ -1,9 +1,6 @@
 name: Full data refresh
 
 on:
-  schedule:
-    # Catalog + fandom registry + mapping + submissions. GitHub cron uses UTC.
-    - cron: "23 */3 * * *"
   workflow_dispatch: {}
 
 permissions:

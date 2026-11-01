@@ -1,9 +1,6 @@
 name: Refresh fandom mapping
 
 on:
-  schedule:
-    # Every six hours, offset from the full refresh. GitHub cron uses UTC.
-    - cron: "53 1,7,13,19 * * *"
   workflow_dispatch: {}
 
 permissions:
