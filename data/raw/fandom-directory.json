@@ -948,6 +948,7 @@
         "Jujutsu Kaisen.",
         "Jujutsu Kaisen. Sakamoto Days",
         "Jujutsu Kaisen/JJK",
+        "jujutsu kaiser",
         "Jujutsu Kaizen",
         "Jujutsu Keisen",
         "Jujutsu no Kaisen",
@@ -977,6 +978,7 @@
         "Jujutsu Kaisen (Toji)",
         "Jujutsu Kaisen JJK",
         "Jujutsu Kaisen.",
+        "jujutsu kaiser",
         "Jujutsu Kaizen",
         "Jujutsu Keisen",
         "Jujutsu no Kaisen",
@@ -31121,9 +31123,12 @@
       "parentId": 173,
       "aliases": [
         "K/DA",
-        "K/DA (League of Legends)"
+        "K/DA (League of Legends)",
+        "KDA"
       ],
-      "alternateNames": []
+      "alternateNames": [
+        "KDA"
+      ]
     },
     {
       "id": 2187,
